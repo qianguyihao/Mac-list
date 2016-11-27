@@ -76,10 +76,18 @@ GTD时间管理软件。付费软件。Mac版：标准版39.99美元，pro版79.
 
 
 
+## Markdown 软件
 
 ### Ulysses
 
-为写作而生。很贵的软件，我在App Store买的时候，花了283元。如果你是写作的重度用户，那么推荐购买。
+为写作而生。很贵的软件，我在App Store买的时候，花了283元。如果你是写作的重度用户，那么推荐购买。官网链接：
+
+
+### MacDown
+
+官网链接：<http://macdown.uranusjr.com/>
+
+
 
 
 
@@ -110,9 +118,10 @@ GTD时间管理软件。付费软件。Mac版：标准版39.99美元，pro版79.
 
 - Git版本管理
 
+- 欧陆词典
 
 
-## 开发类软件
+## Android开发相关
 
 
 
@@ -127,15 +136,76 @@ GTD时间管理软件。付费软件。Mac版：标准版39.99美元，pro版79.
 jdk  1.7下载地址：<http://www.oracle.com/technetwork/cn/java/javase/downloads/jdk7-downloads-1880260.html>
 
 
+打开下载的DMG文件，双击包中的PKG文件进行安装。打开<终端>，输入 java -version，查看安装版本。
+
+最新安装的1.7的JDK的默认安装目录为：`/Library/Java/JavaVirtualMachines`。
+
+系统自带的JDK在以下路径中：`/System/Libray/Frameworks/JavaVM.Framwork/`，在这个目录下有个Versions目录，里面有不同版本的jdk。
+
+我在Android Studio 中设置JDK路径的时候，默认出现了下面这个路径：
+
+img2016112401.png
+
+那就选择默认的这个吧，如果我手动指定jdk的路径，会报错：`[please use jdk8 or newer](http://stackoverflow.com/questions/37335214/android-studio-2-2-preview-1-error-please-use-jdk-8-or-newer)`。如下图所示：
+
+img2016112402.png
+
+
+
 参考链接：
 
 - [Mac OS X 中安装JDK 7](http://www.cnblogs.com/weiok/p/4917522.html)
+
+
 
 
 - [Mac设置指南](https://www.kancloud.cn/kancloud/ocds-guide-to-setting-up-mac/71035)
 
 
 - []()
+
+
+### Android SDK 中adb的环境变量配置
+
+```bash
+cd ~ //进入用户的根目录
+touch .bash_profile // 如果没有，则新建文件；如果有，则更新文件时间
+open -e .bash_profile // 打开文件
+```
+
+然后在打开的文件中加入下面的内容：
+
+```bash
+export PATH=$PATH:/Users/smyhvae/Dev/Android/adt-bundle-mac-x86_64/sdk/platform-tools
+```
+
+最后输入如下命令：（使用刚才更新之后的内容）
+
+```bash
+source .bash_profile
+```
+
+部分命令解释：
+open .bash_profile：打开文件
+touch .bash_profile：如果没有，则创建文件；如果有，更新一下文件时间.
+open -e bash_profile：编辑文件
+
+
+参考链接：
+
+- [mac下环境变量的配置（以android adb为例）](http://www.jianshu.com/p/618d55a79832)
+
+
+
+### ADT相关
+
+下载好ADT之后，打开eclipse.app，提示：`您需要安装旧java SE 6 运行环境才能打开Eclipse.app`。
+
+办法是，安装其他版本的JDK，然后修改IDE的指向。修改方式为：
+打开应用的.app包，然后在Contents这个目录下，有个文件info.plist，修改JVMVersion这个key对应的value，从1.6*修改为你安装的版本即可。
+
+
+
 
 
 
