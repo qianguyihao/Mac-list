@@ -76,6 +76,8 @@ GTD时间管理软件。付费软件。Mac版：标准版39.99美元，pro版79.
 
 
 
+
+
 ## Markdown 软件
 
 ### Ulysses
@@ -116,19 +118,26 @@ GTD时间管理软件。付费软件。Mac版：标准版39.99美元，pro版79.
 
 - 网易云音乐
 
-- Git版本管理
+
 
 - 欧陆词典
 
 
-## Android开发相关
+## 开发相关
 
 
 
 
 ### Xcode
 
-这个要在App Store 上安装。
+苹果官网推出的IDE，程序猿必备。从App Store 上下载安装即可。
+
+
+
+
+### Git安装
+
+在App Store下载安装Xcode后，会自动安装上Git。安装好之后，在终端输入`git --version`进行验证。
 
 
 ### jdk
@@ -185,6 +194,9 @@ export PATH=$PATH:/Users/smyhvae/Dev/Android/adt-bundle-mac-x86_64/sdk/platform-
 source .bash_profile
 ```
 
+此时，adb环境就配置好了。在终端输入`adb`即可进行检验。
+
+
 部分命令解释：
 open .bash_profile：打开文件
 touch .bash_profile：如果没有，则创建文件；如果有，更新一下文件时间.
@@ -199,13 +211,40 @@ open -e bash_profile：编辑文件
 
 ### ADT相关
 
-下载好ADT之后，打开eclipse.app，提示：`您需要安装旧java SE 6 运行环境才能打开Eclipse.app`。
+从官网下载好ADT Bundle之后，打开eclipse.app，提示：`您需要安装旧java SE 6 运行环境才能打开Eclipse.app`。
 
-办法是，安装其他版本的JDK，然后修改IDE的指向。修改方式为：
-打开应用的.app包，然后在Contents这个目录下，有个文件info.plist，修改JVMVersion这个key对应的value，从1.6*修改为你安装的版本即可。
+解决办法：打开/Library/Java/JavaVirtualMachines/jdkXXXXX.jdk/Contents/Info.plist 按照如下配置JVMCapabilities中的部分，然后重启计算机。
+
+更改前：
+
+```xml
+                <key>JVMCapabilities</key>
+                <array>
+                        <string>CommandLine</string>
+                </array>
+```
+
+
+更改后：
+
+```xml
+                <key>JVMCapabilities</key>  
+                <array>  
+                        　　<string>JNI</string>  
+                        　　<string>BundledApp</string>  
+                        　　<string>WebStart</string>  
+                        　　<string>Applets</string>  
+                        　　<string>CommandLine</string>  
+                </array> 
+```
+
+重启计算机后，重新打开eclipse.app，提示：“打不开Eclipse.app，因为它来自身分不明的开发者。”解决办法：按住control键的同时打开eclipse.app即可。
 
 
 
+参考链接：
+
+- [](http://www.cnblogs.com/zhouyinhui/p/3751389.html)
 
 
 
