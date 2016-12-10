@@ -209,7 +209,7 @@ open -e bash_profile：编辑文件
 
 ### ADT相关
 
-**方法一：**ADT Bundle（不推荐）
+**1、方法一：**ADT Bundle（不推荐）
 
 
 从官网下载好[ADT Bundle](https://dl.google.com/android/adt/adt-bundle-mac-x86_64-20140702.zip)之后，打开eclipse.app，提示：`您需要安装旧java SE 6 运行环境才能打开Eclipse.app`。在当前画面点击「查看更多」，会自动跳到apple官网链接，下载对应版本的jdk 1.6进行安装即可。
@@ -222,7 +222,7 @@ open -e bash_profile：编辑文件
 - [](http://www.cnblogs.com/zhouyinhui/p/3751389.html)
 
 
-**方法二：**Eclipse for android（不推荐）
+**2、方法二：**Eclipse for android（不推荐）
 
 Mac下adt-bundle不太好用.其实Eclipse官网本身提供了与Android集成的Eclipse版本，使用了下相当不错，大家可以试试,下载地址：<http://www.eclipse.org/downloads/eclipse-packages/>
 
@@ -239,14 +239,14 @@ Mac下adt-bundle不太好用.其实Eclipse官网本身提供了与Android集成�
 
 
 
-**方法三：在Eclipse中离线安装ADT插件**（推荐）
+**3、方法三：在Eclipse中离线安装ADT插件**（推荐）
 
 相关版本信息：
 
 - MacOS版本：10.12.1
-- jdk版本：jdk-8u77-macosx-x64.dmg
-- 「Eclipse IDE for java Developers」版本: Mars.2 Release (4.5.2)
-- ADT-23.0.2.zip
+- jdk版本：[jdk-8u112-macosx-x64.dmg](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+- 「Eclipse IDE for java Developers」版本: Mars.2 Release ([4.5.2](http://archive.eclipse.org/eclipse/downloads/))
+- ADT插件的版本：[ADT-23.0.2.zip](https://downloads.puresoftware.org/files/android/ADT/)
 
 
 下载历史版本的celipse 4.5.2。下载链接：<http://archive.eclipse.org/eclipse/downloads/>。然后，离线安装ADT。**离线安装ADT插件的步骤如下：**
