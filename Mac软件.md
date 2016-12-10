@@ -268,7 +268,7 @@ Mac下adt-bundle不太好用.其实Eclipse官网本身提供了与Android集成�
 
 之后，关掉Eclipse，新建一个workspace，然后就可以新建一个新的Android projct了。
 
-这里注意：一定不要升级android sdk tools（23.0.2） 和android sdk platform－tools(20)，因为有可能会出现环境错误。20161207_1955.png
+这里注意：一定不要升级android sdk tools（23.0.2即可） 和android sdk platform－tools(20即可)，因为有可能会出现环境错误。20161207_1955.png
 
 
 
