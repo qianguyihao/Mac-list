@@ -166,12 +166,10 @@ img2016112402.png
 - [Mac OS X 中安装JDK 7](http://www.cnblogs.com/weiok/p/4917522.html)
 
 
-
-
 - [Mac设置指南](https://www.kancloud.cn/kancloud/ocds-guide-to-setting-up-mac/71035)
 
 
-- []()
+- [mac下卸载jdk](http://www.jianshu.com/p/8de3c3443ab4)
 
 
 ### Android SDK 中adb的环境变量配置
@@ -211,35 +209,12 @@ open -e bash_profile：编辑文件
 
 ### ADT相关
 
-从官网下载好ADT Bundle之后，打开eclipse.app，提示：`您需要安装旧java SE 6 运行环境才能打开Eclipse.app`。
-
-解决办法：打开/Library/Java/JavaVirtualMachines/jdkXXXXX.jdk/Contents/Info.plist 按照如下配置JVMCapabilities中的部分，然后重启计算机。
-
-更改前：
-
-```xml
-                <key>JVMCapabilities</key>
-                <array>
-                        <string>CommandLine</string>
-                </array>
-```
+**方法一：**ADT Bundle（不推荐）
 
 
-更改后：
+从官网下载好[ADT Bundle](https://dl.google.com/android/adt/adt-bundle-mac-x86_64-20140702.zip)之后，打开eclipse.app，提示：`您需要安装旧java SE 6 运行环境才能打开Eclipse.app`。在当前画面点击「查看更多」，会自动跳到apple官网链接，下载对应版本的jdk 1.6进行安装即可。
 
-```xml
-                <key>JVMCapabilities</key>  
-                <array>  
-                        　　<string>JNI</string>  
-                        　　<string>BundledApp</string>  
-                        　　<string>WebStart</string>  
-                        　　<string>Applets</string>  
-                        　　<string>CommandLine</string>  
-                </array> 
-```
-
-重启计算机后，重新打开eclipse.app，提示：“打不开Eclipse.app，因为它来自身分不明的开发者。”解决办法：按住control键的同时打开eclipse.app即可。
-
+好吧，等我根据提示安装好了之后，再打开eclipse，程序报错。算了，这个方法不行，我估计是MacOS的版本太高了，不支持低版本的jdk。
 
 
 参考链接：
@@ -247,6 +222,93 @@ open -e bash_profile：编辑文件
 - [](http://www.cnblogs.com/zhouyinhui/p/3751389.html)
 
 
+**方法二：**Eclipse for android（不推荐）
+
+Mac下adt-bundle不太好用.其实Eclipse官网本身提供了与Android集成的Eclipse版本，使用了下相当不错，大家可以试试,下载地址：<http://www.eclipse.org/downloads/eclipse-packages/>
+
+
+然后我去官网下载了最新版的Eclipse for android（eclipse-android-neon-1a-incubation-macosx-cocoa-x86_64），安装完了之后，提示我说jdk版本太低了（我的是jdk 1.7，提示说要安装1.8）。好吧，那我就把jdk版本升级为1.8吧。
+
+终于安装好了，打开Eclipse，也能新建android工程，但是新建完了之后，工程文件报错：failed to load properties file for project、`R cannot be resolved to a variable（即没有生成 R 文件）`。网上查了一下，原因是SDK中需要下载最新的Build Tools。
+
+另外，新建的安卓项目有mipmap目录（我的Eclipse版本 Neon Release (4.6.0)），我们需要把xml中的资源文件的引用从drawable改为mipmap。此时，工程就不再报错了。
+
+参考链接：
+
+- [Mac Android 开发环境 adt-bundle 常见问题](http://www.jianshu.com/p/cebc3f8b8f88)
+
+
+
+**方法三：在Eclipse中离线安装ADT插件**（推荐）
+
+相关版本信息：
+
+- MacOS版本：10.12.1
+- jdk版本：jdk-8u77-macosx-x64.dmg
+- 「Eclipse IDE for java Developers」版本: Mars.2 Release (4.5.2)
+- ADT-23.0.2.zip
+
+
+下载历史版本的celipse 4.5.2。下载链接：<http://archive.eclipse.org/eclipse/downloads/>。然后，离线安装ADT。**离线安装ADT插件的步骤如下：**
+
+（1）启动 Eclipse ；选择「Help > Install New Software」，在右上角点击「add」，然后点击「Archive」进行本地安装；选择下载的文件 adt-23.0.2.zip  并点击 OK 。
+
+（2）然后经过Pending解析后，就可以看到对应的：Developer Tools，选中Developer Tools，并去掉对话框的左下角最下面的一个选项前的对勾，不然会安装的很慢：
+
+20161206_1340.png
+
+（3）然后一路Next，点击接受协议和完成；中间会有安全提示，点击OK即可。安装完毕后，会要求重启Eclipse。大功告成。
+
+第一次重启后，软件会提示你设置Android SDK路径，那就加载之前下载好的SDK即可。如下图所示：
+
+20161206_1347.png
+
+上图中的选项，在「Eclipse- 偏好设置- Android」中也可以设置。
+
+
+之后，关掉Eclipse，新建一个workspace，然后就可以新建一个新的Android projct了。
+
+这里注意：一定不要升级android sdk tools（23.0.2） 和android sdk platform－tools(20)，因为有可能会出现环境错误。20161207_1955.png
+
+
+
+参考链接：
+
+- [Eclipse中离线安装ADT插件](https://github.com/inferjay/AndroidDevTools/wiki/Eclipse%E4%B8%AD%E7%A6%BB%E7%BA%BF%E5%AE%89%E8%A3%85ADT%E6%8F%92%E4%BB%B6)
+
+- ADT的历史版本下载链接：<https://downloads.puresoftware.org/files/android/ADT/>
+
+
+打开Eclipse，新建一个Android工程，如果报错如下：
+
+```bah
+Errors occurred during the build.
+Errors running builder 'Android Resource Manager' 
+```
+
+我照着网上的教程操作了一下。解决办法如下：（并没有解决我的问题）
+
+（1）找到Eclipse的目录，在Eclipse上右击，选择“显示包内容”；
+
+（2）找到/Contents/Eclipse/eclipse.ini文件，这个就是我们要修改的文件
+
+（3）找到“-vmargs”，在其前面添加如下内容：
+
+```bash
+-vm  
+/System/Library/Frameworks/JavaVM.framework/Versions/1.6/Commands/java
+```
+
+一部分原因是不应该升级sdk tools的版本；另一部分原因是要保证jdk版本是1.8（1.7的也会报这个错）
+
+参考链接：
+
+- [Errors running builder 'Android Resource Manager' on Project java.lang.NullPointerException](http://blog.csdn.net/gtsong/article/details/39481879)
+
+-  [在MAC上搭建eclipse+android开发环境(荐)](http://jingyan.baidu.com/article/455a9950b66eb2a1662778ee.html)
+
+
+### Android Studio
 
 
 ### SourceTree
@@ -255,6 +317,11 @@ Git版本控制的GUI工具。官网链接：<https://www.sourcetreeapp.com>。�
 
 
 
+### vmware
+
+
+
+安装包下载链接：<http://xclient.info/s/vmware-fusion.html>
 
 
 
