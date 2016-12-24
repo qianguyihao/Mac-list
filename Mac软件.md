@@ -93,7 +93,7 @@ GTD时间管理软件。付费软件。Mac版：标准版39.99美元，pro版79.
 
 
 
-### 一些常见软件
+## 一些必装的常见软件
 
 > 列举一些全平台的常见软件，这些软件也是必须要安装的。
 
@@ -316,12 +316,50 @@ Errors running builder 'Android Resource Manager'
 Git版本控制的GUI工具。官网链接：<https://www.sourcetreeapp.com>。类似的软件还有[TortoiseGit](https://tortoisegit.org/)。
 
 
+## 虚拟机
 
-### vmware
 
+### VMware 虚拟机
 
 
 安装包下载链接：<http://xclient.info/s/vmware-fusion.html>
+
+选择菜单栏「窗口 - 虚拟机资源库」，可以看到已经安装了哪些虚拟机镜像。
+
+### VMware中安装Ubuntu 16.04
+
+安装教程链接：[手把手交大家在mac上用VMWare虚拟机装Linux-Ubuntu--及Ubuntu安装Vmware Tools](http://blog.csdn.net/jackjia2015/article/details/50757430)
+
+Ubuntu虚拟机安装成功后，如果要更改配置，记得先将Ubuntu虚拟机关机，然后选择VMware的菜单栏「虚拟机- 设置- 处理器和内存」，然后进行更改。
+
+
+
+## 一些常见软件
+
+### 百度网盘
+
+如今，百度网盘限速了，只能临时找一些破解的方法。
+
+### office 2016
+
+安装包链接： <https://pan.baidu.com/s/1mixzrT2> 密码：jj5s
+
+破解方法的参考链接：[Office 2016 for Mac 激活方法](http://mp.weixin.qq.com/s?__biz=MzAxNzcwMTA4Ng==&mid=725040709&idx=1&sn=d359f9c52a7c50070e46976ae9dcb7ca&chksm=35221ff4025596e2f9e44623490112c72a8613a97062813cfe7b25090763765f17c57b75ae72&mpshare=1&scene=1&srcid=1214DUc1No4sz1o6WtSo0Ntc#rd)
+store
+
+### spark 邮件客户端
+
+
+默认不支持网易邮箱，想要支持的话，参考链接：[spark邮箱软件如何添加qq邮箱和网易邮箱？](https://www.zhihu.com/question/38037840)
+
+设置之后，可以使用授权码代替邮箱密码，在客户端进行登录。授权码在下面这个位置：
+
+20161219_1938.png
+
+
+### 电子书转换工具：calibre
+
+
 
 
 
