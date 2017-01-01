@@ -103,6 +103,12 @@ Command + R 刷新
 
 
 
+### Mac同时登陆两个QQ
+
+在已经打开的QQ中，按住「command + N」即可。
+
+
+
 ## 系统便好设置
 
 
@@ -135,9 +141,47 @@ Mac调整字体大小：「系统偏好设置 -> 显示器 -> 缩放」。如下
 
 
 
+### 色温调节：夜间模式
 
 
-# PodCast
+iOS9.3的最明显变化，莫过于苹果在发布会上特意提到的Night Shift夜间护眼模式。
+
+
+
+
+### iCloud邮箱
+
+如果您用于设置 iCloud 的 Apple ID 不以“@icloud.com”、“@me.com”或“@mac.com”结尾，您必须先设置一个“@icloud.com”电子邮件地址，然后才能使用 iCloud“邮件”。
+
+如果您拥有以“@mac.com”或“@me.com”结尾的电子邮件地址，则您已经拥有了名称相同但以“@icloud.com”结尾的等效地址。如果您使用的电子邮件别名以“@mac.com”或“@me.com”结尾，您也将拥有以“@icloud.com”结尾的等效地址。
+
+**操作如下：**
+
+- 在 iOS 设备上，前往“设置”>“iCloud”，开启“邮件”，然后按照屏幕上的说明操作。
+
+- 在 Mac 上，选取 Apple 菜单 >“系统偏好设置”，点按“iCloud”，再选择“邮件”，然后按照屏幕上的说明操作。
+
+PS：创建iCloud电子邮件地址后，您无法对其进行更改。
+
+设置 @icloud.com 电子邮件地址后即可用其登录 iCloud。您也可以用创建 iCloud 帐户时所用的 Apple ID 登录。
+
+您可以从以下任意地址发送 iCloud 电子邮件：
+
+您的 iCloud 电子邮件地址（您的帐号名称@icloud.com）
+
+别名
+
+
+参考链接：
+
+
+**直接注册以@icloud.com结尾的Apple ID：**
+
+参考链接：
+
+
+
+## PodCast
 
 PodCast中文翻译为播客，是一种特殊的音频or视频节目。PodCast这个单词是由iPod+Broadcast这两个单词组成的。
 
