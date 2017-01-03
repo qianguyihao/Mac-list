@@ -9,7 +9,7 @@
 - [Alfred](https://www.alfredapp.com/) - 效率神器。有免费版和付费版两种。付费版功能更强大。[荐] # # #
 
 
-### GTD 时间管理
+#### GTD 时间管理
 
 - [OmniFocus]() - 著名 GTD，上手之后秒杀同类。$79.99。 [荐] [#](http://www.asianefficiency.com/technology/omnifocus-mac-review/)
 
@@ -42,14 +42,14 @@
 - [ShadowsocksX-NG](https://github.com/qiuyuzhou/ShadowsocksX-NG) - 一款ShadowsocksX客户端软件。
 - [Lantern](https://getlantern.org) - 科学上网。
 - [鱼摆摆](https://ybb1024.com/) - 科学上网。
-- [Tunnelblick](https://tunnelblick.net/downloads.html) - OpenVPN的免费软件。![Freeware][Freeware Icon]
+- [Tunnelblick](https://tunnelblick.net/downloads.html) - OpenVPN的免费软件。
 - [GoAgentX](https://github.com/OldFrank/GoAgentX) - 科学上网。
 - [srocket](http://50r.cn/ifn76I) - 开启科学上网。
 - [二师兄VPN](http://www.2-vpn4.cc/home.action) - 提供无限流量、无限续期免费VPN账号。
 - [GTX加速器](http://www.jsqgtx.cc/DownLoad) - 每天签到领取500M流量。
 - [GreenVPN](http://applewoods.org/article/) - 注册激活送免费VPN加速流量。
 - [风驰VPN](http://fengchinet2.com/) - 无限流量、无限续期的免费VPN加速服务。
-- [开眼](https://chrome.google.com/webstore/detail/%E5%BC%80%E7%9C%BC/kpamljbkjaaljbcgobdealnpalcgicna?hl=zh-CN) - Chrome插件免费的科学上网利器。!
+- [开眼](https://chrome.google.com/webstore/detail/%E5%BC%80%E7%9C%BC/kpamljbkjaaljbcgobdealnpalcgicna?hl=zh-CN) - Chrome插件免费的科学上网利器。
 
 
 
@@ -85,9 +85,9 @@
 - [Kindle App](http://www.amazon.com/gp/help/customer/display.html?nodeId=201246110) - 亚马逊 Kindle App 电子书阅读器。
 
 
-- [Calibre](http://calibre-ebook.com/) - 丑陋的软件，但强大的软件电子书管理和转换。[开源](https://github.com/kovidgoyal/calibre) ![Freeware][Freeware Icon]。
+- [Calibre](http://calibre-ebook.com/) - 丑陋的软件，但强大的软件电子书管理和转换。[开源](https://github.com/kovidgoyal/calibre) 。
 
-- [Sigil](https://sigil-ebook.com/) - 多平台EPUB编辑器 [![Open-Source Software][OSS Icon]](https://github.com/Sigil-Ebook/Sigil) ![Freeware][Freeware Icon]
+- [Sigil](https://sigil-ebook.com/) - [开源](https://github.com/Sigil-Ebook/Sigil)、多平台EPUB编辑器。
 
 #### RSS
 
