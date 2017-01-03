@@ -1,5 +1,5 @@
 
-> 列举mac上必装的软件
+> 我的Mac电脑上，安装了下面这些软件
 
 
 
@@ -7,7 +7,7 @@
 
 ### Alfred
 
-全局搜索工具。Mac 必备工作流神器，可用它来代替系统默认的 Spotlight 搜索功能，配合上付费版的 Powerpack 之后，可以在一个输入框内完成 计算、文件搜索、网页搜索、应用程序搜索、任意脚本程序执行、任意快捷键执行自定义复杂交互。
+全局搜索工具。Mac 必备工作流神器，可用它来代替系统默认的 Spotlight 搜索功能，配合上付费版的 Powerpack 之后，可以在一个输入框内完成 计算、文件搜索、网页搜索、应用程序搜索、任意脚本程序执行、任意快捷键执行自定义复杂交互。好吧，对于大部分人来说，免费的已经够用了。 
 官网链接：<https://www.alfredapp.com>
 
 
@@ -77,6 +77,14 @@ GTD时间管理软件。付费软件。Mac版：标准版39.99美元，pro版79.
 
 
 
+### office 2016
+
+安装包链接： <https://pan.baidu.com/s/1mixzrT2> 密码：jj5s
+
+破解方法的参考链接：[Office 2016 for Mac 激活方法](http://mp.weixin.qq.com/s?__biz=MzAxNzcwMTA4Ng==&mid=725040709&idx=1&sn=d359f9c52a7c50070e46976ae9dcb7ca&chksm=35221ff4025596e2f9e44623490112c72a8613a97062813cfe7b25090763765f17c57b75ae72&mpshare=1&scene=1&srcid=1214DUc1No4sz1o6WtSo0Ntc#rd)
+store
+
+
 
 ## Markdown 软件
 
@@ -93,7 +101,7 @@ GTD时间管理软件。付费软件。Mac版：标准版39.99美元，pro版79.
 
 
 
-## 一些必装的常见软件
+## 全平台的常见软件
 
 > 列举一些全平台的常见软件，这些软件也是必须要安装的。
 
@@ -119,28 +127,28 @@ GTD时间管理软件。付费软件。Mac版：标准版39.99美元，pro版79.
 - 网易云音乐
 
 
-
 - 欧陆词典
 
+- 百度网盘：如今，百度网盘限速了，只能临时找一些破解的方法。
 
 ## 开发相关
 
 
 
 
-### Xcode
+#### Xcode
 
 苹果官网推出的IDE，程序猿必备。从App Store 上下载安装即可。
 
 
 
 
-### Git安装
+#### Git安装
 
 在App Store下载安装Xcode后，会自动安装上Git。安装好之后，在终端输入`git --version`进行验证。
 
 
-### jdk
+#### jdk
 
 jdk  1.7下载地址：<http://www.oracle.com/technetwork/cn/java/javase/downloads/jdk7-downloads-1880260.html>
 
@@ -308,25 +316,25 @@ Errors running builder 'Android Resource Manager'
 -  [在MAC上搭建eclipse+android开发环境(荐)](http://jingyan.baidu.com/article/455a9950b66eb2a1662778ee.html)
 
 
-### Android Studio
+#### Android Studio
 
 
-### SourceTree
+#### SourceTree
 
 Git版本控制的GUI工具。官网链接：<https://www.sourcetreeapp.com>。类似的软件还有[TortoiseGit](https://tortoisegit.org/)。
 
 
-## 虚拟机
+### 虚拟机
 
 
-### VMware 虚拟机
+#### VMware 虚拟机
 
 
 安装包下载链接：<http://xclient.info/s/vmware-fusion.html>
 
 选择菜单栏「窗口 - 虚拟机资源库」，可以看到已经安装了哪些虚拟机镜像。
 
-### VMware中安装Ubuntu 16.04
+#### VMware中安装Ubuntu 16.04
 
 安装教程链接：[手把手交大家在mac上用VMWare虚拟机装Linux-Ubuntu--及Ubuntu安装Vmware Tools](http://blog.csdn.net/jackjia2015/article/details/50757430)
 
@@ -336,16 +344,6 @@ Ubuntu虚拟机安装成功后，如果要更改配置，记得先将Ubuntu虚�
 
 ## 一些常见软件
 
-### 百度网盘
-
-如今，百度网盘限速了，只能临时找一些破解的方法。
-
-### office 2016
-
-安装包链接： <https://pan.baidu.com/s/1mixzrT2> 密码：jj5s
-
-破解方法的参考链接：[Office 2016 for Mac 激活方法](http://mp.weixin.qq.com/s?__biz=MzAxNzcwMTA4Ng==&mid=725040709&idx=1&sn=d359f9c52a7c50070e46976ae9dcb7ca&chksm=35221ff4025596e2f9e44623490112c72a8613a97062813cfe7b25090763765f17c57b75ae72&mpshare=1&scene=1&srcid=1214DUc1No4sz1o6WtSo0Ntc#rd)
-store
 
 ### spark 邮件客户端
 
@@ -355,6 +353,9 @@ store
 设置之后，可以使用授权码代替邮箱密码，在客户端进行登录。授权码在下面这个位置：
 
 20161219_1938.png
+
+
+## 其他软件
 
 
 ### 电子书转换工具：calibre
@@ -371,7 +372,6 @@ store
 - [HyperSwitch](https://bahoom.com/hyperswitch)：Cmd+Tab（程序切换）中集成窗口切换、Option+Tab 窗口切换。
 
 安装好HyperSwitch后，将其run in the background。
-
 
 
 
