@@ -384,22 +384,48 @@ store
 ### 分别设置Mac的鼠标和触控板的滚动方向：Scroll Reverser
 
 很多人习惯鼠标使用相反的滚动方向，而触控板类似iPad那样的自然滚动，问如何设置，当时我的回答是不知道，因为目前OS X的系统设置里，鼠标和触控板的设置是统一
-的。今天发现了一个免费的软件Scroll Reverser，可以实现鼠标和触控板的分别设置。下载地址：<https://pilotmoon.com/scrollreverser/>
+的。今天发现了一个免费的软件Scroll Reverser，可以实现鼠标和触控板的分别设置。
+
+官网下载地址：<https://pilotmoon.com/scrollreverser/>。
 启动后程序显示在顶部菜单栏，设置简单明了，有需要的用户体验一下吧。
 
 ### 让鼠标的滚轮更流畅：Smooth Scroll
 
 鼠标滚轮一格一格的滚动效果总是没有触摸板来的顺滑，这款 Smooth Scroll 可以让平滑滚动应用到系统的每个角落，让鼠标滚轮用起来也有触摸板的感觉。
 
-Smooth Scroll 提供了一些我眼中晦涩难懂的数值型设置选项，我认为默认的设定已经可以满足需求，并没有调节的必要。但一定不要忘记开启「Bounce back from edges」选项，打开之后就有橡皮筋回弹的效果啦。
-
-需要注意的是：「Standard wheel direction」选项与 Scroll Reverser 一起使用会有「负负得正」的效果。
+Smooth Scroll 提供了一些我眼中晦涩难懂的数值型设置选项，我认为默认的设定已经可以满足需求，并没有调节的必要。但一定不要忘记开启「Bounce back from edges」选项，打开之后就有橡皮筋回弹的效果啦。另外，需要注意的是：「Standard wheel direction」选项与 Scroll Reverser 一起使用会有「负负得正」的效果，所以建议把「Standard wheel direction」这个选项的勾去掉。
 
 Smooth Scroll 可在 [官网](http://www.smoothscroll.net/mac/) 免费下载试用，售价 9.95 美元 / 年。
 
 我们也可以在[其他地方](http://bbs.feng.com/read-htm-tid-10808968.html)找到破解版。下载链接：<https://pan.baidu.com/s/1sly8BtN> 密码：dyqj
 
 参考链接：[少数派 | 8 款 App 全面提升你的 Mac 鼠标体验](http://sspai.com/32832)
+
+
+
+### 隐藏顶部的状态栏图标
+
+随着 Mac 系统使用时间的增长，那原本简洁的菜单栏也自然而然会慢慢变长：20170101_1205.png
+
+
+好在可以通过软件「[Bartender](https://www.macbartender.com/)」来解决。
+
+Bartender是一款实用的菜单栏管理工具，将大量的菜单有选择放进 Bartender 的二级菜单，不仅会看起来更整洁，使用起来也不会造成太大的麻烦。能够解决和整理菜单栏空间过于用尽的问题。
+
+Bartender软件官网链接：<https://www.macbartender.com/>，软件太贵了，还是找找破解版吧。
+
+破解版链接：[Bartender 2.1.6 fix 一款实用的菜单栏管理工具](http://xclient.info/s/bartender.html)
+
+
+
+
+参考链接：
+
+- [Bartender 顶部状态栏图标管理](http://zqpythonic.qiniucdn.com/data/20130509223351/index.html)
+
+
+
+
 
 
 
