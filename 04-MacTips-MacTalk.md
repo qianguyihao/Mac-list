@@ -1,5 +1,5 @@
 
-> 摘自《MacTalk·人生元编程》这本书。部分内容可能已经过时，请自行斟酌。
+> 摘自《MacTalk·人生元编程》这本书。部分内容（比如快捷键）可能已经过时，请自行斟酌。
 
 
 ## MacTips快速查询（目录导航）
@@ -265,6 +265,9 @@
 130．Spotlight检索的高级技巧
 
 
+
+## MacTips正文
+
 ### 1．终端输入说英语
 
 说英语时我们当然希望有标准发音。在Mac中不需要字典，直接在终端里输入say yes，Mac就会说英语了。
@@ -326,13 +329,18 @@ OS X系统为用户提供了强大的Mission Control功能，今天为大家介�
 Mac的OS X是一个使用起来非常简单的操作系统，一般情况下不需要装杀毒工具，大部分程序安装都非常简单，直接把后缀为App的程序拖进应用程序文件夹就可以了。但是，当你在使用系统时如果发现出现异常，那么就该进行日常维护了。
 打开磁盘管理，选中你的系统盘，点击“修复磁盘权限”，对磁盘权限进行检查和修复。完成之后还可以手动执行维护脚本：
 
+```bash
 sudo periodic daily
 sudo periodic weekly
 sudo periodic monthly
+```
 
 也可以一次全部执行：
 
+```bash
 sudo periodic daily weekly monthly
+```
+
 
 一般执行完这些操作后，你的Mac就会充满活力，继续上路。这些操作可以定期执行。
 
@@ -344,11 +352,16 @@ sudo periodic daily weekly monthly
 ### 14．截图
 
 OS X提供了非常方便的截图工具，你可以随时随地截取屏幕画面。
-shift+command+3：全屏幕截图；shift+command+4：通过鼠标选取截图。
+
+- shift+command+3：全屏幕截图；
+- shift+command+4：通过鼠标选取截图。
+
 截取的图片默认存放在桌面上，以时间命名。
 系统默认截图格式是png，你可以通过如下命令修改截图文件类型，例如：
 
+```bash
 defaults write com.apple.screencapture type -string JPEG
+```
 
 ### 15．推荐几个有用的小工具
 
@@ -387,7 +400,11 @@ htop是更聪明更高级的top，虽然不是Mac原生的，但安装非常方�
 例如你在一个目录下林林总总放了几百个文件，有图片有pdf有zip有doc等等，你想把后缀为png、jpeg、gif的图片复制到另一个文件夹去，最简单的方式是什么？
 不是通过搜索把这些文件找出来，再全选复制到另一个文件夹下。而是进入该目录，执行这样一个命令：
 
+```bash
 cp *.png *.jpeg *.gif /destpath
+```
+
+
 
 如果想剪切，就把cp改为mv
 
@@ -400,11 +417,15 @@ OS X还提供了同组程序的切换，比如你打开了多个预览程序阅�
 
 OS X提供基于ssh的远程拷贝命令scp，这个命令大部分linux和unix系统都会提供，使用该命令可以非常方便的在两台机器之间安全的复制文件，具体命令：
 
+```bash
 scp ./testfile.txt username@10.10.10.22:/tmp
+```
 
 回车后会要求你输入username的密码，只会将当前目录下的testfile.txt复制到另一台机器的tmp目录下。
 
+```bash
 scp username@10.10.10.22:/tmp/testfile.txt./
+```
 
 从远端复制到本地。
 
@@ -424,21 +445,35 @@ OS X提供了非常方便的备份工具TimeMachine（时间机器），我第�
 
 ### 24．inode和history
 
-·inode：Mac的文件系统和windows完全不同，文件所需信息都包含在这个inode（索引节点）里。每个文件都有inode，文件系统用inode来标识文件。简单来说就是inode包含了文件的元数据信息，文件名、文件内容并不包含任何控制信息。inode是unix/linux系列文件系统设计的核心，有兴趣的童靴可以上网查阅相关资料。对于普通用户用来，最直观的表现是，在Mac里，你可以对正在使用的文件改名，换目录，甚至放到废纸篓，都不会影响当前文件的使用。
-·history：打开终端输入history，所有的历史命令都会显示出来，想找某一条执行过的命令，还可以这样：
+- inode
 
+Mac的文件系统和windows完全不同，文件所需信息都包含在这个inode（索引节点）里。每个文件都有inode，文件系统用inode来标识文件。简单来说就是inode包含了文件的元数据信息，文件名、文件内容并不包含任何控制信息。inode是unix/linux系列文件系统设计的核心，有兴趣的童靴可以上网查阅相关资料。对于普通用户用来，最直观的表现是，在Mac里，你可以对正在使用的文件改名，换目录，甚至放到废纸篓，都不会影响当前文件的使用。
+
+- history
+
+打开终端输入history，所有的历史命令都会显示出来，想找某一条执行过的命令，还可以这样：
+
+```bash
 history |grep apache
+```
+
 找到左边的命令编号（例如1001），在终端输入
+
+```bash
 !1001
+```
+
 就可以执行原来那条命令了。
 
 ### 25．Go2Shell
 
 通过Finder浏览文件的时候，常常需要在浏览的文件目录中打开终端进行操作，Go2Shell能够自动做到这一点。
 从App Store下载这个免费软件。下载完成后从应用程序文件夹把Go2Shell拖到Finder工具栏上，然后随便进入一个目录，点击Go2Shell图标，即可打开终端进入该目录。
-Go2Shell支持原生终端、iTerm2和xterm，在终端输入
+Go2Shell支持原生终端、iTerm2和xterm，在终端输入：
 
+```bash
 open -a Go2Shell——args config
+```
 
 即可进入配置界面，选择你喜欢的终端。
 
@@ -450,7 +485,7 @@ Safari的阅读器是浏览器创新之一，在Safari之前，没有其他浏�
 
 ### 27．Remote Desktop Connection for Mac
 
-很多读者询问如何在Mac中通过远程桌面连接到Windows，这次统一答复一下，微软提供了专门的Remote Desktop Connection for Mac，免费，下载链接：http://www.microsoft.com/mac/remote-desktop-client
+很多读者询问如何在Mac中通过远程桌面连接到Windows，这次统一答复一下，微软提供了专门的Remote Desktop Connection for Mac，免费，下载链接：<http://www.microsoft.com/mac/remote-desktop-client>
 
 ### 28．文档的版本控制
 
