@@ -199,19 +199,23 @@
 
 
 
-## Mac软件下载网站
+## Mac软件介绍／下载
 
-> 这里主要是推荐一些软件下载的网站，还有一些Mac OSX软件分享网站
+> 这里主要是推荐一些软件下载的网站，还有一些MacOS软件分享网站。
 
-### 正版/介绍
+#### Mac工具介绍
+
+* 少数派：[http://sspai.com/tag/Mac](http://sspai.com/tag/Mac)
+* Mac玩儿法：[http://www.waerfa.com](http://www.waerfa.com) 
+
+
+#### 正版Mac软件下载
 
 * MacUpdate：[https://www.macupdate.com/](https://www.macupdate.com/)
 * App Shopper：[http://appshopper.com/](http://appshopper.com/)
 * 类似于iOS上Cydia一样的第三方软件商店：[http://hack-store.com](http://hack-store.com)
-* 少数派：[http://sspai.com/tag/Mac](http://sspai.com/tag/Mac)
-* Mac玩儿法：[http://www.waerfa.com](http://www.waerfa.com) ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![hot][hot Icon] ![star 5][star5 Icon] 
 
-### 盗版软件下载网站黑名单
+#### 盗版Mac软件下载网站黑名单
 
 > 拒绝盗版从我做起，下面被删除的网站提供大量破解软件下载，欢迎大家监督它们。
 
