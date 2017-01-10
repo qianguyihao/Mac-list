@@ -345,7 +345,7 @@ Ubuntu虚拟机安装成功后，如果要更改配置，记得先将Ubuntu虚�
 ## 一些常见软件
 
 
-### spark 邮件客户端
+#### spark 邮件客户端
 
 
 默认不支持网易邮箱，想要支持的话，参考链接：[spark邮箱软件如何添加qq邮箱和网易邮箱？](https://www.zhihu.com/question/38037840)
@@ -353,6 +353,38 @@ Ubuntu虚拟机安装成功后，如果要更改配置，记得先将Ubuntu虚�
 设置之后，可以使用授权码代替邮箱密码，在客户端进行登录。授权码在下面这个位置：
 
 20161219_1938.png
+
+
+
+#### Photoshop
+
+> 本软件中，分享下载的所有dmg、zip 打开密码均为 xclient.info。
+
+**软件下载链接：** 
+
+Adobe Photoshop CC 2017_18.0.0（附中文语言包）：
+
+- 下载链接：<http://xclient.info/s/adobe-photoshop-cc.html>
+- 百度网盘链接：<https://pan.baidu.com/s/1slSwXwL>，密码：6g4v。
+
+Adobe CC 2017 通用激活：
+
+- 下载链接：<http://xclient.info/a/620a06ef-0013-a719-81f9-de029e27b9ae.html>
+- 百度网盘链接：<https://pan.baidu.com/s/1c2eI18W>，密码：q72q。
+
+中文包：
+
+- 百度网盘链接：<https://pan.baidu.com/s/1jHCfU4m>，密码：i9ud。
+
+
+**激活步骤：**
+
+（1）断网；
+（2）安装程序：解压后，将/build/instll.pkg双击，即可安装。
+（3）运行激活工具激活：打开里的 Adobe Zii.app  点击PATCH OR DRAG。
+（4）安装[中文语言包](https://www.yunrui.co/37779.html)：将解压好的语言包文件夹复制到 应用程序/Adobe Photoshop CC 2017/Locales 目录下。
+打开 photoshop，点击左上角 Photoshop CC/Preferences/Interface... 在弹出的界面中间部分修改UI Language的值 为Simplified Chinese 点击右上角 OK按钮。重启 photoshop 即可。
+
 
 
 ## 其他软件
