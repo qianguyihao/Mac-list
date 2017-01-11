@@ -356,7 +356,7 @@ Ubuntu虚拟机安装成功后，如果要更改配置，记得先将Ubuntu虚�
 
 
 
-#### Photoshop
+### Photoshop
 
 > 本软件中，分享下载的所有dmg、zip 打开密码均为 xclient.info。
 
@@ -380,14 +380,16 @@ Adobe CC 2017 通用激活：
 **激活步骤：**
 
 （1）断网；
+
 （2）安装程序：解压后，将/build/instll.pkg双击，即可安装。
+
 （3）运行激活工具激活：打开里的 Adobe Zii.app  点击PATCH OR DRAG。
+
 （4）安装[中文语言包](https://www.yunrui.co/37779.html)：将解压好的语言包文件夹复制到 应用程序/Adobe Photoshop CC 2017/Locales 目录下。
 打开 photoshop，点击左上角 Photoshop CC/Preferences/Interface... 在弹出的界面中间部分修改UI Language的值 为Simplified Chinese 点击右上角 OK按钮。重启 photoshop 即可。
 
 
-
-#### 解压／压缩软件：The Unarchiver
+### 解压／压缩软件：The Unarchiver
 
 
 
