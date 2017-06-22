@@ -456,7 +456,6 @@ Bartender软件官网链接：<https://www.macbartender.com/>，软件太贵了�
 
 
 
-
 参考链接：
 
 - [Bartender 顶部状态栏图标管理](http://zqpythonic.qiniucdn.com/data/20130509223351/index.html)
