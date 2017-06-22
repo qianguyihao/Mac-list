@@ -2,10 +2,14 @@
 > 收集好用的Mac软件。
 
 
+
+
 ## 目录
 
 
 ## 基本工具
+
+
 
 #### 压缩／解压
 
@@ -15,12 +19,12 @@
 
 ## 效率工具
 
-- [Alfred](https://www.alfredapp.com/) - 效率神器。有免费版和付费版两种。付费版功能更强大。[荐] # # #
+- [Alfred](https://www.alfredapp.com/) - 效率神器。有免费版和付费版两种。付费版功能更强大。[荐] 
 
 
 #### GTD 时间管理
 
-- [OmniFocus]() - 著名 GTD，上手之后秒杀同类。$79.99。 [荐] [#](http://www.asianefficiency.com/technology/omnifocus-mac-review/)
+- [OmniFocus](https://www.omnigroup.com/omnifocus) - 著名 GTD，上手之后秒杀同类。79.99美元。[#](http://www.asianefficiency.com/technology/omnifocus-mac-review/)
 
 
 ## 实用工具
@@ -31,7 +35,6 @@
 - [LastPass](https://lastpass.com/) - 密码管理器和安全的数字笔记。
 - [KeePassX](https://www.keepassx.org) - 一个免费的，[开源](https://github.com/keepassx/keepassx)的，体积小的密码管理器。
 - [MacPass](http://mstarke.github.io/MacPass/) - [开源](https://github.com/mstarke/MacPass)的密码管理器。
-
 
 
 #### 截图
@@ -59,6 +62,104 @@
 - [GTX加速器](http://www.jsqgtx.cc/DownLoad) - 每天签到领取500M流量。
 - [GreenVPN](http://applewoods.org/article/) - 注册激活送免费VPN加速流量。
 
+
+
+## 设计与产品
+
+
+## 设计和产品
+
+#### 设计工具
+
+- [Acorn](https://secure.flyingmeat.com/acorn/) - 一个像PS，全面的功能集的图像编辑器。
+- [Affinity Designer](https://affinity.serif.com/en-us/designer/) - 矢量图像设计工具，可能的Adobe Illustrator的替代。
+- [Affinity Photo](https://affinity.serif.com/en-us/photo/) - 光栅图像设计工具，可以替代Adobe PS图象处理软件。
+- [Blender](https://www.blender.org/) - 全功能可扩展的跨平台3D内容套件。[开源](https://developer.blender.org/)
+- [Pixelmator](http://www.pixelmator.com/mac/) - 强大的图像编辑器，可能PS图像处理软件的选择。
+- [Sketch](http://www.sketchapp.com/) - 混合矢量/位图布局应用，特别适用于用户界面，Web和移动设计。[荐]
+    - [Sketch Toolbox](http://sketchtoolbox.com/) - 一个超级简单的Sketch插件管理器。[!开源](https://github.com/buzzfeed/Sketch-Toolbox)
+- [inklet](https://tenonedesign.com/inklet.php) - 将Mac上的触摸板变成绘图板。
+- [Monodraw](http://helftone.com/) - 一款文本图像编辑器。
+- [SketchBook](https://www.sketchbook.com/?locale=cn) - 出众的绘图软件。
+- [Tayasui Sketches](http://www.tayasui.com/sketches/) - 专业的绘图软件。
+- [Nik Collection](https://www.google.com/nikcollection/) - 专业照片后期制作工具Google收购后免费。
+- [Paintbrush](http://paintbrush.sourceforge.net/) - 位图图像编辑器。[!开源](https://sourceforge.net/projects/paintbrush/files/) 
+- [Krita](https://krita.org/) - 一个开源的位图形编辑软件，包含一个绘画程式和照片编辑器。 [!开源](http://download.kde.org/stable/krita/3.0/krita-3.0.tgz.mirrorlist) 
+- [Vectr](https://vectr.com/) - 免费图形编辑器。这是一个简单而强大的Web和桌面跨平台工具，把你的设计变成现实。
+- [Principle](http://principleformac.com/) -  使用它很容易设计动画和交互式用户界面。[star 5]
+- [MagicaVoxel](https://ephtracy.github.io/) - 轻量级的8位像素编辑和交互路径追踪渲染器。
+- [ScreenToLayers](http://jeremyvizzini.com/screentolayers/) - 轻松导出桌面分层文件PSD文件。[!开源](https://github.com/jeremyvizzini/ScreenToLayers) 
+
+#### 原型流程
+
+- [Justinmind](http://www.justinmind.com) - 功能更丰富团队协作方便。
+- [MockFlow](https://www.mockflow.com) - 用于网页设计和可用性测试的在线原型设计套件。
+- [Axure RP 8](http://www.axure.com) - 画原型图工具，团队协作SVN方便好用。[荐]
+- [Mockplus](http://www.mockplus.com) - 更快更简单的原型设计工具。
+- [OmniGraffle](https://www.omnigroup.com/omnigraffle) - 可用来绘制图表、流程图、组织结构图、思维导图以及插图或原型。
+- [XMind](http://www.xmind.net) - 一款实用的思维导图软件。[荐]
+- [Scapple](http://www.literatureandlatte.com/scapple.php) - 一款实用的思维导图软件。!
+- [Framer](http://framerjs.com/) - 做交互原型的工具。![hot][hot Icon] [star 5]
+- [Balsamiq Mockups](https://balsamiq.com/products/mockups/) - 一个快速的网页设计原型工具，帮助你更快、更聪明的工作。
+- [Marvel](https://marvelapp.com/) - 简单设计，原型设计和协作。
+- [MindNode](http://mindnode.com/) - 简洁的风格与人性化的操作，绘制思维脑图。
+
+#### 其它工具
+
+- [Notes](http://www.get-notes.com/) - 简洁的笔记应用。 [!开源](https://github.com/nuttyartist/notes) 
+- [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) - 图片压缩专用开源工具。[!开源](https://github.com/kyleduo/TinyPNG4Mac)
+- [Image2icon](http://www.img2icnsapp.com) - 将你的图片转换成图标。
+- [ImageAlpha](https://pngmini.com/) - 压缩PNG图片，去掉无效的透明。[![开源](https://github.com/pornel/ImageAlpha)
+- [ImageOptim](https://imageoptim.com/mac) - 压缩图片，删除EXIF信息。[!开源](https://github.com/ImageOptim/ImageOptim)
+- [Sip](http://theolabrothers.com/) - 收集，整理和分享你的颜色拾色器。
+- [Frank DeLoupe](http://jumpzero.com/frank/) - 支持 Retina 的屏幕拾色器。
+- [ColorSchemer](http://www.colorschemer.com/) - 专业的配色、调色软件。
+- [IconKit](https://itunes.apple.com/cn/app/iconkit-icon-resizer-for-app/id507135296?mt=12) - App图标自动生成器。
+- [Licecap](http://www.cockos.com/licecap/) - 是一款屏幕录制工具输出GIF，录制过程中可以随意改变录屏范围。[!开源](https://github.com/justinfrankel/licecap) [star 4]
+- [Kap](https://getkap.co/) - 轻量 GIF 录屏小工具。[!开源](https://github.com/wulkano/kap) [star 5]
+- [GIPHY Capture](https://itunes.apple.com/us/app/giphy-capture.-the-gif-maker/id668208984) - 免费软件的捕捉和分享图片在桌面上。
+- [iPic](http://toolinbox.net/iPic/) - 上传插图链接分享。
+- [Iconjar](http://geticonjar.com/) - 图标管理软件，带组织和搜索功能。[star 5]
+- [RightFont](http://rightfontapp.com/) - 字体管理工具。[star 4]
+- [Solarized](http://ethanschoonover.com/solarized) - 干净清爽的颜色主题，支持iTerm、Intellij IDEA、Vim等。
+
+
+
+
+## 编辑器
+
+
+- [Atom](https://atom.io) - GitHub推出的[开源](https://github.com/atom/atom)编辑器。
+- [Sublime Text](http://www.sublimetext.com/3) - 一个比较简洁大方带插件管理系统的流行编辑器，[Sublime常用插件](editor-plugin.md#sublime-text-plugin)。![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
+- [Brackets](http://brackets.io) - Adobe推出的Brackets免费/开源编辑器。[![Open-Source Software][OSS Icon]](https://github.com/adobe/brackets/) ![Freeware][Freeware Icon]
+- [Visual Studio Code](http://code.visualstudio.com) - 微软推出的免费/开源编辑器，TypeScript支持杠杠的。[![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode) ![Freeware][Freeware Icon] ![hot][hot Icon]
+- [Emacs](https://www.emacswiki.org/emacs/EmacsForMacOS) - Emacs是基于控制台的编辑器和高度可定制的。
+- [LightTable](https://www.lighttable.com) - 下一代代码编辑器。[![Open-Source Software][OSS Icon]](https://github.com/LightTable/LightTable) ![Freeware][Freeware Icon]
+- [TextMate](https://macromates.com) - 文本编辑器软件，与BBedit一起并称苹果机上的emacs和vim，这是以前。![Freeware][Freeware Icon]
+- [BBEdit](http://www.barebones.com/products/bbedit/) - 强大的文件编辑器，用于编辑文件，文本文件及程序源代码。
+- [Coda2](https://panic.com/coda) - 编写Web应用长得漂亮的编辑器。
+- [Vim](http://www.vim.org/) - Vim古老命令行中使用的编辑器。![Freeware][Freeware Icon] ![hot][hot Icon]
+    - [Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vim插件管理工具。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/VundleVim/Vundle.vim)
+    - [vim-plug](https://github.com/junegunn/vim-plug) - 一个简约的vim插件管理器。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/junegunn/vim-plug)
+    - [WebVim](https://github.com/krampstudio/webvim) - 倾向于开发JavaScript和Web的vim。
+    - [vim-web](https://github.com/jaywcjlove/vim-web) - 一个前端开发工程师的vim。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/jaywcjlove/vim-web)
+    - [Neovim](https://neovim.io/) -  提高Vim可扩张灵活性。[![Open-Source Software][OSS Icon]](https://github.com/neovim/neovim) ![Freeware][Freeware Icon] ![hot][hot Icon]
+    - [Spacevim](https://github.com/ctjhoa/spacevim) -  模仿Spacemacs的使用方式。
+    - [Spf13](http://vim.spf13.com/) - 一套全方位的配置项目。
+- [Vimr](http://vimr.org/) - Vim客户端，升级Vim体验。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/qvacua/vimr/)
+- [HBuilder](http://www.dcloud.io/) - HBuilder是DCloud（数字天堂）推出的一款支持HTML5的Web开发IDE。![Freeware][Freeware Icon] ![hot][hot Icon]
+- [Tincta](https://mr-fridge.de/software/tincta/index.php) - 一个免费的文本编辑器。![Freeware][Freeware Icon]
+- [IntelliJ IDEA](https://www.jetbrains.com/idea/) - 一款Java开发集成环境。(**学生**免费)![hot][hot Icon] ![tuijian][tuijian Icon]
+-[Webstorm](http://www.jetbrains.com/webstorm/) - 是jetbrains公司旗下一款JavaScript开发工具。
+    - **学生**免费，[点击这里](https://www.jetbrains.com/student/) 查看更多。
+    - 一些很好的插件
+        - [NodeJS](https://plugins.jetbrains.com/plugin/6098?pr=webStorm) - 集成`Node.js`，你肯定需要它，很多功能需要它。
+        - [EditorConfig](https://plugins.jetbrains.com/plugin/7294?pr=webStorm) - 帮助开发者在不同的编辑器和IDE之间定义和维护一致的代码风格。
+        - [Material Theme UI](https://plugins.jetbrains.com/plugin/8006?pr=webStorm) - Google为React开发的主题。
+- [Deco IDE](https://www.decosoftware.com/) - React Native IDE 支持控件拖拽界面实时变更。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon]](https://github.com/decosoftware/deco-ide)
+- [Xamarin Studio](https://www.xamarin.com/studio) - 免费的跨平台的C# IDE。支持iOS、Android和.net开发。[![Open-Source Software][OSS Icon]](https://github.com/mono/monodevelop) ![Freeware][Freeware Icon]
+- [NetBeans IDE](https://netbeans.org/) - 免费、开源的IDE，主要用于java开发，可支持多种语言和框架。 [![Open-Source Software][OSS Icon]](https://netbeans.org/community/sources/) ![Freeware][Freeware Icon]
+- [Eclipse](https://www.eclipse.org) - 流行的开源IDE，主要用于Java，但为多种语言和平台的插件支持。![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon]
 
 
 
@@ -206,6 +307,78 @@
 - [Veertu](https://veertu.com) - Mac上最轻便的虚拟机，只有跑Windows才会收费。比较新，很多功能不支持。
 
 
+## 版本控制
+
+- [Git](https://git-scm.com/) - 版本控制工具，官网提供[数十种GUI客户端](https://git-scm.com/download/gui/mac) for Mac。
+- [SVN](http://subversion.apache.org/) - 版本控制工具。
+
+#### GUI
+
+- [SourceTree](https://www.sourcetreeapp.com/) - 强大的Git跨平台客户端。[荐]
+- [Gitbar](https://github.com/Shikkic/gitbar) - 开源，在你的菜单栏上显示GitHub贡献统计。
+- [GitHub Desktop](https://desktop.github.com/) - 使用GitHub的GUI应用。
+- [Oh My Star](http://www.ohmystarapp.com/) - GitHub的star功能弱，比如分类，本地组织你的GitHub star!
+- [GitUp](http://gitup.co/) - 一个简单功能强大的git客户端，[开源](https://github.com/git-up/GitUp)。
+- [Hub](https://hub.github.com/) - 将GitHub接口和git命令进行包装，[开源](https://github.com/github/hub)。
+- [Tower2](https://www.git-tower.com/) - 最强大的Git客户端。
+- [Versions](http://www.versionsapp.com/) - Mac上最好的SVN管理工具。
+- [Cornerstone](http://www.zennaware.com/cornerstone/) - Mac上最佳的SVN管理工具。
+
+
+#### 版本控制系统
+
+* [GitLab](http://gitlab.com/) - 一个用于仓库管理系统的开源项目。![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
+* [GitHub](https://github.com) GitHub代码托管，项目管理，演示部署，瞧，您现在就访问GitHub。![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
+* [Coding.net](https://coding.net) - 代码托管，项目管理，WebIDE，演示部署，开启云端开发模式，让开发更简单。![Freeware][Freeware Icon]
+* [phabricator](https://phabricator.com) phabricator支持Git、SVN、HG 基于 PHP + Mysql 的开放源代码软件开发平台。![Freeware][Freeware Icon]
+* [Gogs](https://gogs.io) - 一款极易搭建的自助 Git 服务Golang版本。[![Open-Source Software][OSS Icon]](https://github.com/gogits/gogs)  ![Freeware][Freeware Icon]
+* [Gerrit](https://gerrit.rockbox.org) Gerrit 是一个免费、开放源代码的代码审查软件，使用网页界面。![Freeware][Freeware Icon]
+* [Gitblit](http://www.gitblit.com/) Java版本Git代码托管，项目管理。[![Open-Source Software][OSS Icon]](https://github.com/gitblit/gitblit) ![Freeware][Freeware Icon]
+
+
+
+
+
+
+
+
+## 其他软件
+
+### 文件传输
+
+
+- [Android File Transfer](https://www.android.com/filetransfer/) - Google 官方推出的，让Android设备连接电脑，进行文件管理。
+
+-  [handshaker](http://www.smartisan.com/apps/handshaker) - 锤子科技推出的，以前名叫SmartFinder.  [#](http://www.ifanr.com/app/612734)
+
+
+
+
+## 远程协助
+
+- [TeamViewer](https://www.teamviewer.com) - 远程协助及在线协作和会议功能的软件，商业软件个人使用免费。[荐]
+- [RealVNC](https://www.realvnc.com) 是一款免费的远程控制跨多平台的程序。 
+
+## 第三方应用市场APP
+
+*[这里讨论盗版问题或者提供黑名单？](https://github.com/jaywcjlove/awesome-mac/issues/17)，拒绝盗版从我做起，欢迎大家监督。*
+
+#### 正版
+
+*这里只提供正版软件购买下载的应用商店。*
+
+- [HackStore](http://hack-store.com/) - 一个类似于cydia的第三方Mac应用市场，平台拒绝盗版。 
+- [MacUpdate Desktop](https://www.macupdate.com/) - 管理/更新/下载App，跟踪优惠信息。
+- [homebrew-cask](http://caskroom.io) - 体验通过命令行安装Mac软件的工具。
+
+#### 应用商店黑名单
+
+> 第三方应用市场APP黑名单，存在盗版软件传播和下载，拒绝盗版从我做起，欢迎大家监督它们。
+
+- [腾讯电脑管家](http://mac.guanjia.qq.com/) - 电脑管家for Mac 带应用市场。
+- [迅雷Thunder Store](http://mac.xunlei.com/app/) - 迅雷Thunder for Mac 带应用市场。
+- [Mac软件宝箱](http://box.macx.cn/) - Macx推出软件宝箱。
+- [MacHunter](http://www.machunter.net/) - Mac应用市场。
 
 ## Mac软件介绍／下载
 
