@@ -45,6 +45,98 @@
 
 
 
+
+#### 翻译工具
+
+* [有道翻译](http://cidian.youdao.com/multi.html) - 有道词典桌面版。
+* [辞海词典](http://cidian.dict.cn/mac.html) - 学单词、背单词、辞海词典。
+* [eudic](http://www.eudic.net/eudic/mac_dictionary.aspx) - 欧路词典。
+* [iTranslate](http://www.itranslate.com/) - 支持全世界超过 80 种语言发音和输出。
+
+
+#### 输入法
+
+
+* [搜狗输入法](http://pinyin.sogou.com/mac/) - 搜狗输入法。
+* [百度输入法](https://srf.baidu.com/input/mac.html) - 支持拼音五笔输入。
+* [清歌五笔输入法](https://qingg.im/index.html) - 为 iOS 和 Mac 专门打造的五笔输入法。
+* [WBIM](http://www.pawpawsoft.com) - 五笔输入法。
+* [Rocket](http://matthewpalmer.net/rocket/) - Emoji标签输入。
+* [颜文字](https://itunes.apple.com/cn/app/yan-wen-zi/id914708191?mt=12) - 颜文字输入。
+* [RIME](http://rime.im/) - 中州韻輸入法引擎。[开源](https://github.com/rime)。
+* [哈利路亚英文输入法](https://github.com/dongyuwei/hallelujahIM) - 智能英文输入法，具备自动补全，自动纠错功能。 
+* ~~[QQ输入法](http://qq.pinyin.cn/) - 腾讯出品的输入法。~~
+
+
+
+#### 下载工具
+
+* [Transmission](https://www.transmissionbt.com/) - 免费的BitTorrent客户端 [开源](https://github.com/Sigil-Ebook/Sigil)。
+* [aria2](https://aria2.github.io/) - 一款支持多种协议的轻量级命令行下载工具。[开源](https://github.com/aria2)。
+* [JDownloader](http://jdownloader.org/) - 下载工具，下载文件的一键式托管。
+* [You-Get](https://you-get.org/) - 网络富媒体命令行下载工具。[开源](https://github.com/soimort/you-get)。
+* [Free Download Manager](http://www.freedownloadmanager.org/) - 功能强大的下载加速器。
+* [FOLX](http://mac.eltima.com/download-manager.html) - Folx 是一个Mac osx 系统风格界面的下载管理工具。 
+
+
+
+
+#### 其他实用工具
+
+* [12306ForMac](https://github.com/fancymax/12306ForMac) - Mac版12306 订票/捡票 助手。[开源](https://github.com/fancymax/12306ForMac) [荐]
+* [AirServer](http://www.airserver.com/Download) - 将手机投影到电脑上。
+* [CheatSheet](https://www.mediaatelier.com/CheatSheet/) - CheatSheet 是一款Mac上的非常实用的快捷键快速提醒工具。 
+* [WWDC](https://github.com/insidegui/WWDC) - Mac OS的非官方的WWDC APP。[[开源]](https://github.com/insidegui/WWDC) 
+* [xScope](http://xscopeapp.com/) - 测量、检查和测试屏幕上的图形和布局的工具。搜索你的苹果和网络，快速打开应用程序。
+* [f.lux](https://justgetflux.com/) - 自动调整您的电脑屏幕，以匹配亮度。
+* [Todoist](https://todoist.com/mac) - 跨平台的任务管理器与移动应用程序。
+* [TaskPaper](https://www.taskpaper.com/) - 漂亮的纯文本任务列表。
+* [Wunderlist](https://todoist.com/mac) - 奇妙清单跨平台的任务管理器与移动应用程序。
+* [Ukelele](http://scripts.sil.org/ukelele) - Unicode键盘布局编辑器。
+* [Karabiner](https://pqrs.org/osx/karabiner/) - 一个强大的和稳定的OS X的键盘定制。[[开源](https://github.com/tekezo/Karabiner)
+* [Keytty](http://keytty.com) - 让你通过键盘使用鼠标。
+* [AppCleaner](http://freemacsoft.net/appcleaner/) - 一个小应用程序，让你彻底卸载不需要的应用程序。
+* [BetterZip 3](https://macitbetter.com/) - 压缩解压缩工具支持格式 ZIP、TAR、TGZ、TBZ、TXZ (new)、7-ZIP、RAR。[荐]
+* [Numi](http://numi.io/) - 漂亮的计算器应用。
+* [Fantastical](https://flexibits.com/fantastical) - 日历应用程序，你将管理好生活。
+* [Day-O 2](http://www.shauninman.com/archive/2016/10/20/day_o_2_mac_menu_bar_clock) - 菜单日历更换内置日历。
+* [OnyX](http://www.titanium.free.fr/) - 多功能实用工具来验证磁盘和文件，运行清洁和系统维护任务，配置隐藏选项等。
+* [SSH Tunnel](https://codinn.com/products/ssh-tunnel/) - 管理你的SSH。
+* [Mounty](http://enjoygineering.com/mounty/) - NTFS 分区读写组件。
+* [Paragon NTFS](https://www.paragon-software.com/home/ntfs-mac/) - 在Mac OS X中完全读写、修改、访问Windows NTFS硬盘、U盘等外接设备的文件。
+* [Tuxera NTFS](http://www.tuxera.com/products/tuxera-ntfs-for-mac/) - Mac上的NTFS文件系统驱动。
+* [gfxCardStatus](https://gfx.io/) - 控制Mac独立显卡与集成显卡之间的切换。
+* [openEmu](http://openemu.org/) - 模拟器，可以玩魂斗罗之类，放松回到小时候。[[开源]](https://github.com/OpenEmu/OpenEmu) 
+* [Hammerspoon](http://www.hammerspoon.org/) - 功能强大的自动化工具，Lua 脚本驱动，支持窗口管理。[[开源]](https://github.com/Hammerspoon/hammerspoon)
+* [DaisyDisk](https://daisydiskapp.com/) - 磁盘空间使用扫描工具。
+* [iStat pro](https://bjango.com/mac/istatmenus/) - 免费的Mac OS电脑硬件信息检测软件。
+* [BitBar](https://getbitbar.com/) - 支持使用各种语言将信息展示到Mac OS的菜单栏。[开源](https://github.com/matryer/bitbar)
+* [ClipMenu](http://www.clipmenu.com) - 一个剪贴板操作的管理器。
+* [Paste](http://pasteapp.me) - 智能剪贴板历史片段管理。 
+* [ControlPlane](http://www.controlplaneapp.com/) - 自定义Mac情景模式。某些场景让Mac自动静音或是自动打开Mail客户端等等。[开源](https://github.com/dustinrue/ControlPlane) 
+* [Caffeine](http://lightheadsw.com/caffeine/) - 实用工具，菜单栏按钮，点击休眠。
+* [Itsycal](https://www.mowglii.com/itsycal/) - 一款简洁实用的开源日历工具。[开源](https://github.com/sfsam/itsycal) 
+* [HTML5 Player](http://zythum.sinaapp.com/youkuhtml5playerbookmark/) - Chrome插件解决中国视频网站播放视频电脑发热的情况。
+* [Monity](http://www.monityapp.com/) - 帮助用户实时监控系统的一款非常漂亮的软件。
+* [BetterTouchTool](http://www.bettertouchtool.net/) - 代替默认的系统操作方式（组合键、修饰键、手势等）。
+* [iStats](https://github.com/Chris911/iStats) - iStats 是一个可以让你快速查看电脑 CPU 温度，磁盘转速和电池等信息的命令行工具。[[开源]](https://github.com/Chris911/iStats)
+* [InsomniaX](https://www.macupdate.com/app/mac/22211/insomniax) - 合上盖子不眠不休，继续听歌下载。
+* [NoSleep](https://www.macupdate.com/app/mac/37991/nosleep) - 合上盖子不休眠，可根据是否连接电源单独设置。
+* 窗口管理
+    * [ShiftIt](https://github.com/fikovnik/ShiftIt) - 窗口位置和大小管理软件。 [[开源]](https://github.com/fikovnik/ShiftIt)[荐]
+    * [Moom](http://manytricks.com/moom/) - 多任务多窗口的软件。
+    * [Slate](https://github.com/jigish/slate) - 窗口管理器，可用JavaScript写配置。[[开源]](https://github.com/jigish/slate)
+    * [Amethyst](http://ianyh.com/amethyst/) - 窗口管理器（自动保持窗口大小的窗口）。[开源](https://github.com/ianyh/Amethyst)
+    * [Spectacle](https://www.spectacleapp.com) - 简单的移动和调整大小的窗口，和可定制的键盘快捷键。
+
+* Finder
+    * [Quicklook-Plugins](https://github.com/sindresorhus/quick-look-plugins) - Finder快速预览文件插件。
+    * [Path Finder](http://www.cocoatech.com/pathfinder/) - 强大的Finder替代者，拥有很多特性。
+    * [TotalFinder](http://totalfinder.binaryage.com/) - 强大的Finder替代者，界面风格像Chrome。
+    * [XtraFinder](https://www.trankynam.com/xtrafinder/) - 给Finder添加有用的新特性。
+
+
+
 ## 科学上网
 
 - [Shadowsocks](http://shadowsocks.org/) - 一个快速的隧道代理，可以帮助你绕过防火墙。[荐]
@@ -61,6 +153,19 @@
 - [二师兄VPN](http://www.2-vpn4.cc/home.action) - 提供无限流量、无限续期免费VPN账号。
 - [GTX加速器](http://www.jsqgtx.cc/DownLoad) - 每天签到领取500M流量。
 - [GreenVPN](http://applewoods.org/article/) - 注册激活送免费VPN加速流量。
+
+
+
+
+## FTP客户端
+
+* [FileZilla](https://filezilla-project.org) - 跨平台的FTP，FTPS和SFTP客户端。[荐]
+* [Transmit](https://panic.com/transmit/) - 一个FTP客户端，支持FTP + SFTP + S3。
+* [Flow](http://fivedetails.com/flow/) - 支持简单的 FTP + SFTP 客户端。
+* [Yummy FTP](http://www.yummysoftware.com) - 专业快速，可靠的FTP客户端。
+* [Cyberduck](https://cyberduck.io) - 免费FTP，SFTP，S3和WebDAV客户端 & OpenStack Swift Client。
+
+
 
 
 
@@ -136,11 +241,11 @@
 - [Audio Hijack](http://www.rogueamoeba.com/audiohijack/) - 一个记录任何应用程序的音频，包括网络电话Skype，网络流从Safari，以及更多。
 - [Stringed 2](https://itunes.apple.com/us/app/stringed/id698710517?mt=12) - 音频编辑处理工具。
 - [Mixxx](http://mixxx.org/) - 免费的DJ软件，给你一切你需要的表演组合，名副其实的替代Traktor。[开源](https://github.com/mixxxdj/mixxx)。
-- [Cog](http://cogx.org/) - 一个免费的开源音频播放器。[![Open-Source Software][OSS Icon]](https://bitbucket.org/mamburu/cog/) 
+- [Cog](http://cogx.org/) - 一个免费的开源音频播放器。[![开源][OSS Icon]](https://bitbucket.org/mamburu/cog/) 
 - [VLC](http://www.videolan.org/) - 开源的跨平台多媒体播放器及框架，可播放大多数多媒体文件。[开源](https://github.com/videolan/vlc)。
 - [XLD](http://tmkk.undo.jp/xld/index_e.html) - 解码/解码/转换/播放各种“无损”音频文件。[开源](https://code.google.com/archive/p/xld/source)。
 - [HandBrake](https://handbrake.fr/) - 高性能的视频编码和转换工具，具有很好的图形用户界面。[开源](https://github.com/HandBrake/HandBrake)。
-- [MPlayerX](http://mplayerx.org) - 媒体播放器。[![Open-Source Software][OSS Icon]](https://github.com/niltsh/MPlayerX) 。 
+- [MPlayerX](http://mplayerx.org) - 媒体播放器。[![开源][OSS Icon]](https://github.com/niltsh/MPlayerX) 。 
 - [Shotcut](https://www.shotcut.org) - 免费开源视频编辑器。 [开源](https://github.com/mltframework/shotcut)。
 - [ScreenFlow](http://www.telestream.net/screenflow/) - 屏幕和视频编辑软件。
 - [ArcTime](http://www.arctime.org/) - 跨平台字幕制作软件。
@@ -322,6 +427,10 @@
 
 
 
+
+
+
+
 ## 数据恢复
 
 
@@ -363,9 +472,9 @@
 * [GitHub](https://github.com) GitHub代码托管，项目管理，演示部署，瞧，您现在就访问GitHub。![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
 * [Coding.net](https://coding.net) - 代码托管，项目管理，WebIDE，演示部署，开启云端开发模式，让开发更简单。![Freeware][Freeware Icon]
 * [phabricator](https://phabricator.com) phabricator支持Git、SVN、HG 基于 PHP + Mysql 的开放源代码软件开发平台。![Freeware][Freeware Icon]
-* [Gogs](https://gogs.io) - 一款极易搭建的自助 Git 服务Golang版本。[![Open-Source Software][OSS Icon]](https://github.com/gogits/gogs)  ![Freeware][Freeware Icon]
+* [Gogs](https://gogs.io) - 一款极易搭建的自助 Git 服务Golang版本。[![开源][OSS Icon]](https://github.com/gogits/gogs)  ![Freeware][Freeware Icon]
 * [Gerrit](https://gerrit.rockbox.org) Gerrit 是一个免费、开放源代码的代码审查软件，使用网页界面。![Freeware][Freeware Icon]
-* [Gitblit](http://www.gitblit.com/) Java版本Git代码托管，项目管理。[![Open-Source Software][OSS Icon]](https://github.com/gitblit/gitblit) ![Freeware][Freeware Icon]
+* [Gitblit](http://www.gitblit.com/) Java版本Git代码托管，项目管理。[![开源][OSS Icon]](https://github.com/gitblit/gitblit) ![Freeware][Freeware Icon]
 
 
 
@@ -409,7 +518,7 @@
 
 
 
-## 数据库
+#### 数据库
 
 - [Sequel Pro](http://www.sequelpro.com/) - 一个MySQL数据库管理软件。[开源](https://github.com/sequelpro/sequelpro)
 - [MySQL Workbench](http://dev.mysql.com/downloads/workbench/) - MySQL数据库官方管理软件。
@@ -423,7 +532,7 @@
 - [Mongo Management Studio](http://www.litixsoft.de/english/mms/) - MongoDB图形化客户端管理软件。
 - [MongoChef](http://3t.io/mongochef) - MongoDB图形化客户端管理软件。
 - [Chrome MySQL Admin](https://www.eisbahn.jp/chrome_mysql_admin) - 一个Chrome插件，是MySQL开发的跨平台、可视化数据库工具。[开源](https://github.com/yoichiro/chrome_mysql_admin)。
-- [JackDB](https://www.jackdb.com/) - 直接的SQL访问你所有的数据，无论在哪里。[![Open-Source Software][OSS Icon]](https://github.com/yoichiro/chrome_mysql_admin) ![Freeware][Freeware Icon]
+- [JackDB](https://www.jackdb.com/) - 直接的SQL访问你所有的数据，无论在哪里。[![开源][OSS Icon]](https://github.com/yoichiro/chrome_mysql_admin) ![Freeware][Freeware Icon]
 - [medis](http://getmedis.com) - 漂亮的Redis管理软件。[开源](https://github.com/luin/medis)。
 - [RedisDesktopManager](http://redisdesktop.com) - Redis跨平台的GUI管理工具。[开源](https://github.com/uglide/RedisDesktopManager) 。
 - [MDB Explorer](http://www.macexplorer.co/en/mdb-explorer.php) - Mac上查看编辑Access数据库的工具。
@@ -445,6 +554,23 @@
 - [Cellist](http://cellist.patr0n.us/index.html) - HTTP调试客户端。
 - [Integrity](http://peacockmedia.software/mac/integrity/free.html) - 轻松找到无效链接。
 - [Postman](https://www.getpostman.com) - Postman 帮助我们快速测试API。[荐]
+
+
+#### 软件打包工具
+
+* [Finicky](https://johnste.github.io/finicky/) - Web应用程序转化为苹果的应用程序。[开源](https://github.com/johnste/finicky)
+* [nw.js](http://nwjs.io) - 使用HTML和JavaScript来制作桌面应用。[开源](https://github.com/nwjs/nw.js)
+* [Electron](http://electron.atom.io) - 前身是 AtomShell，使用 JS、HTML 和CSS 构建跨平台的桌面应用程序。[开源](https://github.com/electron/electron)
+* [react-desktop](http://reactdesktop.js.org) - 为 macOS Sierra带来React UI组件。[开源](https://github.com/gabrielbull/react-desktop)
+* [React Native Desktop for Mac](https://github.com/ptmt/react-native-desktop) - 用 React Native 技术构建 OS X 下的桌面应用程序。[开源](https://github.com/ptmt/react-native-desktop)
+* [React Native Desktop for Ubuntu](https://github.com/CanonicalLtd/react-native) - 用 React Native 技术构建 Ubuntu 下的桌面应用程序。[开源](https://github.com/CanonicalLtd/react-native)
+* [AppJS](http://appjs.com/) - 使用 JS、HTML 和CSS 构建跨平台的桌面应用程序。[开源](https://github.com/appjs/appjs)
+* [HEX](http://hex.youdao.com/zh-cn/index.html) - 使用 JS、HTML 和CSS 构建跨平台的桌面应用程序，有道出品。[开源](https://github.com/netease-youdao/hex)
+* [AlloyDesktop](https://github.com/AlloyTeam/webtop) - 同上，腾讯出品，给个差评。[开源](https://github.com/AlloyTeam/webtop)
+* [MacGap](http://macgapproject.github.io/) - 桌面WebKit打包HTML、CSS、JS应用。[开源](https://github.com/MacGapProject)
+* [ionic](http://ionicframework.com/) - 一个用来开发混合手机应用的，开源的，免费的代码库。 [开源](https://github.com/driftyco/ionic)
+
+
 
 ## 命令行工具
 
