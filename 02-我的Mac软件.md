@@ -342,6 +342,13 @@ Ubuntu虚拟机安装成功后，如果要更改配置，记得先将Ubuntu虚�
 
 
 
+#### parallels desktop
+
+下载链接：[#](http://download.csdn.net/download/yuanfangdeqin/9870446)、[#](http://download.csdn.net/detail/u011334396/9871702s)。
+
+
+
+
 ## 一些常见软件
 
 
