@@ -39,7 +39,7 @@
 
 #### 截图
 
-- [截图(Jietu)](http://jietu.qq.com/) - 截图附带强大的标注功能，腾讯作品。[荐] [#](https://www.v2ex.com/t/280552) [#](http://sspai.com/33021)
+- [截图(Jietu)](http://jietu.qq.com/) - 截图附带强大的标注功能，腾讯作品。支持截图生成二维码。支持视频录制，可以录制成gif、mp4、mov等格式。[荐] [#](https://www.v2ex.com/t/280552) [#](http://sspai.com/33021)
 - [Skitch](https://evernote.com/intl/zh-cn/skitch/) - 截图附带强大的标注功能。
 - [Snip](http://snip.qq.com/) - 高效的截图工具，支持滚动截屏，腾讯作品。
 
@@ -65,9 +65,6 @@
 
 
 ## 设计与产品
-
-
-
 
 #### 设计工具
 
@@ -399,6 +396,7 @@
 
 > 拒绝盗版从我做起，下面被删除的网站提供大量破解软件下载，欢迎大家监督它们。
 
+* Mac精品软件：<http://xclient.info/>（荐）
 * 玩转苹果：<http://www.ifunmac.com>
 * Mac软件下载站：<http://www.pshezi.com>
 * MacPeers：<http://www.macpeers.com>
@@ -406,7 +404,6 @@
 * Mac软件分享：<http://www.waitsun.com>
 * AppKed：<http://www.macbed.com>
 * 苹果软件园：<http://www.maczapp.com>
-* Mac精品软件：<http://xclient.info/>
 * Macx：<http://www.macx.cn/>
 * 腾牛网：<http://www.qqtn.com/mac/r_17_1.html>
 
