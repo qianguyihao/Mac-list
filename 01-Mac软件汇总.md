@@ -103,6 +103,7 @@
 
 #### 其它工具
 
+
 - [Notes](http://www.get-notes.com/) - 简洁的笔记应用。 [开源](https://github.com/nuttyartist/notes) 
 - [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) - 图片压缩专用开源工具。[开源](https://github.com/kyleduo/TinyPNG4Mac)
 - [Image2icon](http://www.img2icnsapp.com) - 将你的图片转换成图标。
@@ -119,6 +120,33 @@
 - [Iconjar](http://geticonjar.com/) - 图标管理软件，带组织和搜索功能。[star 5]
 - [RightFont](http://rightfontapp.com/) - 字体管理工具。[star 4]
 - [Solarized](http://ethanschoonover.com/solarized) - 干净清爽的颜色主题，支持iTerm、Intellij IDEA、Vim等。
+
+
+
+
+
+## 音频和视频
+
+- [Kodi](https://kodi.tv/) - 一款一流的免费开源媒体中心软件，可用于播放视频、音乐，查看图片，玩游戏等.[!开源](https://github.com/xbmc/xbmc)。
+- [MPV](https://mpv.io/) - 一个免费、开源和跨平台的媒体播放器。[开源](https://github.com/mpv-player/mpv)。
+- [VOX Player](https://coppertino.com/vox/mac) - 免费全能音乐播放器，撸码之余听听歌是一种享受。[荐]。
+- [Radiant Player](http://radiant-player.github.io/radiant-player-mac/) - Google Play音乐播放器。[开源](https://github.com/radiant-player/radiant-player-mac)。
+- [Sonora](https://github.com/sonoramac/Sonora) -  一个很小的音乐播放器。[开源](https://github.com/sonoramac/Sonora)。
+- [Audacity](http://www.audacityteam.org/) - 免费开源的编辑音频的软件。[开源](https://github.com/audacity/audacity)。
+- [Audio Hijack](http://www.rogueamoeba.com/audiohijack/) - 一个记录任何应用程序的音频，包括网络电话Skype，网络流从Safari，以及更多。
+- [Stringed 2](https://itunes.apple.com/us/app/stringed/id698710517?mt=12) - 音频编辑处理工具。
+- [Mixxx](http://mixxx.org/) - 免费的DJ软件，给你一切你需要的表演组合，名副其实的替代Traktor。[开源](https://github.com/mixxxdj/mixxx)。
+- [Cog](http://cogx.org/) - 一个免费的开源音频播放器。[![Open-Source Software][OSS Icon]](https://bitbucket.org/mamburu/cog/) 
+- [VLC](http://www.videolan.org/) - 开源的跨平台多媒体播放器及框架，可播放大多数多媒体文件。[开源](https://github.com/videolan/vlc)。
+- [XLD](http://tmkk.undo.jp/xld/index_e.html) - 解码/解码/转换/播放各种“无损”音频文件。[开源](https://code.google.com/archive/p/xld/source)。
+- [HandBrake](https://handbrake.fr/) - 高性能的视频编码和转换工具，具有很好的图形用户界面。[开源](https://github.com/HandBrake/HandBrake)。
+- [MPlayerX](http://mplayerx.org) - 媒体播放器。[![Open-Source Software][OSS Icon]](https://github.com/niltsh/MPlayerX) 。 
+- [Shotcut](https://www.shotcut.org) - 免费开源视频编辑器。 [开源](https://github.com/mltframework/shotcut)。
+- [ScreenFlow](http://www.telestream.net/screenflow/) - 屏幕和视频编辑软件。
+- [ArcTime](http://www.arctime.org/) - 跨平台字幕制作软件。
+- [Perian](http://perian.org/#download) - 让QuickTime播放所有常见格式的免费插件。[开源](https://github.com/MaddTheSane/perian) 。[荐]
+
+
 
 
 
@@ -259,7 +287,6 @@
 - [Adium](https://adium.im/) - 这个是老的集成多个平台的聊天客户端。
 - [WeeChat](https://weechat.org/) - 一个命令行聊天客户端。![Freeware][Freeware Icon]
 
-
 #### 社交
 
 - [WeiboX](http://weiboformac.sinaapp.com/) - 微博第三方Mac应用。
@@ -293,6 +320,15 @@
 * [CloudMagic Email](https://cloudmagic.com/) - 界面非常简洁的一个邮件客户端。
 * [ThunderBird](https://www.mozilla.org/zh-CN/thunderbird/) - Mozilla 公司出品的强大的Email客户端程序。
 
+
+
+## 数据恢复
+
+
+- [DiskWarrior](http://www.alsoft.com/DiskWarrior/) - 恢复文件系统损坏时，磁盘工具进行选择。
+- [Data Rescue](https://www.prosofteng.com/datarescue-mac-data-recovery/) - 多种情况下的全面和专业的数据恢复。
+- [Stellar Phoenix Mac Data Recovery](http://www.stellarinfo.com/data-recovery-mac.php) - 一个功能强大的恢复文件面向Mac的工具。
+- [R-Studio for Mac](http://www.r-studio.com/data_recovery_macintosh/) - 可恢复分区被格式化、损坏或被删除的文件。
 
 
 ## 虚拟机
@@ -332,6 +368,103 @@
 * [Gitblit](http://www.gitblit.com/) Java版本Git代码托管，项目管理。[![Open-Source Software][OSS Icon]](https://github.com/gitblit/gitblit) ![Freeware][Freeware Icon]
 
 
+
+
+
+## 开发者工具
+
+
+- [WeFlow](https://weflow.io/) - 一个基于 [tmt-workflow](https://github.com/weixin/tmt-workflow) 前端工作流的开发工具。[开源](https://github.com/weixin/WeFlow)。
+- [Koala](http://koala-app.com) - 预处理器语言图形编译工具，支持Less、Sass、CoffeeScript、Compass framework 的即时编译。[开源](https://github.com/oklai/koala/)。
+- [CodeKit](https://incident57.com/codekit/) - 自动编译Less、Sass、Stylus、CoffeeScript、Jade & Haml等文件。
+- [Hosts.prefpane](https://github.com/specialunderwear/Hosts.prefpane) - 编辑 hosts 文件的工具。[开源](https://github.com/specialunderwear/Hosts.prefpane)。
+- [iHosts](http://toolinbox.net/iHosts/) - 唯一上架 [Mac App Store](https://itunes.apple.com/cn/app/id1102004240) 的 /etc/hosts 编辑神器。
+- [SwitchHosts](https://oldj.github.io/SwitchHosts/) - 一个管理、切换多个 hosts 方案的工具。[开源](https://github.com/oldj/SwitchHosts) 。
+- [Gas Mask](https://github.com/2ndalpha/gasmask) - 编辑 hosts 文件的工具，更简单方便。[开源](https://github.com/2ndalpha/gasmask)。
+- [DiffMerge](http://sourcegear.com/diffmerge/) - 可视化的文件比较（也可进行目录比较）与合并工具。
+- [Beyond Compare](http://www.scootersoftware.com/download.php) - 对比两个文件夹或者文件，并将差异以颜色标示。
+- [Kaleidoscope](http://www.kaleidoscopeapp.com/) - 一款很强大的文本文件和图像比较工具，同时和 git、svn 等版本控制工具能够完美的结合。
+- [Fanvas](https://github.com/TencentOpen/Fanvas) - 把swf转为HTML5 canvas动画的系统。[开源](https://github.com/oklai/koala/)。
+- [EnvPane](https://github.com/hschmidt/EnvPane) - 图形终端查看环境变量的应用工具。[开源](https://github.com/hschmidt/EnvPane)。
+- [Dash](https://kapeli.com/dash) - 强大到你无法想象的API离线文档软件。[荐]。
+- [Dlite](https://github.com/nlf/dlite) - 简单的使用Docker的一个软件。[开源](https://github.com/nlf/dlite)
+- [SnippetsLab](https://www.renfei.org/snippets-lab/) - 管理和组织你的代码片段。
+- [StarUML](http://staruml.io) - 强大的软件建模软件。
+- [Vagrant Manager](http://vagrantmanager.com) - 管理你本地服务。[开源](https://github.com/lanayotech/vagrant-manager/)。
+- [zeplin](https://www.zeplin.io/) - 前端与设计协同工作专用工具。
+- [Go2Shell](http://zipzapmac.com/Go2Shell) - 从Finder打开命令行。
+- [SecureCRT](https://www.vandyke.com/products/securecrt/) - 一款支持SSH、Telnet等多种协议的终端仿真程序。
+- [MJML](https://mjmlio.github.io/mjml-app/) - 简化设计回应电子邮件的方式。[开源](https://github.com/mjmlio/mjml)。
+- [TeXstudio](http://www.texstudio.org) - 集成创建LaTeX文档的写作环境。 [开源](https://sourceforge.net/projects/texstudio/)。
+- [Vagrant](https://www.vagrantup.com) - 用来构建虚拟开发环境的工具。 [开源](https://github.com/mitchellh/vagrant)。[荐]
+
+
+#### 正则编辑器
+
+- [Patterns](http://krillapps.com/patterns/) - 正则表达式编辑器。
+- [Reginald](https://github.com/michaeltyson/Reginald) - 正则表达式测试应用程序，使用 [RegexKitLite](http://atastypixel.com/blog/reginald-regex-explorer/)。[开源](https://github.com/michaeltyson/Reginald) 。
+- [Regex](http://motionobj.com/regex/?utm_source=RegexApp&utm_medium=app) - 感觉是用过最漂亮的正则表达式测试工具。
+- [Reggy](http://reggyapp.com/) - 正则表达式编辑器。[开源](https://github.com/samsouder/reggy)。
+- [RegExRX](http://www.mactechnologies.com/index.php?page=downloads#regexrx) - 正则表达式的开发工具。
+
+
+
+## 数据库
+
+- [Sequel Pro](http://www.sequelpro.com/) - 一个MySQL数据库管理软件。[开源](https://github.com/sequelpro/sequelpro)
+- [MySQL Workbench](http://dev.mysql.com/downloads/workbench/) - MySQL数据库官方管理软件。
+- [Postico](https://eggerapps.at/postico/) - 现代PostgreSQL客户端，漂亮功能多。
+- [ElectroCRUD](http://garrylachman.github.io/ElectroCRUD/) - MySQL数据库CRUD应用程序。[开源](https://github.com/garrylachman/ElectroCRUD)
+- [Base 2](http://menial.co.uk/base/) - 一个用于管理SQLite数据库的软件。
+- [Postgres.app](http://postgresapp.com/) - Mac上最简单的方法的使用PostgreSQL关系型数据库管理系统。[!开源](https://github.com/PostgresApp/PostgresApp)
+- [PSequel](http://www.psequel.com/) - PostgreSQL数据库GUI软件。
+- [Robomongo](https://robomongo.org/) - 基于Shell的MongoDB图形化客户端管理软件。[开源](https://github.com/paralect/robomongo)。
+- [MongoBooster](http://www.mongobooster.com/) - MongoDB图形化管理软件，内嵌MongoShell，ES6语法，流畅查询及智能感知。
+- [Mongo Management Studio](http://www.litixsoft.de/english/mms/) - MongoDB图形化客户端管理软件。
+- [MongoChef](http://3t.io/mongochef) - MongoDB图形化客户端管理软件。
+- [Chrome MySQL Admin](https://www.eisbahn.jp/chrome_mysql_admin) - 一个Chrome插件，是MySQL开发的跨平台、可视化数据库工具。[开源](https://github.com/yoichiro/chrome_mysql_admin)。
+- [JackDB](https://www.jackdb.com/) - 直接的SQL访问你所有的数据，无论在哪里。[![Open-Source Software][OSS Icon]](https://github.com/yoichiro/chrome_mysql_admin) ![Freeware][Freeware Icon]
+- [medis](http://getmedis.com) - 漂亮的Redis管理软件。[开源](https://github.com/luin/medis)。
+- [RedisDesktopManager](http://redisdesktop.com) - Redis跨平台的GUI管理工具。[开源](https://github.com/uglide/RedisDesktopManager) 。
+- [MDB Explorer](http://www.macexplorer.co/en/mdb-explorer.php) - Mac上查看编辑Access数据库的工具。
+- [Datum - SQLite](http://datumapps.com/datum.html) - Sqlite3数据库管理软件。
+- [mongoDB.app](https://gcollazo.github.io/mongodbapp/) - 在Mac 上最简单的使用MongoDB [开源](https://github.com/gcollazo/mongodbapp)。
+- [DataGrip](http://www.jetbrains.com/datagrip/) - 是jetbrains公司旗下一款数据库管理工具。[点击这里](https://www.jetbrains.com/student/) **学生**免费。
+- [Tableau Public](https://public.tableau.com/s/) - 数据可视化工具。
+
+
+
+
+
+#### 测试工具
+
+- [Charles](https://www.charlesproxy.com/) - 一个代理工具，允许你查看所有的HTTP和HTTPS流量。
+- [Insomnia 3.0](http://insomnia.rest/) - 漂亮的HTTP请求测试工具。
+- [Cocoa Rest Client](https://mmattozzi.github.io/cocoa-rest-client/) - 比Postman看起来漂亮的客户端，测试HTTP/REST endpoints。[开源](https://github.com/mmattozzi/cocoa-rest-client)
+- [Paw](https://luckymarmot.com/paw) - 先进的 HTTP 客户端。
+- [Cellist](http://cellist.patr0n.us/index.html) - HTTP调试客户端。
+- [Integrity](http://peacockmedia.software/mac/integrity/free.html) - 轻松找到无效链接。
+- [Postman](https://www.getpostman.com) - Postman 帮助我们快速测试API。[荐]
+
+## 命令行工具
+
+- [iTerm2](http://www.iterm2.com) - 免费的终端工具，直接替代自带的Terminal，有非常多惊人的特性。[开源](https://github.com/gnachman/iTerm2) [荐]。
+- [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - 怀旧的命令行终端。[开源](https://github.com/Swordfish90/cool-retro-term)。
+- [Oh my zsh](http://ohmyz.sh) - 拥有大量的有用的功能，助手，插件，主题，等特性的命令行工具插件。[开源](https://github.com/robbyrussell/oh-my-zsh)。
+- [Glances](https://github.com/nicolargo/glances) - 在命令行中查看你系统运行状态的工具。[开源](https://github.com/nicolargo/glances)。
+- [Cakebrew](http://www.cakebrew.com) - [Homebrew](http://brew.sh) 的客户端软件。摆脱命令方便安装、查看、卸载软件。[开源](https://github.com/brunophilipe/Cakebrew/)。
+- [ndm](https://720kb.github.io/ndm) - 查看本地[NPM](http://npmjs.org/)安装的包客户端软件。摆脱命令方便安装、查看、卸载软件。[开源](https://github.com/720kb/ndm) 。
+- [Black Screen](https://github.com/shockone/black-screen) - 来自 21 世纪的强大终端。[开源](https://github.com/shockone/black-screen)。
+- [Fish Shell](https://fishshell.com/) - 智能且用户友好的命令行终端。
+- [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - 和**Oh my zsh**相似，建立在Fish Shell框架上。
+- [bash-it](https://github.com/Bash-it/bash-it) - 一个社区的bash的框架。
+- [color-retro-term](https://swordfishslabs.wordpress.com/2014/09/03/cool-old-term-is-dead-long-live-cool-retro-term/) - 一款复古风格的终端，非常酷炫。
+- [HyperTerm](https://hyperterm.org/) - 一款基于Node开发的终端软件，逼格很高。[开源](https://github.com/zeit/hyperterm)。
+- [itunes-remote](https://github.com/mischah/itunes-remote) - 通过终端控制您的iTunes。[开源](https://github.com/mischah/itunes-remote)。
+- [mycli](https://github.com/dbcli/mycli) - 为MySQL命令行客户端，提供语法高亮和提示功能的工具！ [开源](https://github.com/dbcli/mycli)。
+- [LNav](http://lnav.org) - 日志文件阅读器. [开源](https://github.com/tstack/lnav)。
+- [tmux](https://github.com/tmux/tmux) 终端登录远程主机的命令行工具。[开源](https://github.com/tmux/tmux)
+- [mas](https://github.com/mas-cli/mas) - 一个简单的命令行界面的苹果应用商店。 [开源](https://github.com/mas-cli/mas)。
 
 
 
