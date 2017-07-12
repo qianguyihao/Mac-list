@@ -351,6 +351,7 @@
 - [腾讯微云](https://www.weiyun.com/) - 腾讯云客户端。
 - [坚果云](https://www.jianguoyun.com/s/downloads) - 坚果云客户端。
 - [owncloud](https://owncloud.org) - 私有云网盘。
+- [nextcloud](https://nextcloud.com/) - 另一个私有云网盘。
 - [Mega](https://mega.nz) - 免费的云服务，提供50GB的免费存储空间。
 - [亿方云](https://www.fangcloud.com/) - 硅谷团队打造，个人免费。
 - [Seafile](https://www.seafile.com/) - 是由国内团队开发的国际化的开源云存储软件项目。
