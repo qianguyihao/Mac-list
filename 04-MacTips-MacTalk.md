@@ -714,12 +714,16 @@ endtell
 Homebrew的功能和OS X自带的MacPorts很像，但是更为轻量级，由于大量利用了系统自带的库，安装方便，编译快速，实在是OS X系统开发中之必备工具。
 安装方式：
 
+```bash
 ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)"
+```
 
 使用方式：
 
-brew install wget //安装wget工具。
 
+```bash
+brew install wget //安装wget工具。
+```
 
 具体的使用请参考：https://github.com/mxcl/homebrew/wiki
 
@@ -856,6 +860,7 @@ defaults delete com.apple.screencapture location
 
 mdfind是一个非常灵活的全局搜索命令，类似Spotlight的命令行模式，可以在任何目录执行文件名、文件内容进行检索，例如：
 
+```bash
 mdfind苹果操作系统
 //搜索文件内容或文件名包含苹果操作系统的文件
 mdfind -onlyin ~/Desktop苹果操作系统
@@ -863,19 +868,22 @@ mdfind -onlyin ~/Desktop苹果操作系统
 mdfind -count -onlyin ~/Desktop苹果操作系统
 //统计搜索到的结果
 mdfind -name苹果操作系统
-
-
 //搜索文件名包含苹果操作系统的文件
+```
 
 ### 84．元信息命令mdls
 
 mdls可以列出某个文件或文件夹的所有元数据信息，针对不同文件显示不同的元数据信息，例如文件创建时间、类型、大小等，如果是图片或音视频文件，则会显示更多元数据信息。使用方式非常简单：
 
+```bash
 mdls ~/Desktop/a.jpg
+```
 
 如果想查看图片的ISO数据，可以使用如下命令：
 
+```
 mdls ~/Desktop/a.jpg|grep ISO
+```
 
 ### 85．功能键
 
@@ -897,7 +905,9 @@ file可以查看相关文件的类型和属性，相对于mdls，这个更亲民
 
 打开OS X的终端，通过man命令可以直接查看该命令的使用手册，但有时我们会觉得在命令行查看不太方便，如果可以提供一个pdf文档就完美了。这很容易做到，在终端输入如下命令，即可在预览程序打开grep的使用手册，另存为你需要的文件名即可：
 
+```bash
 man -t grep |open -f -a Preview
+```
 
 ### 89．虚拟机
 
@@ -915,7 +925,9 @@ man -t grep |open -f -a Preview
 用过Linux/Unix系统的都知道root用户，它具备读写文件系统所有区域的特权，是最高级别的用户。OS X一样有root用户，只不过默认情况是不开启的。我们想在命令行执行需要root权限的操作时，可以在命令之前增加sudo指令，比如执行每日维护指令，sudo periodic daily，系统会提示你输入用户密码，执行root权限。在GUI（图形界面）执行root级别的命令时也会提示输入用户密码。一般情况下我们是不需要开启root用户的。
 用惯了Linux系统的用户有时很想启用root用户，其实也很简单，打开Finder，输入shift+command+g，在前往文件夹中输入：
 
+```bash
 /System/Library/CoreServices
+```
 
 然后在目录中找到目录实用工具并打开，解开左下角的小锁，然后点击顶部菜单的，你就会看到启用或停用root用户的选项了。然后我们在命令行下执行su -，就可以切换到root目录下，root的默认目录是/var/root。
 root有风险，启用须谨慎！
@@ -925,8 +937,10 @@ root有风险，启用须谨慎！
 以前介绍过OS X中Space的使用，我们可以定义多个Space，每个程序都可以在特定的Space中打开，多手势上推下滑选择程序，也可以通过ctrl+数字切换Space，很方便。今天再为大家介绍一个隐藏的功能，就是通过四指双击触控板，可以在你最近使用的两个Space之间切换，这个功能就类似电视频道中的返回功能，当你使用了Space1中的一些APP，切换到Space4，通过四指双击可以在Space1和Space4之间切换，对于协同工作非常有效。典型的应用场景：在Space1里编码，在Space4里参考各类文档。
 功能开启，打开终端程序，输入：
 
+```bash
 defaults write com.apple.dock double-tap-jump-back -bool TRUE;#功能开启
 killall Dock;#重启Dock
+```
 
 ### 92．免费的文本编辑器Imagine
 
@@ -938,7 +952,10 @@ killall Dock;#重启Dock
 
 OS X系统有个问题，某个程序反复安装后，选中某种类型的文件，点右键-打开方式，你会看到不少重复的选项，我们可以用以下命令去除重复项。
 
+
+```bash
 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/Support/lsregister -kill -r -domain local -domain system -domain user
+```
 
 ### 94．如何分别设置Mac的鼠标和触控板的滚动方向
 
@@ -995,6 +1012,8 @@ open -n /Applications/XXX.app
 我们可以通过Automator+Applescript实现这个功能。
 打开Automator，选择创建服务，在左侧选择“运行AppleScript”，双击打开程序窗口，在（*Your script goes here *）处输入如下代码：
 
+
+```
 tell application "Finder"
 　try
 　　set filename to POSIX path of (selection as text)
@@ -1007,6 +1026,7 @@ tell application "Finder"
 
 end try
 end tell
+```
 
 在程序上方的选择框设定“文件和文件夹”、“任何应用程序”，然后保存，起个你喜欢的名字，比如叫“以新实例运行”。退出Automator。
 选中文件或程序，右键-服务-以新实例运行，即可实现类似open -n的方式。
@@ -1016,6 +1036,7 @@ end tell
 Automator是苹果公司为其操作系统OS X开发的一款软件。通过点击拖拽鼠标等操作就可以将一系列动作组合成一个工作流，从而帮助你自动完成一些复杂的重复工作。Automator还能横跨很多不同种类的程序，包括：查找器、Safari网络浏览器、iCal、地址簿或者其他的一些程序。在Automator中可以运行Applescript。
 在上一个技巧中我们通过Automator创建了一个服务，当你在Finder或桌面上选中文件时，在右键的服务菜单里增加了一个选项：以新实例运行，是通过Applescript实现的，下面说明一下程序功能：
 
+```
 ——通知Finder
 tell application "Finder"
 　——异常处理
@@ -1030,6 +1051,7 @@ tell application "Finder"
 　　end if
 　end try
 end tell
+```
 
 这里考虑到了选中程序直接打开，或选中文件以默认程序打开的情况。
 
@@ -1066,14 +1088,15 @@ end tell
 但是Spotlight也有出问题的时候，就是它的索引文件出事了，比如查找速度变慢，某些文件明明在硬盘上就是检索不到，等等，这时候就需要重建索引了。
 打开终端程序，输入如下命令：
 
+
+```bash
 sudo mdutil -i off /
 #该命令用来关闭索引
 sudo mdutil -E /`
 #该命令用来删除索引
 sudo mdutil -i on /`
-
-
 #该命令用来重建索引
+```
 
 然后用快捷键呼出spotlight菜单，随便输入一个词，就能看到提示，正在进行索引，并且显示完成重建索引需要的时间。
 完成之后，spotlight又可以运转如飞了。
