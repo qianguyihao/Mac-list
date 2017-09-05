@@ -19,7 +19,7 @@
 
 ## 效率工具
 
-- [Alfred](https://www.alfredapp.com/) - 效率神器。有免费版和付费版两种。付费版功能更强大。[荐] 
+- [Alfred](https://www.alfredapp.com/) - 效率神器。有免费版和付费版两种。付费版功能更强大。[荐] [#](https://zhuanlan.zhihu.com/p/28580894)
 
 
 #### GTD 时间管理
@@ -42,8 +42,15 @@
 - [截图(Jietu)](http://jietu.qq.com/) - 截图附带强大的标注功能，腾讯作品。支持截图生成二维码。支持视频录制，可以录制成gif、mp4、mov等格式。[荐] [#](https://www.v2ex.com/t/280552) [#](http://sspai.com/33021)
 - [Skitch](https://evernote.com/intl/zh-cn/skitch/) - 截图附带强大的标注功能。
 - [Snip](http://snip.qq.com/) - 高效的截图工具，支持滚动截屏，腾讯作品。
+- [Annotate](https://itunes.apple.com/cn/app/annotate-capture-and-share/id918207447?mt=12) - 款非常强大的图片注释软件，可对屏幕截图或者现有图片进行批注。同时，在基础的图片注释功能上还增加了“局部高亮”、“Emoji 表情”、 ”GIF 动图录制与注释“、“与 Dropbox/CloudApp 同步数据“等功能，虽然没有 Skitch 的图片管理功能，也没有 Napkin 的图片拼贴功能，但从注释操作的需求上看，它的确算是 No.1。[荐]。[#](https://sspai.com/post/30486)
+- [snappy](https://itunes.apple.com/cn/app/snappy-snapshots-the-smart-way/id512617038?mt=12) - 官网地址：<http://snappy-app.com/>。新出来的一款截图工具，截图之后可生成悬浮窗。[荐]。[#](http://www.ifanr.com/app/891044)[#](https://sspai.com/post/36375)
 
 
+
+#### gif录制
+
+- [Licecap](http://www.cockos.com/licecap/) - 是一款屏幕录制工具输出GIF，录制过程中可以随意改变录屏范围。[开源](https://github.com/justinfrankel/licecap) 【荐】。录制结束后，可以在这个网站<https://ezgif.com/optimize>上进行压缩
+- [Kap](https://getkap.co/) - 轻量 GIF 录屏小工具。[开源](https://github.com/wulkano/kap) [star 5]
 
 
 #### 翻译工具
@@ -143,6 +150,7 @@
 - [Surge](http://nssurge.com/) - 科学上网。[荐]
 - [佛跳墙](http://www.godusevpn.cc/) - 科学上网。[荐]
 - [AgentWho](https://agentwho.network) - 网速很快，但有点贵。[荐]
+- []()
 - [云梯](https://www.ytpub.com/) - 在圈内小有名气的VPN服务提供商。
 - [SpechtLite](https://github.com/zhuhaow/SpechtLite) - 支持 Shadowsocks 及规则管理的高效率代理。
 - [ShadowsocksX-NG](https://github.com/qiuyuzhou/ShadowsocksX-NG) - 一款ShadowsocksX客户端软件。
@@ -153,7 +161,7 @@
 - [二师兄VPN](http://www.2-vpn4.cc/home.action) - 提供无限流量、无限续期免费VPN账号。
 - [GTX加速器](http://www.jsqgtx.cc/DownLoad) - 每天签到领取500M流量。
 - [GreenVPN](http://applewoods.org/article/) - 注册激活送免费VPN加速流量。
-
+- [v2ss](https://en.v2ss.info/) - 
 
 
 
@@ -204,8 +212,8 @@
 - [Framer](http://framerjs.com/) - 做交互原型的工具。![hot][hot Icon] [star 5]
 - [Balsamiq Mockups](https://balsamiq.com/products/mockups/) - 一个快速的网页设计原型工具，帮助你更快、更聪明的工作。
 - [Marvel](https://marvelapp.com/) - 简单设计，原型设计和协作。
-- [MindNode](http://mindnode.com/) - 简洁的风格与人性化的操作，绘制思维脑图。
-
+- [MindNode](http://mindnode.com/) - 简洁的风格与人性化的操作，绘制思维脑图。[荐]
+- [iThoughtX]() - 进阶用户喜欢用它画脑图。[荐]。[#](https://sspai.com/post/31516)
 #### 其它工具
 
 
@@ -218,8 +226,6 @@
 - [Frank DeLoupe](http://jumpzero.com/frank/) - 支持 Retina 的屏幕拾色器。
 - [ColorSchemer](http://www.colorschemer.com/) - 专业的配色、调色软件。
 - [IconKit](https://itunes.apple.com/cn/app/iconkit-icon-resizer-for-app/id507135296?mt=12) - App图标自动生成器。
-- [Licecap](http://www.cockos.com/licecap/) - 是一款屏幕录制工具输出GIF，录制过程中可以随意改变录屏范围。[开源](https://github.com/justinfrankel/licecap) [star 4]
-- [Kap](https://getkap.co/) - 轻量 GIF 录屏小工具。[开源](https://github.com/wulkano/kap) [star 5]
 - [GIPHY Capture](https://itunes.apple.com/us/app/giphy-capture.-the-gif-maker/id668208984) - 免费软件的捕捉和分享图片在桌面上。
 - [iPic](http://toolinbox.net/iPic/) - 上传插图链接分享。
 - [Iconjar](http://geticonjar.com/) - 图标管理软件，带组织和搜索功能。[star 5]
@@ -326,6 +332,16 @@
 - [Calibre](http://calibre-ebook.com/) - 丑陋的软件，但强大的软件电子书管理和转换。[开源](https://github.com/kovidgoyal/calibre) 。[荐]
 - [Sigil](https://sigil-ebook.com/) - [开源](https://github.com/Sigil-Ebook/Sigil)、多平台EPUB编辑器。[荐] 。EPub 电子书制作教程：[#](https://kindlefere.com/post/73.html) [#](https://kindlefere.com/post/71.html) [#](https://kindlefere.com/post/72.html) 
 
+- [Knotes](http://knotesapp.com/cn) - 高效、优雅的 Kindle 标注管理器。
+
+#### pdf阅读
+
+- [MarginNote](https://marginnote.com/) - 在阅读时做标注，记笔记，并可以利用思维导图(Mindmap)和大纲工具(Outline)对笔记进行组织。
+
+- [PDF Expert]() - 极致的 PDF 阅读标注工作体验。
+
+
+
 #### RSS
 
 - [Feeds 2](http://www.feedsapp.com/) - 监控任何RSS。
@@ -415,6 +431,7 @@
 
 > 其实Mac自带的邮件客户端已经很好用了。
 
+- [网易邮箱大师]()。[荐]。[#](https://www.waerfa.com/neteasemailmaster-for-mac)
 * [Spark](https://sparkmailapp.com/) - 新推出的快速邮件客户端支持Mac和iPhone。[荐]
 * [Airmail](http://airmailapp.com) - 快速的邮件客户端支持Mac和iPhone。
 * [Foxmail](http://www.foxmail.com/mac/) - 快速的邮件客户端。
@@ -669,6 +686,10 @@
 **[⬆ 返回顶部](#目录)**
 
 
+
+## 推荐链接
+
+- [OurMacs](https://ourmacs.com)
 
 
 

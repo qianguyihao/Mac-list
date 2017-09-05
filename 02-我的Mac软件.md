@@ -3,12 +3,38 @@
 
 
 
-## 常用软件
+
+
+## 效率工具
 
 ### Alfred
 
 全局搜索工具。Mac 必备工作流神器，可用它来代替系统默认的 Spotlight 搜索功能，配合上付费版的 Powerpack 之后，可以在一个输入框内完成 计算、文件搜索、网页搜索、应用程序搜索、任意脚本程序执行、任意快捷键执行自定义复杂交互。好吧，对于大部分人来说，免费的已经够用了。 
 官网链接：<https://www.alfredapp.com>
+
+Alfred powerpack 3.2.1 破解版链接：<http://www.sdifen.com/alfred34.html>
+
+
+
+
+
+**破解步骤：**
+
+（1）打开dmg镜像，将“Afred 3.app”拖入应用程序中；
+
+（2）打开"CORE Kegen"，点击“patch”弹出对话框，找到“Afred 3.app”；（中间如果弹出安装Xcode，则必须安装；如果没有弹出则不需要安装）。
+
+（3）点击“save”提示“License information saved successfully”。
+
+（4）have done。
+
+系统版本要求：10.9或者更高。
+
+
+PS：如果安装完成后，打开Alfred的时候提示已经损坏，移到垃圾桶，那是没有打开“允许任何来源”安装软件。
+macOS sierra自动隐藏的，在终端里面输入指令：sudo spctl --master-disable就好了，然后重新安装一遍。
+
+
 
 
 
@@ -26,16 +52,24 @@
 
 
 
+## 科学上网
+
 ### ShadowSocks
 
 翻墙方案1。全平台。
+
+#### 使用ShadowSocks后，让dropbox具备代理功能
+
+使用ShadowSocks进行代理后，dropbox默认是无法翻墙的，此时需要对dropbox进行设置。设置如下：
+
+在 Dropbox 的代理首选项中选择 SOCKS5，服务器填 127.0.0.1:1080 即可。
 
 
 ### Surge
 
 翻墙方案2。Surge 是工具，不是链路。付费软件，很贵。官网下载地址：[http://nssurge.com/][3]。
 
-推荐链路：[AgentWho](https://agentwho.network)
+推荐链路：[AgentWho](https://agentwho.network)。域名以前是<https://agentwho.network>，现在是<https://agentwho.rocks/>
 
 
 
@@ -46,10 +80,14 @@
 
 - [mac上的surge配置](http://sining-liu-blog.logdown.com/posts/983010)
 
+
+
+## 网盘
+
 ### dropbox
 
 
-网盘。
+
 
 
 ### Sublime Text
@@ -324,10 +362,10 @@ Errors running builder 'Android Resource Manager'
 Git版本控制的GUI工具。官网链接：<https://www.sourcetreeapp.com>。类似的软件还有[TortoiseGit](https://tortoisegit.org/)。
 
 
-### 虚拟机
+## 虚拟机
 
 
-#### VMware 虚拟机
+### VMware 虚拟机
 
 
 安装包下载链接：<http://xclient.info/s/vmware-fusion.html>
@@ -342,9 +380,28 @@ Ubuntu虚拟机安装成功后，如果要更改配置，记得先将Ubuntu虚�
 
 
 
-#### parallels desktop
+### parallels desktop
 
 下载链接：[#](http://download.csdn.net/download/yuanfangdeqin/9870446)、[#](http://download.csdn.net/detail/u011334396/9871702s)。
+
+#### 软件图标、文字太小的问题
+
+
+在虚拟机parallels desktop中安装Win7后，发现软件的图标、文字很小，为了把图标调大一点，可以进行如下设置：
+"操作-->配置-->硬件-->图形"，然后在分辨率这一栏选择"缩放"，而不是默认的“最适用于Retina显示器”。
+
+再次打开软件，就一切正常了(不过这个时候windows界面会明显感觉分辨率变低了，不过软件能开开心心正常使用啦～)
+
+参考链接：
+
+- [parallels desktop上装应用程序字体，图标太小](http://jingyan.baidu.com/article/5d368d1edf1bfa3f60c057b4.html)
+
+
+
+
+
+
+
 
 
 
