@@ -17,6 +17,16 @@
 - [The Unarchiver]() - 压缩／解压工具。可以从App Store下载。
 
 
+### NTFS移动硬盘读写
+
+> 其实，macOS 系统本身是已经原生支持 NTFS 磁盘格式的读与写的，只不过 NTFS 毕竟是老对手 微软 Windows 产品下的技术，碍于版权和商业上的原因，苹果只好把 NTFS 的“写入”功能给屏蔽掉，变成系统的隐藏特性。
+
+- [Mounty](http://enjoygineering.com/mounty/) - 免费让 Mac 原生支持移动硬盘/U盘 NTFS 读写的必备驱动应用。[#](http://www.iplaysoft.com/mounty-for-ntfs.html)
+
+
+
+
+
 ## 效率工具
 
 - [Alfred](https://www.alfredapp.com/) - 效率神器。有免费版和付费版两种。付费版功能更强大。[荐] [#](https://zhuanlan.zhihu.com/p/28580894)
@@ -507,8 +517,6 @@
 - [iHosts](http://toolinbox.net/iHosts/) - 唯一上架 [Mac App Store](https://itunes.apple.com/cn/app/id1102004240) 的 /etc/hosts 编辑神器。
 - [SwitchHosts](https://oldj.github.io/SwitchHosts/) - 一个管理、切换多个 hosts 方案的工具。[开源](https://github.com/oldj/SwitchHosts) 。
 - [Gas Mask](https://github.com/2ndalpha/gasmask) - 编辑 hosts 文件的工具，更简单方便。[开源](https://github.com/2ndalpha/gasmask)。
-- [DiffMerge](http://sourcegear.com/diffmerge/) - 可视化的文件比较（也可进行目录比较）与合并工具。
-- [Beyond Compare](http://www.scootersoftware.com/download.php) - 对比两个文件夹或者文件，并将差异以颜色标示。
 - [Kaleidoscope](http://www.kaleidoscopeapp.com/) - 一款很强大的文本文件和图像比较工具，同时和 git、svn 等版本控制工具能够完美的结合。
 - [Fanvas](https://github.com/TencentOpen/Fanvas) - 把swf转为HTML5 canvas动画的系统。[开源](https://github.com/oklai/koala/)。
 - [EnvPane](https://github.com/hschmidt/EnvPane) - 图形终端查看环境变量的应用工具。[开源](https://github.com/hschmidt/EnvPane)。
@@ -523,6 +531,14 @@
 - [MJML](https://mjmlio.github.io/mjml-app/) - 简化设计回应电子邮件的方式。[开源](https://github.com/mjmlio/mjml)。
 - [TeXstudio](http://www.texstudio.org) - 集成创建LaTeX文档的写作环境。 [开源](https://sourceforge.net/projects/texstudio/)。
 - [Vagrant](https://www.vagrantup.com) - 用来构建虚拟开发环境的工具。 [开源](https://github.com/mitchellh/vagrant)。[荐]
+
+
+#### 代码比对
+
+- [DiffMerge](http://sourcegear.com/diffmerge/) - 可视化的文件比较（也可进行目录比较）与合并工具。
+- [Beyond Compare](http://www.scootersoftware.com/download.php) - 对比两个文件夹或者文件，并将差异以颜色标示。无限期试用。license连接：[#](https://gist.github.com/huqi/35f2a0792aef830898ca)
+
+
 
 
 #### 正则编辑器

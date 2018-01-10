@@ -174,19 +174,19 @@ store
 
 
 
-#### Xcode
+### Xcode
 
 苹果官网推出的IDE，程序猿必备。从App Store 上下载安装即可。
 
 
 
 
-#### Git安装
+### Git安装
 
 在App Store下载安装Xcode后，会自动安装上Git。安装好之后，在终端输入`git --version`进行验证。
 
 
-#### jdk
+### jdk
 
 jdk  1.7下载地址：<http://www.oracle.com/technetwork/cn/java/javase/downloads/jdk7-downloads-1880260.html>
 
@@ -255,7 +255,7 @@ open -e bash_profile：编辑文件
 
 ### ADT相关
 
-**1、方法一：**ADT Bundle（不推荐）
+**1、方法一**：ADT Bundle（不推荐）
 
 
 从官网下载好[ADT Bundle](https://dl.google.com/android/adt/adt-bundle-mac-x86_64-20140702.zip)之后，打开eclipse.app，提示：`您需要安装旧java SE 6 运行环境才能打开Eclipse.app`。在当前画面点击「查看更多」，会自动跳到apple官网链接，下载对应版本的jdk 1.6进行安装即可。
@@ -265,10 +265,9 @@ open -e bash_profile：编辑文件
 
 参考链接：
 
-- [](http://www.cnblogs.com/zhouyinhui/p/3751389.html)
+- [mac os 下搭建android开发环境](http://www.cnblogs.com/zhouyinhui/p/3751389.html)
 
-
-**2、方法二：**Eclipse for android（不推荐）
+**2、方法二**：Eclipse for android（不推荐）
 
 Mac下adt-bundle不太好用.其实Eclipse官网本身提供了与Android集成的Eclipse版本，使用了下相当不错，大家可以试试,下载地址：<http://www.eclipse.org/downloads/eclipse-packages/>
 
@@ -295,19 +294,22 @@ Mac下adt-bundle不太好用.其实Eclipse官网本身提供了与Android集成�
 - ADT插件的版本：[ADT-23.0.2.zip](https://downloads.puresoftware.org/files/android/ADT/)
 
 
-下载历史版本的celipse 4.5.2。下载链接：<http://archive.eclipse.org/eclipse/downloads/>。然后，离线安装ADT。**离线安装ADT插件的步骤如下：**
+下载历史版本的celipse 4.5.2。下载链接：<http://archive.eclipse.org/eclipse/downloads/>。然后，离线安装ADT。
+
+**离线安装ADT插件的步骤如下：**
 
 （1）启动 Eclipse ；选择「Help > Install New Software」，在右上角点击「add」，然后点击「Archive」进行本地安装；选择下载的文件 adt-23.0.2.zip  并点击 OK 。
 
 （2）然后经过Pending解析后，就可以看到对应的：Developer Tools，选中Developer Tools，并去掉对话框的左下角最下面的一个选项前的对勾，不然会安装的很慢：
 
-20161206_1340.png
+![](http://img.smyhvae.com/20161206_1340.png)
 
 （3）然后一路Next，点击接受协议和完成；中间会有安全提示，点击OK即可。安装完毕后，会要求重启Eclipse。大功告成。
 
 第一次重启后，软件会提示你设置Android SDK路径，那就加载之前下载好的SDK即可。如下图所示：
 
-20161206_1347.png
+![](http://img.smyhvae.com/20161206_1347.png)
+
 
 上图中的选项，在「Eclipse- 偏好设置- Android」中也可以设置。
 
@@ -325,7 +327,7 @@ Mac下adt-bundle不太好用.其实Eclipse官网本身提供了与Android集成�
 - ADT的历史版本下载链接：<https://downloads.puresoftware.org/files/android/ADT/>
 
 
-打开Eclipse，新建一个Android工程，如果报错如下：
+打开Eclipse，新建一个Android工程，可能报错如下：
 
 ```bah
 Errors occurred during the build.
@@ -354,10 +356,10 @@ Errors running builder 'Android Resource Manager'
 -  [在MAC上搭建eclipse+android开发环境(荐)](http://jingyan.baidu.com/article/455a9950b66eb2a1662778ee.html)
 
 
-#### Android Studio
+### Android Studio
 
 
-#### SourceTree
+### SourceTree
 
 Git版本控制的GUI工具。官网链接：<https://www.sourcetreeapp.com>。类似的软件还有[TortoiseGit](https://tortoisegit.org/)。
 
@@ -398,11 +400,35 @@ Ubuntu虚拟机安装成功后，如果要更改配置，记得先将Ubuntu虚�
 
 
 
+### Beyond Compare：代码比对
+
+官网下载链接：<http://www.scootersoftware.com/download.php>
+
+在我写此文档时，我下载的版本是4.2.3。
+
+**Beyond Compare破解方法：**
+
+> 在官网下载Beyond Compare后进行安装。然后进行破解。破解步骤如下。
 
 
+- 1.Open trial.key at path: /Applications/Beyond\ Compare.app/Contents/Resources/trial.key
 
+- 2.Replace content of trial.key with:
 
+```bash
+--- BEGIN LICENSE KEY ---
+H1bJTd2SauPv5Garuaq0Ig43uqq5NJOEw94wxdZTpU-pFB9GmyPk677gJ
+vC1Ro6sbAvKR4pVwtxdCfuoZDb6hJ5bVQKqlfihJfSYZt-xVrVU27+0Ja
+hFbqTmYskatMTgPyjvv99CF2Te8ec+Ys2SPxyZAF0YwOCNOWmsyqN5y9t
+q2Kw2pjoiDs5gIH-uw5U49JzOB6otS7kThBJE-H9A76u4uUvR8DKb+VcB
+rWu5qSJGEnbsXNfJdq5L2D8QgRdV-sXHp2A-7j1X2n4WIISvU1V9koIyS
+NisHFBTcWJS0sC5BTFwrtfLEE9lEwz2bxHQpWJiu12ZeKpi+7oUSqebX+
+--- END LICENSE KEY -----
+```
 
+- 3.Save trial.key file & restart Beyond Compare app
+
+- 4.Enjoy!
 
 
 
