@@ -1,6 +1,18 @@
 Mac基本操作
 
 
+
+## Finder的使用
+
+#### 在Findle中显示隐藏文件
+
+- 「Command + Shift + . 」 可以显示隐藏文件、文件夹，再按一次，恢复隐藏。
+
+- finder下使用Command+Shift+G 可以前往任何文件夹，包括隐藏文件夹。
+
+
+
+
 ## 软件安装
 
 dmg格式：双击安装包，然后拖到applications文件夹下即可。
@@ -237,7 +249,7 @@ sudo spctl --master-disable
 
 ## 终端
 
-### 在Finder当前目录打开终端
+### 在Finder的当前目录打开终端
 
 在Finder打开terminal终端这个功能其实是有的，但是系统默认没有打开。我们可以通过如下方法将其打开：
 
