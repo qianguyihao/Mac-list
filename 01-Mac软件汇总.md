@@ -59,7 +59,7 @@
 
 #### gif录制
 
-- [Licecap](http://www.cockos.com/licecap/) - 是一款屏幕录制工具输出GIF，录制过程中可以随意改变录屏范围。[开源](https://github.com/justinfrankel/licecap) 【荐】。录制结束后，可以在这个网站<https://ezgif.com/optimize>上进行压缩
+- [Licecap](http://www.cockos.com/licecap/) - 是一款屏幕录制工具输出GIF，录制过程中可以随意改变录屏范围，录制的文件也非常小。[开源](https://github.com/justinfrankel/licecap) 【荐】。录制结束后，可以在这个网站<https://ezgif.com/optimize>上进行压缩。
 - [Kap](https://getkap.co/) - 轻量 GIF 录屏小工具。[开源](https://github.com/wulkano/kap) [star 5]
 
 
@@ -81,7 +81,7 @@
 * [Rocket](http://matthewpalmer.net/rocket/) - Emoji标签输入。
 * [颜文字](https://itunes.apple.com/cn/app/yan-wen-zi/id914708191?mt=12) - 颜文字输入。
 * [RIME](http://rime.im/) - 中州韻輸入法引擎。[开源](https://github.com/rime)。
-* [哈利路亚英文输入法](https://github.com/dongyuwei/hallelujahIM) - 智能英文输入法，具备自动补全，自动纠错功能。 
+* [哈利路亚英文输入法](https://github.com/dongyuwei/hallelujahIM) - 智能英文输入法，具备自动补全，自动纠错功能。
 * ~~[QQ输入法](http://qq.pinyin.cn/) - 腾讯出品的输入法。~~
 
 
@@ -93,7 +93,7 @@
 * [JDownloader](http://jdownloader.org/) - 下载工具，下载文件的一键式托管。
 * [You-Get](https://you-get.org/) - 网络富媒体命令行下载工具。[开源](https://github.com/soimort/you-get)。
 * [Free Download Manager](http://www.freedownloadmanager.org/) - 功能强大的下载加速器。
-* [FOLX](http://mac.eltima.com/download-manager.html) - Folx 是一个Mac osx 系统风格界面的下载管理工具。 
+* [FOLX](http://mac.eltima.com/download-manager.html) - Folx 是一个Mac osx 系统风格界面的下载管理工具。
 
 
 
@@ -102,8 +102,8 @@
 
 * [12306ForMac](https://github.com/fancymax/12306ForMac) - Mac版12306 订票/捡票 助手。[开源](https://github.com/fancymax/12306ForMac) [荐]
 * [AirServer](http://www.airserver.com/Download) - 将手机投影到电脑上。
-* [CheatSheet](https://www.mediaatelier.com/CheatSheet/) - CheatSheet 是一款Mac上的非常实用的快捷键快速提醒工具。 
-* [WWDC](https://github.com/insidegui/WWDC) - Mac OS的非官方的WWDC APP。[[开源]](https://github.com/insidegui/WWDC) 
+* [CheatSheet](https://www.mediaatelier.com/CheatSheet/) - CheatSheet 是一款Mac上的非常实用的快捷键快速提醒工具。
+* [WWDC](https://github.com/insidegui/WWDC) - Mac OS的非官方的WWDC APP。[[开源]](https://github.com/insidegui/WWDC)
 * [xScope](http://xscopeapp.com/) - 测量、检查和测试屏幕上的图形和布局的工具。搜索你的苹果和网络，快速打开应用程序。
 * [f.lux](https://justgetflux.com/) - 自动调整您的电脑屏幕，以匹配亮度。
 * [Todoist](https://todoist.com/mac) - 跨平台的任务管理器与移动应用程序。
@@ -123,16 +123,16 @@
 * [Paragon NTFS](https://www.paragon-software.com/home/ntfs-mac/) - 在Mac OS X中完全读写、修改、访问Windows NTFS硬盘、U盘等外接设备的文件。
 * [Tuxera NTFS](http://www.tuxera.com/products/tuxera-ntfs-for-mac/) - Mac上的NTFS文件系统驱动。
 * [gfxCardStatus](https://gfx.io/) - 控制Mac独立显卡与集成显卡之间的切换。
-* [openEmu](http://openemu.org/) - 模拟器，可以玩魂斗罗之类，放松回到小时候。[[开源]](https://github.com/OpenEmu/OpenEmu) 
+* [openEmu](http://openemu.org/) - 模拟器，可以玩魂斗罗之类，放松回到小时候。[[开源]](https://github.com/OpenEmu/OpenEmu)
 * [Hammerspoon](http://www.hammerspoon.org/) - 功能强大的自动化工具，Lua 脚本驱动，支持窗口管理。[[开源]](https://github.com/Hammerspoon/hammerspoon)
 * [DaisyDisk](https://daisydiskapp.com/) - 磁盘空间使用扫描工具。
 * [iStat pro](https://bjango.com/mac/istatmenus/) - 免费的Mac OS电脑硬件信息检测软件。
 * [BitBar](https://getbitbar.com/) - 支持使用各种语言将信息展示到Mac OS的菜单栏。[开源](https://github.com/matryer/bitbar)
 * [ClipMenu](http://www.clipmenu.com) - 一个剪贴板操作的管理器。
-* [Paste](http://pasteapp.me) - 智能剪贴板历史片段管理。 
-* [ControlPlane](http://www.controlplaneapp.com/) - 自定义Mac情景模式。某些场景让Mac自动静音或是自动打开Mail客户端等等。[开源](https://github.com/dustinrue/ControlPlane) 
+* [Paste](http://pasteapp.me) - 智能剪贴板历史片段管理。
+* [ControlPlane](http://www.controlplaneapp.com/) - 自定义Mac情景模式。某些场景让Mac自动静音或是自动打开Mail客户端等等。[开源](https://github.com/dustinrue/ControlPlane)
 * [Caffeine](http://lightheadsw.com/caffeine/) - 实用工具，菜单栏按钮，点击休眠。
-* [Itsycal](https://www.mowglii.com/itsycal/) - 一款简洁实用的开源日历工具。[开源](https://github.com/sfsam/itsycal) 
+* [Itsycal](https://www.mowglii.com/itsycal/) - 一款简洁实用的开源日历工具。[开源](https://github.com/sfsam/itsycal)
 * [HTML5 Player](http://zythum.sinaapp.com/youkuhtml5playerbookmark/) - Chrome插件解决中国视频网站播放视频电脑发热的情况。
 * [Monity](http://www.monityapp.com/) - 帮助用户实时监控系统的一款非常漂亮的软件。
 * [BetterTouchTool](http://www.bettertouchtool.net/) - 代替默认的系统操作方式（组合键、修饰键、手势等）。
@@ -151,7 +151,7 @@
     * [Path Finder](http://www.cocoatech.com/pathfinder/) - 强大的Finder替代者，拥有很多特性。
     * [TotalFinder](http://totalfinder.binaryage.com/) - 强大的Finder替代者，界面风格像Chrome。【荐】
     * [XtraFinder](https://www.trankynam.com/xtrafinder/) - 给Finder添加有用的新特性。
-- 
+-
 
 
 ## 科学上网
@@ -171,7 +171,7 @@
 - [二师兄VPN](http://www.2-vpn4.cc/home.action) - 提供无限流量、无限续期免费VPN账号。
 - [GTX加速器](http://www.jsqgtx.cc/DownLoad) - 每天签到领取500M流量。
 - [GreenVPN](http://applewoods.org/article/) - 注册激活送免费VPN加速流量。
-- [v2ss](https://en.v2ss.info/) - 
+- [v2ss](https://en.v2ss.info/) -
 
 
 
@@ -203,12 +203,12 @@
 - [SketchBook](https://www.sketchbook.com/?locale=cn) - 出众的绘图软件。
 - [Tayasui Sketches](http://www.tayasui.com/sketches/) - 专业的绘图软件。
 - [Nik Collection](https://www.google.com/nikcollection/) - 专业照片后期制作工具Google收购后免费。
-- [Paintbrush](http://paintbrush.sourceforge.net/) - 位图图像编辑器。[开源](https://sourceforge.net/projects/paintbrush/files/) 
-- [Krita](https://krita.org/) - 一个开源的位图形编辑软件，包含一个绘画程式和照片编辑器。 [开源](http://download.kde.org/stable/krita/3.0/krita-3.0.tgz.mirrorlist) 
+- [Paintbrush](http://paintbrush.sourceforge.net/) - 位图图像编辑器。[开源](https://sourceforge.net/projects/paintbrush/files/)
+- [Krita](https://krita.org/) - 一个开源的位图形编辑软件，包含一个绘画程式和照片编辑器。 [开源](http://download.kde.org/stable/krita/3.0/krita-3.0.tgz.mirrorlist)
 - [Vectr](https://vectr.com/) - 免费图形编辑器。这是一个简单而强大的Web和桌面跨平台工具，把你的设计变成现实。
 - [Principle](http://principleformac.com/) -  使用它很容易设计动画和交互式用户界面。[star 5]
 - [MagicaVoxel](https://ephtracy.github.io/) - 轻量级的8位像素编辑和交互路径追踪渲染器。
-- [ScreenToLayers](http://jeremyvizzini.com/screentolayers/) - 轻松导出桌面分层文件PSD文件。[开源](https://github.com/jeremyvizzini/ScreenToLayers) 
+- [ScreenToLayers](http://jeremyvizzini.com/screentolayers/) - 轻松导出桌面分层文件PSD文件。[开源](https://github.com/jeremyvizzini/ScreenToLayers)
 
 #### 原型流程
 
@@ -227,7 +227,7 @@
 #### 其它工具
 
 
-- [Notes](http://www.get-notes.com/) - 简洁的笔记应用。 [开源](https://github.com/nuttyartist/notes) 
+- [Notes](http://www.get-notes.com/) - 简洁的笔记应用。 [开源](https://github.com/nuttyartist/notes)
 - [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) - 图片压缩专用开源工具。[开源](https://github.com/kyleduo/TinyPNG4Mac)
 - [Image2icon](http://www.img2icnsapp.com) - 将你的图片转换成图标。
 - [ImageAlpha](https://pngmini.com/) - 压缩PNG图片，去掉无效的透明。[开源](https://github.com/pornel/ImageAlpha)
@@ -257,11 +257,11 @@
 - [Audio Hijack](http://www.rogueamoeba.com/audiohijack/) - 一个记录任何应用程序的音频，包括网络电话Skype，网络流从Safari，以及更多。
 - [Stringed 2](https://itunes.apple.com/us/app/stringed/id698710517?mt=12) - 音频编辑处理工具。
 - [Mixxx](http://mixxx.org/) - 免费的DJ软件，给你一切你需要的表演组合，名副其实的替代Traktor。[开源](https://github.com/mixxxdj/mixxx)。
-- [Cog](http://cogx.org/) - 一个免费的开源音频播放器。[![开源][OSS Icon]](https://bitbucket.org/mamburu/cog/) 
+- [Cog](http://cogx.org/) - 一个免费的开源音频播放器。[![开源][OSS Icon]](https://bitbucket.org/mamburu/cog/)
 - [VLC](http://www.videolan.org/) - 开源的跨平台多媒体播放器及框架，可播放大多数多媒体文件。[开源](https://github.com/videolan/vlc)。
 - [XLD](http://tmkk.undo.jp/xld/index_e.html) - 解码/解码/转换/播放各种“无损”音频文件。[开源](https://code.google.com/archive/p/xld/source)。
 - [HandBrake](https://handbrake.fr/) - 高性能的视频编码和转换工具，具有很好的图形用户界面。[开源](https://github.com/HandBrake/HandBrake)。
-- [MPlayerX](http://mplayerx.org) - 媒体播放器。[![开源][OSS Icon]](https://github.com/niltsh/MPlayerX) 。 
+- [MPlayerX](http://mplayerx.org) - 媒体播放器。[![开源][OSS Icon]](https://github.com/niltsh/MPlayerX) 。
 - [Shotcut](https://www.shotcut.org) - 免费开源视频编辑器。 [开源](https://github.com/mltframework/shotcut)。
 - [ScreenFlow](http://www.telestream.net/screenflow/) - 屏幕和视频编辑软件。
 - [ArcTime](http://www.arctime.org/) - 跨平台字幕制作软件。
@@ -277,10 +277,10 @@
 
 - [Atom](https://atom.io) - GitHub推出的[开源](https://github.com/atom/atom)编辑器。
 - [Sublime Text](http://www.sublimetext.com/3) - 一个比较简洁大方带插件管理系统的流行编辑器，[Sublime常用插件](editor-plugin.md#sublime-text-plugin)。[荐]
-- [Brackets](http://brackets.io) - Adobe推出的Brackets免费/开源编辑器。[开源](https://github.com/adobe/brackets/) 
-- [Visual Studio Code](http://code.visualstudio.com) - 微软推出的免费/开源编辑器，TypeScript支持杠杠的。[荐](https://github.com/Microsoft/vscode) 
+- [Brackets](http://brackets.io) - Adobe推出的Brackets免费/开源编辑器。[开源](https://github.com/adobe/brackets/)
+- [Visual Studio Code](http://code.visualstudio.com) - 微软推出的免费/开源编辑器，TypeScript支持杠杠的。[荐](https://github.com/Microsoft/vscode)
 - [Emacs](https://www.emacswiki.org/emacs/EmacsForMacOS) - Emacs是基于控制台的编辑器和高度可定制的。
-- [LightTable](https://www.lighttable.com) - 下一代代码编辑器。[开源](https://github.com/LightTable/LightTable) 
+- [LightTable](https://www.lighttable.com) - 下一代代码编辑器。[开源](https://github.com/LightTable/LightTable)
 - [TextMate](https://macromates.com) - 文本编辑器软件，与BBedit一起并称苹果机上的emacs和vim，这是以前。
 - [BBEdit](http://www.barebones.com/products/bbedit/) - 强大的文件编辑器，用于编辑文件，文本文件及程序源代码。
 - [Coda2](https://panic.com/coda) - 编写Web应用长得漂亮的编辑器。
@@ -289,7 +289,7 @@
     - [vim-plug](https://github.com/junegunn/vim-plug) - 一个简约的vim插件管理器。[开源](https://github.com/junegunn/vim-plug)
     - [WebVim](https://github.com/krampstudio/webvim) - 倾向于开发JavaScript和Web的vim。
     - [vim-web](https://github.com/jaywcjlove/vim-web) - 一个前端开发工程师的vim。[开源](https://github.com/jaywcjlove/vim-web)
-    - [Neovim](https://neovim.io/) -  提高Vim可扩张灵活性。[开源](https://github.com/neovim/neovim) 
+    - [Neovim](https://neovim.io/) -  提高Vim可扩张灵活性。[开源](https://github.com/neovim/neovim)
     - [Spacevim](https://github.com/ctjhoa/spacevim) -  模仿Spacemacs的使用方式。
     - [Spf13](http://vim.spf13.com/) - 一套全方位的配置项目。
 - [Vimr](http://vimr.org/) - Vim客户端，升级Vim体验。[开源](https://github.com/qvacua/vimr/)
@@ -333,14 +333,14 @@
 - [Typora](http://www.typora.io/) - 基于 Electron 的“读写一体” Markdown 编辑器。[hot]
 - [EME](https://github.com/egoist/eme) - 最近刚出的一款Markdown编辑器，界面很像Chrome浏览器的界面，很简约。
 - [LightPaper](http://lightpaper.42squares.in/) - 简单的Markdown文本编辑器。
-- [Cmd Markdown](https://www.zybuluo.com/) - Cmd Markdown 编辑阅读器，支持实时同步预览，区分写作和阅读模式，支持在线存储，分享文稿网址。 
+- [Cmd Markdown](https://www.zybuluo.com/) - Cmd Markdown 编辑阅读器，支持实时同步预览，区分写作和阅读模式，支持在线存储，分享文稿网址。
 
 
 #### 电子书相关
 
 - [Kindle App](http://www.amazon.com/gp/help/customer/display.html?nodeId=201246110) - 亚马逊 Kindle App 电子书阅读器。
 - [Calibre](http://calibre-ebook.com/) - 丑陋的软件，但强大的软件电子书管理和转换。[开源](https://github.com/kovidgoyal/calibre) 。[荐]
-- [Sigil](https://sigil-ebook.com/) - [开源](https://github.com/Sigil-Ebook/Sigil)、多平台EPUB编辑器。[荐] 。EPub 电子书制作教程：[#](https://kindlefere.com/post/73.html) [#](https://kindlefere.com/post/71.html) [#](https://kindlefere.com/post/72.html) 
+- [Sigil](https://sigil-ebook.com/) - [开源](https://github.com/Sigil-Ebook/Sigil)、多平台EPUB编辑器。[荐] 。EPub 电子书制作教程：[#](https://kindlefere.com/post/73.html) [#](https://kindlefere.com/post/71.html) [#](https://kindlefere.com/post/72.html)
 
 - [Knotes](http://knotesapp.com/cn) - 高效、优雅的 Kindle 标注管理器。
 
@@ -356,7 +356,7 @@
 
 - [Feeds 2](http://www.feedsapp.com/) - 监控任何RSS。
 - [ReadKit](http://readkitapp.com/) - 书签RSS管理客户端。
-- [Reeder 3](http://reederapp.com/mac/) - RSS 服务订阅。[hot] 
+- [Reeder 3](http://reederapp.com/mac/) - RSS 服务订阅。[hot]
 - [Leaf](http://www.rockysandstudio.com/) - RSS 客户端程序。[hot]
 - [Vienna](http://www.vienna-rss.org/) - [开源](https://github.com/ViennaRSS/vienna-rss)的RSS/Atom 新闻阅读客户端。
 
@@ -645,7 +645,7 @@
 ## 远程协助
 
 - [TeamViewer](https://www.teamviewer.com) - 远程协助及在线协作和会议功能的软件，商业软件个人使用免费。[荐]
-- [RealVNC](https://www.realvnc.com) 是一款免费的远程控制跨多平台的程序。 
+- [RealVNC](https://www.realvnc.com) 是一款免费的远程控制跨多平台的程序。
 
 ## 第三方应用市场APP
 
@@ -655,7 +655,7 @@
 
 *这里只提供正版软件购买下载的应用商店。*
 
-- [HackStore](http://hack-store.com/) - 一个类似于cydia的第三方Mac应用市场，平台拒绝盗版。 
+- [HackStore](http://hack-store.com/) - 一个类似于cydia的第三方Mac应用市场，平台拒绝盗版。
 - [MacUpdate Desktop](https://www.macupdate.com/) - 管理/更新/下载App，跟踪优惠信息。
 - [homebrew-cask](http://caskroom.io) - 体验通过命令行安装Mac软件的工具。
 
@@ -675,7 +675,7 @@
 #### Mac工具介绍
 
 * 少数派：[http://sspai.com/tag/Mac](http://sspai.com/tag/Mac)
-* Mac玩儿法：[http://www.waerfa.com](http://www.waerfa.com) 
+* Mac玩儿法：[http://www.waerfa.com](http://www.waerfa.com)
 
 
 #### 正版Mac软件下载
