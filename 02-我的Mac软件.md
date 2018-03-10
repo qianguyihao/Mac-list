@@ -9,7 +9,7 @@
 
 ### Alfred
 
-全局搜索工具。Mac 必备工作流神器，可用它来代替系统默认的 Spotlight 搜索功能，配合上付费版的 Powerpack 之后，可以在一个输入框内完成 计算、文件搜索、网页搜索、应用程序搜索、任意脚本程序执行、任意快捷键执行自定义复杂交互。好吧，对于大部分人来说，免费的已经够用了。 
+全局搜索工具。Mac 必备工作流神器，可用它来代替系统默认的 Spotlight 搜索功能，配合上付费版的 Powerpack 之后，可以在一个输入框内完成 计算、文件搜索、网页搜索、应用程序搜索、任意脚本程序执行、任意快捷键执行自定义复杂交互。好吧，对于大部分人来说，免费的已经够用了。
 官网链接：<https://www.alfredapp.com>
 
 Alfred powerpack 3.2.1 破解版链接：<http://www.sdifen.com/alfred34.html>
@@ -331,7 +331,7 @@ Mac下adt-bundle不太好用.其实Eclipse官网本身提供了与Android集成�
 
 ```bah
 Errors occurred during the build.
-Errors running builder 'Android Resource Manager' 
+Errors running builder 'Android Resource Manager'
 ```
 
 我照着网上的教程操作了一下。解决办法如下：（并没有解决我的问题）
@@ -343,7 +343,7 @@ Errors running builder 'Android Resource Manager'
 （3）找到“-vmargs”，在其前面添加如下内容：
 
 ```bash
--vm  
+-vm
 /System/Library/Frameworks/JavaVM.framework/Versions/1.6/Commands/java
 ```
 
@@ -431,6 +431,37 @@ NisHFBTcWJS0sC5BTFwrtfLEE9lEwz2bxHQpWJiu12ZeKpi+7oUSqebX+
 - 4.Enjoy!
 
 
+### WebStorm
+
+
+1、WebStorm 2017 最新版激活方式：（已过时）
+
+注册时，在打开的License Activation窗口中选择“License server”，在输入框输入下面的网址：http://idea.imsxm.com
+
+2017.3版本被封，需要自己在本地反向代理。
+
+
+
+2、WebStorm 2017.3.3 版本激活地址：（推荐）
+
+在激活对话框中点击第三个选项 license server，然后输入地址：
+
+```
+http://im.js.cn:8888
+```
+
+参考链接：
+
+- <https://www.cnblogs.com/gkl2013/p/6740779.html>
+
+- 激活方法：[反向代理](http://www.imsxm.com/2017/12/go-active-proxy-tool.html)
+
+- [webstorm 2017.3版本激活地址【最新】](http://blog.csdn.net/qq_20334295/article/details/79095277)
+
+
+
+
+
 
 ## 一些常见软件
 
@@ -450,7 +481,7 @@ NisHFBTcWJS0sC5BTFwrtfLEE9lEwz2bxHQpWJiu12ZeKpi+7oUSqebX+
 
 > 本软件中，分享下载的所有dmg、zip 打开密码均为 xclient.info。
 
-**软件下载链接：** 
+**软件下载链接：**
 
 Adobe Photoshop CC 2017_18.0.0（附中文语言包）：
 
@@ -559,6 +590,6 @@ Bartender软件官网链接：<https://www.macbartender.com/>，软件太贵了�
 
 [1]:	https://itunes.apple.com/cn/app/jie-tu-jietu/id1059334054?mt=12
 [3]:	http://nssurge.com/
-[4]:	
+[4]:
 [5]:	https://www.google.com/chrome/browser/thankyou.html?standalone=1&platform=mac&installdataindex=defaultbrowser#
 [6]:	https://ii-i.org/archives/8
