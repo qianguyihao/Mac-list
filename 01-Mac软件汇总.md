@@ -49,10 +49,13 @@
 
 #### 截图
 
+- [snipaste](https://zh.snipaste.com/) - 新生代截图工具。[荐]。
+
+- [Annotate](https://itunes.apple.com/cn/app/annotate-capture-and-share/id918207447?mt=12) - 款非常强大的图片注释软件，可对屏幕截图或者现有图片进行批注。同时，在基础的图片注释功能上还增加了“局部高亮”、“Emoji 表情”、 ”GIF 动图录制与注释“、“与 Dropbox/CloudApp 同步数据“等功能，虽然没有 Skitch 的图片管理功能，也没有 Napkin 的图片拼贴功能，但从注释操作的需求上看，它的确算是 No.1。[荐]。[#](https://sspai.com/post/30486)
+
 - [截图(Jietu)](http://jietu.qq.com/) - 截图附带强大的标注功能，腾讯作品。支持截图生成二维码。支持视频录制，可以录制成gif、mp4、mov等格式。[荐] [#](https://www.v2ex.com/t/280552) [#](http://sspai.com/33021)
 - [Skitch](https://evernote.com/intl/zh-cn/skitch/) - 截图附带强大的标注功能。
 - [Snip](http://snip.qq.com/) - 高效的截图工具，支持滚动截屏，腾讯作品。
-- [Annotate](https://itunes.apple.com/cn/app/annotate-capture-and-share/id918207447?mt=12) - 款非常强大的图片注释软件，可对屏幕截图或者现有图片进行批注。同时，在基础的图片注释功能上还增加了“局部高亮”、“Emoji 表情”、 ”GIF 动图录制与注释“、“与 Dropbox/CloudApp 同步数据“等功能，虽然没有 Skitch 的图片管理功能，也没有 Napkin 的图片拼贴功能，但从注释操作的需求上看，它的确算是 No.1。[荐]。[#](https://sspai.com/post/30486)
 - [snappy](https://itunes.apple.com/cn/app/snappy-snapshots-the-smart-way/id512617038?mt=12) - 官网地址：<http://snappy-app.com/>。新出来的一款截图工具，截图之后可生成悬浮窗。[荐]。[#](http://www.ifanr.com/app/891044)[#](https://sspai.com/post/36375)
 
 

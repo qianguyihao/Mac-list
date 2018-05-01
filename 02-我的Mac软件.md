@@ -12,6 +12,8 @@
 全局搜索工具。Mac 必备工作流神器，可用它来代替系统默认的 Spotlight 搜索功能，配合上付费版的 Powerpack 之后，可以在一个输入框内完成 计算、文件搜索、网页搜索、应用程序搜索、任意脚本程序执行、任意快捷键执行自定义复杂交互。好吧，对于大部分人来说，免费的已经够用了。
 官网链接：<https://www.alfredapp.com>
 
+第三方链接：<http://xclient.info/s/alfred.html?t=49b8faedf22618bb7178236a07d8c6876e73a945>
+
 Alfred powerpack 3.2.1 破解版链接：<http://www.sdifen.com/alfred34.html>
 
 
@@ -39,16 +41,15 @@ macOS sierra自动隐藏的，在终端里面输入指令：sudo spctl --master-
 
 
 
-### 截图工具：截图(Jietu)
+### 截图工具
 
 
-- 软件的名字就叫截图。官网下载地址：[ https://itunes.apple.com/cn/app/jie-tu-jietu/id1059334054?mt=12 ][1]
+- [snipaste](https://zh.snipaste.com/) - 新生代截图工具。[荐]。F1是截图，F3是贴图。
 
-参考链接：
+- [Annotate](https://itunes.apple.com/cn/app/annotate-capture-and-share/id918207447?mt=12) - 款非常强大的图片注释软件，可对屏幕截图或者现有图片进行批注。同时，在基础的图片注释功能上还增加了“局部高亮”、“Emoji 表情”、 ”GIF 动图录制与注释“、“与 Dropbox/CloudApp 同步数据“等功能，虽然没有 Skitch 的图片管理功能，也没有 Napkin 的图片拼贴功能，但从注释操作的需求上看，它的确算是 No.1。[荐]。[#](https://sspai.com/post/30486)
 
-- [[v2ex]Mac OSX 系统上最好用的截图软件-截图（ Jietu）](https://www.v2ex.com/t/280552)
+Annotate软件已经免费了。
 
-- [[少数派]试试腾讯出品的免费 Mac 截图软件：截图 Jietu](http://sspai.com/33021)
 
 
 
@@ -169,7 +170,7 @@ store
 
 - 百度网盘：如今，百度网盘限速了，只能临时找一些破解的方法。
 
-## 开发相关
+## 开发相关（综合类）
 
 
 
@@ -184,6 +185,22 @@ store
 ### Git安装
 
 在App Store下载安装Xcode后，会自动安装上Git。安装好之后，在终端输入`git --version`进行验证。
+
+
+
+### SourceTree
+
+Git版本控制的GUI工具。官网链接：<https://www.sourcetreeapp.com>。类似的软件还有[TortoiseGit](https://tortoisegit.org/)。
+
+
+
+## 前端开发相关
+
+### VS Code
+
+前端开发IDE。
+
+
 
 
 ### jdk
@@ -357,12 +374,6 @@ Errors running builder 'Android Resource Manager'
 
 
 ### Android Studio
-
-
-### SourceTree
-
-Git版本控制的GUI工具。官网链接：<https://www.sourcetreeapp.com>。类似的软件还有[TortoiseGit](https://tortoisegit.org/)。
-
 
 ## 虚拟机
 
