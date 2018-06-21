@@ -55,7 +55,7 @@ Annotate软件已经免费了。
 
 ## 科学上网
 
-### ShadowSocks
+### 链路：ShadowSocks
 
 翻墙方案1。全平台。
 
@@ -73,8 +73,22 @@ Annotate软件已经免费了。
 推荐链路：[AgentWho](https://agentwho.network)。域名以前是<https://agentwho.network>，现在是<https://agentwho.rocks/>
 
 
+### ShadowSocks + Surge 实现全局翻墙
 
-参考链接：
+（1）在 Surge 软件中新建一个配置，起名为Shadowsocks， 本地会自动生成一个`Shadowsocks.conf`文件。
+
+（2）打开如下链接：<https://raw.githubusercontent.com/ArchimboldiMao/SurgeConfig/master/Shadowsocks.conf>
+
+将这个链接里的内容粘贴到`Shadowsocks.conf`文件中，并填写`#Shadowsocks Server IP#, #Shadowsocks Server Port#, #password#`。注意，去掉符号`#`。
+
+（3）选择 Shadowsocks 配置，即可。
+
+参考链接：<https://github.com/ArchimboldiMao/SurgeConfig>
+
+
+
+
+### 参考链接
 
 - [Surge for Mac，快捷如风](http://mp.weixin.qq.com/s?__biz=MjM5ODQ2MDIyMA==&mid=2650712713&idx=1&sn=266a2958ff395be698500febadff5e57&chksm=bec064da89b7edcccaa2f69885a564bc2153f58aa01a8829b6092851cf095f5dda26e8c44898&mpshare=1&scene=1&srcid=1117o9mBi85d6ZRijd1yMwe2#wechat_redirect)
 
