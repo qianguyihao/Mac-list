@@ -1,50 +1,12 @@
 Mac基本操作
 
 
-
-## Finder的使用
-
-#### 在Findle中显示隐藏文件
-
-- 「Command + Shift + . 」 可以显示隐藏文件、文件夹，再按一次，恢复隐藏。
-
-- finder下使用Command+Shift+G 可以前往任何文件夹，包括隐藏文件夹。
-
-
-
-
 ## 软件安装
 
 dmg格式：双击安装包，然后拖到applications文件夹下即可。
 
 
 ## 编辑操作
-
-
-#### 删除文字
-
-- delete 键：删除前一个字符。相当于 Windows 键盘上的退格键。
-
-- fn + delete 键：删除后一个字符。
-
-- option + delete：删除光标之前的一个单词（英文有效）。
-
-- command + delete 键：删除光标之前整行内容。
-
-- command+delete：删除掉该文件。
-
-- shiift + command + delete：清空回收站。
-
-
-
-
-
-#### 剪切文件
-
-首先选中文件，按Command+C复制文件；然后按「Command＋Option＋V」剪切文件。
-
-备注：Command+X只能剪切文字文本，不要混淆了。
-
 
 
 ## 输入法

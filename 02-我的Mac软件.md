@@ -194,6 +194,7 @@ store
 苹果官网推出的IDE，程序猿必备。从App Store 上下载安装即可。
 
 
+## 版本控制&版本管理
 
 
 ### Git安装
@@ -202,9 +203,22 @@ store
 
 
 
+### Tower
+
+SourceTree 的界面是最好看的，我用了两年了，发现有时候pull代码的时候，还是有点问题。最终准备换成 Tower，用了一段时间，发现 Tower 用起来没出现过问题，体验也比较好。
+
+以后我就用 Tower 代替 SourceTree 了。
+
+破解版链接：
+
+- [Tower.v2.6.4 for Mac license](https://www.uedbox.com/tower-v2-6-4-for-mac-license/)
+
+
 ### SourceTree
 
 Git版本控制的GUI工具。官网链接：<https://www.sourcetreeapp.com>。类似的软件还有[TortoiseGit](https://tortoisegit.org/)。
+
+
 
 
 
@@ -215,7 +229,7 @@ Git版本控制的GUI工具。官网链接：<https://www.sourcetreeapp.com>。�
 前端开发IDE。
 
 
-
+## Android开发相关
 
 ### jdk
 
