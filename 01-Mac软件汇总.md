@@ -17,13 +17,11 @@
 - [The Unarchiver]() - 压缩／解压工具。可以从App Store下载。
 
 
-### NTFS移动硬盘读写
+#### NTFS移动硬盘读写
 
 > 其实，macOS 系统本身是已经原生支持 NTFS 磁盘格式的读与写的，只不过 NTFS 毕竟是老对手 微软 Windows 产品下的技术，碍于版权和商业上的原因，苹果只好把 NTFS 的“写入”功能给屏蔽掉，变成系统的隐藏特性。
 
 - [Mounty](http://enjoygineering.com/mounty/) - 免费让 Mac 原生支持移动硬盘/U盘 NTFS 读写的必备驱动应用。[#](http://www.iplaysoft.com/mounty-for-ntfs.html)
-
-
 
 
 
@@ -154,7 +152,7 @@
     * [Path Finder](http://www.cocoatech.com/pathfinder/) - 强大的Finder替代者，拥有很多特性。
     * [TotalFinder](http://totalfinder.binaryage.com/) - 强大的Finder替代者，界面风格像Chrome。【荐】
     * [XtraFinder](https://www.trankynam.com/xtrafinder/) - 给Finder添加有用的新特性。
--
+
 
 
 ## 科学上网
@@ -163,7 +161,6 @@
 - [Surge](http://nssurge.com/) - 科学上网。[荐]
 - [佛跳墙](http://www.godusevpn.cc/) - 科学上网。[荐]
 - [AgentWho](https://agentwho.network) - 网速很快，但有点贵。[荐]
-- []()
 - [云梯](https://www.ytpub.com/) - 在圈内小有名气的VPN服务提供商。
 - [SpechtLite](https://github.com/zhuhaow/SpechtLite) - 支持 Shadowsocks 及规则管理的高效率代理。
 - [ShadowsocksX-NG](https://github.com/qiuyuzhou/ShadowsocksX-NG) - 一款ShadowsocksX客户端软件。
@@ -181,7 +178,7 @@
 ## FTP客户端
 
 * [FileZilla](https://filezilla-project.org) - 跨平台的FTP，FTPS和SFTP客户端。[荐]
-* [Transmit](https://panic.com/transmit/) - 一个FTP客户端，支持FTP + SFTP + S3。
+* [Transmit](https://panic.com/transmit/) - 一个FTP客户端，支持FTP + SFTP + S3【荐】。
 * [Flow](http://fivedetails.com/flow/) - 支持简单的 FTP + SFTP 客户端。
 * [Yummy FTP](http://www.yummysoftware.com) - 专业快速，可靠的FTP客户端。
 * [Cyberduck](https://cyberduck.io) - 免费FTP，SFTP，S3和WebDAV客户端 & OpenStack Swift Client。
@@ -227,6 +224,7 @@
 - [Marvel](https://marvelapp.com/) - 简单设计，原型设计和协作。
 - [MindNode](http://mindnode.com/) - 简洁的风格与人性化的操作，绘制思维脑图。[荐]
 - [iThoughtX]() - 进阶用户喜欢用它画脑图。[荐]。[#](https://sspai.com/post/31516)
+
 #### 其它工具
 
 
@@ -246,7 +244,11 @@
 - [Solarized](http://ethanschoonover.com/solarized) - 干净清爽的颜色主题，支持iTerm、Intellij IDEA、Vim等。
 
 
+## 图片
 
+- [Eagle](https://cn.eagle.cool/) - 图片管理必备工具。30天试用期。
+
+Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整理、查找」的各种场景，支持 Mac 与 Windows 系统。号称图片管理中的印象笔记。
 
 
 ## 音频和视频
@@ -273,44 +275,6 @@
 
 
 
-
-
-## 编辑器
-
-
-- [Atom](https://atom.io) - GitHub推出的[开源](https://github.com/atom/atom)编辑器。
-- [Sublime Text](http://www.sublimetext.com/3) - 一个比较简洁大方带插件管理系统的流行编辑器，[Sublime常用插件](editor-plugin.md#sublime-text-plugin)。[荐]
-- [Brackets](http://brackets.io) - Adobe推出的Brackets免费/开源编辑器。[开源](https://github.com/adobe/brackets/)
-- [Visual Studio Code](http://code.visualstudio.com) - 微软推出的免费/开源编辑器，TypeScript支持杠杠的。[荐](https://github.com/Microsoft/vscode)
-- [Emacs](https://www.emacswiki.org/emacs/EmacsForMacOS) - Emacs是基于控制台的编辑器和高度可定制的。
-- [LightTable](https://www.lighttable.com) - 下一代代码编辑器。[开源](https://github.com/LightTable/LightTable)
-- [TextMate](https://macromates.com) - 文本编辑器软件，与BBedit一起并称苹果机上的emacs和vim，这是以前。
-- [BBEdit](http://www.barebones.com/products/bbedit/) - 强大的文件编辑器，用于编辑文件，文本文件及程序源代码。
-- [Coda2](https://panic.com/coda) - 编写Web应用长得漂亮的编辑器。
-- [Vim](http://www.vim.org/) - Vim古老命令行中使用的编辑器。
-    - [Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vim插件管理工具。[开源](https://github.com/VundleVim/Vundle.vim)
-    - [vim-plug](https://github.com/junegunn/vim-plug) - 一个简约的vim插件管理器。[开源](https://github.com/junegunn/vim-plug)
-    - [WebVim](https://github.com/krampstudio/webvim) - 倾向于开发JavaScript和Web的vim。
-    - [vim-web](https://github.com/jaywcjlove/vim-web) - 一个前端开发工程师的vim。[开源](https://github.com/jaywcjlove/vim-web)
-    - [Neovim](https://neovim.io/) -  提高Vim可扩张灵活性。[开源](https://github.com/neovim/neovim)
-    - [Spacevim](https://github.com/ctjhoa/spacevim) -  模仿Spacemacs的使用方式。
-    - [Spf13](http://vim.spf13.com/) - 一套全方位的配置项目。
-- [Vimr](http://vimr.org/) - Vim客户端，升级Vim体验。[开源](https://github.com/qvacua/vimr/)
-- [HBuilder](http://www.dcloud.io/) - HBuilder是DCloud（数字天堂）推出的一款支持HTML5的Web开发IDE。
-- [Tincta](https://mr-fridge.de/software/tincta/index.php) - 一个免费的文本编辑器。
-- [IntelliJ IDEA](https://www.jetbrains.com/idea/) - 一款Java开发集成环境。(**学生**免费)[荐]
--[Webstorm](http://www.jetbrains.com/webstorm/) - 是jetbrains公司旗下一款JavaScript开发工具。
-    - **学生**免费，[点击这里](https://www.jetbrains.com/student/) 查看更多。
-    - 一些很好的插件
-        - [NodeJS](https://plugins.jetbrains.com/plugin/6098?pr=webStorm) - 集成`Node.js`，你肯定需要它，很多功能需要它。
-        - [EditorConfig](https://plugins.jetbrains.com/plugin/7294?pr=webStorm) - 帮助开发者在不同的编辑器和IDE之间定义和维护一致的代码风格。
-        - [Material Theme UI](https://plugins.jetbrains.com/plugin/8006?pr=webStorm) - Google为React开发的主题。
-- [Deco IDE](https://www.decosoftware.com/) - React Native IDE 支持控件拖拽界面实时变更。[开源](https://github.com/decosoftware/deco-ide)
-- [Xamarin Studio](https://www.xamarin.com/studio) - 免费的跨平台的C# IDE。支持iOS、Android和.net开发。[开源](https://github.com/mono/monodevelop) ![Freeware][Freeware Icon]
-- [NetBeans IDE](https://netbeans.org/) - 免费、开源的IDE，主要用于java开发，可支持多种语言和框架。[开源](https://netbeans.org/community/sources/) ![Freeware][Freeware Icon]
-- [Eclipse](https://www.eclipse.org) - 流行的开源IDE，主要用于Java，但为多种语言和平台的插件支持。
-
-
 ## 阅读与写作
 
 #### 云笔记软件
@@ -322,7 +286,9 @@
 - [leanote](http://app.leanote.com) - 支持Markdown的一款[开源](https://github.com/leanote/leanote)笔记软件，支持直接成为个人博客。
 - [Inkdrop](https://www.inkdrop.info/) - Markdown爱好者的笔记本应用程序。
 
+#### 阅读相关
 
+- [WorkFlowy](https://workflowy.com/downloads/mac/) - 很可能是极简主义者梦想中的笔记应用。[荐]
 
 
 #### Markdown编辑器
@@ -413,13 +379,14 @@
 - [QQ](http://im.qq.com/macqq/index.shtml) - QQ for Mac App。![Freeware][Freeware Icon]
 - [WeChat](http://weixin.qq.com/cgi-bin/readtemplate?t=mac&platform=wx&lang=zh_CN) - 微信 for Mac App。
 - [Telegram](https://desktop.telegram.org) - 通讯新时代。[荐]
+- [weweChat](https://github.com/trazyn/weweChat) - 不比官方差的微信第三方客户端。[荐]。[#](https://www.waerfa.com/wewechat-review)
 - [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat) - 调用微信接口，使用 [Electron](https://github.com/electron/electron) 开发的第三方漂亮[开源](https://github.com/geeeeeeeeek/electronic-wechat)微信应用。
 - [Skype](https://www.skype.com/) - Skype共享、跨平台的短信和电话。
 - [ChitChat](https://github.com/stonesam92/ChitChat) - WhatsApp非官方，[开源](https://github.com/stonesam92/ChitChat)。
 - [御飯](https://imach.me/gohanapp/) - 饭否第三方Mac应用。
 - [Messenger](https://fbmacmessenger.rsms.me/) - Facebook第三方的啊、[开源](https://github.com/rsms/fb-mac-messenger)聊天工具。
 - [Adium](https://adium.im/) - 这个是老的集成多个平台的聊天客户端。
-- [WeeChat](https://weechat.org/) - 一个命令行聊天客户端。![Freeware][Freeware Icon]
+- [WeeChat](https://weechat.org/) - 一个命令行聊天客户端。
 
 #### 社交
 
@@ -508,8 +475,44 @@
 
 
 
-## 开发者工具
 
+
+## 编辑器
+
+- [Visual Studio Code](http://code.visualstudio.com) - 微软推出的免费/开源编辑器，TypeScript支持杠杠的。[荐](https://github.com/Microsoft/vscode)
+- [Sublime Text](http://www.sublimetext.com/3) - 一个比较简洁大方带插件管理系统的流行编辑器，[Sublime常用插件](editor-plugin.md#sublime-text-plugin)。[荐]
+- [Atom](https://atom.io) - GitHub推出的[开源](https://github.com/atom/atom)编辑器。
+- [Brackets](http://brackets.io) - Adobe推出的Brackets免费/开源编辑器。[开源](https://github.com/adobe/brackets/)
+- [Emacs](https://www.emacswiki.org/emacs/EmacsForMacOS) - Emacs是基于控制台的编辑器和高度可定制的。
+- [LightTable](https://www.lighttable.com) - 下一代代码编辑器。[开源](https://github.com/LightTable/LightTable)
+- [TextMate](https://macromates.com) - 文本编辑器软件，与BBedit一起并称苹果机上的emacs和vim，这是以前。
+- [BBEdit](http://www.barebones.com/products/bbedit/) - 强大的文件编辑器，用于编辑文件，文本文件及程序源代码。
+- [Coda2](https://panic.com/coda) - 编写Web应用长得漂亮的编辑器。
+- [Vim](http://www.vim.org/) - Vim古老命令行中使用的编辑器。
+    - [Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vim插件管理工具。[开源](https://github.com/VundleVim/Vundle.vim)
+    - [vim-plug](https://github.com/junegunn/vim-plug) - 一个简约的vim插件管理器。[开源](https://github.com/junegunn/vim-plug)
+    - [WebVim](https://github.com/krampstudio/webvim) - 倾向于开发JavaScript和Web的vim。
+    - [vim-web](https://github.com/jaywcjlove/vim-web) - 一个前端开发工程师的vim。[开源](https://github.com/jaywcjlove/vim-web)
+    - [Neovim](https://neovim.io/) -  提高Vim可扩张灵活性。[开源](https://github.com/neovim/neovim)
+    - [Spacevim](https://github.com/ctjhoa/spacevim) -  模仿Spacemacs的使用方式。
+    - [Spf13](http://vim.spf13.com/) - 一套全方位的配置项目。
+- [Vimr](http://vimr.org/) - Vim客户端，升级Vim体验。[开源](https://github.com/qvacua/vimr/)
+- [HBuilder](http://www.dcloud.io/) - HBuilder是DCloud（数字天堂）推出的一款支持HTML5的Web开发IDE。
+- [Tincta](https://mr-fridge.de/software/tincta/index.php) - 一个免费的文本编辑器。
+- [IntelliJ IDEA](https://www.jetbrains.com/idea/) - 一款Java开发集成环境。(**学生**免费)[荐]
+- [Webstorm](http://www.jetbrains.com/webstorm/) - 是jetbrains公司旗下一款JavaScript开发工具。
+    - **学生**免费，[点击这里](https://www.jetbrains.com/student/) 查看更多。
+    - 一些很好的插件
+        - [NodeJS](https://plugins.jetbrains.com/plugin/6098?pr=webStorm) - 集成`Node.js`，你肯定需要它，很多功能需要它。
+        - [EditorConfig](https://plugins.jetbrains.com/plugin/7294?pr=webStorm) - 帮助开发者在不同的编辑器和IDE之间定义和维护一致的代码风格。
+        - [Material Theme UI](https://plugins.jetbrains.com/plugin/8006?pr=webStorm) - Google为React开发的主题。
+- [Deco IDE](https://www.decosoftware.com/) - React Native IDE 支持控件拖拽界面实时变更。[开源](https://github.com/decosoftware/deco-ide)
+- [Xamarin Studio](https://www.xamarin.com/studio) - 免费的跨平台的C# IDE。支持iOS、Android和.net开发。[开源](https://github.com/mono/monodevelop) ![Freeware][Freeware Icon]
+- [NetBeans IDE](https://netbeans.org/) - 免费、开源的IDE，主要用于java开发，可支持多种语言和框架。[开源](https://netbeans.org/community/sources/) ![Freeware][Freeware Icon]
+- [Eclipse](https://www.eclipse.org) - 流行的开源IDE，主要用于Java，但为多种语言和平台的插件支持。
+
+
+## 开发者工具
 
 - [WeFlow](https://weflow.io/) - 一个基于 [tmt-workflow](https://github.com/weixin/tmt-workflow) 前端工作流的开发工具。[开源](https://github.com/weixin/WeFlow)。
 - [Koala](http://koala-app.com) - 预处理器语言图形编译工具，支持Less、Sass、CoffeeScript、Compass framework 的即时编译。[开源](https://github.com/oklai/koala/)。
@@ -528,7 +531,6 @@
 - [Vagrant Manager](http://vagrantmanager.com) - 管理你本地服务。[开源](https://github.com/lanayotech/vagrant-manager/)。
 - [zeplin](https://www.zeplin.io/) - 前端与设计协同工作专用工具。
 - [Go2Shell](http://zipzapmac.com/Go2Shell) - 从Finder打开命令行。
-- [SecureCRT](https://www.vandyke.com/products/securecrt/) - 一款支持SSH、Telnet等多种协议的终端仿真程序。
 - [MJML](https://mjmlio.github.io/mjml-app/) - 简化设计回应电子邮件的方式。[开源](https://github.com/mjmlio/mjml)。
 - [TeXstudio](http://www.texstudio.org) - 集成创建LaTeX文档的写作环境。 [开源](https://sourceforge.net/projects/texstudio/)。
 - [Vagrant](https://www.vagrantup.com) - 用来构建虚拟开发环境的工具。 [开源](https://github.com/mitchellh/vagrant)。[荐]
@@ -541,7 +543,6 @@
 
 
 
-
 #### 正则编辑器
 
 - [Patterns](http://krillapps.com/patterns/) - 正则表达式编辑器。
@@ -549,7 +550,6 @@
 - [Regex](http://motionobj.com/regex/?utm_source=RegexApp&utm_medium=app) - 感觉是用过最漂亮的正则表达式测试工具。
 - [Reggy](http://reggyapp.com/) - 正则表达式编辑器。[开源](https://github.com/samsouder/reggy)。
 - [RegExRX](http://www.mactechnologies.com/index.php?page=downloads#regexrx) - 正则表达式的开发工具。
-
 
 
 #### 数据库
@@ -574,8 +574,6 @@
 - [mongoDB.app](https://gcollazo.github.io/mongodbapp/) - 在Mac 上最简单的使用MongoDB [开源](https://github.com/gcollazo/mongodbapp)。
 - [DataGrip](http://www.jetbrains.com/datagrip/) - 是jetbrains公司旗下一款数据库管理工具。[点击这里](https://www.jetbrains.com/student/) **学生**免费。
 - [Tableau Public](https://public.tableau.com/s/) - 数据可视化工具。
-
-
 
 
 
@@ -605,10 +603,9 @@
 * [ionic](http://ionicframework.com/) - 一个用来开发混合手机应用的，开源的，免费的代码库。 [开源](https://github.com/driftyco/ionic)
 
 
+#### 命令行工具
 
-## 命令行工具
-
-- [iTerm2](http://www.iterm2.com) - 免费的终端工具，直接替代自带的Terminal，有非常多惊人的特性。[开源](https://github.com/gnachman/iTerm2) [荐]。
+- [iTerm2](http://www.iterm2.com) - 免费的终端工具，直接替代自带的Terminal，有非常多惊人的特性。[开源](https://github.com/gnachman/iTerm2) 。[荐]
 - [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - 怀旧的命令行终端。[开源](https://github.com/Swordfish90/cool-retro-term)。
 - [Oh my zsh](http://ohmyz.sh) - 拥有大量的有用的功能，助手，插件，主题，等特性的命令行工具插件。[开源](https://github.com/robbyrussell/oh-my-zsh)。
 - [Glances](https://github.com/nicolargo/glances) - 在命令行中查看你系统运行状态的工具。[开源](https://github.com/nicolargo/glances)。
@@ -627,7 +624,11 @@
 - [mas](https://github.com/mas-cli/mas) - 一个简单的命令行界面的苹果应用商店。 [开源](https://github.com/mas-cli/mas)。
 
 
+#### ssh 远程连接
 
+- [SecureCRT](https://www.vandyke.com/products/securecrt/) - 一款支持SSH、Telnet等多种协议的终端仿真程序。
+
+- [ShellCraft](http://www.shellcraftapp.com) - 强大的SSH/Telnet客户端。
 
 
 
@@ -635,11 +636,8 @@
 
 ### 文件传输
 
-
 - [Android File Transfer](https://www.android.com/filetransfer/) - Google 官方推出的，让Android设备连接电脑，进行文件管理。
-
 -  [handshaker](http://www.smartisan.com/apps/handshaker) - 锤子科技推出的，以前名叫SmartFinder.  [#](http://www.ifanr.com/app/612734)
-
 
 
 
@@ -648,17 +646,30 @@
 - [TeamViewer](https://www.teamviewer.com) - 远程协助及在线协作和会议功能的软件，商业软件个人使用免费。[荐]
 - [RealVNC](https://www.realvnc.com) 是一款免费的远程控制跨多平台的程序。
 
-## 第三方应用市场APP
 
-*[这里讨论盗版问题或者提供黑名单？](https://github.com/jaywcjlove/awesome-mac/issues/17)，拒绝盗版从我做起，欢迎大家监督。*
 
-#### 正版
+## 网站推荐
+
+> 这里主要是推荐一些软件下载的网站，还有一些MacOS软件分享网站。
+
+
+#### Mac工具介绍
+
+* 少数派：[http://sspai.com/tag/Mac](http://sspai.com/tag/Mac)
+* Mac玩儿法：[http://www.waerfa.com](http://www.waerfa.com)
+- [OurMacs](https://ourmacs.com) - 优秀的mac应用。
+
+
+#### 正版Mac软件下载
 
 *这里只提供正版软件购买下载的应用商店。*
 
 - [HackStore](http://hack-store.com/) - 一个类似于cydia的第三方Mac应用市场，平台拒绝盗版。
-- [MacUpdate Desktop](https://www.macupdate.com/) - 管理/更新/下载App，跟踪优惠信息。
 - [homebrew-cask](http://caskroom.io) - 体验通过命令行安装Mac软件的工具。
+- MacUpdate：[https://www.macupdate.com/](https://www.macupdate.com/) - 管理/更新/下载App，跟踪优惠信息。
+- App Shopper：[http://appshopper.com/](http://appshopper.com/)
+- 类似于iOS上Cydia一样的第三方软件商店：[http://hack-store.com](http://hack-store.com)
+
 
 #### 应用商店黑名单
 
@@ -669,25 +680,10 @@
 - [Mac软件宝箱](http://box.macx.cn/) - Macx推出软件宝箱。
 - [MacHunter](http://www.machunter.net/) - Mac应用市场。
 
-## Mac软件介绍／下载
-
-> 这里主要是推荐一些软件下载的网站，还有一些MacOS软件分享网站。
-
-#### Mac工具介绍
-
-* 少数派：[http://sspai.com/tag/Mac](http://sspai.com/tag/Mac)
-* Mac玩儿法：[http://www.waerfa.com](http://www.waerfa.com)
-
-
-#### 正版Mac软件下载
-
-* MacUpdate：[https://www.macupdate.com/](https://www.macupdate.com/)
-* App Shopper：[http://appshopper.com/](http://appshopper.com/)
-* 类似于iOS上Cydia一样的第三方软件商店：[http://hack-store.com](http://hack-store.com)
 
 #### 盗版Mac软件下载网站黑名单
 
-> 拒绝盗版从我做起，下面被删除的网站提供大量破解软件下载，欢迎大家监督它们。
+> 拒绝盗版从我做起，下面的网站提供大量破解软件下载，欢迎大家监督它们。
 
 * Mac精品软件：<http://xclient.info/>（荐）
 * 玩转苹果：<http://www.ifunmac.com>
@@ -704,11 +700,7 @@
 
 
 
-## 推荐链接
 
-- [OurMacs](https://ourmacs.com)
-
-优秀的mac应用。
 
 
 
