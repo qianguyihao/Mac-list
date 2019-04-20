@@ -25,6 +25,8 @@
 npm install -g gitbook-cli
 ```
 
+PS：如果你不知道 `npm` 是什么，可以自行查阅**如何安装 npm 环境**。
+
 ### 步骤2：安装ebook-convert
 
 （1）Mac 系统需要先安装 [calibre](https://calibre-ebook.com/download) 软件。安装完成后，执行如下命令：
