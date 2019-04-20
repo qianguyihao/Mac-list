@@ -1,10 +1,25 @@
 
 
+## 前言
 
+
+对于经常阅读的人来说，制作本地电子书，算是刚需了。
+
+网上的很多步骤不太完整，所以我特地整理ssour了一个详细的教程。亲测有效，一劳永逸。
+
+大致的思路是：
+
+- 本地安装 gitbook
+
+- 安装 calibre，配置ebook-convert
+
+- 导出电子书，完善目录结构
 
 ## 使用步骤
 
-### 1、通过 npm 安装 gitbook-cli
+### 步骤1：通过 npm 安装 gitbook-cli
+
+安装命令如下：
 
 ```
 npm install -g gitbook-cli
@@ -12,9 +27,116 @@ npm install -g gitbook-cli
 
 参考链接：<http://gitbook.wiliam.me/installation.html>
 
-### 2、安装ebook-convert
+### 步骤2：安装ebook-convert
 
-Mac 系统安装安装ebook-convert
+（1）Mac 系统需要先安装 [calibre](https://calibre-ebook.com/download) 软件。安装完成后，执行如下命令：
+
+```
+sudo ln -s /Applications/calibre.app/Contents/MacOS/ebook-convert /usr/bin
+```
+
+如果出现`Operation not permitted`异常，说明系统权限限制，此时需要**配置环境变量**。
+
+（2）环境变量配置：
+
+```bash
+vim ~/.bash_profile
+
+export EBOOK_PATH=/Applications/calibre.app/Contents/MacOS
+export PATH=$PATH:$EBOOK_PATH
+```
+
+然后刷新一下刚刚的配置：
+
+```
+source ~/.bash_profile
+```
+
+验证`ebook-convert`指令是否能正常被调用：
+
+```
+ebook-convert --version
+```
+
+
+### 步骤3：导出电子书
+
+本地新建一个空的文件夹，作为项目。
+
+（1）在当前项目下，执行如下命令，进行初始化：
+
+```
+gitbook init
+```
+
+此时，项目下会自动生成如下两个文件：（**非常重要**）
+
+- `README.md`：书籍的介绍写在这个文件里。
+
+- `SUMMARY.md`：书籍的**目录结构**在这里配置。
+
+
+（2）本地预览电子书：
+
+```
+gitbook serve
+```
+
+执行上方命令后，会对项目里的 Markdown 格式的文件进行转换，默认转换为 html 格式，最后提示 “Serving book on http://localhost:4000”。打开浏览器输入`http://localhost:4000`，预览一下电子书的效果吧。
+
+（3）生成 epub 格式的电子书：（epub是最常见、最通用的电子书格式）
+
+```bash
+gitbook epub ./ ./mybook.epub
+```
+
+生成 mobi 格式的电子书：
+
+```
+gitbook mobi ./ ./mybook.mobi
+```
+
+你还可以生成 PDF 格式的电子书：
+
+```
+gitbook pdf ./ ./mybook.pdf
+```
+
+### 步骤4：配置电子书的目录
+
+我们先把本地的 markdown 文件（也就是我们的**电子书素材**）放到项目中，然后在`SUMMARY.md`文件中配置电子书的目录。举例如下：
+
+```
+# 目录
+
+* [前言](README.md)
+
+* [主题介绍](Chapter1/README.md)
+
+* [如何购买](Chapter2/README.md)
+
+* [售后服务](Chapter3/README.md)
+
+* [常见问题](Chapter4/README.md)
+
+* [更新记录](Chapter5/README.md)
+
+	* [# 2018-12-02](Chapter5/20181202.md)
+	* [# 2018-12-04](Chapter5/20181204.md)
+	* [# 2018-12-05](Chapter5/20181205.md)
+	* [# 2018-12-06](Chapter5/20181206.md)
+	* [# 2018-12-07](Chapter5/20181207.md)
+	* [# 2018-12-10](Chapter5/20181210.md)
+	* [# 2018-12-11](Chapter5/2018121.md)
+	* [# 2018-12-12](Chapter5/20181212.md)
+	* [# 2018-12-13](Chapter5/20181213.md)
+  ------
+```
+
+
+制作成的目录效果如下：
+
+![](http://img.smyhvae.com/20190420_1517.png)
 
 参考链接：<http://gitbook.wiliam.me/ebookandpdf.html>
 
