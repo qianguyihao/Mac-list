@@ -1,7 +1,6 @@
 
 
 
-
 ## Mac常用快捷键
 
 ### Finder
@@ -13,14 +12,7 @@
 |Command + ↑|返回上一层||
 |Command + ↓|进入当前文件夹||
 
-
-### 编辑
-
-
-
-**删除文字**：
-
-
+### 编辑 | 删除文字
 
 | 快捷键 | 作用 | 备注 |
 |:-------------|:-----|:-----|
@@ -32,10 +24,6 @@
 |shift + command + delete|清空回收站||
 
 
-
-
-
-
 **剪切文件**：
 
 首先选中文件，按Command+C复制文件；然后按「Command＋Option＋V」剪切文件。
@@ -44,10 +32,8 @@
 
 
 
-
 ## Mac用户必须知道的15组快捷键
 
-> 参考链接：[《轻松玩Mac》第6期：Mac用户必须知道的15组快捷键](http://v.youku.com/v_show/id_XNDE4MzM0NDgw.html)
 
 ### 「space」键：快速预览
 
@@ -56,8 +42,6 @@
 可以预览mp3、视频、pdf等文件。
 
 我们还可以**选中多张图片**， 然后按「space」键，就可以同时对比预览多张图片。这一点，很赞。
-
-
 
 ### 改名
 
@@ -69,7 +53,6 @@
 - 选中文件后，按「command + I」键，可以查看文件的各种属性。
 
 - 选中**文件夹**后，按「command + I」键，可以查看文件夹的大小。【荐】
-
 
 ### 切换输入法
 
@@ -151,16 +134,13 @@ Cmd+C、Cmd+V、Cmd+X、Cmd+A、Cmd+Z。
 
 ### Dock栏相关
 
-
 - 「option + command + D」：隐藏dock栏
-
 
 ### 强制推出
 
 > 强制退出的快捷键非常重要
 
 - 「option + command + esc」：打开强制退出的窗口
-
 
 ### option相关
 
@@ -176,39 +156,17 @@ Cmd+C、Cmd+V、Cmd+X、Cmd+A、Cmd+Z。
 
 - 「option + command + I」：查看多个文件的总的属性。
 
-
 - 打开launchpad，按住「option」键，可以快速卸载应用程序。
 
 - 在dock栏，右键点击软件图标，同时按住「option」键，就可以**强制退出**该软件。【重要】
 
-
-
 - 在Safari浏览器中，按住「option + command + Q」退出Safari。等下次进入Safari的时候，上次退出时的网址会自动被打开。【实用】
-
-
 
 ### 推荐一个软件：CheatSheet
 
 打开CheatSheet后，长按 command 键，会弹出当前应用程序的所有快捷键。我们还可以对这些快捷键进行保存。
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+> 参考链接：[《轻松玩Mac》第6期：Mac用户必须知道的15组快捷键](http://v.youku.com/v_show/id_XNDE4MzM0NDgw.html)
 
 
 

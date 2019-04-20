@@ -61,9 +61,15 @@ Annotate软件已经免费了。
 
 #### 使用ShadowSocks后，让dropbox具备代理功能
 
-使用ShadowSocks进行代理后，dropbox默认是无法翻墙的，此时需要对dropbox进行设置。设置如下：
+使用 ShadowSocks 进行代理后，dropbox默认是无法翻墙的，此时需要对dropbox进行设置。设置如下：
 
 在 Dropbox 的代理首选项中选择 SOCKS5，服务器填 127.0.0.1:1080 即可。
+
+备注：如果用的是 ShadowSocksR，而不是 ShadowSocks，那就需要把端口号 1080 改为 1086。参考链接：
+
+- [Mac下使用shadowsocks，Dropbox无法连接解决](https://tinyyi.com/post/qa/jie-jue-huan-xin-ssrhou-dropboxwu-fa-lian-jie-wen-ti)
+
+
 
 
 ### Surge

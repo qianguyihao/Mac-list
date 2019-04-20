@@ -1,15 +1,9 @@
 
 > 收集好用的Mac软件。
 
-
-
-
 ## 目录
 
-
 ## 基本工具
-
-
 
 #### 压缩／解压
 
@@ -24,16 +18,13 @@
 - [Mounty](http://enjoygineering.com/mounty/) - 免费让 Mac 原生支持移动硬盘/U盘 NTFS 读写的必备驱动应用。[#](http://www.iplaysoft.com/mounty-for-ntfs.html)
 
 
-
 ## 效率工具
 
 - [Alfred](https://www.alfredapp.com/) - 效率神器。有免费版和付费版两种。付费版功能更强大。[荐] [#](https://zhuanlan.zhihu.com/p/28580894)
 
-
 #### GTD 时间管理
 
 - [OmniFocus](https://www.omnigroup.com/omnifocus) - 著名 GTD，上手之后秒杀同类。79.99美元。[#](http://www.asianefficiency.com/technology/omnifocus-mac-review/)
-
 
 ## 实用工具
 
@@ -44,25 +35,35 @@
 - [KeePassX](https://www.keepassx.org) - 一个免费的，[开源](https://github.com/keepassx/keepassx)的，体积小的密码管理器。
 - [MacPass](http://mstarke.github.io/MacPass/) - [开源](https://github.com/mstarke/MacPass)的密码管理器。
 
-
 #### 截图
 
 - [snipaste](https://zh.snipaste.com/) - 新生代截图工具。[荐]。
 
+- [Xnip](https://zh.xnipapp.com)- Mac上方便好用的截图工具，支持滚动截图。[荐]。[#](https://sspai.com/post/42654)
+
 - [Annotate](https://itunes.apple.com/cn/app/annotate-capture-and-share/id918207447?mt=12) - 款非常强大的图片注释软件，可对屏幕截图或者现有图片进行批注。同时，在基础的图片注释功能上还增加了“局部高亮”、“Emoji 表情”、 ”GIF 动图录制与注释“、“与 Dropbox/CloudApp 同步数据“等功能，虽然没有 Skitch 的图片管理功能，也没有 Napkin 的图片拼贴功能，但从注释操作的需求上看，它的确算是 No.1。[荐]。[#](https://sspai.com/post/30486)
 
-- [截图(Jietu)](http://jietu.qq.com/) - 截图附带强大的标注功能，腾讯作品。支持截图生成二维码。支持视频录制，可以录制成gif、mp4、mov等格式。[荐] [#](https://www.v2ex.com/t/280552) [#](http://sspai.com/33021)
+- [截图(Jietu)](http://jietu.qq.com/) - 截图附带强大的标注功能，腾讯作品。支持截图生成二维码。支持视频录制，可以录制成gif、mp4、mov等格式。 [#](https://www.v2ex.com/t/280552) [#](http://sspai.com/33021)
 - [Skitch](https://evernote.com/intl/zh-cn/skitch/) - 截图附带强大的标注功能。
 - [Snip](http://snip.qq.com/) - 高效的截图工具，支持滚动截屏，腾讯作品。
-- [snappy](https://itunes.apple.com/cn/app/snappy-snapshots-the-smart-way/id512617038?mt=12) - 官网地址：<http://snappy-app.com/>。新出来的一款截图工具，截图之后可生成悬浮窗。[荐]。[#](http://www.ifanr.com/app/891044)[#](https://sspai.com/post/36375)
-
-
+- [snappy](https://itunes.apple.com/cn/app/snappy-snapshots-the-smart-way/id512617038?mt=12) - 官网地址：<http://snappy-app.com/>。新出来的一款截图工具，截图之后可生成悬浮窗。[#](http://www.ifanr.com/app/891044)[#](https://sspai.com/post/36375)
 
 #### gif录制
 
-- [Licecap](http://www.cockos.com/licecap/) - 是一款屏幕录制工具输出GIF，录制过程中可以随意改变录屏范围，录制的文件也非常小。[开源](https://github.com/justinfrankel/licecap) 【荐】。录制结束后，可以在这个网站<https://ezgif.com/optimize>上进行压缩。
+- [Licecap](http://www.cockos.com/licecap/) - 是一款屏幕录制工具输出GIF，录制过程中可以随意改变录屏范围，录制的文件也非常小。支持 Mac 和 Windows 平台。[开源](https://github.com/justinfrankel/licecap) 【荐】。录制结束后，可以在这个网站<https://ezgif.com/optimize>上进行压缩。
 - [Kap](https://getkap.co/) - 轻量 GIF 录屏小工具。[开源](https://github.com/wulkano/kap) [star 5]
 
+#### 窗口管理
+
+- [Magnet]() - 窗口分屏工具。【荐】
+
+* [ShiftIt](https://github.com/fikovnik/ShiftIt) - 窗口位置和大小管理软件。 [[开源]](https://github.com/fikovnik/ShiftIt)[荐]
+* [Moom](http://manytricks.com/moom/) - 多任务多窗口的软件。
+* [Slate](https://github.com/jigish/slate) - 窗口管理器，可用JavaScript写配置。[[开源]](https://github.com/jigish/slate)
+* [Amethyst](http://ianyh.com/amethyst/) - 窗口管理器（自动保持窗口大小的窗口）。[开源](https://github.com/ianyh/Amethyst)
+* [Spectacle](https://www.spectacleapp.com) - 简单的移动和调整大小的窗口，和可定制的键盘快捷键。
+
+- [Fenetre]()- 窗口置顶工具。（我试了下，并不是那么好用）
 
 #### 翻译工具
 
@@ -140,12 +141,6 @@
 * [iStats](https://github.com/Chris911/iStats) - iStats 是一个可以让你快速查看电脑 CPU 温度，磁盘转速和电池等信息的命令行工具。[[开源]](https://github.com/Chris911/iStats)
 * [InsomniaX](https://www.macupdate.com/app/mac/22211/insomniax) - 合上盖子不眠不休，继续听歌下载。
 * [NoSleep](https://www.macupdate.com/app/mac/37991/nosleep) - 合上盖子不休眠，可根据是否连接电源单独设置。
-* 窗口管理
-    * [ShiftIt](https://github.com/fikovnik/ShiftIt) - 窗口位置和大小管理软件。 [[开源]](https://github.com/fikovnik/ShiftIt)[荐]
-    * [Moom](http://manytricks.com/moom/) - 多任务多窗口的软件。
-    * [Slate](https://github.com/jigish/slate) - 窗口管理器，可用JavaScript写配置。[[开源]](https://github.com/jigish/slate)
-    * [Amethyst](http://ianyh.com/amethyst/) - 窗口管理器（自动保持窗口大小的窗口）。[开源](https://github.com/ianyh/Amethyst)
-    * [Spectacle](https://www.spectacleapp.com) - 简单的移动和调整大小的窗口，和可定制的键盘快捷键。
 
 * Finder
     * [Quicklook-Plugins](https://github.com/sindresorhus/quick-look-plugins) - Finder快速预览文件插件。
@@ -293,7 +288,8 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 
 #### Markdown编辑器
 
-- [Ulysses](https://ulyssesapp.com/)- 专业文本编辑工具，支持 Markdown。
+- [Ulysses](https://ulyssesapp.com/)- 专业文本编辑工具，支持 Markdown。[荐]
+- [Bear](https://bear.app/)
 - [MacDown](http://macdown.uranusjr.com/) - 一款开源的Markdown编辑器，深受[Mou](http://25.io/mou/)的影响。
 - [MWeb](http://zh.mweb.im/) - 专业的 Markdown 写作、记笔记、静态博客生成软件。[hot]
 - [Mou](http://25.io/mou/) - 免费 Markdown 编辑神器。
