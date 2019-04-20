@@ -5,7 +5,7 @@
 
 对于经常阅读的人来说，制作本地电子书，算是刚需了。
 
-网上的很多步骤不太完整，所以我特地整理ssour了一个详细的教程。亲测有效，一劳永逸。
+网上的很多步骤不太完整，所以我特地整理出一个详细的教程。亲测有效，一劳永逸。
 
 大致的思路是：
 
@@ -13,7 +13,7 @@
 
 - 安装 calibre，配置ebook-convert
 
-- 导出电子书，完善目录结构
+- 导出epub电子书（或者mobi、pdf），完善目录结构
 
 ## 使用步骤
 
@@ -24,8 +24,6 @@
 ```
 npm install -g gitbook-cli
 ```
-
-参考链接：<http://gitbook.wiliam.me/installation.html>
 
 ### 步骤2：安装ebook-convert
 
@@ -82,7 +80,9 @@ gitbook init
 gitbook serve
 ```
 
-执行上方命令后，会对项目里的 Markdown 格式的文件进行转换，默认转换为 html 格式，最后提示 “Serving book on http://localhost:4000”。打开浏览器输入`http://localhost:4000`，预览一下电子书的效果吧。
+执行上方命令后，会对项目里的 Markdown 格式的文件进行转换，默认转换为 html 格式，最后提示 `Serving book on http://localhost:4000`。
+
+我们打开浏览器输入`http://localhost:4000`，预览一下电子书的效果吧。
 
 （3）生成 epub 格式的电子书：（epub是最常见、最通用的电子书格式）
 
@@ -133,12 +133,9 @@ gitbook pdf ./ ./mybook.pdf
   ------
 ```
 
-
 制作成的目录效果如下：
 
 ![](http://img.smyhvae.com/20190420_1517.png)
-
-参考链接：<http://gitbook.wiliam.me/ebookandpdf.html>
 
 ## 参考链接
 
