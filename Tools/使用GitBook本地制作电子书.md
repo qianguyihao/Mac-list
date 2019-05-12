@@ -139,7 +139,7 @@ gitbook pdf ./ ./mybook.pdf
 
 ![](http://img.smyhvae.com/20190420_1517.png)
 
-## 参考链接
+### 参考链接
 
 - 【荐】GitBook使用入门篇，让你快速生成文档(含`SUMMARY.md`目录举例）：<http://www.hehaibao.com/learn-gitbook/>
 
@@ -148,3 +148,18 @@ gitbook pdf ./ ./mybook.pdf
 - gitbook 入门教程之导出电子书：<https://juejin.im/post/5caa0fb46fb9a05e5a2e53b3>
 
 - gitbook 的介绍和使用：<https://snowdreams1006.github.io/myGitbook/experience/gitbook-com.html>
+
+
+## 进阶篇
+
+### 修改电子书的字体大小
+
+我们还可以在项目的目录下，新建文件`book.json`，用于修改字体大小。
+
+
+
+
+
+
+
+
