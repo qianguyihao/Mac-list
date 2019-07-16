@@ -102,12 +102,13 @@
 
 #### 其他实用工具
 
-* [12306ForMac](https://github.com/fancymax/12306ForMac) - Mac版12306 订票/捡票 助手。[开源](https://github.com/fancymax/12306ForMac) [荐]
+- [f.lux](https://justgetflux.com/) - 自动调整您的电脑屏幕，以匹配亮度。[荐]
+
+* [12306ForMac](https://github.com/fancymax/12306ForMac) - Mac版12306 订票/捡票 助手。[开源](https://github.com/fancymax/12306ForMac)
 * [AirServer](http://www.airserver.com/Download) - 将手机投影到电脑上。
 * [CheatSheet](https://www.mediaatelier.com/CheatSheet/) - CheatSheet 是一款Mac上的非常实用的快捷键快速提醒工具。
 * [WWDC](https://github.com/insidegui/WWDC) - Mac OS的非官方的WWDC APP。[[开源]](https://github.com/insidegui/WWDC)
 * [xScope](http://xscopeapp.com/) - 测量、检查和测试屏幕上的图形和布局的工具。搜索你的苹果和网络，快速打开应用程序。
-* [f.lux](https://justgetflux.com/) - 自动调整您的电脑屏幕，以匹配亮度。
 * [Todoist](https://todoist.com/mac) - 跨平台的任务管理器与移动应用程序。
 * [TaskPaper](https://www.taskpaper.com/) - 漂亮的纯文本任务列表。
 * [Wunderlist](https://todoist.com/mac) - 奇妙清单跨平台的任务管理器与移动应用程序。
@@ -178,7 +179,6 @@
 - [v2ss](https://en.v2ss.info/) -
 
 
-
 ## FTP客户端
 
 * [FileZilla](https://filezilla-project.org) - 跨平台的FTP，FTPS和SFTP客户端。[荐]
@@ -186,10 +186,6 @@
 * [Flow](http://fivedetails.com/flow/) - 支持简单的 FTP + SFTP 客户端。
 * [Yummy FTP](http://www.yummysoftware.com) - 专业快速，可靠的FTP客户端。
 * [Cyberduck](https://cyberduck.io) - 免费FTP，SFTP，S3和WebDAV客户端 & OpenStack Swift Client。
-
-
-
-
 
 ## 设计与产品
 
@@ -255,6 +251,10 @@
 Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整理、查找」的各种场景，支持 Mac 与 Windows 系统。号称图片管理中的印象笔记。
 
 
+## 视频播放器
+
+- [IINA](https://iina.io/) - 目前为止，Mac 上最好用对的视频播放器，没有之一。风格很接近系统原生应用。
+
 ## 音频和视频
 
 - [Kodi](https://kodi.tv/) - 一款一流的免费开源媒体中心软件，可用于播放视频、音乐，查看图片，玩游戏等.[!开源](https://github.com/xbmc/xbmc)。
@@ -276,9 +276,6 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 - [ArcTime](http://www.arctime.org/) - 跨平台字幕制作软件。
 - [Perian](http://perian.org/#download) - 让QuickTime播放所有常见格式的免费插件。[开源](https://github.com/MaddTheSane/perian) 。[荐]
 
-
-
-
 ## 阅读与写作
 
 #### 云笔记软件
@@ -293,7 +290,6 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 #### 阅读相关
 
 - [WorkFlowy](https://workflowy.com/downloads/mac/) - 很可能是极简主义者梦想中的笔记应用。[荐]
-
 
 #### Markdown 编辑器
 
@@ -333,12 +329,6 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 
 - [iAnnotate]() - 可以说是所有 PDF 标记类 app 中的No.1了。仅限 iOS 平台使用，没有Mac平台。
 
--
-
-
-
-
-
 #### RSS
 
 - [Feeds 2](http://www.feedsapp.com/) - 监控任何RSS。
@@ -347,7 +337,6 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 - [Leaf](http://www.rockysandstudio.com/) - RSS 客户端程序。[hot]
 - [Vienna](http://www.vienna-rss.org/) - [开源](https://github.com/ViennaRSS/vienna-rss)的RSS/Atom 新闻阅读客户端。
 
-
 #### 其他
 
 - [OpenOffice](http://www.openoffice.org/zh-cn/download/index.html) - 是一套[开源](http://openoffice.apache.org/source.html)、跨平台的办公室软件套件。
@@ -355,7 +344,6 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 - [iChm](http://www.robinlu.com/ichm) - 读chm文件的软件。
 - [Chmox](http://chmox.sourceforge.net/) - 读chm文件的软件。
 - [CHM Reader](http://www.hewbo.com/chm-reader.html) - 读chm文件的软件。
-
 
 ## 网盘
 
@@ -374,7 +362,6 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 
 ## 浏览器
 
-
 - [Safari](http://www.apple.com/cn/safari/) - Mac预装自带浏览器。
 - [Chrome](http://www.google.cn/chrome/browser/) - Chrome浏览器谷歌出品。
 - [Firefox](http://www.firefox.com.cn/) - 火狐浏览器。
@@ -385,11 +372,9 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 - [Ōryōki](http://oryoki.io/) - 小的web浏览器。这是一个试验性的项目，目前正在开发中。
 
 
-
 ## 通信
 
 > 推荐一些通信工具，沟通，团队协同。
-
 
 #### 即时通信
 
@@ -440,20 +425,12 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 * [CloudMagic Email](https://cloudmagic.com/) - 界面非常简洁的一个邮件客户端。
 * [ThunderBird](https://www.mozilla.org/zh-CN/thunderbird/) - Mozilla 公司出品的强大的Email客户端程序。
 
-
-
-
-
-
-
 ## 数据恢复
-
 
 - [DiskWarrior](http://www.alsoft.com/DiskWarrior/) - 恢复文件系统损坏时，磁盘工具进行选择。
 - [Data Rescue](https://www.prosofteng.com/datarescue-mac-data-recovery/) - 多种情况下的全面和专业的数据恢复。
 - [Stellar Phoenix Mac Data Recovery](http://www.stellarinfo.com/data-recovery-mac.php) - 一个功能强大的恢复文件面向Mac的工具。
 - [R-Studio for Mac](http://www.r-studio.com/data_recovery_macintosh/) - 可恢复分区被格式化、损坏或被删除的文件。
-
 
 ## 虚拟机
 
@@ -480,7 +457,6 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 - [Versions](http://www.versionsapp.com/) - Mac上最好的SVN管理工具。
 - [Cornerstone](http://www.zennaware.com/cornerstone/) - Mac上最佳的SVN管理工具。
 
-
 #### 版本控制系统
 
 * [GitLab](http://gitlab.com/) - 一个用于仓库管理系统的开源项目。
@@ -490,10 +466,6 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 * [Gogs](https://gogs.io) - 一款极易搭建的自助 Git 服务Golang版本。
 * [Gerrit](https://gerrit.rockbox.org) Gerrit 是一个免费、开放源代码的代码审查软件，使用网页界面。
 * [Gitblit](http://www.gitblit.com/) Java版本Git代码托管，项目管理。
-
-
-
-
 
 ## 编辑器
 
