@@ -15,7 +15,9 @@
 
 > 其实，macOS 系统本身是已经原生支持 NTFS 磁盘格式的读与写的，只不过 NTFS 毕竟是老对手 微软 Windows 产品下的技术，碍于版权和商业上的原因，苹果只好把 NTFS 的“写入”功能给屏蔽掉，变成系统的隐藏特性。
 
-- [Mounty](http://enjoygineering.com/mounty/) - 免费让 Mac 原生支持移动硬盘/U盘 NTFS 读写的必备驱动应用。[#](http://www.iplaysoft.com/mounty-for-ntfs.html)
+- [Paragon NTFS for Mac](https://china.paragon-software.com/home-mac/ntfs-for-mac/) - NTFS移动硬盘读写工具。[荐]
+
+- [Mounty](http://enjoygineering.com/mounty/) - 免费让 Mac 原生支持移动硬盘/U盘 NTFS 读写的驱动应用。团长把这个软件试用了一段时间，发现容易导致文件丢失，所以，请慎用。[#](http://www.iplaysoft.com/mounty-for-ntfs.html)
 
 
 ## 效率工具
@@ -98,8 +100,6 @@
 * [FOLX](http://mac.eltima.com/download-manager.html) - Folx 是一个Mac osx 系统风格界面的下载管理工具。
 
 
-
-
 #### 其他实用工具
 
 * [12306ForMac](https://github.com/fancymax/12306ForMac) - Mac版12306 订票/捡票 助手。[开源](https://github.com/fancymax/12306ForMac) [荐]
@@ -149,8 +149,17 @@
     * [XtraFinder](https://www.trankynam.com/xtrafinder/) - 给Finder添加有用的新特性。
 
 
+## 系统工具
 
-## 科学上网
+
+### Mac系统清理、内存管理
+
+- [DaisyDisk](https://daisydiskapp.com/) - 磁盘分析工具。了解磁盘使用状况，并进行准确的分析。DaisyDisk 的视觉系属性大大超过了功能性。 [#](https://www.twblogs.net/a/5baad01e2b7177781a0e94d6/zh-cn)
+
+- [MacBooster](http://www.carrotchou.blog/5245.html) - 磁盘、内存清理工具。【荐】
+
+
+## 上网
 
 - [Shadowsocks](http://shadowsocks.org/) - 一个快速的隧道代理，可以帮助你绕过防火墙。[荐]
 - [Surge](http://nssurge.com/) - 科学上网。[荐]
@@ -286,7 +295,7 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 - [WorkFlowy](https://workflowy.com/downloads/mac/) - 很可能是极简主义者梦想中的笔记应用。[荐]
 
 
-#### Markdown编辑器
+#### Markdown 编辑器
 
 - [Ulysses](https://ulyssesapp.com/)- 专业文本编辑工具，支持 Markdown。[荐]
 - [Bear](https://bear.app/)
@@ -300,6 +309,11 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 - [LightPaper](http://lightpaper.42squares.in/) - 简单的Markdown文本编辑器。
 - [Cmd Markdown](https://www.zybuluo.com/) - Cmd Markdown 编辑阅读器，支持实时同步预览，区分写作和阅读模式，支持在线存储，分享文稿网址。
 
+#### Markdown 图片上传
+
+- [PicGo](https://molunerfinn.com/PicGo/) - Markdown 图片上传工具。[#](https://mp.weixin.qq.com/s/ZQtrlULJ5mNTd8jMCb5yEg)
+
+- [iPic](https://toolinbox.net/iPic/) - Markdown 图片上传工具。
 
 #### 电子书相关
 
@@ -311,9 +325,17 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 
 #### pdf阅读
 
-- [MarginNote](https://marginnote.com/) - 在阅读时做标注，记笔记，并可以利用思维导图(Mindmap)和大纲工具(Outline)对笔记进行组织。
+- [MarginNote](https://marginnote.com/) - 在阅读时做标注，记笔记，并可以利用思维导图(Mindmap)和大纲工具(Outline)对笔记进行组织。但就是比较贵。【荐】
 
 - [PDF Expert]() - 极致的 PDF 阅读标注工作体验。
+
+- [PDFelement](https://pdf.wondershare.cn/) - 采用类似word界面和工具条设计,无需改变工具操作习惯。国产良心软件。
+
+- [iAnnotate]() - 可以说是所有 PDF 标记类 app 中的No.1了。仅限 iOS 平台使用，没有Mac平台。
+
+-
+
+
 
 
 
