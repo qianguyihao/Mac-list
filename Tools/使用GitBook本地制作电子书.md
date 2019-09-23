@@ -139,6 +139,10 @@ gitbook pdf ./ ./mybook.pdf
 
 ![](http://img.smyhvae.com/20190420_1517.png)
 
+### 配置封面
+
+所有格式的电子书都可以配置自定义封面,在项目的根目录下提供 `cover.jpg` 和 `cover_small.jpg` 两种封面图片时，生成电子书会自动增加封面页.
+
 ### 参考链接
 
 - 【荐】GitBook使用入门篇，让你快速生成文档(含`SUMMARY.md`目录举例）：<http://www.hehaibao.com/learn-gitbook/>

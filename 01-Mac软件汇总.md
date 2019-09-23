@@ -10,7 +10,6 @@
 - [BetterZip 3](https://macitbetter.com/) - 压缩解压缩工具。支持格式 ZIP、TAR、TGZ、TBZ、TXZ (new)、7-ZIP、RAR。[荐]
 - [The Unarchiver]() - 压缩／解压工具。可以从App Store下载。
 
-
 #### NTFS移动硬盘读写
 
 > 其实，macOS 系统本身是已经原生支持 NTFS 磁盘格式的读与写的，只不过 NTFS 毕竟是老对手 微软 Windows 产品下的技术，碍于版权和商业上的原因，苹果只好把 NTFS 的“写入”功能给屏蔽掉，变成系统的隐藏特性。
@@ -24,11 +23,13 @@
 
 - [Alfred](https://www.alfredapp.com/) - 效率神器。有免费版和付费版两种。付费版功能更强大。[荐] [#](https://zhuanlan.zhihu.com/p/28580894)
 
+### 日历工具
+
+- [Fantastical](https://flexibits.com/fantastical) - 日历应用程序，你将管理好生活。[荐]。
+
 #### GTD 时间管理
 
 - [OmniFocus](https://www.omnigroup.com/omnifocus) - 著名 GTD，上手之后秒杀同类。79.99美元。[#](http://www.asianefficiency.com/technology/omnifocus-mac-review/)
-
-## 实用工具
 
 #### 密码管理
 
@@ -53,7 +54,7 @@
 #### gif录制
 
 - [Licecap](http://www.cockos.com/licecap/) - 是一款屏幕录制工具输出GIF，录制过程中可以随意改变录屏范围，录制的文件也非常小。支持 Mac 和 Windows 平台。[开源](https://github.com/justinfrankel/licecap) 【荐】。录制结束后，可以在这个网站<https://ezgif.com/optimize>上进行压缩。
-- [Kap](https://getkap.co/) - 轻量 GIF 录屏小工具。[开源](https://github.com/wulkano/kap) [star 5]
+- [Kap](https://getkap.co/) - 轻量 GIF 录屏小工具。[开源](https://github.com/wulkano/kap)。【荐】
 
 #### 窗口管理
 
@@ -74,9 +75,7 @@
 * [eudic](http://www.eudic.net/eudic/mac_dictionary.aspx) - 欧路词典。
 * [iTranslate](http://www.itranslate.com/) - 支持全世界超过 80 种语言发音和输出。
 
-
 #### 输入法
-
 
 * [搜狗输入法](http://pinyin.sogou.com/mac/) - 搜狗输入法。
 * [百度输入法](https://srf.baidu.com/input/mac.html) - 支持拼音五笔输入。
@@ -88,8 +87,6 @@
 * [哈利路亚英文输入法](https://github.com/dongyuwei/hallelujahIM) - 智能英文输入法，具备自动补全，自动纠错功能。
 * ~~[QQ输入法](http://qq.pinyin.cn/) - 腾讯出品的输入法。~~
 
-
-
 #### 下载工具
 
 * [Transmission](https://www.transmissionbt.com/) - 免费的BitTorrent客户端 [开源](https://github.com/Sigil-Ebook/Sigil)。
@@ -99,10 +96,13 @@
 * [Free Download Manager](http://www.freedownloadmanager.org/) - 功能强大的下载加速器。
 * [FOLX](http://mac.eltima.com/download-manager.html) - Folx 是一个Mac osx 系统风格界面的下载管理工具。
 
-
 #### 其他实用工具
 
-- [f.lux](https://justgetflux.com/) - 自动调整您的电脑屏幕，以匹配亮度。[荐]
+- [f.lux](https://justgetflux.com/) - 降低屏幕的色温，减弱蓝光。【荐】
+
+- [Itsycal](https://www.mowglii.com/itsycal/) - 一款简洁实用的开源日历工具。可以直接在 menubar 上展示今天是几号；点击后，还自动框选出了本月的时间范围。好处是，可以在最短的时间内查看日历，基本可以替代原生的时间了。[开源](https://github.com/sfsam/itsycal)。【荐】
+
+#### 其他工具
 
 * [12306ForMac](https://github.com/fancymax/12306ForMac) - Mac版12306 订票/捡票 助手。[开源](https://github.com/fancymax/12306ForMac)
 * [AirServer](http://www.airserver.com/Download) - 将手机投影到电脑上。
@@ -118,7 +118,6 @@
 * [AppCleaner](http://freemacsoft.net/appcleaner/) - 一个小应用程序，让你彻底卸载不需要的应用程序。
 * [BetterZip 3](https://macitbetter.com/) - 压缩解压缩工具支持格式 ZIP、TAR、TGZ、TBZ、TXZ (new)、7-ZIP、RAR。[荐]
 * [Numi](http://numi.io/) - 漂亮的计算器应用。
-* [Fantastical](https://flexibits.com/fantastical) - 日历应用程序，你将管理好生活。
 * [Day-O 2](http://www.shauninman.com/archive/2016/10/20/day_o_2_mac_menu_bar_clock) - 菜单日历更换内置日历。
 * [OnyX](http://www.titanium.free.fr/) - 多功能实用工具来验证磁盘和文件，运行清洁和系统维护任务，配置隐藏选项等。
 * [SSH Tunnel](https://codinn.com/products/ssh-tunnel/) - 管理你的SSH。
@@ -135,7 +134,6 @@
 * [Paste](http://pasteapp.me) - 智能剪贴板历史片段管理。
 * [ControlPlane](http://www.controlplaneapp.com/) - 自定义Mac情景模式。某些场景让Mac自动静音或是自动打开Mail客户端等等。[开源](https://github.com/dustinrue/ControlPlane)
 * [Caffeine](http://lightheadsw.com/caffeine/) - 实用工具，菜单栏按钮，点击休眠。
-* [Itsycal](https://www.mowglii.com/itsycal/) - 一款简洁实用的开源日历工具。[开源](https://github.com/sfsam/itsycal)
 * [HTML5 Player](http://zythum.sinaapp.com/youkuhtml5playerbookmark/) - Chrome插件解决中国视频网站播放视频电脑发热的情况。
 * [Monity](http://www.monityapp.com/) - 帮助用户实时监控系统的一款非常漂亮的软件。
 * [BetterTouchTool](http://www.bettertouchtool.net/) - 代替默认的系统操作方式（组合键、修饰键、手势等）。
@@ -238,7 +236,6 @@
 - [ColorSchemer](http://www.colorschemer.com/) - 专业的配色、调色软件。
 - [IconKit](https://itunes.apple.com/cn/app/iconkit-icon-resizer-for-app/id507135296?mt=12) - App图标自动生成器。
 - [GIPHY Capture](https://itunes.apple.com/us/app/giphy-capture.-the-gif-maker/id668208984) - 免费软件的捕捉和分享图片在桌面上。
-- [iPic](http://toolinbox.net/iPic/) - 上传插图链接分享。
 - [Iconjar](http://geticonjar.com/) - 图标管理软件，带组织和搜索功能。[star 5]
 - [RightFont](http://rightfontapp.com/) - 字体管理工具。[star 4]
 - [Solarized](http://ethanschoonover.com/solarized) - 干净清爽的颜色主题，支持iTerm、Intellij IDEA、Vim等。
@@ -307,9 +304,9 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 
 #### Markdown 图片上传
 
-- [PicGo](https://molunerfinn.com/PicGo/) - Markdown 图片上传工具。[#](https://mp.weixin.qq.com/s/ZQtrlULJ5mNTd8jMCb5yEg)
+- [PicGo](https://molunerfinn.com/PicGo/) - Markdown 图片上传工具。[荐]。[#](https://mp.weixin.qq.com/s/ZQtrlULJ5mNTd8jMCb5yEg)
 
-- [iPic](https://toolinbox.net/iPic/) - Markdown 图片上传工具。
+- [iPic](https://toolinbox.net/iPic/) - Markdown 图片上传工具。60元/年。
 
 #### 电子书相关
 
@@ -529,8 +526,10 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 #### 代码比对
 
 - [DiffMerge](http://sourcegear.com/diffmerge/) - 可视化的文件比较（也可进行目录比较）与合并工具。
+
 - [Beyond Compare](http://www.scootersoftware.com/download.php) - 对比两个文件夹或者文件，并将差异以颜色标示。无限期试用。license连接：[#](https://gist.github.com/huqi/35f2a0792aef830898ca)
 
+- [Kaleidoscope](https://www.kaleidoscopeapp.com/) - Kaleidoscope 是一款很强大的文件和图像比较工具，支持任何文本文件和 jpeg、tiff、png、psd 等格式的图像文件，同时和 git、svn 等版本控制工具能够完美的结合。[荐]。
 
 
 #### 正则编辑器
