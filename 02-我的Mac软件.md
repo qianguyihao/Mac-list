@@ -92,7 +92,13 @@ Annotate软件已经免费了。
 参考链接：<https://github.com/ArchimboldiMao/SurgeConfig>
 
 
+### AgentNEO + Surge 实现全局科学上网
 
+（1）找到 AgentNEO 网站中关于 surge 的配置。把这个配置的链接在浏览器中打开，这个配置文件则会自动下载到本地。
+
+（2）在 surge 中加载这个配置文件。
+
+（3）在状态栏中点击 Surge 图标，勾选「设置为系统代理」以及「增强模式」即可开启 Surge。
 
 ### 参考链接
 

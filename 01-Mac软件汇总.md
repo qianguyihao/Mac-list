@@ -10,23 +10,26 @@
 - [BetterZip 3](https://macitbetter.com/) - 压缩解压缩工具。支持格式 ZIP、TAR、TGZ、TBZ、TXZ (new)、7-ZIP、RAR。[荐]
 - [The Unarchiver]() - 压缩／解压工具。可以从App Store下载。
 
-
 #### NTFS移动硬盘读写
 
 > 其实，macOS 系统本身是已经原生支持 NTFS 磁盘格式的读与写的，只不过 NTFS 毕竟是老对手 微软 Windows 产品下的技术，碍于版权和商业上的原因，苹果只好把 NTFS 的“写入”功能给屏蔽掉，变成系统的隐藏特性。
 
-- [Mounty](http://enjoygineering.com/mounty/) - 免费让 Mac 原生支持移动硬盘/U盘 NTFS 读写的必备驱动应用。[#](http://www.iplaysoft.com/mounty-for-ntfs.html)
+- [Paragon NTFS for Mac](https://china.paragon-software.com/home-mac/ntfs-for-mac/) - NTFS移动硬盘读写工具。[荐]
+
+- [Mounty](http://enjoygineering.com/mounty/) - 免费让 Mac 原生支持移动硬盘/U盘 NTFS 读写的驱动应用。团长把这个软件试用了一段时间，发现容易导致文件丢失，所以，请慎用。[#](http://www.iplaysoft.com/mounty-for-ntfs.html)
 
 
 ## 效率工具
 
 - [Alfred](https://www.alfredapp.com/) - 效率神器。有免费版和付费版两种。付费版功能更强大。[荐] [#](https://zhuanlan.zhihu.com/p/28580894)
 
+### 日历工具
+
+- [Fantastical](https://flexibits.com/fantastical) - 日历应用程序，你将管理好生活。[荐]。
+
 #### GTD 时间管理
 
 - [OmniFocus](https://www.omnigroup.com/omnifocus) - 著名 GTD，上手之后秒杀同类。79.99美元。[#](http://www.asianefficiency.com/technology/omnifocus-mac-review/)
-
-## 实用工具
 
 #### 密码管理
 
@@ -51,7 +54,7 @@
 #### gif录制
 
 - [Licecap](http://www.cockos.com/licecap/) - 是一款屏幕录制工具输出GIF，录制过程中可以随意改变录屏范围，录制的文件也非常小。支持 Mac 和 Windows 平台。[开源](https://github.com/justinfrankel/licecap) 【荐】。录制结束后，可以在这个网站<https://ezgif.com/optimize>上进行压缩。
-- [Kap](https://getkap.co/) - 轻量 GIF 录屏小工具。[开源](https://github.com/wulkano/kap) [star 5]
+- [Kap](https://getkap.co/) - 轻量 GIF 录屏小工具。[开源](https://github.com/wulkano/kap)。【荐】
 
 #### 窗口管理
 
@@ -72,9 +75,7 @@
 * [eudic](http://www.eudic.net/eudic/mac_dictionary.aspx) - 欧路词典。
 * [iTranslate](http://www.itranslate.com/) - 支持全世界超过 80 种语言发音和输出。
 
-
 #### 输入法
-
 
 * [搜狗输入法](http://pinyin.sogou.com/mac/) - 搜狗输入法。
 * [百度输入法](https://srf.baidu.com/input/mac.html) - 支持拼音五笔输入。
@@ -86,8 +87,6 @@
 * [哈利路亚英文输入法](https://github.com/dongyuwei/hallelujahIM) - 智能英文输入法，具备自动补全，自动纠错功能。
 * ~~[QQ输入法](http://qq.pinyin.cn/) - 腾讯出品的输入法。~~
 
-
-
 #### 下载工具
 
 * [Transmission](https://www.transmissionbt.com/) - 免费的BitTorrent客户端 [开源](https://github.com/Sigil-Ebook/Sigil)。
@@ -97,17 +96,19 @@
 * [Free Download Manager](http://www.freedownloadmanager.org/) - 功能强大的下载加速器。
 * [FOLX](http://mac.eltima.com/download-manager.html) - Folx 是一个Mac osx 系统风格界面的下载管理工具。
 
-
-
-
 #### 其他实用工具
 
-* [12306ForMac](https://github.com/fancymax/12306ForMac) - Mac版12306 订票/捡票 助手。[开源](https://github.com/fancymax/12306ForMac) [荐]
+- [f.lux](https://justgetflux.com/) - 降低屏幕的色温，减弱蓝光。【荐】
+
+- [Itsycal](https://www.mowglii.com/itsycal/) - 一款简洁实用的开源日历工具。可以直接在 menubar 上展示今天是几号；点击后，还自动框选出了本月的时间范围。好处是，可以在最短的时间内查看日历，基本可以替代原生的时间了。[开源](https://github.com/sfsam/itsycal)。【荐】
+
+#### 其他工具
+
+* [12306ForMac](https://github.com/fancymax/12306ForMac) - Mac版12306 订票/捡票 助手。[开源](https://github.com/fancymax/12306ForMac)
 * [AirServer](http://www.airserver.com/Download) - 将手机投影到电脑上。
 * [CheatSheet](https://www.mediaatelier.com/CheatSheet/) - CheatSheet 是一款Mac上的非常实用的快捷键快速提醒工具。
 * [WWDC](https://github.com/insidegui/WWDC) - Mac OS的非官方的WWDC APP。[[开源]](https://github.com/insidegui/WWDC)
 * [xScope](http://xscopeapp.com/) - 测量、检查和测试屏幕上的图形和布局的工具。搜索你的苹果和网络，快速打开应用程序。
-* [f.lux](https://justgetflux.com/) - 自动调整您的电脑屏幕，以匹配亮度。
 * [Todoist](https://todoist.com/mac) - 跨平台的任务管理器与移动应用程序。
 * [TaskPaper](https://www.taskpaper.com/) - 漂亮的纯文本任务列表。
 * [Wunderlist](https://todoist.com/mac) - 奇妙清单跨平台的任务管理器与移动应用程序。
@@ -117,7 +118,6 @@
 * [AppCleaner](http://freemacsoft.net/appcleaner/) - 一个小应用程序，让你彻底卸载不需要的应用程序。
 * [BetterZip 3](https://macitbetter.com/) - 压缩解压缩工具支持格式 ZIP、TAR、TGZ、TBZ、TXZ (new)、7-ZIP、RAR。[荐]
 * [Numi](http://numi.io/) - 漂亮的计算器应用。
-* [Fantastical](https://flexibits.com/fantastical) - 日历应用程序，你将管理好生活。
 * [Day-O 2](http://www.shauninman.com/archive/2016/10/20/day_o_2_mac_menu_bar_clock) - 菜单日历更换内置日历。
 * [OnyX](http://www.titanium.free.fr/) - 多功能实用工具来验证磁盘和文件，运行清洁和系统维护任务，配置隐藏选项等。
 * [SSH Tunnel](https://codinn.com/products/ssh-tunnel/) - 管理你的SSH。
@@ -134,7 +134,6 @@
 * [Paste](http://pasteapp.me) - 智能剪贴板历史片段管理。
 * [ControlPlane](http://www.controlplaneapp.com/) - 自定义Mac情景模式。某些场景让Mac自动静音或是自动打开Mail客户端等等。[开源](https://github.com/dustinrue/ControlPlane)
 * [Caffeine](http://lightheadsw.com/caffeine/) - 实用工具，菜单栏按钮，点击休眠。
-* [Itsycal](https://www.mowglii.com/itsycal/) - 一款简洁实用的开源日历工具。[开源](https://github.com/sfsam/itsycal)
 * [HTML5 Player](http://zythum.sinaapp.com/youkuhtml5playerbookmark/) - Chrome插件解决中国视频网站播放视频电脑发热的情况。
 * [Monity](http://www.monityapp.com/) - 帮助用户实时监控系统的一款非常漂亮的软件。
 * [BetterTouchTool](http://www.bettertouchtool.net/) - 代替默认的系统操作方式（组合键、修饰键、手势等）。
@@ -149,8 +148,17 @@
     * [XtraFinder](https://www.trankynam.com/xtrafinder/) - 给Finder添加有用的新特性。
 
 
+## 系统工具
 
-## 科学上网
+
+### Mac系统清理、内存管理
+
+- [DaisyDisk](https://daisydiskapp.com/) - 磁盘分析工具。了解磁盘使用状况，并进行准确的分析。DaisyDisk 的视觉系属性大大超过了功能性。 [#](https://www.twblogs.net/a/5baad01e2b7177781a0e94d6/zh-cn)
+
+- [MacBooster](http://www.carrotchou.blog/5245.html) - 磁盘、内存清理工具。【荐】
+
+
+## 上网
 
 - [Shadowsocks](http://shadowsocks.org/) - 一个快速的隧道代理，可以帮助你绕过防火墙。[荐]
 - [Surge](http://nssurge.com/) - 科学上网。[荐]
@@ -169,7 +177,6 @@
 - [v2ss](https://en.v2ss.info/) -
 
 
-
 ## FTP客户端
 
 * [FileZilla](https://filezilla-project.org) - 跨平台的FTP，FTPS和SFTP客户端。[荐]
@@ -177,10 +184,6 @@
 * [Flow](http://fivedetails.com/flow/) - 支持简单的 FTP + SFTP 客户端。
 * [Yummy FTP](http://www.yummysoftware.com) - 专业快速，可靠的FTP客户端。
 * [Cyberduck](https://cyberduck.io) - 免费FTP，SFTP，S3和WebDAV客户端 & OpenStack Swift Client。
-
-
-
-
 
 ## 设计与产品
 
@@ -233,7 +236,6 @@
 - [ColorSchemer](http://www.colorschemer.com/) - 专业的配色、调色软件。
 - [IconKit](https://itunes.apple.com/cn/app/iconkit-icon-resizer-for-app/id507135296?mt=12) - App图标自动生成器。
 - [GIPHY Capture](https://itunes.apple.com/us/app/giphy-capture.-the-gif-maker/id668208984) - 免费软件的捕捉和分享图片在桌面上。
-- [iPic](http://toolinbox.net/iPic/) - 上传插图链接分享。
 - [Iconjar](http://geticonjar.com/) - 图标管理软件，带组织和搜索功能。[star 5]
 - [RightFont](http://rightfontapp.com/) - 字体管理工具。[star 4]
 - [Solarized](http://ethanschoonover.com/solarized) - 干净清爽的颜色主题，支持iTerm、Intellij IDEA、Vim等。
@@ -245,6 +247,10 @@
 
 Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整理、查找」的各种场景，支持 Mac 与 Windows 系统。号称图片管理中的印象笔记。
 
+
+## 视频播放器
+
+- [IINA](https://iina.io/) - 目前为止，Mac 上最好用对的视频播放器，没有之一。风格很接近系统原生应用。
 
 ## 音频和视频
 
@@ -267,9 +273,6 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 - [ArcTime](http://www.arctime.org/) - 跨平台字幕制作软件。
 - [Perian](http://perian.org/#download) - 让QuickTime播放所有常见格式的免费插件。[开源](https://github.com/MaddTheSane/perian) 。[荐]
 
-
-
-
 ## 阅读与写作
 
 #### 云笔记软件
@@ -285,8 +288,7 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 
 - [WorkFlowy](https://workflowy.com/downloads/mac/) - 很可能是极简主义者梦想中的笔记应用。[荐]
 
-
-#### Markdown编辑器
+#### Markdown 编辑器
 
 - [Ulysses](https://ulyssesapp.com/)- 专业文本编辑工具，支持 Markdown。[荐]
 - [Bear](https://bear.app/)
@@ -300,6 +302,11 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 - [LightPaper](http://lightpaper.42squares.in/) - 简单的Markdown文本编辑器。
 - [Cmd Markdown](https://www.zybuluo.com/) - Cmd Markdown 编辑阅读器，支持实时同步预览，区分写作和阅读模式，支持在线存储，分享文稿网址。
 
+#### Markdown 图片上传
+
+- [PicGo](https://molunerfinn.com/PicGo/) - Markdown 图片上传工具。[荐]。[#](https://mp.weixin.qq.com/s/ZQtrlULJ5mNTd8jMCb5yEg)
+
+- [iPic](https://toolinbox.net/iPic/) - Markdown 图片上传工具。60元/年。
 
 #### 电子书相关
 
@@ -311,11 +318,13 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 
 #### pdf阅读
 
-- [MarginNote](https://marginnote.com/) - 在阅读时做标注，记笔记，并可以利用思维导图(Mindmap)和大纲工具(Outline)对笔记进行组织。
+- [MarginNote](https://marginnote.com/) - 在阅读时做标注，记笔记，并可以利用思维导图(Mindmap)和大纲工具(Outline)对笔记进行组织。但就是比较贵。【荐】
 
 - [PDF Expert]() - 极致的 PDF 阅读标注工作体验。
 
+- [PDFelement](https://pdf.wondershare.cn/) - 采用类似word界面和工具条设计,无需改变工具操作习惯。国产良心软件。
 
+- [iAnnotate]() - 可以说是所有 PDF 标记类 app 中的No.1了。仅限 iOS 平台使用，没有Mac平台。
 
 #### RSS
 
@@ -325,7 +334,6 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 - [Leaf](http://www.rockysandstudio.com/) - RSS 客户端程序。[hot]
 - [Vienna](http://www.vienna-rss.org/) - [开源](https://github.com/ViennaRSS/vienna-rss)的RSS/Atom 新闻阅读客户端。
 
-
 #### 其他
 
 - [OpenOffice](http://www.openoffice.org/zh-cn/download/index.html) - 是一套[开源](http://openoffice.apache.org/source.html)、跨平台的办公室软件套件。
@@ -333,7 +341,6 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 - [iChm](http://www.robinlu.com/ichm) - 读chm文件的软件。
 - [Chmox](http://chmox.sourceforge.net/) - 读chm文件的软件。
 - [CHM Reader](http://www.hewbo.com/chm-reader.html) - 读chm文件的软件。
-
 
 ## 网盘
 
@@ -352,7 +359,6 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 
 ## 浏览器
 
-
 - [Safari](http://www.apple.com/cn/safari/) - Mac预装自带浏览器。
 - [Chrome](http://www.google.cn/chrome/browser/) - Chrome浏览器谷歌出品。
 - [Firefox](http://www.firefox.com.cn/) - 火狐浏览器。
@@ -363,11 +369,9 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 - [Ōryōki](http://oryoki.io/) - 小的web浏览器。这是一个试验性的项目，目前正在开发中。
 
 
-
 ## 通信
 
 > 推荐一些通信工具，沟通，团队协同。
-
 
 #### 即时通信
 
@@ -418,20 +422,12 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 * [CloudMagic Email](https://cloudmagic.com/) - 界面非常简洁的一个邮件客户端。
 * [ThunderBird](https://www.mozilla.org/zh-CN/thunderbird/) - Mozilla 公司出品的强大的Email客户端程序。
 
-
-
-
-
-
-
 ## 数据恢复
-
 
 - [DiskWarrior](http://www.alsoft.com/DiskWarrior/) - 恢复文件系统损坏时，磁盘工具进行选择。
 - [Data Rescue](https://www.prosofteng.com/datarescue-mac-data-recovery/) - 多种情况下的全面和专业的数据恢复。
 - [Stellar Phoenix Mac Data Recovery](http://www.stellarinfo.com/data-recovery-mac.php) - 一个功能强大的恢复文件面向Mac的工具。
 - [R-Studio for Mac](http://www.r-studio.com/data_recovery_macintosh/) - 可恢复分区被格式化、损坏或被删除的文件。
-
 
 ## 虚拟机
 
@@ -458,7 +454,6 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 - [Versions](http://www.versionsapp.com/) - Mac上最好的SVN管理工具。
 - [Cornerstone](http://www.zennaware.com/cornerstone/) - Mac上最佳的SVN管理工具。
 
-
 #### 版本控制系统
 
 * [GitLab](http://gitlab.com/) - 一个用于仓库管理系统的开源项目。
@@ -468,10 +463,6 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 * [Gogs](https://gogs.io) - 一款极易搭建的自助 Git 服务Golang版本。
 * [Gerrit](https://gerrit.rockbox.org) Gerrit 是一个免费、开放源代码的代码审查软件，使用网页界面。
 * [Gitblit](http://www.gitblit.com/) Java版本Git代码托管，项目管理。
-
-
-
-
 
 ## 编辑器
 
@@ -535,8 +526,10 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 #### 代码比对
 
 - [DiffMerge](http://sourcegear.com/diffmerge/) - 可视化的文件比较（也可进行目录比较）与合并工具。
+
 - [Beyond Compare](http://www.scootersoftware.com/download.php) - 对比两个文件夹或者文件，并将差异以颜色标示。无限期试用。license连接：[#](https://gist.github.com/huqi/35f2a0792aef830898ca)
 
+- [Kaleidoscope](https://www.kaleidoscopeapp.com/) - Kaleidoscope 是一款很强大的文件和图像比较工具，支持任何文本文件和 jpeg、tiff、png、psd 等格式的图像文件，同时和 git、svn 等版本控制工具能够完美的结合。[荐]。
 
 
 #### 正则编辑器
