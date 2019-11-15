@@ -1,16 +1,89 @@
 
 > 收集好用的Mac软件。
 
-## 目录
 
 ## 基本工具
 
-#### 压缩／解压
+### 效率工具
+
+- [Alfred](https://www.alfredapp.com/) - 效率神器。有免费版和付费版两种。[荐] [#](https://zhuanlan.zhihu.com/p/28580894)
+
+
+### 截图
+
+- [snipaste](https://zh.snipaste.com/) - 新生代截图工具。[荐]。
+
+- [Xnip](https://zh.xnipapp.com)- Mac上方便好用的截图工具，支持滚动截图。[#](https://sspai.com/post/42654)
+
+- [Annotate](https://itunes.apple.com/cn/app/annotate-capture-and-share/id918207447?mt=12) - 款非常强大的图片注释软件，可对屏幕截图或者现有图片进行批注。同时，在基础的图片注释功能上还增加了“局部高亮”、“Emoji 表情”、 ”GIF 动图录制与注释“、“与 Dropbox/CloudApp 同步数据“等功能，虽然没有 Skitch 的图片管理功能，也没有 Napkin 的图片拼贴功能，但从注释操作的需求上看，它的确算是 No.1。[#](https://sspai.com/post/30486)
+
+- [截图(Jietu)](http://jietu.qq.com/) - 截图附带强大的标注功能，腾讯作品。支持截图生成二维码。支持视频录制，可以录制成gif、mp4、mov等格式。 [#](https://www.v2ex.com/t/280552) [#](http://sspai.com/33021)
+
+- [Skitch](https://evernote.com/intl/zh-cn/skitch/) - 截图附带强大的标注功能。
+
+- [Snip](http://snip.qq.com/) - 高效的截图工具，支持滚动截屏，腾讯作品。
+
+- [snappy](https://itunes.apple.com/cn/app/snappy-snapshots-the-smart-way/id512617038?mt=12) - 官网地址：<http://snappy-app.com/>。新出来的一款截图工具，截图之后可生成悬浮窗。[#](http://www.ifanr.com/app/891044)[#](https://sspai.com/post/36375)
+
+
+### gif录制
+
+- [Licecap](http://www.cockos.com/licecap/) - 是一款屏幕录制工具输出GIF，录制过程中可以随意改变录屏范围，录制的文件也非常小。支持 Mac 和 Windows 平台。[开源](https://github.com/justinfrankel/licecap) 【荐】。录制结束后，可以在这个网站<https://ezgif.com/optimize>上进行压缩。
+
+- [Kap](https://getkap.co/) - 轻量 GIF 录屏小工具。[开源](https://github.com/wulkano/kap)。
+
+
+
+### 压缩／解压
 
 - [BetterZip 3](https://macitbetter.com/) - 压缩解压缩工具。支持格式 ZIP、TAR、TGZ、TBZ、TXZ (new)、7-ZIP、RAR。[荐]
-- [The Unarchiver]() - 压缩／解压工具。可以从App Store下载。
+- [The Unarchiver]() - 压缩／解压工具。
 
-#### NTFS移动硬盘读写
+### 输入法
+
+* [搜狗输入法](http://pinyin.sogou.com/mac/) - 搜狗输入法。【荐】
+
+* [百度输入法](https://srf.baidu.com/input/mac.html) - 支持拼音五笔输入。
+
+* [清歌五笔输入法](https://qingg.im/index.html) - 为 iOS 和 Mac 专门打造的五笔输入法。
+
+* [WBIM](http://www.pawpawsoft.com) - 五笔输入法。
+
+* [Rocket](http://matthewpalmer.net/rocket/) - Emoji标签输入。
+
+* [颜文字](https://itunes.apple.com/cn/app/yan-wen-zi/id914708191?mt=12) - 颜文字输入。
+
+* [RIME](http://rime.im/) - 中州韻輸入法引擎。[开源](https://github.com/rime)。
+
+* [哈利路亚英文输入法](https://github.com/dongyuwei/hallelujahIM) - 智能英文输入法，具备自动补全，自动纠错功能。
+
+* ~~[QQ输入法](http://qq.pinyin.cn/) - 腾讯出品的输入法。~~
+
+
+### 下载工具
+
+> 至今为止，没找到一个靠谱、好用的下载工具。
+
+- [迅雷](https://www.xunlei.com/) - 限速严重。
+
+
+- [Transmission](https://www.transmissionbt.com/) - 免费的BitTorrent客户端 [开源](https://github.com/Sigil-Ebook/Sigil)。
+
+- [aria2](https://aria2.github.io/) - 一款支持多种协议的轻量级命令行下载工具。[开源](https://github.com/aria2)。
+
+- [JDownloader](http://jdownloader.org/) - 下载工具，下载文件的一键式托管。
+
+- [You-Get](https://you-get.org/) - 网络富媒体命令行下载工具。[开源](https://github.com/soimort/you-get)。
+
+- [Free Download Manager](http://www.freedownloadmanager.org/) - 功能强大的下载加速器。
+
+- [FOLX](http://mac.eltima.com/download-manager.html) - Folx 是一个Mac osx 系统风格界面的下载管理工具。
+
+- [ENFI下载器](http://enfi.cloud/) - 使用P2P下载技术，支持HTTP，BT，磁力链等各种协议，高速下载让你摆脱限速的困扰，从此告别低速。
+
+
+
+### NTFS移动硬盘读写
 
 > 其实，macOS 系统本身是已经原生支持 NTFS 磁盘格式的读与写的，只不过 NTFS 毕竟是老对手 微软 Windows 产品下的技术，碍于版权和商业上的原因，苹果只好把 NTFS 的“写入”功能给屏蔽掉，变成系统的隐藏特性。
 
@@ -18,91 +91,57 @@
 
 - [Mounty](http://enjoygineering.com/mounty/) - 免费让 Mac 原生支持移动硬盘/U盘 NTFS 读写的驱动应用。团长把这个软件试用了一段时间，发现容易导致文件丢失，所以，请慎用。[#](http://www.iplaysoft.com/mounty-for-ntfs.html)
 
-
-## 效率工具
-
-- [Alfred](https://www.alfredapp.com/) - 效率神器。有免费版和付费版两种。付费版功能更强大。[荐] [#](https://zhuanlan.zhihu.com/p/28580894)
-
 ### 日历工具
 
 - [Fantastical](https://flexibits.com/fantastical) - 日历应用程序，你将管理好生活。[荐]。
 
-#### GTD 时间管理
+### GTD 时间管理
 
 - [OmniFocus](https://www.omnigroup.com/omnifocus) - 著名 GTD，上手之后秒杀同类。79.99美元。[#](http://www.asianefficiency.com/technology/omnifocus-mac-review/)
 
-#### 密码管理
+### 密码管理
 
 - [1password](https://1password.com/) - 全平台的帐号密码管理软件。[荐]
+
 - [LastPass](https://lastpass.com/) - 密码管理器和安全的数字笔记。
+
 - [KeePassX](https://www.keepassx.org) - 一个免费的，[开源](https://github.com/keepassx/keepassx)的，体积小的密码管理器。
+
 - [MacPass](http://mstarke.github.io/MacPass/) - [开源](https://github.com/mstarke/MacPass)的密码管理器。
 
-#### 截图
-
-- [snipaste](https://zh.snipaste.com/) - 新生代截图工具。[荐]。
-
-- [Xnip](https://zh.xnipapp.com)- Mac上方便好用的截图工具，支持滚动截图。[荐]。[#](https://sspai.com/post/42654)
-
-- [Annotate](https://itunes.apple.com/cn/app/annotate-capture-and-share/id918207447?mt=12) - 款非常强大的图片注释软件，可对屏幕截图或者现有图片进行批注。同时，在基础的图片注释功能上还增加了“局部高亮”、“Emoji 表情”、 ”GIF 动图录制与注释“、“与 Dropbox/CloudApp 同步数据“等功能，虽然没有 Skitch 的图片管理功能，也没有 Napkin 的图片拼贴功能，但从注释操作的需求上看，它的确算是 No.1。[荐]。[#](https://sspai.com/post/30486)
-
-- [截图(Jietu)](http://jietu.qq.com/) - 截图附带强大的标注功能，腾讯作品。支持截图生成二维码。支持视频录制，可以录制成gif、mp4、mov等格式。 [#](https://www.v2ex.com/t/280552) [#](http://sspai.com/33021)
-- [Skitch](https://evernote.com/intl/zh-cn/skitch/) - 截图附带强大的标注功能。
-- [Snip](http://snip.qq.com/) - 高效的截图工具，支持滚动截屏，腾讯作品。
-- [snappy](https://itunes.apple.com/cn/app/snappy-snapshots-the-smart-way/id512617038?mt=12) - 官网地址：<http://snappy-app.com/>。新出来的一款截图工具，截图之后可生成悬浮窗。[#](http://www.ifanr.com/app/891044)[#](https://sspai.com/post/36375)
-
-#### gif录制
-
-- [Licecap](http://www.cockos.com/licecap/) - 是一款屏幕录制工具输出GIF，录制过程中可以随意改变录屏范围，录制的文件也非常小。支持 Mac 和 Windows 平台。[开源](https://github.com/justinfrankel/licecap) 【荐】。录制结束后，可以在这个网站<https://ezgif.com/optimize>上进行压缩。
-- [Kap](https://getkap.co/) - 轻量 GIF 录屏小工具。[开源](https://github.com/wulkano/kap)。【荐】
-
-#### 窗口管理
+### 窗口管理
 
 - [Magnet]() - 窗口分屏工具。【荐】
 
 * [ShiftIt](https://github.com/fikovnik/ShiftIt) - 窗口位置和大小管理软件。 [[开源]](https://github.com/fikovnik/ShiftIt)[荐]
+
 * [Moom](http://manytricks.com/moom/) - 多任务多窗口的软件。
+
 * [Slate](https://github.com/jigish/slate) - 窗口管理器，可用JavaScript写配置。[[开源]](https://github.com/jigish/slate)
+
 * [Amethyst](http://ianyh.com/amethyst/) - 窗口管理器（自动保持窗口大小的窗口）。[开源](https://github.com/ianyh/Amethyst)
+
 * [Spectacle](https://www.spectacleapp.com) - 简单的移动和调整大小的窗口，和可定制的键盘快捷键。
 
 - [Fenetre]()- 窗口置顶工具。（我试了下，并不是那么好用）
 
-#### 翻译工具
+### 翻译工具
 
 * [有道翻译](http://cidian.youdao.com/multi.html) - 有道词典桌面版。
+
 * [辞海词典](http://cidian.dict.cn/mac.html) - 学单词、背单词、辞海词典。
+
 * [eudic](http://www.eudic.net/eudic/mac_dictionary.aspx) - 欧路词典。
+
 * [iTranslate](http://www.itranslate.com/) - 支持全世界超过 80 种语言发音和输出。
 
-#### 输入法
+### 其他实用工具
 
-* [搜狗输入法](http://pinyin.sogou.com/mac/) - 搜狗输入法。
-* [百度输入法](https://srf.baidu.com/input/mac.html) - 支持拼音五笔输入。
-* [清歌五笔输入法](https://qingg.im/index.html) - 为 iOS 和 Mac 专门打造的五笔输入法。
-* [WBIM](http://www.pawpawsoft.com) - 五笔输入法。
-* [Rocket](http://matthewpalmer.net/rocket/) - Emoji标签输入。
-* [颜文字](https://itunes.apple.com/cn/app/yan-wen-zi/id914708191?mt=12) - 颜文字输入。
-* [RIME](http://rime.im/) - 中州韻輸入法引擎。[开源](https://github.com/rime)。
-* [哈利路亚英文输入法](https://github.com/dongyuwei/hallelujahIM) - 智能英文输入法，具备自动补全，自动纠错功能。
-* ~~[QQ输入法](http://qq.pinyin.cn/) - 腾讯出品的输入法。~~
-
-#### 下载工具
-
-* [Transmission](https://www.transmissionbt.com/) - 免费的BitTorrent客户端 [开源](https://github.com/Sigil-Ebook/Sigil)。
-* [aria2](https://aria2.github.io/) - 一款支持多种协议的轻量级命令行下载工具。[开源](https://github.com/aria2)。
-* [JDownloader](http://jdownloader.org/) - 下载工具，下载文件的一键式托管。
-* [You-Get](https://you-get.org/) - 网络富媒体命令行下载工具。[开源](https://github.com/soimort/you-get)。
-* [Free Download Manager](http://www.freedownloadmanager.org/) - 功能强大的下载加速器。
-* [FOLX](http://mac.eltima.com/download-manager.html) - Folx 是一个Mac osx 系统风格界面的下载管理工具。
-
-#### 其他实用工具
-
-- [f.lux](https://justgetflux.com/) - 降低屏幕的色温，减弱蓝光。【荐】
+- [f.lux](https://justgetflux.com/) - 降低屏幕的色温，减弱蓝光，保护眼睛。【荐】
 
 - [Itsycal](https://www.mowglii.com/itsycal/) - 一款简洁实用的开源日历工具。可以直接在 menubar 上展示今天是几号；点击后，还自动框选出了本月的时间范围。好处是，可以在最短的时间内查看日历，基本可以替代原生的时间了。[开源](https://github.com/sfsam/itsycal)。【荐】
 
-#### 其他工具
+### 其他工具
 
 * [12306ForMac](https://github.com/fancymax/12306ForMac) - Mac版12306 订票/捡票 助手。[开源](https://github.com/fancymax/12306ForMac)
 * [AirServer](http://www.airserver.com/Download) - 将手机投影到电脑上。
@@ -187,7 +226,7 @@
 
 ## 设计与产品
 
-#### 设计工具
+### 设计工具
 
 - [Acorn](https://secure.flyingmeat.com/acorn/) - 一个像PS，全面的功能集的图像编辑器。
 - [Affinity Designer](https://affinity.serif.com/en-us/designer/) - 矢量图像设计工具，可能的Adobe Illustrator的替代。
@@ -208,7 +247,7 @@
 - [MagicaVoxel](https://ephtracy.github.io/) - 轻量级的8位像素编辑和交互路径追踪渲染器。
 - [ScreenToLayers](http://jeremyvizzini.com/screentolayers/) - 轻松导出桌面分层文件PSD文件。[开源](https://github.com/jeremyvizzini/ScreenToLayers)
 
-#### 原型流程
+### 原型流程
 
 - [Justinmind](http://www.justinmind.com) - 功能更丰富团队协作方便。
 - [MockFlow](https://www.mockflow.com) - 用于网页设计和可用性测试的在线原型设计套件。
@@ -223,7 +262,7 @@
 - [MindNode](http://mindnode.com/) - 简洁的风格与人性化的操作，绘制思维脑图。[荐]
 - [iThoughtX]() - 进阶用户喜欢用它画脑图。[荐]。[#](https://sspai.com/post/31516)
 
-#### 其它工具
+### 其它工具
 
 
 - [Notes](http://www.get-notes.com/) - 简洁的笔记应用。 [开源](https://github.com/nuttyartist/notes)
@@ -275,7 +314,7 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 
 ## 阅读与写作
 
-#### 云笔记软件
+### 云笔记软件
 
 - [印象笔记](https://www.yinxiang.com/) - 记录一切。[荐]
 - [Quiver](http://happenapps.com/#quiver) - 程序猿的笔记本。
@@ -284,11 +323,11 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 - [leanote](http://app.leanote.com) - 支持Markdown的一款[开源](https://github.com/leanote/leanote)笔记软件，支持直接成为个人博客。
 - [Inkdrop](https://www.inkdrop.info/) - Markdown爱好者的笔记本应用程序。
 
-#### 阅读相关
+### 阅读相关
 
 - [WorkFlowy](https://workflowy.com/downloads/mac/) - 很可能是极简主义者梦想中的笔记应用。[荐]
 
-#### Markdown 编辑器
+### Markdown 编辑器
 
 - [Ulysses](https://ulyssesapp.com/)- 专业文本编辑工具，支持 Markdown。[荐]
 - [Bear](https://bear.app/)
@@ -302,13 +341,13 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 - [LightPaper](http://lightpaper.42squares.in/) - 简单的Markdown文本编辑器。
 - [Cmd Markdown](https://www.zybuluo.com/) - Cmd Markdown 编辑阅读器，支持实时同步预览，区分写作和阅读模式，支持在线存储，分享文稿网址。
 
-#### Markdown 图片上传
+### Markdown 图片上传
 
 - [PicGo](https://molunerfinn.com/PicGo/) - Markdown 图片上传工具。[荐]。[#](https://mp.weixin.qq.com/s/ZQtrlULJ5mNTd8jMCb5yEg)
 
 - [iPic](https://toolinbox.net/iPic/) - Markdown 图片上传工具。60元/年。
 
-#### 电子书相关
+### 电子书相关
 
 - [Kindle App](http://www.amazon.com/gp/help/customer/display.html?nodeId=201246110) - 亚马逊 Kindle App 电子书阅读器。
 - [Calibre](http://calibre-ebook.com/) - 丑陋的软件，但强大的软件电子书管理和转换。[开源](https://github.com/kovidgoyal/calibre) 。[荐]
@@ -316,7 +355,7 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 
 - [Knotes](http://knotesapp.com/cn) - 高效、优雅的 Kindle 标注管理器。
 
-#### pdf阅读
+### pdf阅读
 
 - [MarginNote](https://marginnote.com/) - 在阅读时做标注，记笔记，并可以利用思维导图(Mindmap)和大纲工具(Outline)对笔记进行组织。但就是比较贵。【荐】
 
@@ -326,7 +365,7 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 
 - [iAnnotate]() - 可以说是所有 PDF 标记类 app 中的No.1了。仅限 iOS 平台使用，没有Mac平台。
 
-#### RSS
+### RSS
 
 - [Feeds 2](http://www.feedsapp.com/) - 监控任何RSS。
 - [ReadKit](http://readkitapp.com/) - 书签RSS管理客户端。
@@ -334,7 +373,7 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 - [Leaf](http://www.rockysandstudio.com/) - RSS 客户端程序。[hot]
 - [Vienna](http://www.vienna-rss.org/) - [开源](https://github.com/ViennaRSS/vienna-rss)的RSS/Atom 新闻阅读客户端。
 
-#### 其他
+### 其他
 
 - [OpenOffice](http://www.openoffice.org/zh-cn/download/index.html) - 是一套[开源](http://openoffice.apache.org/source.html)、跨平台的办公室软件套件。
 - [Spillo](https://bananafishsoftware.com/products/spillo/) - 功能强大，美观、快速网络书签网页阅读。
@@ -373,7 +412,7 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 
 > 推荐一些通信工具，沟通，团队协同。
 
-#### 即时通信
+### 即时通信
 
 - [Franz](http://meetfranz.com/) - 一个使用 [Electron](http://electron.atom.io/)开发的，可以同时登录23个平台的即时通讯软件。[hot]
 - [QQ](http://im.qq.com/macqq/index.shtml) - QQ for Mac App。![Freeware][Freeware Icon]
@@ -388,11 +427,11 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 - [Adium](https://adium.im/) - 这个是老的集成多个平台的聊天客户端。
 - [WeeChat](https://weechat.org/) - 一个命令行聊天客户端。
 
-#### 社交
+### 社交
 
 - [WeiboX](http://weiboformac.sinaapp.com/) - 微博第三方Mac应用。
 
-#### 团队协作
+### 团队协作
 
 - [Textual](https://www.codeux.com/textual) - 最受欢迎的世界与我们相关的KPI应用 for OS X。
 - [Gitter](https://gitter.im) - 关于GitHub的项目交流，支持 Markdown，对开发者极为友好。
@@ -407,7 +446,7 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 - [日事清](https://www.rishiqing.com) - 个人日程管理，团队协作工具。日程安排，计划分配，笔记总结等。
 - [Coding.net](https://coding.net) - 代码托管，项目管理，WebIDE，演示部署，开启云端开发模式，让开发更简单。
 
-#### Email
+### Email
 
 > 其实Mac自带的邮件客户端已经很好用了。
 
@@ -442,7 +481,7 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 - [Git](https://git-scm.com/) - 版本控制工具，官网提供[数十种GUI客户端](https://git-scm.com/download/gui/mac) for Mac。
 - [SVN](http://subversion.apache.org/) - 版本控制工具。
 
-#### GUI
+### GUI
 
 - [SourceTree](https://www.sourcetreeapp.com/) - 强大的Git跨平台客户端。[荐]
 - [Tower2](https://www.git-tower.com/) - 最强大的Git客户端。[荐]
@@ -454,7 +493,7 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 - [Versions](http://www.versionsapp.com/) - Mac上最好的SVN管理工具。
 - [Cornerstone](http://www.zennaware.com/cornerstone/) - Mac上最佳的SVN管理工具。
 
-#### 版本控制系统
+### 版本控制系统
 
 * [GitLab](http://gitlab.com/) - 一个用于仓库管理系统的开源项目。
 * [GitHub](https://github.com) GitHub代码托管，项目管理，演示部署，瞧，您现在就访问GitHub。
@@ -523,7 +562,7 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 - [Vagrant](https://www.vagrantup.com) - 用来构建虚拟开发环境的工具。 [开源](https://github.com/mitchellh/vagrant)。[荐]
 
 
-#### 代码比对
+### 代码比对
 
 - [DiffMerge](http://sourcegear.com/diffmerge/) - 可视化的文件比较（也可进行目录比较）与合并工具。
 
@@ -532,7 +571,7 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 - [Kaleidoscope](https://www.kaleidoscopeapp.com/) - Kaleidoscope 是一款很强大的文件和图像比较工具，支持任何文本文件和 jpeg、tiff、png、psd 等格式的图像文件，同时和 git、svn 等版本控制工具能够完美的结合。[荐]。
 
 
-#### 正则编辑器
+### 正则编辑器
 
 - [Patterns](http://krillapps.com/patterns/) - 正则表达式编辑器。
 - [Reginald](https://github.com/michaeltyson/Reginald) - 正则表达式测试应用程序，使用 [RegexKitLite](http://atastypixel.com/blog/reginald-regex-explorer/)。[开源](https://github.com/michaeltyson/Reginald) 。
@@ -541,7 +580,7 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 - [RegExRX](http://www.mactechnologies.com/index.php?page=downloads#regexrx) - 正则表达式的开发工具。
 
 
-#### 数据库
+### 数据库
 
 - [Sequel Pro](http://www.sequelpro.com/) - 一个MySQL数据库管理软件。[开源](https://github.com/sequelpro/sequelpro)
 - [MySQL Workbench](http://dev.mysql.com/downloads/workbench/) - MySQL数据库官方管理软件。
@@ -566,7 +605,7 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 
 
 
-#### 测试工具
+### 测试工具
 
 - [Charles](https://www.charlesproxy.com/) - 一个代理工具，允许你查看所有的HTTP和HTTPS流量。
 - [Insomnia 3.0](http://insomnia.rest/) - 漂亮的HTTP请求测试工具。
@@ -577,7 +616,7 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 - [Postman](https://www.getpostman.com) - Postman 帮助我们快速测试API。[荐]
 
 
-#### 软件打包工具
+### 软件打包工具
 
 * [Finicky](https://johnste.github.io/finicky/) - Web应用程序转化为苹果的应用程序。[开源](https://github.com/johnste/finicky)
 * [nw.js](http://nwjs.io) - 使用HTML和JavaScript来制作桌面应用。[开源](https://github.com/nwjs/nw.js)
@@ -592,7 +631,7 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 * [ionic](http://ionicframework.com/) - 一个用来开发混合手机应用的，开源的，免费的代码库。 [开源](https://github.com/driftyco/ionic)
 
 
-#### 命令行工具
+### 命令行工具
 
 - [iTerm2](http://www.iterm2.com) - 免费的终端工具，直接替代自带的Terminal，有非常多惊人的特性。[开源](https://github.com/gnachman/iTerm2) 。[荐]
 - [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - 怀旧的命令行终端。[开源](https://github.com/Swordfish90/cool-retro-term)。
@@ -613,7 +652,7 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 - [mas](https://github.com/mas-cli/mas) - 一个简单的命令行界面的苹果应用商店。 [开源](https://github.com/mas-cli/mas)。
 
 
-#### ssh 远程连接
+### ssh 远程连接
 
 - [SecureCRT](https://www.vandyke.com/products/securecrt/) - 一款支持SSH、Telnet等多种协议的终端仿真程序。
 
@@ -642,14 +681,14 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 > 这里主要是推荐一些软件下载的网站，还有一些MacOS软件分享网站。
 
 
-#### Mac工具介绍
+### Mac工具介绍
 
 * 少数派：[http://sspai.com/tag/Mac](http://sspai.com/tag/Mac)
 * Mac玩儿法：[http://www.waerfa.com](http://www.waerfa.com)
 - [OurMacs](https://ourmacs.com) - 优秀的mac应用。
 
 
-#### 正版Mac软件下载
+### 正版Mac软件下载
 
 *这里只提供正版软件购买下载的应用商店。*
 
@@ -660,7 +699,7 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 - 类似于iOS上Cydia一样的第三方软件商店：[http://hack-store.com](http://hack-store.com)
 
 
-#### 应用商店黑名单
+### 应用商店黑名单
 
 > 第三方应用市场APP黑名单，存在盗版软件传播和下载，拒绝盗版从我做起，欢迎大家监督它们。
 
@@ -670,20 +709,33 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 - [MacHunter](http://www.machunter.net/) - Mac应用市场。
 
 
-#### 盗版Mac软件下载网站黑名单
+### 盗版Mac软件下载网站黑名单
 
 > 拒绝盗版从我做起，下面的网站提供大量破解软件下载，欢迎大家监督它们。
 
-* Mac精品软件：<http://xclient.info/>（荐）
-* 玩转苹果：<http://www.ifunmac.com>
-* Mac软件下载站：<http://www.pshezi.com>
-* MacPeers：<http://www.macpeers.com>
-* Mac志：<http://www.isofts.org>
-* Mac软件分享：<http://www.waitsun.com>
-* AppKed：<http://www.macbed.com>
-* 苹果软件园：<http://www.maczapp.com>
-* Macx：<http://www.macx.cn/>
-* 腾牛网：<http://www.qqtn.com/mac/r_17_1.html>
+- Mac精品软件：<http://xclient.info/>【荐】
+
+- 马可菠萝：<https://www.macbl.com/>
+
+- mac毒：<https://www.macdu.org/>
+
+- 玩转苹果：<http://www.ifunmac.com>
+
+- Mac软件下载站：<http://www.pshezi.com>
+
+- MacPeers：<http://www.macpeers.com>
+
+- Mac志：<http://www.isofts.org>
+
+- Mac软件分享：<http://www.waitsun.com>
+
+- AppKed：<http://www.macbed.com>
+
+- 苹果软件园：<http://www.maczapp.com>
+
+- Macx：<http://www.macx.cn/>
+
+- 腾牛网：<http://www.qqtn.com/mac/r_17_1.html>
 
 **[⬆ 返回顶部](#目录)**
 
