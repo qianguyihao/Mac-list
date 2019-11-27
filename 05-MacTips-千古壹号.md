@@ -166,7 +166,19 @@ PS：网上都是这个答案，但是我自己试了一下，还是不行。
 快捷键：Cmd + +/-
 
 
+### 014 管理 iCloud 储存空间
 
+- 在 iPhone、iPad 或 iPod touch 上：如果您使用的是 iOS 10.3 或更高版本，请前往“设置”>“[您的姓名]”>“iCloud”。轻点“iCloud 储存空间”或“管理储存空间”。
+
+- 在 Mac 上，前往苹果菜单 「 --> 系统偏好设置 --> Apple ID（互联网账户）--> iCloud」，然后点击「管理」。
+
+- 在 PC 上，请打开 Windows 版 iCloud。
+
+- 在支持的浏览器上，登录 iCloud.com。
+
+
+
+参考链接：<https://support.apple.com/zh-cn/HT204247>
 
 
 

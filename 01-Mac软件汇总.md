@@ -82,12 +82,13 @@
 - [ENFI下载器](http://enfi.cloud/) - 使用P2P下载技术，支持HTTP，BT，磁力链等各种协议，高速下载让你摆脱限速的困扰，从此告别低速。
 
 
-
 ### NTFS移动硬盘读写
 
 > 其实，macOS 系统本身是已经原生支持 NTFS 磁盘格式的读与写的，只不过 NTFS 毕竟是老对手 微软 Windows 产品下的技术，碍于版权和商业上的原因，苹果只好把 NTFS 的“写入”功能给屏蔽掉，变成系统的隐藏特性。
 
 - [Paragon NTFS for Mac](https://china.paragon-software.com/home-mac/ntfs-for-mac/) - NTFS移动硬盘读写工具。[荐]
+
+- [ntfs for mac 助手](https://www.ntfsformac.com/) - 轻松实现 Mac 电脑读写 NTFS 磁盘。[荐]。
 
 - [Mounty](http://enjoygineering.com/mounty/) - 免费让 Mac 原生支持移动硬盘/U盘 NTFS 读写的驱动应用。团长把这个软件试用了一段时间，发现容易导致文件丢失，所以，请慎用。[#](http://www.iplaysoft.com/mounty-for-ntfs.html)
 
