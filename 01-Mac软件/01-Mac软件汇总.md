@@ -13,7 +13,7 @@
 
 - [snipaste](https://zh.snipaste.com/) - 新生代截图工具。[荐]。
 
-- [Xnip](https://zh.xnipapp.com)- Mac上方便好用的截图工具，支持滚动截图。[#](https://sspai.com/post/42654)
+- [Xnip](https://zh.xnipapp.com)- Mac上方便好用的截图工具，支持滚动截图；截图自带阴影。[#](https://sspai.com/post/42654)
 
 - [Annotate](https://itunes.apple.com/cn/app/annotate-capture-and-share/id918207447?mt=12) - 款非常强大的图片注释软件，可对屏幕截图或者现有图片进行批注。同时，在基础的图片注释功能上还增加了“局部高亮”、“Emoji 表情”、 ”GIF 动图录制与注释“、“与 Dropbox/CloudApp 同步数据“等功能，虽然没有 Skitch 的图片管理功能，也没有 Napkin 的图片拼贴功能，但从注释操作的需求上看，它的确算是 No.1。[#](https://sspai.com/post/30486)
 
@@ -28,10 +28,9 @@
 
 ### gif录制
 
-- [Licecap](http://www.cockos.com/licecap/) - 是一款屏幕录制工具输出GIF，录制过程中可以随意改变录屏范围，录制的文件也非常小。支持 Mac 和 Windows 平台。[开源](https://github.com/justinfrankel/licecap) 【荐】。录制结束后，可以在这个网站<https://ezgif.com/optimize>上进行压缩。
+- [Licecap](http://www.cockos.com/licecap/) - 是一款屏幕录制工具输出GIF，录制过程中可以随意改变录屏范围，录制的文件也非常小。支持 Mac 和 Windows 平台。[开源](https://github.com/justinfrankel/licecap) 【荐】。录制结束后，如果觉得文件过大，可以在这个网站<https://ezgif.com/optimize>上进行压缩。
 
 - [Kap](https://getkap.co/) - 轻量 GIF 录屏小工具。[开源](https://github.com/wulkano/kap)。
-
 
 
 ### 压缩／解压
@@ -88,7 +87,7 @@
 
 - [Paragon NTFS for Mac](https://china.paragon-software.com/home-mac/ntfs-for-mac/) - NTFS移动硬盘读写工具。[荐]
 
-- [ntfs for mac 助手](https://www.ntfsformac.com/) - 轻松实现 Mac 电脑读写 NTFS 磁盘。[荐]。
+- [NTFS for Mac 助手](https://www.ntfsformac.com/) - 轻松实现 Mac 电脑读写 NTFS 磁盘。[荐]。
 
 - [Mounty](http://enjoygineering.com/mounty/) - 免费让 Mac 原生支持移动硬盘/U盘 NTFS 读写的驱动应用。团长把这个软件试用了一段时间，发现容易导致文件丢失，所以，请慎用。[#](http://www.iplaysoft.com/mounty-for-ntfs.html)
 
@@ -290,7 +289,7 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 
 ## 视频播放器
 
-- [IINA](https://iina.io/) - 目前为止，Mac 上最好用对的视频播放器，没有之一。风格很接近系统原生应用。
+- [IINA](https://iina.io/) - 目前为止，Mac 上最好用对的视频播放器，没有之一。风格很接近系统原生应用。【荐】
 
 ## 音频和视频
 

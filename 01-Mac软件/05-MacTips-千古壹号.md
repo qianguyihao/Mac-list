@@ -181,8 +181,81 @@ PS：网上都是这个答案，但是我自己试了一下，还是不行。
 参考链接：<https://support.apple.com/zh-cn/HT204247>
 
 
+### 015 Mac 版印象笔记，美化 Markdown 样式
+
+参考链接：
+
+- <https://github.com/timothyzhw/evernote-markdown-vue>
+
+- <https://www.jianshu.com/p/1e7e0a975d30>
+
+操作步骤：
+
+（1）下载主题中的vue.css文件，以及包含字体的vue文件夹，拷贝到 目录`/Applications/印象笔记.app/Contents/Resources/common-markdown-mac/`下。
+
+（2）打开目录`/Applications/印象笔记.app/Contents/Resources/common-markdown-mac/`，编辑里面的 `index.html`文件，在最后一行`</html>`前插入如下代码：
+
+```
+  <link href="vue.css" rel="stylesheet">
+
+```
+
+（3）重启印象笔记。
 
 
 
+美化效果：
+
+![](http://img.smyhvae.com/20191210_1615.png)
 
 
+**【补充】个性化配置**
+
+
+
+（1）我们还可以增大段落之间的行距。在 vue.css 文件中，找到如下代码：
+
+```css
+.tui-editor-contents p {
+    line-height: 1.6rem;
+    word-spacing: .05rem;
+}
+
+```
+
+将上方代码修改为：
+
+```css
+.tui-editor-contents p {
+    line-height: 1.6rem;
+    word-spacing: .05rem;
+    margin-bottom: 1.2rem;
+}
+```
+
+其实就是加了一行 `margin-bottom: 1.2rem;` 就搞定了。
+
+
+（2）修改二级标题的字体大小和颜色：
+
+找到如下代码：
+
+```css
+.tui-editor-contents h2 {
+    font-size: 24px;
+    border-bottom: 1px solid #ddd;
+    color: #2c3e50
+}
+```
+
+修改为：
+
+```css
+.tui-editor-contents h2 {
+    font-size: 1.5rem;
+    border-bottom: 1px solid #ddd;
+    color: #24292e
+}
+```
+
+另外，我们还可以修改三级标题的 font-size 为 1.25rem。
