@@ -1,11 +1,19 @@
 
-> 我的Mac电脑上，安装了下面这些软件
+> 我的Mac电脑上，安装了下面这些软件。
 
 
+## 在哪里下载「非免费的」 Mac 安装包？
+
+- Xclient：<https://xclient.info/>
+
+下载 大多数破解版的 Mac 软件。
+
+- 公众号「Mac软件管家」
+
+下载 PS、Office等大型软件。比如这篇：[软件目录【20年2月】](https://mp.weixin.qq.com/s/mVxJYiGrfselJx1b9XdvYw)。也可翻看公众号的历史文章。
 
 
-
-## 效率工具
+## 一、常用工具
 
 ### Alfred
 
@@ -15,9 +23,6 @@
 第三方链接：<http://xclient.info/s/alfred.html?t=49b8faedf22618bb7178236a07d8c6876e73a945>
 
 Alfred powerpack 3.2.1 破解版链接：<http://www.sdifen.com/alfred34.html>
-
-
-
 
 
 **破解步骤：**
@@ -32,42 +37,30 @@ Alfred powerpack 3.2.1 破解版链接：<http://www.sdifen.com/alfred34.html>
 
 系统版本要求：10.9或者更高。
 
-
 PS：如果安装完成后，打开Alfred的时候提示已经损坏，移到垃圾桶，那是没有打开“允许任何来源”安装软件。
 macOS sierra自动隐藏的，在终端里面输入指令：sudo spctl --master-disable就好了，然后重新安装一遍。
 
-
-
-
-
-
-### 截图工具
-
+### 截图工具：snipaste
 
 - [snipaste](https://zh.snipaste.com/) - 新生代截图工具。[荐]。F1是截图，F3是贴图。
+
+其他截图工具：
 
 - [Annotate](https://itunes.apple.com/cn/app/annotate-capture-and-share/id918207447?mt=12) - 款非常强大的图片注释软件，可对屏幕截图或者现有图片进行批注。同时，在基础的图片注释功能上还增加了“局部高亮”、“Emoji 表情”、 ”GIF 动图录制与注释“、“与 Dropbox/CloudApp 同步数据“等功能，虽然没有 Skitch 的图片管理功能，也没有 Napkin 的图片拼贴功能，但从注释操作的需求上看，它的确算是 No.1。[荐]。[#](https://sspai.com/post/30486)
 
 Annotate软件已经免费了。
 
 
-## 知识管理
+### 视频播放器：IINA
 
-### 印象笔记
-
-
+### 输入法：搜狗输入法
 
 
+### 科学上网：ShadowSocks
 
-## 科学上网
+**使用ShadowSocks后，让dropbox具备代理功能**：
 
-### 链路：ShadowSocks
-
-翻墙方案1。全平台。
-
-#### 使用ShadowSocks后，让dropbox具备代理功能
-
-使用 ShadowSocks 进行代理后，dropbox默认是无法翻墙的，此时需要对dropbox进行设置。设置如下：
+使用 ShadowSocks 进行代理后，如果发现dropbox默认是无法翻墙，此时需要对dropbox进行设置。设置如下：
 
 在 Dropbox 的代理首选项中选择 SOCKS5，服务器填 127.0.0.1:1080 即可。
 
@@ -77,105 +70,83 @@ Annotate软件已经免费了。
 
 
 
-
-### Surge
-
-翻墙方案2。Surge 是工具，不是链路。付费软件，很贵。官网下载地址：[http://nssurge.com/][3]。
-
-推荐链路：[AgentWho](https://agentwho.network)。域名以前是<https://agentwho.network>，现在是<https://agentwho.rocks/>
-
-
-### ShadowSocks + Surge 实现全局翻墙
-
-（1）在 Surge 软件中新建一个配置，起名为Shadowsocks， 本地会自动生成一个`Shadowsocks.conf`文件。
-
-（2）打开如下链接：<https://raw.githubusercontent.com/ArchimboldiMao/SurgeConfig/master/Shadowsocks.conf>
-
-将这个链接里的内容粘贴到`Shadowsocks.conf`文件中，并填写`#Shadowsocks Server IP#, #Shadowsocks Server Port#, #password#`。注意，去掉符号`#`。
-
-（3）选择 Shadowsocks 配置，即可。
-
-参考链接：<https://github.com/ArchimboldiMao/SurgeConfig>
-
-
-### AgentNEO + Surge 实现全局科学上网
-
-（1）找到 AgentNEO 网站中关于 surge 的配置。把这个配置的链接在浏览器中打开，这个配置文件则会自动下载到本地。
-
-（2）在 surge 中加载这个配置文件。
-
-（3）在状态栏中点击 Surge 图标，勾选「设置为系统代理」以及「增强模式」即可开启 Surge。
-
-### 参考链接
-
-- [Surge for Mac，快捷如风](http://mp.weixin.qq.com/s?__biz=MjM5ODQ2MDIyMA==&mid=2650712713&idx=1&sn=266a2958ff395be698500febadff5e57&chksm=bec064da89b7edcccaa2f69885a564bc2153f58aa01a8829b6092851cf095f5dda26e8c44898&mpshare=1&scene=1&srcid=1117o9mBi85d6ZRijd1yMwe2#wechat_redirect)
-
-
-- [mac上的surge配置](http://sining-liu-blog.logdown.com/posts/983010)
-
-
-
-## 网盘
-
-### dropbox
-
-
-
-
-
-### Sublime Text
-
-最酷炫的纯文本编辑器。全平台。
-
-
-
-### 1Password
+### 密码管理：1Password
 
 密码管理。很贵的付费软件。全平台。官网链接：<https://agilebits.com/downloads>
 
 我是在Mac App Store 购买的。官网购买需要64.99美元（447.6056人民币），App Store购买需要需要418人民币。
 
+## 二、办公软件
+
+### Office
+
+下载链接：<https://mp.weixin.qq.com/s/mVxJYiGrfselJx1b9XdvYw>
+
+### 印象笔记
+
+### 为知笔记
+
+### 网盘存储：百度网盘
+
+### 网盘同步：dropbox
+
+## 三、图像处理&设计
+
+### Photoshop
+
+安装包：<https://mp.weixin.qq.com/s/N0eUSdWjogALx_LFn8-84w>
+
+### Sketch
+
+Sketch 安装包：<https://mp.weixin.qq.com/s/mVxJYiGrfselJx1b9XdvYw>
+
+**1、安装 Sketch Measure 插件**：
+
+我们通过安装 [Sketch Measure](https://utom.design/measure) 插件，就可以导出**带尺寸标注的视觉稿**，导出格式为 HTML 格式。
+
+安装方式：
+
+（1）下载完插件后，将压缩包 `sketch-measure-master.zip`解压。
+
+（2）双击 `Sketch Measure.sketchplugin`文件，即可安装成功。
+
+（3）打开 Sketch 软件，即可看到安装成功的弹窗：
+
+![](http://img.smyhvae.com/20200304_2139.png)
+
+Sketch 软件的菜单栏也会显示「插件 -- Sketch Measure」这个选项。
+
+**2、使用 Sketch Measure 插件导出 HTML格式的视觉规范**：
+
+选择菜单栏「插件 -- Sketch Measure -- Spec Export」即可导出带尺寸标注的视觉规范。
 
 
-### OmniFocus
+## 其他
 
-GTD时间管理软件。付费软件。Mac版：标准版39.99美元，pro版79.99美元。
+### 编辑器：Sublime Text
 
-如果你不是GTD的重度用户，建议不要购买这款软件，可以用其他简单的todo list类软件（如滴答清单、奇妙清单等）代替。
-
-软件的使用可以看[少数派](http://sspai.com/tag/OmniFocus)网站的介绍。
-
-
-
-
-### office 2016
-
-安装包链接： <https://pan.baidu.com/s/1mixzrT2> 密码：jj5s
-
-破解方法的参考链接：[Office 2016 for Mac 激活方法](http://mp.weixin.qq.com/s?__biz=MzAxNzcwMTA4Ng==&mid=725040709&idx=1&sn=d359f9c52a7c50070e46976ae9dcb7ca&chksm=35221ff4025596e2f9e44623490112c72a8613a97062813cfe7b25090763765f17c57b75ae72&mpshare=1&scene=1&srcid=1214DUc1No4sz1o6WtSo0Ntc#rd)
-store
-
-
+最酷炫的纯文本编辑器。全平台。
 
 ## Markdown 软件
 
-### Ulysses
-
-为写作而生。很贵的软件，我在App Store买的时候，花了283元。如果你是写作的重度用户，那么推荐购买。官网链接：
-
+### Typora
 
 ### MacDown
 
 官网链接：<http://macdown.uranusjr.com/>
 
+## 写作软件
 
+### Ulysses
 
+为写作而生。很贵的软件，我在App Store买的时候，花了283元。如果你是写作的重度用户，那么推荐购买。官网链接：
+
+### Bear
 
 
 ## 全平台的常见软件
 
 > 列举一些全平台的常见软件，这些软件也是必须要安装的。
-
 
 - chrome浏览器
 
@@ -185,7 +156,6 @@ store
 
 参考链接：
 - [ 2016最新谷歌浏览器Chrome官方离线安装包下载 Win/Mac版 ][6]
-
 
 - evernote印象笔记
 
@@ -197,28 +167,21 @@ store
 
 - 网易云音乐
 
-
 - 欧陆词典
 
-- 百度网盘：如今，百度网盘限速了，只能临时找一些破解的方法。
 
-## 开发相关（综合类）
-
-
+## 开发相关
 
 
 ### Xcode
 
 苹果官网推出的IDE，程序猿必备。从App Store 上下载安装即可。
 
-
 ## 版本控制&版本管理
-
 
 ### Git安装
 
 在App Store下载安装Xcode后，会自动安装上Git。安装好之后，在终端输入`git --version`进行验证。
-
 
 
 ### Tower
@@ -231,13 +194,9 @@ SourceTree 的界面是最好看的，我用了两年了，发现有时候pull�
 
 - [Tower.v2.6.4 for Mac license](https://www.uedbox.com/tower-v2-6-4-for-mac-license/)
 
-
 ### SourceTree
 
 Git版本控制的GUI工具。官网链接：<https://www.sourcetreeapp.com>。类似的软件还有[TortoiseGit](https://tortoisegit.org/)。
-
-
-
 
 
 ## 前端开发相关
@@ -245,7 +204,6 @@ Git版本控制的GUI工具。官网链接：<https://www.sourcetreeapp.com>。�
 ### VS Code
 
 前端开发IDE。
-
 
 ## Android开发相关
 
@@ -268,8 +226,6 @@ img2016112401.png
 
 img2016112402.png
 
-
-
 参考链接：
 
 - [Mac OS X 中安装JDK 7](http://www.cnblogs.com/weiok/p/4917522.html)
@@ -279,7 +235,6 @@ img2016112402.png
 
 
 - [mac下卸载jdk](http://www.jianshu.com/p/8de3c3443ab4)
-
 
 ### Android SDK 中adb的环境变量配置
 
@@ -314,115 +269,7 @@ open -e bash_profile：编辑文件
 
 - [mac下环境变量的配置（以android adb为例）](http://www.jianshu.com/p/618d55a79832)
 
-
-
-### ADT相关
-
-**1、方法一**：ADT Bundle（不推荐）
-
-
-从官网下载好[ADT Bundle](https://dl.google.com/android/adt/adt-bundle-mac-x86_64-20140702.zip)之后，打开eclipse.app，提示：`您需要安装旧java SE 6 运行环境才能打开Eclipse.app`。在当前画面点击「查看更多」，会自动跳到apple官网链接，下载对应版本的jdk 1.6进行安装即可。
-
-好吧，等我根据提示安装好了之后，再打开eclipse，程序报错。算了，这个方法不行，我估计是MacOS的版本太高了，不支持低版本的jdk。
-
-
-参考链接：
-
-- [mac os 下搭建android开发环境](http://www.cnblogs.com/zhouyinhui/p/3751389.html)
-
-**2、方法二**：Eclipse for android（不推荐）
-
-Mac下adt-bundle不太好用.其实Eclipse官网本身提供了与Android集成的Eclipse版本，使用了下相当不错，大家可以试试,下载地址：<http://www.eclipse.org/downloads/eclipse-packages/>
-
-
-然后我去官网下载了最新版的Eclipse for android（eclipse-android-neon-1a-incubation-macosx-cocoa-x86_64），安装完了之后，提示我说jdk版本太低了（我的是jdk 1.7，提示说要安装1.8）。好吧，那我就把jdk版本升级为1.8吧。
-
-终于安装好了，打开Eclipse，也能新建android工程，但是新建完了之后，工程文件报错：failed to load properties file for project、`R cannot be resolved to a variable（即没有生成 R 文件）`。网上查了一下，原因是SDK中需要下载最新的Build Tools。
-
-另外，新建的安卓项目有mipmap目录（我的Eclipse版本 Neon Release (4.6.0)），我们需要把xml中的资源文件的引用从drawable改为mipmap。此时，工程就不再报错了。
-
-参考链接：
-
-- [Mac Android 开发环境 adt-bundle 常见问题](http://www.jianshu.com/p/cebc3f8b8f88)
-
-
-
-**3、方法三：在Eclipse中离线安装ADT插件**（推荐）
-
-相关版本信息：
-
-- MacOS版本：10.12.1
-- jdk版本：[jdk-8u112-macosx-x64.dmg](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
-- 「Eclipse IDE for java Developers」版本: Mars.2 Release ([4.5.2](http://archive.eclipse.org/eclipse/downloads/))
-- ADT插件的版本：[ADT-23.0.2.zip](https://downloads.puresoftware.org/files/android/ADT/)
-
-
-下载历史版本的celipse 4.5.2。下载链接：<http://archive.eclipse.org/eclipse/downloads/>。然后，离线安装ADT。
-
-**离线安装ADT插件的步骤如下：**
-
-（1）启动 Eclipse ；选择「Help > Install New Software」，在右上角点击「add」，然后点击「Archive」进行本地安装；选择下载的文件 adt-23.0.2.zip  并点击 OK 。
-
-（2）然后经过Pending解析后，就可以看到对应的：Developer Tools，选中Developer Tools，并去掉对话框的左下角最下面的一个选项前的对勾，不然会安装的很慢：
-
-![](http://img.smyhvae.com/20161206_1340.png)
-
-（3）然后一路Next，点击接受协议和完成；中间会有安全提示，点击OK即可。安装完毕后，会要求重启Eclipse。大功告成。
-
-第一次重启后，软件会提示你设置Android SDK路径，那就加载之前下载好的SDK即可。如下图所示：
-
-![](http://img.smyhvae.com/20161206_1347.png)
-
-
-上图中的选项，在「Eclipse- 偏好设置- Android」中也可以设置。
-
-
-之后，关掉Eclipse，新建一个workspace，然后就可以新建一个新的Android projct了。
-
-这里注意：一定不要升级android sdk tools（23.0.2即可） 和android sdk platform－tools(20即可)，因为有可能会出现环境错误。20161207_1955.png
-
-
-
-参考链接：
-
-- [Eclipse中离线安装ADT插件](https://github.com/inferjay/AndroidDevTools/wiki/Eclipse%E4%B8%AD%E7%A6%BB%E7%BA%BF%E5%AE%89%E8%A3%85ADT%E6%8F%92%E4%BB%B6)
-
-- ADT的历史版本下载链接：<https://downloads.puresoftware.org/files/android/ADT/>
-
-
-打开Eclipse，新建一个Android工程，可能报错如下：
-
-```bah
-Errors occurred during the build.
-Errors running builder 'Android Resource Manager'
-```
-
-我照着网上的教程操作了一下。解决办法如下：（并没有解决我的问题）
-
-（1）找到Eclipse的目录，在Eclipse上右击，选择“显示包内容”；
-
-（2）找到/Contents/Eclipse/eclipse.ini文件，这个就是我们要修改的文件
-
-（3）找到“-vmargs”，在其前面添加如下内容：
-
-```bash
--vm
-/System/Library/Frameworks/JavaVM.framework/Versions/1.6/Commands/java
-```
-
-一部分原因是不应该升级sdk tools的版本；另一部分原因是要保证jdk版本是1.8（1.7的也会报这个错）
-
-参考链接：
-
-- [Errors running builder 'Android Resource Manager' on Project java.lang.NullPointerException](http://blog.csdn.net/gtsong/article/details/39481879)
-
--  [在MAC上搭建eclipse+android开发环境(荐)](http://jingyan.baidu.com/article/455a9950b66eb2a1662778ee.html)
-
-
-### Android Studio
-
 ## 虚拟机
-
 
 ### VMware 虚拟机
 
@@ -437,14 +284,11 @@ Errors running builder 'Android Resource Manager'
 
 Ubuntu虚拟机安装成功后，如果要更改配置，记得先将Ubuntu虚拟机关机，然后选择VMware的菜单栏「虚拟机- 设置- 处理器和内存」，然后进行更改。
 
-
-
 ### parallels desktop
 
 下载链接：[#](http://download.csdn.net/download/yuanfangdeqin/9870446)、[#](http://download.csdn.net/detail/u011334396/9871702s)。
 
 #### 软件图标、文字太小的问题
-
 
 在虚拟机parallels desktop中安装Win7后，发现软件的图标、文字很小，为了把图标调大一点，可以进行如下设置：
 "操作-->配置-->硬件-->图形"，然后在分辨率这一栏选择"缩放"，而不是默认的“最适用于Retina显示器”。
@@ -454,7 +298,6 @@ Ubuntu虚拟机安装成功后，如果要更改配置，记得先将Ubuntu虚�
 参考链接：
 
 - [parallels desktop上装应用程序字体，图标太小](http://jingyan.baidu.com/article/5d368d1edf1bfa3f60c057b4.html)
-
 
 
 ### Beyond Compare：代码比对
@@ -488,50 +331,9 @@ NisHFBTcWJS0sC5BTFwrtfLEE9lEwz2bxHQpWJiu12ZeKpi+7oUSqebX+
 - 4.Enjoy!
 
 
-### WebStorm
-
-
-1、WebStorm 2017 最新版激活方式：（已过时）
-
-注册时，在打开的License Activation窗口中选择“License server”，在输入框输入下面的网址：http://idea.imsxm.com
-
-2017.3版本被封，需要自己在本地反向代理。
-
-
-
-2、WebStorm 2017.3.3 版本激活地址：（推荐）
-
-在激活对话框中点击第三个选项 license server，然后输入地址：
-
-```
-http://im.js.cn:8888
-```
-
-参考链接：
-
-- <https://www.cnblogs.com/gkl2013/p/6740779.html>
-
-- 激活方法：[反向代理](http://www.imsxm.com/2017/12/go-active-proxy-tool.html)
-
-- [webstorm 2017.3版本激活地址【最新】](http://blog.csdn.net/qq_20334295/article/details/79095277)
-
-
-
-
 
 
 ## 一些常见软件
-
-
-#### spark 邮件客户端
-
-
-默认不支持网易邮箱，想要支持的话，参考链接：[spark邮箱软件如何添加qq邮箱和网易邮箱？](https://www.zhihu.com/question/38037840)
-
-设置之后，可以使用授权码代替邮箱密码，在客户端进行登录。授权码在下面这个位置：
-
-20161219_1938.png
-
 
 
 ### Photoshop
@@ -554,7 +356,6 @@ Adobe CC 2017 通用激活：
 
 - 百度网盘链接：<https://pan.baidu.com/s/1jHCfU4m>，密码：i9ud。
 
-
 **激活步骤：**
 
 （1）断网；
@@ -568,7 +369,6 @@ Adobe CC 2017 通用激活：
 
 
 ### 解压／压缩软件：The Unarchiver
-
 
 
 ## 其他软件
@@ -596,7 +396,6 @@ Adobe CC 2017 通用激活：
 官网链接：[f.lux](https://justgetflux.com/)
 
 
-
 ### 分别设置Mac的鼠标和触控板的滚动方向：Scroll Reverser
 
 很多人习惯鼠标使用相反的滚动方向，而触控板类似iPad那样的自然滚动，问如何设置，当时我的回答是不知道，因为目前OS X的系统设置里，鼠标和触控板的设置是统一
@@ -618,7 +417,6 @@ Smooth Scroll 可在 [官网](http://www.smoothscroll.net/mac/) 免费下载试�
 参考链接：[少数派 | 8 款 App 全面提升你的 Mac 鼠标体验](http://sspai.com/32832)
 
 
-
 ### 隐藏顶部的状态栏图标
 
 随着 Mac 系统使用时间的增长，那原本简洁的菜单栏也自然而然会慢慢变长：20170101_1205.png
@@ -633,20 +431,6 @@ Bartender软件官网链接：<https://www.macbartender.com/>，软件太贵了�
 破解版链接：[Bartender 2.1.6 fix 一款实用的菜单栏管理工具](http://xclient.info/s/bartender.html)
 
 
-
 参考链接：
 
 - [Bartender 顶部状态栏图标管理](http://zqpythonic.qiniucdn.com/data/20130509223351/index.html)
-
-
-
-
-
-
-
-
-[1]:	https://itunes.apple.com/cn/app/jie-tu-jietu/id1059334054?mt=12
-[3]:	http://nssurge.com/
-[4]:
-[5]:	https://www.google.com/chrome/browser/thankyou.html?standalone=1&platform=mac&installdataindex=defaultbrowser#
-[6]:	https://ii-i.org/archives/8
