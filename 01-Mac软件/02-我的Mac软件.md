@@ -1,7 +1,6 @@
 
 > 我的Mac电脑上，安装了下面这些软件。
 
-
 ## 在哪里下载「非免费的」 Mac 安装包？
 
 - 1、Xclient：<https://xclient.info/>
@@ -18,7 +17,9 @@
 
 ### Alfred
 
-全局搜索工具。Mac 必备工作流神器，可用它来代替系统默认的 Spotlight 搜索功能。主要功能如下：
+付费软件。Alfred 是全局搜索工具。毫不夸张的说，Alfred 是 Mac 上应该安装的第一款软件。
+
+可用 Alfred 来代替系统默认的 Spotlight 搜索功能。主要功能如下：
 
 - 快速启动任意软件
 
@@ -28,33 +29,9 @@
 
 - 网页搜索
 
+配合上付费版的 **Powerpack** 之后，可以保存剪贴板离职，还可以执行任意脚本程序。非常强大。
 
-配合上付费版的 Powerpack 之后，哈可以执行任意脚本程序。好吧，对于大部分人来说，免费的版本已经够用了。
-
-
-官网链接：<https://www.alfredapp.com>
-
-第三方链接：<http://xclient.info/s/alfred.html?t=49b8faedf22618bb7178236a07d8c6876e73a945>
-
-Alfred powerpack 3.2.1 破解版链接：<http://www.sdifen.com/alfred34.html>
-
-
-**破解步骤：**
-
-（1）打开dmg镜像，将“Afred 3.app”拖入应用程序中；
-
-（2）打开"CORE Kegen"，点击“patch”弹出对话框，找到“Afred 3.app”；（中间如果弹出安装Xcode，则必须安装；如果没有弹出则不需要安装）。
-
-（3）点击“save”提示“License information saved successfully”。
-
-（4）have done。
-
-系统版本要求：10.9或者更高。
-
-PS：如果安装完成后，打开Alfred的时候提示已经损坏，移到垃圾桶，那是没有打开“允许任何来源”安装软件。
-macOS sierra自动隐藏的，在终端里面输入指令：sudo spctl --master-disable就好了，然后重新安装一遍。
-
-- Chrome 浏览器
+### Chrome 浏览器
 
 尽管Mac下的Safari浏览器很好用，但是chrome浏览器也是必须要用的。
 
@@ -67,10 +44,6 @@ macOS sierra自动隐藏的，在终端里面输入指令：sudo spctl --master-
 F1是截图，F3是贴图。记得用好这个超级无敌的小技巧。
 
 官网下载链接：<https://zh.snipaste.com/>
-
-其他截图工具：（供参考）
-
-- [Annotate](https://itunes.apple.com/cn/app/annotate-capture-and-share/id918207447?mt=12) - 款非常强大的图片注释软件，可对屏幕截图或者现有图片进行批注。同时，在基础的图片注释功能上还增加了“局部高亮”、“Emoji 表情”、 ”GIF 动图录制与注释“、“与 Dropbox/CloudApp 同步数据“等功能，虽然没有 Skitch 的图片管理功能，也没有 Napkin 的图片拼贴功能，但从注释操作的需求上看，它的确算是 No.1。[荐]。[#](https://sspai.com/post/30486)
 
 ### 视频播放器：IINA
 
@@ -388,15 +361,13 @@ Sketch 软件的菜单栏也会显示「插件 -- Sketch Measure」这个选项�
 官网下载地址：<www.duetdisplay.com>
 
 
-
 ### 虚拟机
 
 - parallels desktop
 
 - VMware 虚拟机
 
-
-
+以上软件，二选一即可。
 
 
 
