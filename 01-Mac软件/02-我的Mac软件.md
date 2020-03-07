@@ -4,20 +4,34 @@
 
 ## 在哪里下载「非免费的」 Mac 安装包？
 
-- Xclient：<https://xclient.info/>
+- 1、Xclient：<https://xclient.info/>
 
-下载 大多数破解版的 Mac 软件。
+下载大多数「非免费的」的 Mac 软件。
 
-- 公众号「Mac软件管家」
+- 2、公众号「Mac软件管家」
 
-下载 PS、Office等大型软件。比如这篇：[软件目录【20年2月】](https://mp.weixin.qq.com/s/mVxJYiGrfselJx1b9XdvYw)。也可翻看公众号的历史文章。
+下载 PS、Office等大型软件。比如这篇：[软件目录](https://mp.weixin.qq.com/s/mVxJYiGrfselJx1b9XdvYw)。也可翻看公众号的历史文章，或者回复关键词。
 
+备注：请勿大范围传播。猫鼠游戏，知道的人越多，被feng的概率越大。
 
 ## 一、常用工具
 
 ### Alfred
 
-全局搜索工具。Mac 必备工作流神器，可用它来代替系统默认的 Spotlight 搜索功能，配合上付费版的 Powerpack 之后，可以在一个输入框内完成 计算、文件搜索、网页搜索、应用程序搜索、任意脚本程序执行、任意快捷键执行自定义复杂交互。好吧，对于大部分人来说，免费的已经够用了。
+全局搜索工具。Mac 必备工作流神器，可用它来代替系统默认的 Spotlight 搜索功能。主要功能如下：
+
+- 快速启动任意软件
+
+- 计算
+
+- 文件搜索
+
+- 网页搜索
+
+
+配合上付费版的 Powerpack 之后，哈可以执行任意脚本程序。好吧，对于大部分人来说，免费的版本已经够用了。
+
+
 官网链接：<https://www.alfredapp.com>
 
 第三方链接：<http://xclient.info/s/alfred.html?t=49b8faedf22618bb7178236a07d8c6876e73a945>
@@ -40,41 +54,110 @@ Alfred powerpack 3.2.1 破解版链接：<http://www.sdifen.com/alfred34.html>
 PS：如果安装完成后，打开Alfred的时候提示已经损坏，移到垃圾桶，那是没有打开“允许任何来源”安装软件。
 macOS sierra自动隐藏的，在终端里面输入指令：sudo spctl --master-disable就好了，然后重新安装一遍。
 
+- Chrome 浏览器
+
+尽管Mac下的Safari浏览器很好用，但是chrome浏览器也是必须要用的。
+
+官网离线下载地址：
+
+<https://www.google.com/chrome/thank-you.html?standalone=1&platform=mac&installdataindex=defaultbrowser#>
+
 ### 截图工具：snipaste
 
-- [snipaste](https://zh.snipaste.com/) - 新生代截图工具。[荐]。F1是截图，F3是贴图。
+F1是截图，F3是贴图。记得用好这个超级无敌的小技巧。
 
-其他截图工具：
+官网下载链接：<https://zh.snipaste.com/>
+
+其他截图工具：（供参考）
 
 - [Annotate](https://itunes.apple.com/cn/app/annotate-capture-and-share/id918207447?mt=12) - 款非常强大的图片注释软件，可对屏幕截图或者现有图片进行批注。同时，在基础的图片注释功能上还增加了“局部高亮”、“Emoji 表情”、 ”GIF 动图录制与注释“、“与 Dropbox/CloudApp 同步数据“等功能，虽然没有 Skitch 的图片管理功能，也没有 Napkin 的图片拼贴功能，但从注释操作的需求上看，它的确算是 No.1。[荐]。[#](https://sspai.com/post/30486)
 
-Annotate软件已经免费了。
-
-
 ### 视频播放器：IINA
+
+IINA 是 Mac平台最接近原生体验的视频播放器，是我最为推荐的本地视频播放器。
+
+另外，还有一款本地视频播放器 **SPlayer**，可以下载网络字幕。
 
 ### 输入法：搜狗输入法
 
+体验最好的第三方输入法。
 
-### 科学上网：ShadowSocks
+### 解压／压缩软件：The Unarchiver
 
-**使用ShadowSocks后，让dropbox具备代理功能**：
+免费的解压／压缩软件，可以在 MAS 下载。
 
-使用 ShadowSocks 进行代理后，如果发现dropbox默认是无法翻墙，此时需要对dropbox进行设置。设置如下：
+### 科学上网：ShadowsocksX-NG-R8
 
-在 Dropbox 的代理首选项中选择 SOCKS5，服务器填 127.0.0.1:1080 即可。
+想要实现科学上网，需要「工具+服务」，缺一不可。ShadowsocksX-NG-R8 只是工具，你需要另外单独购买科学上网的服务。
 
-备注：如果用的是 ShadowSocksR，而不是 ShadowSocks，那就需要把端口号 1080 改为 1086。参考链接：
+### 日历软件：Itsycal
 
-- [Mac下使用shadowsocks，Dropbox无法连接解决](https://tinyyi.com/post/qa/jie-jue-huan-xin-ssrhou-dropboxwu-fa-lian-jie-wen-ti)
+免费软件。官网下载链接：https://www.mowglii.com/itsycal/
+
+作用：这个日历小软件很好用，完全可以替代系统自带的日期显示。可以直接在 「菜单栏」上展示今天是几号。点击后，还自动框选出了本月的时间范围。
+
+好处：可以在最短的时间内，查看和讨论项目排期。
+
+![](http://img.smyhvae.com/20200307_1210.png)
+
+如上图所示，采用 `YYYY年MM月dd日 E H:mm` 这个配置，可以替换掉系统自带的时间。
+
+那么，「菜单栏」上系统自带的时间，要怎么去掉呢？答案是：**按住 Command，拖拽删除**。下次如果想要展示，可以去设置里找回来。
 
 
+### 屏幕色温调节：f.lux
+
+免费软件。官网下载链接：<https://justgetflux.com/>
+
+作用：减弱蓝光，降低屏幕色温。
+
+### 窗口管理：Magnet
+
+付费软件。窗口分屏工具。
+
+### 菜单栏管理：Bartender
+
+付费软件。
+
+随着Mac使用时间的增长，那原本简洁的菜单栏也自然而然会慢慢变长。就像下面这样：
+
+![](http://img.smyhvae.com/20200307_1713.png)
+
+Bartender是一款实用的菜单栏管理工具，可以将大量的菜单有选择性的放进 Bartender 的二级菜单，不仅会看起来更整洁，还能能够解决和整理菜单栏空间过于用尽的问题。
 
 ### 密码管理：1Password
 
-密码管理。很贵的付费软件。全平台。官网链接：<https://agilebits.com/downloads>
+很贵的付费软件，全平台。我是在 App Store 购买的正版软件。
 
-我是在Mac App Store 购买的。官网购买需要64.99美元（447.6056人民币），App Store购买需要需要418人民币。
+这个软件涉及到安全隐私，所以如果要使用的话，一定要去官网购买正版软件，不要使用第三方的盗版软件。
+
+官网链接：<https://agilebits.com/downloads>
+
+### 分别设置Mac的鼠标和触控板的滚动方向：Scroll Reverser
+
+免费软件 Scroll Reverser，可以实现鼠标和触控板的分别设置。
+
+官网下载地址：<https://pilotmoon.com/scrollreverser/>。
+
+### 让鼠标的滚轮更流畅：Smooth Scroll
+
+付费软件。
+
+鼠标滚轮一格一格的滚动效果总是没有触摸板来的顺滑，这款 Smooth Scroll 可以让平滑滚动应用到系统的每个角落，让鼠标滚轮用起来也有触摸板的感觉。
+
+Smooth Scroll 提供了一些晦涩难懂的数值型设置选项，我认为默认的设定已经可以满足需求，并没有调节的必要。但一定不要忘记开启「Bounce back from edges」选项，打开之后就有橡皮筋回弹的效果啦。另外，需要注意的是：「Standard wheel direction」选项与 Scroll Reverser 一起使用会有「负负得正」的效果，所以建议把「Standard wheel direction」这个选项的勾去掉。
+
+参考链接：[少数派 | 8 款 App 全面提升你的 Mac 鼠标体验](http://sspai.com/32832)
+
+### 读写 NTFS 格式的移动硬盘：Paragon NTFS for Mac
+
+付费软件。我是2019年在官网购买的正版软件，当时的价格是149。
+
+官网链接：<https://china.paragon-software.com/>
+
+毕竟涉及到数据安全，第三方的软件不太靠谱，建议购买官方正版软件。
+
+我之前使用过几次破解版的另外一个软件「Mounty」，导致硬盘数据损坏。不知道是破解软件的问题，还是 Mounty 软件本身的问题。
 
 ## 二、办公软件
 
@@ -84,11 +167,43 @@ Annotate软件已经免费了。
 
 ### 印象笔记
 
+整理笔记+知识管理。
+
 ### 为知笔记
+
+ 为知笔记 上的Markdown笔记，渲染效果很好。
 
 ### 网盘存储：百度网盘
 
-### 网盘同步：dropbox
+不重要但占空间的文件，可以「备份」到百度网盘上。
+
+### 网盘同步：Dropbox
+
+「备份」和「同步」是两个概念。Dropbox 是最好用的网盘同步软件，比较麻烦的是需要先科学上网。
+
+Dropbox 是国外的软件，把相对重要的文件存在国外的服务上，相对更放心；至少比国内的软件（比如百度网盘）放心无数倍。
+
+Dropbox 官网下载链接：<https://db.tt/F9KWEMRt>
+
+如果你不想用 Dropbox，可以退而求其次，使用国内的「坚果云」。
+
+### pdf阅读软件：PDF Expert
+
+付费软件。
+
+### 远程协助：TeamViewer
+
+个人使用免费。
+
+
+
+### 思维导图软件：XMind
+
+制作出来的视觉效果很好。
+
+其他同类软件：
+
+- MindNode。
 
 ## 三、图像处理&设计
 
@@ -96,9 +211,15 @@ Annotate软件已经免费了。
 
 安装包：<https://mp.weixin.qq.com/s/N0eUSdWjogALx_LFn8-84w>
 
+其他同类软件：
+
+- Pixelmator Pro：适合普通大众的专业图像编辑软件。付费软件。
+
 ### Sketch
 
 Sketch 安装包：<https://mp.weixin.qq.com/s/mVxJYiGrfselJx1b9XdvYw>
+
+安装完 Sketch 之后，还可以安装一些额外的插件，比如 Sketch Measure 插件。
 
 **1、安装 Sketch Measure 插件**：
 
@@ -120,317 +241,165 @@ Sketch 软件的菜单栏也会显示「插件 -- Sketch Measure」这个选项�
 
 选择菜单栏「插件 -- Sketch Measure -- Spec Export」即可导出带尺寸标注的视觉规范。
 
+### 图片管理软件：Eagle
 
-## 其他
+付费软件，价格：199元买断。我是在官网购买的正版软件。用过的人都说好。
 
-### 编辑器：Sublime Text
+## 四、视频处理&视频编辑
 
-最酷炫的纯文本编辑器。全平台。
+### 网页视频下载工具：Downie
 
-## Markdown 软件
+付费软件。Downie 可以支持Youtube、优酷等在线视频网站的视频下载。
 
-### Typora
+### 录屏工具：ScreenFlow
 
-### MacDown
+付费软件。**ScreenFlow**是最专业的屏幕录制工具。可以录屏、麦克风、系统声音。
 
-官网链接：<http://macdown.uranusjr.com/>
+屏幕录制也可以用系统自带的，不知道表现如何。
 
-## 写作软件
+### 录屏工具：ApowerREC
 
-### Ulysses
-
-为写作而生。很贵的软件，我在App Store买的时候，花了283元。如果你是写作的重度用户，那么推荐购买。官网链接：
-
-### Bear
+付费软件。ApowerREC 全平台的录屏工具。可以录屏、麦克风、系统声音，还能录制摄像头。
 
 
-## 全平台的常见软件
+### 视频剪辑：Final Cut Pro
 
-> 列举一些全平台的常见软件，这些软件也是必须要安装的。
+付费软件。**Final Cut Pro** 是最专业的视频剪辑软件。
 
-- chrome浏览器
+用 **Final Cut Pro** 剪辑完视频之后，可以用 **ArcTime Pro** 添加字幕；最后用 **Compressor** 压制成视频平台需要的码率。
 
-尽管Mac下的Safari浏览器很好用，但是chrome浏览器也是必须要用的。
+### OBS
 
-官网离线下载地址：\<[https://www.google.com/chrome/browser/thankyou.html?standalone=1&platform=mac&installdataindex=defaultbrowser\#][5]\>
+直播可以用，免费开源。官网下载链接：<https://obsproject.com>
 
-参考链接：
-- [ 2016最新谷歌浏览器Chrome官方离线安装包下载 Win/Mac版 ][6]
+## 五、音频处理
 
-- evernote印象笔记
+暂略。
 
-知识管理和总结的软件。国内的类似软件有：为知笔记。
+## 六、阅读和写作
 
-- 迅雷
+### 电子书转换工具：calibre
 
-- QQ & 微信
-
-- 网易云音乐
-
-- 欧陆词典
+软件长得丑了点，但是功能实用。
 
 
-## 开发相关
+### 亚马逊的阅读软件：Kindle
 
+在 亚马逊官网购买正版电子书后，电子书会推送到全平台的 Kindle设备中。
+
+### PDF阅读器：MarginNote 3
+
+付费软件。我在官网购买的正版软件。
+
+### Markdown软件：Typora
+
+免费的Markdown软件，全平台。
+
+其他同类软件：
+
+- MWeb
+
+### 写作软件：Ulysses
+
+为写作而生。很贵的付费软件。如果你像我一样，是写作的重度用户，我推荐在官网购买正版软件。
+
+其他同类软件：
+
+- Bear：相对便宜的付费写作软件。
+
+### Gif动图制作：LICEcap
+
+**LICEcap** 是免费的全平台软件。制作出来的 Gif图可以很小。
+
+官网下载链接：<https://www.cockos.com/licecap/>
+
+其他同类软件：
+
+- GIF Brewery 3：可以在 MAS 免费下载。
+
+
+### 图床上传工具：PicGo
+
+## 七、开发工具
 
 ### Xcode
 
-苹果官网推出的IDE，程序猿必备。从App Store 上下载安装即可。
+苹果官方推出的IDE，程序猿必备。从App Store 上下载安装即可。
 
-## 版本控制&版本管理
+### 文本编辑器：Sublime Text
+
+最轻量的纯文本编辑器。全平台。
+
+### 代码编辑器：VS Code
+
+前端必备。
+
+### 命令行终端：iTerm2
+
+替换系统自带的终端软件。
 
 ### Git安装
 
 在App Store下载安装Xcode后，会自动安装上Git。安装好之后，在终端输入`git --version`进行验证。
 
+### Git 版本管理的GUI工具
 
-### Tower
+- [Tower](https://xclient.info/s/tower.html)
 
-SourceTree 的界面是最好看的，我用了两年了，发现有时候pull代码的时候，还是有点问题。最终准备换成 Tower，用了一段时间，发现 Tower 用起来没出现过问题，体验也比较好。
+- [Git Kraken](https://www.gitkraken.com/)
 
-以后我就用 Tower 代替 SourceTree 了。
+- [SourceTree](https://www.sourcetreeapp.com/)
 
-破解版链接：
+以上软件，三选一即可。我用 Tower 比较多。
 
-- [Tower.v2.6.4 for Mac license](https://www.uedbox.com/tower-v2-6-4-for-mac-license/)
+### FTP传输：Transmit
 
-### SourceTree
+## 九、其他软件
 
-Git版本控制的GUI工具。官网链接：<https://www.sourcetreeapp.com>。类似的软件还有[TortoiseGit](https://tortoisegit.org/)。
+### 下载软件：迅雷
 
+迅雷如果没有会员，基本没法儿用。
 
-## 前端开发相关
 
-### VS Code
+### 聊天软件：微信 & QQ
 
-前端开发IDE。
+这个大家都会安装。
 
-## Android开发相关
+### 最安全的聊天软件：Telegram
 
-### jdk
+墙外的聊天软件。
 
-jdk  1.7下载地址：<http://www.oracle.com/technetwork/cn/java/javase/downloads/jdk7-downloads-1880260.html>
+### 听歌软件：网易云音乐
 
+虽然歌曲库不如QQ音乐，但是网易云音乐的产品体验是最好的。
 
-打开下载的DMG文件，双击包中的PKG文件进行安装。打开<终端>，输入 java -version，查看安装版本。
+### 邮件客户端：网易邮箱大师
 
-最新安装的1.7的JDK的默认安装目录为：`/Library/Java/JavaVirtualMachines`。
+体验还阔以。
 
-系统自带的JDK在以下路径中：`/System/Libray/Frameworks/JavaVM.Framwork/`，在这个目录下有个Versions目录，里面有不同版本的jdk。
+### Mac清理维护软件：腾讯柠檬清理（Tencent Lemon）
 
-我在Android Studio 中设置JDK路径的时候，默认出现了下面这个路径：
+清理磁盘、干净卸载软件，还可以在顶部栏显示当前网速、CPU温度等信息。在功能上，不是跟腾讯安全卫士差不多么？只不过是换了身皮肤。
 
-img2016112401.png
+免费软件。官网下载地址：<https://lemon.qq.com/>
 
-那就选择默认的这个吧，如果我手动指定jdk的路径，会报错：`[please use jdk8 or newer](http://stackoverflow.com/questions/37335214/android-studio-2-2-preview-1-error-please-use-jdk-8-or-newer)`。如下图所示：
+### 将 iPad 作为Mac的扩展显示屏：duet
 
-img2016112402.png
+官网下载地址：<www.duetdisplay.com>
 
-参考链接：
 
-- [Mac OS X 中安装JDK 7](http://www.cnblogs.com/weiok/p/4917522.html)
 
+### 虚拟机
 
-- [Mac设置指南](https://www.kancloud.cn/kancloud/ocds-guide-to-setting-up-mac/71035)
+- parallels desktop
 
+- VMware 虚拟机
 
-- [mac下卸载jdk](http://www.jianshu.com/p/8de3c3443ab4)
 
-### Android SDK 中adb的环境变量配置
 
-```bash
-cd ~ //进入用户的根目录
-touch .bash_profile // 如果没有，则新建文件；如果有，则更新文件时间
-open -e .bash_profile // 打开文件
-```
 
-然后在打开的文件中加入下面的内容：
 
-```bash
-export PATH=$PATH:/Users/smyhvae/Dev/Android/adt-bundle-mac-x86_64/sdk/platform-tools
-```
 
-最后输入如下命令：（使用刚才更新之后的内容）
 
-```bash
-source .bash_profile
-```
 
-此时，adb环境就配置好了。在终端输入`adb`即可进行检验。
 
-
-部分命令解释：
-open .bash_profile：打开文件
-touch .bash_profile：如果没有，则创建文件；如果有，更新一下文件时间.
-open -e bash_profile：编辑文件
-
-
-参考链接：
-
-- [mac下环境变量的配置（以android adb为例）](http://www.jianshu.com/p/618d55a79832)
-
-## 虚拟机
-
-### VMware 虚拟机
-
-
-安装包下载链接：<http://xclient.info/s/vmware-fusion.html>
-
-选择菜单栏「窗口 - 虚拟机资源库」，可以看到已经安装了哪些虚拟机镜像。
-
-#### VMware中安装Ubuntu 16.04
-
-安装教程链接：[手把手交大家在mac上用VMWare虚拟机装Linux-Ubuntu--及Ubuntu安装Vmware Tools](http://blog.csdn.net/jackjia2015/article/details/50757430)
-
-Ubuntu虚拟机安装成功后，如果要更改配置，记得先将Ubuntu虚拟机关机，然后选择VMware的菜单栏「虚拟机- 设置- 处理器和内存」，然后进行更改。
-
-### parallels desktop
-
-下载链接：[#](http://download.csdn.net/download/yuanfangdeqin/9870446)、[#](http://download.csdn.net/detail/u011334396/9871702s)。
-
-#### 软件图标、文字太小的问题
-
-在虚拟机parallels desktop中安装Win7后，发现软件的图标、文字很小，为了把图标调大一点，可以进行如下设置：
-"操作-->配置-->硬件-->图形"，然后在分辨率这一栏选择"缩放"，而不是默认的“最适用于Retina显示器”。
-
-再次打开软件，就一切正常了(不过这个时候windows界面会明显感觉分辨率变低了，不过软件能开开心心正常使用啦～)
-
-参考链接：
-
-- [parallels desktop上装应用程序字体，图标太小](http://jingyan.baidu.com/article/5d368d1edf1bfa3f60c057b4.html)
-
-
-### Beyond Compare：代码比对
-
-官网下载链接：<http://www.scootersoftware.com/download.php>
-
-在我写此文档时，我下载的版本是4.2.3。
-
-**Beyond Compare破解方法：**
-
-> 在官网下载Beyond Compare后进行安装。然后进行破解。破解步骤如下。
-
-
-- 1.Open trial.key at path: /Applications/Beyond\ Compare.app/Contents/Resources/trial.key
-
-- 2.Replace content of trial.key with:
-
-```bash
---- BEGIN LICENSE KEY ---
-H1bJTd2SauPv5Garuaq0Ig43uqq5NJOEw94wxdZTpU-pFB9GmyPk677gJ
-vC1Ro6sbAvKR4pVwtxdCfuoZDb6hJ5bVQKqlfihJfSYZt-xVrVU27+0Ja
-hFbqTmYskatMTgPyjvv99CF2Te8ec+Ys2SPxyZAF0YwOCNOWmsyqN5y9t
-q2Kw2pjoiDs5gIH-uw5U49JzOB6otS7kThBJE-H9A76u4uUvR8DKb+VcB
-rWu5qSJGEnbsXNfJdq5L2D8QgRdV-sXHp2A-7j1X2n4WIISvU1V9koIyS
-NisHFBTcWJS0sC5BTFwrtfLEE9lEwz2bxHQpWJiu12ZeKpi+7oUSqebX+
---- END LICENSE KEY -----
-```
-
-- 3.Save trial.key file & restart Beyond Compare app
-
-- 4.Enjoy!
-
-
-
-
-## 一些常见软件
-
-
-### Photoshop
-
-> 本软件中，分享下载的所有dmg、zip 打开密码均为 xclient.info。
-
-**软件下载链接：**
-
-Adobe Photoshop CC 2017_18.0.0（附中文语言包）：
-
-- 下载链接：<http://xclient.info/s/adobe-photoshop-cc.html>
-- 百度网盘链接：<https://pan.baidu.com/s/1slSwXwL>，密码：6g4v。
-
-Adobe CC 2017 通用激活：
-
-- 下载链接：<http://xclient.info/a/620a06ef-0013-a719-81f9-de029e27b9ae.html>
-- 百度网盘链接：<https://pan.baidu.com/s/1c2eI18W>，密码：q72q。
-
-中文包：
-
-- 百度网盘链接：<https://pan.baidu.com/s/1jHCfU4m>，密码：i9ud。
-
-**激活步骤：**
-
-（1）断网；
-
-（2）安装程序：解压后，将/build/instll.pkg双击，即可安装。
-
-（3）运行激活工具激活：打开里的 Adobe Zii.app  点击PATCH OR DRAG。
-
-（4）安装[中文语言包](https://www.yunrui.co/37779.html)：将解压好的语言包文件夹复制到 应用程序/Adobe Photoshop CC 2017/Locales 目录下。
-打开 photoshop，点击左上角 Photoshop CC/Preferences/Interface... 在弹出的界面中间部分修改UI Language的值 为Simplified Chinese 点击右上角 OK按钮。重启 photoshop 即可。
-
-
-### 解压／压缩软件：The Unarchiver
-
-
-## 其他软件
-
-
-### 电子书转换工具：calibre
-
-
-
-### Mac下的多窗口切换工具
-
-- [HyperDock](https://bahoom.com/hyperdock/)：类似 Windows 的 Dock 窗口预览工具
-
-这个软件很有用。安装完成后，可以对部分参数进行设置。例如：「通用 - 启动延迟」，可以设置为0毫秒。
-
-
-- [HyperSwitch](https://bahoom.com/hyperswitch)：Cmd+Tab（程序切换）中集成窗口切换、Option+Tab 窗口切换。
-
-安装好HyperSwitch后，将其run in the background。
-
-
-
-### 色温调节：f.lux
-
-官网链接：[f.lux](https://justgetflux.com/)
-
-
-### 分别设置Mac的鼠标和触控板的滚动方向：Scroll Reverser
-
-很多人习惯鼠标使用相反的滚动方向，而触控板类似iPad那样的自然滚动，问如何设置，当时我的回答是不知道，因为目前OS X的系统设置里，鼠标和触控板的设置是统一
-的。今天发现了一个免费的软件Scroll Reverser，可以实现鼠标和触控板的分别设置。
-
-官网下载地址：<https://pilotmoon.com/scrollreverser/>。
-启动后程序显示在顶部菜单栏，设置简单明了，有需要的用户体验一下吧。
-
-### 让鼠标的滚轮更流畅：Smooth Scroll
-
-鼠标滚轮一格一格的滚动效果总是没有触摸板来的顺滑，这款 Smooth Scroll 可以让平滑滚动应用到系统的每个角落，让鼠标滚轮用起来也有触摸板的感觉。
-
-Smooth Scroll 提供了一些我眼中晦涩难懂的数值型设置选项，我认为默认的设定已经可以满足需求，并没有调节的必要。但一定不要忘记开启「Bounce back from edges」选项，打开之后就有橡皮筋回弹的效果啦。另外，需要注意的是：「Standard wheel direction」选项与 Scroll Reverser 一起使用会有「负负得正」的效果，所以建议把「Standard wheel direction」这个选项的勾去掉。
-
-Smooth Scroll 可在 [官网](http://www.smoothscroll.net/mac/) 免费下载试用，售价 9.95 美元 / 年。
-
-我们也可以在[其他地方](http://bbs.feng.com/read-htm-tid-10808968.html)找到破解版。下载链接：<https://pan.baidu.com/s/1sly8BtN> 密码：dyqj
-
-参考链接：[少数派 | 8 款 App 全面提升你的 Mac 鼠标体验](http://sspai.com/32832)
-
-
-### 隐藏顶部的状态栏图标
-
-随着 Mac 系统使用时间的增长，那原本简洁的菜单栏也自然而然会慢慢变长：20170101_1205.png
-
-
-好在可以通过软件「[Bartender](https://www.macbartender.com/)」来解决。
-
-Bartender是一款实用的菜单栏管理工具，将大量的菜单有选择放进 Bartender 的二级菜单，不仅会看起来更整洁，使用起来也不会造成太大的麻烦。能够解决和整理菜单栏空间过于用尽的问题。
-
-Bartender软件官网链接：<https://www.macbartender.com/>，软件太贵了，还是找找破解版吧。
-
-破解版链接：[Bartender 2.1.6 fix 一款实用的菜单栏管理工具](http://xclient.info/s/bartender.html)
-
-
-参考链接：
-
-- [Bartender 顶部状态栏图标管理](http://zqpythonic.qiniucdn.com/data/20130509223351/index.html)
