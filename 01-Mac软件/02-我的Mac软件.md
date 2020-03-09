@@ -13,29 +13,29 @@
 
 备注：请勿大范围传播。猫鼠游戏，知道的人越多，被feng的概率越大。
 
-## 一、常用工具
+## 一、常用软件
 
 ### Alfred
 
-付费软件。Alfred 是全局搜索工具。毫不夸张的说，Alfred 是 Mac 上应该安装的第一款软件。
+Alfred 是全局搜索工具。毫不夸张的说，Alfred 是 Mac 上应该安装的第一款软件。
 
-可用 Alfred 来代替系统默认的 Spotlight 搜索功能。主要功能如下：
+可用 Alfred 来代替系统默认的 Spotlight 搜索功能。基础功能如下：
 
 - 快速启动任意软件
 
-- 计算
+- 计算器
 
 - 文件搜索
 
 - 网页搜索
 
-配合上付费版的 **Powerpack** 之后，可以保存剪贴板历史，还可以执行任意脚本程序。功能非常强大，可以极大提高Mac操作效率。
+以上基础功能免费。配合上付费版的 **Powerpack** 之后，可以保存剪贴板历史，还可以执行任意脚本程序。功能非常强大，可以极大提高Mac操作效率。
 
 ### Chrome 浏览器
 
-尽管Mac下的Safari浏览器很好用，但是chrome浏览器也是必须要用的。
+尽管Mac下的Safari浏览器很好用，但是chrome浏览器也是必不可少的。
 
-官网离线下载地址：
+官网的离线安装包下载地址：
 
 <https://www.google.com/chrome/thank-you.html?standalone=1&platform=mac&installdataindex=defaultbrowser#>
 
@@ -49,7 +49,9 @@ F1是截图，F3是贴图。记得用好这个超级无敌的小技巧。
 
 IINA 是 Mac平台最接近原生体验的视频播放器，是我最为推荐的本地视频播放器。
 
-另外，还有一款本地视频播放器 **SPlayer**，可以下载网络字幕。
+其他同类软件：
+
+- SPlayer：可以下载网络字幕。
 
 ### 输入法：搜狗输入法
 
@@ -80,9 +82,9 @@ IINA 是 Mac平台最接近原生体验的视频播放器，是我最为推荐�
 
 ### 屏幕色温调节：f.lux
 
-免费软件。官网下载链接：<https://justgetflux.com/>
-
 作用：减弱蓝光，降低屏幕色温。
+
+全平台的免费软件。官网下载链接：<https://justgetflux.com/>
 
 ### 窗口管理：Magnet
 
@@ -124,13 +126,28 @@ Smooth Scroll 提供了一些晦涩难懂的数值型设置选项，我认为默
 
 ### 读写 NTFS 格式的移动硬盘：Paragon NTFS for Mac
 
-付费软件。我是2019年在官网购买的正版软件，当时的价格是149。
+付费软件。我是2019年在官网购买的正版软件，当时的价格是149。用了几次，没遇到什么问题。
 
 官网链接：<https://china.paragon-software.com/>
 
-毕竟涉及到数据安全，第三方的软件不太靠谱，建议购买官方正版软件。
+毕竟涉及到数据安全，第三方的破解版软件不太靠谱，建议购买官方正版软件。
 
 我之前使用过几次破解版的另外一个软件「Mounty」，导致硬盘数据损坏。不知道是破解软件的问题，还是 Mounty 软件本身的问题。
+
+**补充：**
+
+西部数据和希捷硬盘直接在官网免费提供了「Paragon NTFS for Mac」这个软件。如果你购买的是西部数据/希捷的移动硬盘，可以直接在官网下载，链接如下。
+
+西部数据：
+
+- 安装包地址：<https://downloads.wdc.com/wdapp/Paragon_NTFS_Driver_for_Mac_15_04_20.dmg>
+
+- [官网下载地址](https://support-en.wd.com/app/products/product-detail/session/L3RpbWUvMTU3NjU0NTY0My9nZW4vMTU3NjU0NTY0My9zaWQvZlUlN0VManFBeFM4RVJlcEhfQ1BhX01qU3FPQ2s3Ym8lN0ViOFY2a3kxc1NXQjU1SXBLQkhCNzJIbEZxa05ZeWdURnlrT2QxRkd5WEtKdXFFc0tidnQ3MG1hZFBqRzIlN0VGeHlnUTVPciU3RXVZOCU3RTR0ZFdtTzFwdmY4TGxjQSUyMSUyMQ==/p/1373#WD_downloads)
+
+希捷：
+
+- 官网下载地址：<https://www.seagate.com/cn/zh/support/software/paragon/>
+
 
 ## 二、办公软件
 
@@ -158,7 +175,7 @@ Dropbox 是国外的软件，把相对重要的文件存在国外的服务上，
 
 Dropbox 官网下载链接：<https://db.tt/F9KWEMRt>
 
-如果你不想用 Dropbox，可以退而求其次，使用国内的「坚果云」。
+如果你不想用 Dropbox，可以退而求其次，使用国内的「坚果云」。再次强调，重要且隐私的文件，不要放到国内的网盘上。
 
 ### pdf阅读软件：PDF Expert
 
@@ -234,7 +251,6 @@ Sketch 软件的菜单栏也会显示「插件 -- Sketch Measure」这个选项�
 
 付费软件。ApowerREC 全平台的录屏工具。可以录屏、麦克风、系统声音，还能录制摄像头。
 
-
 ### 视频剪辑：Final Cut Pro
 
 付费软件。**Final Cut Pro** 是最专业的视频剪辑软件。
@@ -253,8 +269,11 @@ Sketch 软件的菜单栏也会显示「插件 -- Sketch Measure」这个选项�
 
 ### 电子书转换工具：calibre
 
-软件长得丑了点，但是功能实用。
+全平台的免费软件。软件长得丑了点，但是功能实用。
 
+你既可以把它当成是电子式阅读器，也可以用共它来转换各种电子书格式。
+
+我一般是用它来破解 Kindle 电子书，然后转换成想要的电子书格式。
 
 ### 亚马逊的阅读软件：Kindle
 
@@ -274,7 +293,7 @@ Sketch 软件的菜单栏也会显示「插件 -- Sketch Measure」这个选项�
 
 ### 写作软件：Ulysses
 
-为写作而生。很贵的付费软件。如果你像我一样，是写作的重度用户，我推荐在官网购买正版软件。
+为写作而生。很贵的付费软件。我在官网购买的正版软。如果你像我一样，是写作的重度用户，我推荐购买。
 
 其他同类软件：
 
@@ -333,7 +352,6 @@ Sketch 软件的菜单栏也会显示「插件 -- Sketch Measure」这个选项�
 
 迅雷如果没有会员，基本没法儿用。
 
-
 ### 聊天软件：微信 & QQ
 
 这个大家都会安装。
@@ -344,7 +362,7 @@ Sketch 软件的菜单栏也会显示「插件 -- Sketch Measure」这个选项�
 
 ### 听歌软件：网易云音乐
 
-虽然歌曲库不如QQ音乐，但是网易云音乐的产品体验是最好的。
+虽然歌曲库不如QQ音乐的全，但是网易云音乐的产品体验是最好的。
 
 ### 邮件客户端：网易邮箱大师
 
@@ -368,9 +386,5 @@ Sketch 软件的菜单栏也会显示「插件 -- Sketch Measure」这个选项�
 - VMware 虚拟机
 
 以上软件，二选一即可。
-
-
-
-
 
 
