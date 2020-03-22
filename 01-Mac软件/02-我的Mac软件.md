@@ -347,6 +347,9 @@ Sketch 软件的菜单栏也会显示「插件 -- Sketch Measure」这个选项�
 
 ### FTP传输：Transmit
 
+
+### 代码比对工具：Kaleidoscope
+
 ## 九、其他软件
 
 ### 下载软件：迅雷
