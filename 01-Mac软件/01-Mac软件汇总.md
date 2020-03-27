@@ -2,11 +2,12 @@
 > 收集好用的Mac软件。
 
 
-## 基本工具
+
+## 一、常用软件
 
 ### 效率工具
 
-- [Alfred](https://www.alfredapp.com/) - 效率神器。有免费版和付费版两种。[荐] [#](https://zhuanlan.zhihu.com/p/28580894)
+- [Alfred](https://www.alfredapp.com/) - Mac 上应该安装的第一个效率神器。
 
 
 ### 截图
@@ -61,9 +62,9 @@
 
 ### 下载工具
 
-> 至今为止，没找到一个靠谱、好用的下载工具。
+> 至今为止，我还没找到一个靠谱、好用的下载工具。
 
-- [迅雷](https://www.xunlei.com/) - 限速严重。
+- [迅雷](https://www.xunlei.com/) - 限速严重，没有会员基本没法儿用。
 
 
 - [Transmission](https://www.transmissionbt.com/) - 免费的BitTorrent客户端 [开源](https://github.com/Sigil-Ebook/Sigil)。
@@ -187,6 +188,119 @@
     * [XtraFinder](https://www.trankynam.com/xtrafinder/) - 给Finder添加有用的新特性。
 
 
+## 二、办公软件
+
+### 笔记软件 & 知识管理
+
+- [印象笔记](https://www.yinxiang.com/) - 记录一切。[荐]
+- [为知笔记](http://www.wiz.cn/download.html) - 支持Markdown，搜集整理图片链接导入文档。[荐]
+- [Notion](https://www.notion.so/) - 新生代笔记软件。
+- [有道云笔记](http://note.youdao.com/) - 支持多目录，Markdown，iWork/Office预览。
+- [Quiver](http://happenapps.com/#quiver) - 程序猿的笔记本。
+- [leanote](http://app.leanote.com) - 蚂蚁笔记，支持Markdown的一款[开源](https://github.com/leanote/leanote)笔记软件，支持直接成为个人博客。
+- [Inkdrop](https://www.inkdrop.info/) - Markdown爱好者的笔记本应用程序。
+
+
+### 网盘
+
+- [Dropbox](http://www.dropboxchina.com/Download/dropbox-for-mac.html) - 非常好用的网络文件同步工具，提供在线存储服务。[荐]
+- [百度网盘](http://pan.baidu.com/download?from=header#pan) - 百度云客户端。
+- [坚果云](https://www.jianguoyun.com/s/downloads) - 坚果云客户端。
+- [腾讯微云](https://www.weiyun.com/) - 腾讯云客户端。
+- [owncloud](https://owncloud.org) - 私有云网盘。
+- [Mega](https://mega.nz) - 免费的云服务，提供50GB的免费存储空间。
+- [亿方云](https://www.fangcloud.com/) - 硅谷团队打造，个人免费。
+- [Seafile](https://www.seafile.com/) - 是由国内团队开发的国际化的开源云存储软件项目。
+
+### 思维导图软件
+
+- [XMind](http://www.xmind.net) - 思维导图软件。[荐]
+- [MindNode](https://mindnode.com/) -
+
+## 三、图像处理&设计
+
+### 设计工具
+
+- Photoshop - 最强大的位图处理软件。
+
+- [Pixelmator Pro](https://www.pixelmator.com/pro/) - 强大的图像处理软件，可能替代PS的最佳选择。
+
+- [Acorn](https://secure.flyingmeat.com/acorn/) - 一个像PS，全面的功能集的图像编辑器。
+
+- [Affinity Designer](https://affinity.serif.com/en-us/designer/) - 矢量图像设计工具，可能的Adobe Illustrator的替代。
+
+- [Affinity Photo](https://affinity.serif.com/en-us/photo/) - 光栅图像设计工具，可以替代Adobe PS图象处理软件。
+
+- [Blender](https://www.blender.org/) - 全功能可扩展的跨平台3D内容套件。[开源](https://developer.blender.org/)
+
+- [Sketch Toolbox](http://sketchtoolbox.com/) - 一个超级简单的Sketch插件管理器。[开源](https://github.com/buzzfeed/Sketch-Toolbox)
+
+- [inklet](https://tenonedesign.com/inklet.php) - 将Mac上的触摸板变成绘图板。
+
+- [Monodraw](http://helftone.com/) - 一款文本图像编辑器。
+
+- [SketchBook](https://www.sketchbook.com/?locale=cn) - 出众的绘图软件。
+
+- [Tayasui Sketches](http://www.tayasui.com/sketches/) - 专业的绘图软件。
+
+- [Nik Collection](https://www.google.com/nikcollection/) - 专业照片后期制作工具Google收购后免费。
+
+- [Paintbrush](http://paintbrush.sourceforge.net/) - 位图图像编辑器。[开源](https://sourceforge.net/projects/paintbrush/files/)
+
+- [Krita](https://krita.org/) - 一个开源的位图形编辑软件，包含一个绘画程式和照片编辑器。 [开源](http://download.kde.org/stable/krita/3.0/krita-3.0.tgz.mirrorlist)
+
+- [Vectr](https://vectr.com/) - 免费图形编辑器。这是一个简单而强大的Web和桌面跨平台工具，把你的设计变成现实。
+
+- [Principle](http://principleformac.com/) -  使用它很容易设计动画和交互式用户界面。[star 5]
+
+- [MagicaVoxel](https://ephtracy.github.io/) - 轻量级的8位像素编辑和交互路径追踪渲染器。
+
+- [ScreenToLayers](http://jeremyvizzini.com/screentolayers/) - 轻松导出桌面分层文件PSD文件。[开源](https://github.com/jeremyvizzini/ScreenToLayers)
+
+### 原型设计
+
+- [Sketch](http://www.sketchapp.com/) - 混合矢量/位图布局应用，特别适用于用户界面，Web和移动设计。[荐]
+
+- [Axure RP 8](http://www.axure.com) - 画原型图工具，团队协作SVN方便好用。[荐]
+
+- [Justinmind](http://www.justinmind.com) - 功能更丰富团队协作方便。
+- [MockFlow](https://www.mockflow.com) - 用于网页设计和可用性测试的在线原型设计套件。
+- [Mockplus](http://www.mockplus.com) - 更快更简单的原型设计工具。
+- [OmniGraffle](https://www.omnigroup.com/omnigraffle) - 可用来绘制图表、流程图、组织结构图、思维导图以及插图或原型。
+- [Scapple](http://www.literatureandlatte.com/scapple.php) - 一款实用的思维导图软件。
+- [Framer](http://framerjs.com/) - 做交互原型的工具。![hot][hot Icon] [star 5]
+- [Balsamiq Mockups](https://balsamiq.com/products/mockups/) - 一个快速的网页设计原型工具，帮助你更快、更聪明的工作。
+- [Marvel](https://marvelapp.com/) - 简单设计，原型设计和协作。
+- [MindNode](http://mindnode.com/) - 简洁的风格与人性化的操作，绘制思维脑图。[荐]
+- [iThoughtX]() - 进阶用户喜欢用它画脑图。[荐]。[#](https://sspai.com/post/31516)
+
+### 其它工具
+
+
+- [Notes](http://www.get-notes.com/) - 简洁的笔记应用。 [开源](https://github.com/nuttyartist/notes)
+- [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) - 图片压缩专用开源工具。[开源](https://github.com/kyleduo/TinyPNG4Mac)
+- [Image2icon](http://www.img2icnsapp.com) - 将你的图片转换成图标。
+- [ImageAlpha](https://pngmini.com/) - 压缩PNG图片，去掉无效的透明。[开源](https://github.com/pornel/ImageAlpha)
+- [ImageOptim](https://imageoptim.com/mac) - 压缩图片，删除EXIF信息。[开源](https://github.com/ImageOptim/ImageOptim)
+- [Sip](http://theolabrothers.com/) - 收集，整理和分享你的颜色拾色器。
+- [Frank DeLoupe](http://jumpzero.com/frank/) - 支持 Retina 的屏幕拾色器。
+- [ColorSchemer](http://www.colorschemer.com/) - 专业的配色、调色软件。
+- [IconKit](https://itunes.apple.com/cn/app/iconkit-icon-resizer-for-app/id507135296?mt=12) - App图标自动生成器。
+- [GIPHY Capture](https://itunes.apple.com/us/app/giphy-capture.-the-gif-maker/id668208984) - 免费软件的捕捉和分享图片在桌面上。
+- [Iconjar](http://geticonjar.com/) - 图标管理软件，带组织和搜索功能。[star 5]
+- [RightFont](http://rightfontapp.com/) - 字体管理工具。[star 4]
+- [Solarized](http://ethanschoonover.com/solarized) - 干净清爽的颜色主题，支持iTerm、Intellij IDEA、Vim等。
+
+
+### 图片管理
+
+- [Eagle](https://cn.eagle.cool/) - 图片管理必备工具。30天试用期。
+
+Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整理、查找」的各种场景，支持 Mac 与 Windows 系统。号称图片管理中的印象笔记。
+
+
+
+
 ## 系统工具
 
 
@@ -224,69 +338,6 @@
 * [Yummy FTP](http://www.yummysoftware.com) - 专业快速，可靠的FTP客户端。
 * [Cyberduck](https://cyberduck.io) - 免费FTP，SFTP，S3和WebDAV客户端 & OpenStack Swift Client。
 
-## 设计与产品
-
-### 设计工具
-
-- [Acorn](https://secure.flyingmeat.com/acorn/) - 一个像PS，全面的功能集的图像编辑器。
-- [Affinity Designer](https://affinity.serif.com/en-us/designer/) - 矢量图像设计工具，可能的Adobe Illustrator的替代。
-- [Affinity Photo](https://affinity.serif.com/en-us/photo/) - 光栅图像设计工具，可以替代Adobe PS图象处理软件。
-- [Blender](https://www.blender.org/) - 全功能可扩展的跨平台3D内容套件。[开源](https://developer.blender.org/)
-- [Pixelmator](http://www.pixelmator.com/mac/) - 强大的图像编辑器，可能PS图像处理软件的选择。
-- [Sketch](http://www.sketchapp.com/) - 混合矢量/位图布局应用，特别适用于用户界面，Web和移动设计。[荐]
-    - [Sketch Toolbox](http://sketchtoolbox.com/) - 一个超级简单的Sketch插件管理器。[开源](https://github.com/buzzfeed/Sketch-Toolbox)
-- [inklet](https://tenonedesign.com/inklet.php) - 将Mac上的触摸板变成绘图板。
-- [Monodraw](http://helftone.com/) - 一款文本图像编辑器。
-- [SketchBook](https://www.sketchbook.com/?locale=cn) - 出众的绘图软件。
-- [Tayasui Sketches](http://www.tayasui.com/sketches/) - 专业的绘图软件。
-- [Nik Collection](https://www.google.com/nikcollection/) - 专业照片后期制作工具Google收购后免费。
-- [Paintbrush](http://paintbrush.sourceforge.net/) - 位图图像编辑器。[开源](https://sourceforge.net/projects/paintbrush/files/)
-- [Krita](https://krita.org/) - 一个开源的位图形编辑软件，包含一个绘画程式和照片编辑器。 [开源](http://download.kde.org/stable/krita/3.0/krita-3.0.tgz.mirrorlist)
-- [Vectr](https://vectr.com/) - 免费图形编辑器。这是一个简单而强大的Web和桌面跨平台工具，把你的设计变成现实。
-- [Principle](http://principleformac.com/) -  使用它很容易设计动画和交互式用户界面。[star 5]
-- [MagicaVoxel](https://ephtracy.github.io/) - 轻量级的8位像素编辑和交互路径追踪渲染器。
-- [ScreenToLayers](http://jeremyvizzini.com/screentolayers/) - 轻松导出桌面分层文件PSD文件。[开源](https://github.com/jeremyvizzini/ScreenToLayers)
-
-### 原型流程
-
-- [Justinmind](http://www.justinmind.com) - 功能更丰富团队协作方便。
-- [MockFlow](https://www.mockflow.com) - 用于网页设计和可用性测试的在线原型设计套件。
-- [Axure RP 8](http://www.axure.com) - 画原型图工具，团队协作SVN方便好用。[荐]
-- [Mockplus](http://www.mockplus.com) - 更快更简单的原型设计工具。
-- [OmniGraffle](https://www.omnigroup.com/omnigraffle) - 可用来绘制图表、流程图、组织结构图、思维导图以及插图或原型。
-- [XMind](http://www.xmind.net) - 一款实用的思维导图软件。[荐]
-- [Scapple](http://www.literatureandlatte.com/scapple.php) - 一款实用的思维导图软件。
-- [Framer](http://framerjs.com/) - 做交互原型的工具。![hot][hot Icon] [star 5]
-- [Balsamiq Mockups](https://balsamiq.com/products/mockups/) - 一个快速的网页设计原型工具，帮助你更快、更聪明的工作。
-- [Marvel](https://marvelapp.com/) - 简单设计，原型设计和协作。
-- [MindNode](http://mindnode.com/) - 简洁的风格与人性化的操作，绘制思维脑图。[荐]
-- [iThoughtX]() - 进阶用户喜欢用它画脑图。[荐]。[#](https://sspai.com/post/31516)
-
-### 其它工具
-
-
-- [Notes](http://www.get-notes.com/) - 简洁的笔记应用。 [开源](https://github.com/nuttyartist/notes)
-- [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) - 图片压缩专用开源工具。[开源](https://github.com/kyleduo/TinyPNG4Mac)
-- [Image2icon](http://www.img2icnsapp.com) - 将你的图片转换成图标。
-- [ImageAlpha](https://pngmini.com/) - 压缩PNG图片，去掉无效的透明。[开源](https://github.com/pornel/ImageAlpha)
-- [ImageOptim](https://imageoptim.com/mac) - 压缩图片，删除EXIF信息。[开源](https://github.com/ImageOptim/ImageOptim)
-- [Sip](http://theolabrothers.com/) - 收集，整理和分享你的颜色拾色器。
-- [Frank DeLoupe](http://jumpzero.com/frank/) - 支持 Retina 的屏幕拾色器。
-- [ColorSchemer](http://www.colorschemer.com/) - 专业的配色、调色软件。
-- [IconKit](https://itunes.apple.com/cn/app/iconkit-icon-resizer-for-app/id507135296?mt=12) - App图标自动生成器。
-- [GIPHY Capture](https://itunes.apple.com/us/app/giphy-capture.-the-gif-maker/id668208984) - 免费软件的捕捉和分享图片在桌面上。
-- [Iconjar](http://geticonjar.com/) - 图标管理软件，带组织和搜索功能。[star 5]
-- [RightFont](http://rightfontapp.com/) - 字体管理工具。[star 4]
-- [Solarized](http://ethanschoonover.com/solarized) - 干净清爽的颜色主题，支持iTerm、Intellij IDEA、Vim等。
-
-
-## 图片
-
-- [Eagle](https://cn.eagle.cool/) - 图片管理必备工具。30天试用期。
-
-Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整理、查找」的各种场景，支持 Mac 与 Windows 系统。号称图片管理中的印象笔记。
-
-
 ## 视频播放器
 
 - [IINA](https://iina.io/) - 目前为止，Mac 上最好用对的视频播放器，没有之一。风格很接近系统原生应用。【荐】
@@ -313,15 +364,6 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 - [Perian](http://perian.org/#download) - 让QuickTime播放所有常见格式的免费插件。[开源](https://github.com/MaddTheSane/perian) 。[荐]
 
 ## 阅读与写作
-
-### 云笔记软件
-
-- [印象笔记](https://www.yinxiang.com/) - 记录一切。[荐]
-- [Quiver](http://happenapps.com/#quiver) - 程序猿的笔记本。
-- [有道云笔记](http://note.youdao.com/) - 支持多目录，Markdown，iWork/Office预览。
-- [为知笔记](http://www.wiz.cn/download.html) - 支持Markdown，搜集整理图片链接导入文档。
-- [leanote](http://app.leanote.com) - 支持Markdown的一款[开源](https://github.com/leanote/leanote)笔记软件，支持直接成为个人博客。
-- [Inkdrop](https://www.inkdrop.info/) - Markdown爱好者的笔记本应用程序。
 
 ### 阅读相关
 
@@ -380,20 +422,6 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 - [iChm](http://www.robinlu.com/ichm) - 读chm文件的软件。
 - [Chmox](http://chmox.sourceforge.net/) - 读chm文件的软件。
 - [CHM Reader](http://www.hewbo.com/chm-reader.html) - 读chm文件的软件。
-
-## 网盘
-
-- [Dropbox](http://www.dropboxchina.com/Download/dropbox-for-mac.html) - 非常好用的免费网络文件同步工具，提供在线存储服务。[荐]
-- [百度云](http://pan.baidu.com/download?from=header#pan) - 百度云客户端。
-- [腾讯微云](https://www.weiyun.com/) - 腾讯云客户端。
-- [坚果云](https://www.jianguoyun.com/s/downloads) - 坚果云客户端。
-- [owncloud](https://owncloud.org) - 私有云网盘。
-- [Mega](https://mega.nz) - 免费的云服务，提供50GB的免费存储空间。
-- [亿方云](https://www.fangcloud.com/) - 硅谷团队打造，个人免费。
-- [Seafile](https://www.seafile.com/) - 是由国内团队开发的国际化的开源云存储软件项目。
-- ~~[115](http://pc.115.com/) - 115云客户端。~~
-- ~~[360](http://c49.yunpan.360.cn/) - 360云客户端。~~
-- ~~[快盘](http://web.kuaipan.cn/d/mac) - 金山快盘。~~
 
 
 ## 浏览器
