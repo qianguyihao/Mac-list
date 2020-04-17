@@ -12,9 +12,9 @@
 
 ### 截图
 
-- [snipaste](https://zh.snipaste.com/) - 新生代截图工具。[荐]。
+- [snipaste](https://zh.snipaste.com/) - 新生代截图工具。【荐】。
 
-- [Xnip](https://zh.xnipapp.com)- Mac上方便好用的截图工具，支持滚动截图；截图自带阴影。[#](https://sspai.com/post/42654)
+- [Xnip](https://zh.xnipapp.com)- Mac上方便好用的截图工具，支持滚动截图；最大的优点是，**截图可以自带阴影，效果不错**。[#](https://sspai.com/post/42654)。【荐】
 
 - [Annotate](https://itunes.apple.com/cn/app/annotate-capture-and-share/id918207447?mt=12) - 款非常强大的图片注释软件，可对屏幕截图或者现有图片进行批注。同时，在基础的图片注释功能上还增加了“局部高亮”、“Emoji 表情”、 ”GIF 动图录制与注释“、“与 Dropbox/CloudApp 同步数据“等功能，虽然没有 Skitch 的图片管理功能，也没有 Napkin 的图片拼贴功能，但从注释操作的需求上看，它的确算是 No.1。[#](https://sspai.com/post/30486)
 

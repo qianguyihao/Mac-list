@@ -105,15 +105,26 @@ Bartender是一款实用的菜单栏管理工具，可以将大量的菜单有�
 
 官网下载地址：<https://pilotmoon.com/scrollreverser/>。
 
-### 让鼠标的滚轮更流畅：Smooth Scroll
+### 让普通鼠标的滚轮更流畅：Smooth Scroll
 
 付费软件。
 
-鼠标滚轮一格一格的滚动效果总是没有触摸板来的顺滑，这款 Smooth Scroll 可以让平滑滚动应用到系统的每个角落，让鼠标滚轮用起来也有触摸板的感觉。
+普通鼠标滚轮一格一格的滚动效果总是没有触摸板来的顺滑，这款 Smooth Scroll 可以让平滑滚动应用到系统的每个角落，让鼠标滚轮用起来也有触摸板的感觉。
 
 Smooth Scroll 提供了一些晦涩难懂的数值型设置选项，我认为默认的设定已经可以满足需求，并没有调节的必要。但一定不要忘记开启「Bounce back from edges」选项，打开之后就有橡皮筋回弹的效果啦。另外，需要注意的是：「Standard wheel direction」选项与 Scroll Reverser 一起使用会有「负负得正」的效果，所以建议把「Standard wheel direction」这个选项的勾去掉。
 
 参考链接：[少数派 | 8 款 App 全面提升你的 Mac 鼠标体验](http://sspai.com/32832)
+
+
+### Magic Mouse 鼠标功能增强软件：BetterTouchTool
+
+BetterTouchTool 软件可以让 Magic Mouse 的「轻点代替点按」。
+
+Magic Mouse 的体验很酷，但是有一个缺点，那就是：鼠标的点按比普通鼠标的左右键单击要吃力，显得有些发硬，如果它和 Mac 触摸板一样，轻点就可感应，而不用点按，那就完美多了，BetterTouchTool 这个辅助软件可以完美做到这一点。
+
+20200417_2220.png
+
+
 
 ### 读写 NTFS 格式的移动硬盘：Paragon NTFS for Mac
 
@@ -265,6 +276,17 @@ IINA 是 Mac平台最接近原生体验的视频播放器，是我最为推荐�
 
 ## 六、阅读和写作
 
+### Markdown软件：Typora
+
+免费的 Markdown 软件，全平台。支持导出pdf。
+
+官网下载链接：<https://typora.io/>
+
+其他同类软件：
+
+- MWeb
+
+
 ### 电子书转换工具：calibre
 
 全平台的免费软件。软件长得丑了点，但是功能实用。
@@ -280,16 +302,6 @@ IINA 是 Mac平台最接近原生体验的视频播放器，是我最为推荐�
 ### PDF阅读器：MarginNote 3
 
 付费软件。我在官网购买的正版软件。
-
-### Markdown软件：Typora
-
-免费的 Markdown 软件，全平台。
-
-官网下载链接：<https://typora.io/>
-
-其他同类软件：
-
-- MWeb
 
 ### 写作软件：Bear（熊掌记）
 

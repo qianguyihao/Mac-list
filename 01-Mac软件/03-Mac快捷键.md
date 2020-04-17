@@ -7,10 +7,13 @@
 
 | 快捷键 | 作用 | 备注 |
 |:-------------|:-----|:-----|
-|Shift + Command + G|前往指定路径的文件夹|包括隐藏文件夹|
-|Shift + Command + .|显示隐藏文件、文件夹|再按一次，恢复隐藏|
 |Command + ↑|返回上一层||
 |Command + ↓|进入当前文件夹||
+|Shift + Command + G|前往指定路径的文件夹|包括隐藏文件夹|
+|Shift + Command + .|显示隐藏文件、文件夹|再按一次，恢复隐藏|
+|Command + K |链接服务器 | 通过它，可以连接网络邻居|
+
+
 
 ### 编辑 | 删除文字
 
@@ -29,7 +32,6 @@
 首先选中文件，按Command+C复制文件；然后按「Command＋Option＋V」剪切文件。
 
 备注：Command+X只能剪切文字文本，不要混淆了。
-
 
 
 ## Mac用户必须知道的15组快捷键
@@ -166,7 +168,8 @@ Cmd+C、Cmd+V、Cmd+X、Cmd+A、Cmd+Z。
 
 打开CheatSheet后，长按 command 键，会弹出当前应用程序的所有快捷键。我们还可以对这些快捷键进行保存。
 
-> 参考链接：[《轻松玩Mac》第6期：Mac用户必须知道的15组快捷键](http://v.youku.com/v_show/id_XNDE4MzM0NDgw.html)
+## 参考链接
 
+- [《轻松玩Mac》第6期：Mac用户必须知道的15组快捷键](http://v.youku.com/v_show/id_XNDE4MzM0NDgw.html)
 
 
