@@ -136,6 +136,13 @@
 
 * [iTranslate](http://www.itranslate.com/) - 支持全世界超过 80 种语言发音和输出。
 
+
+### Magic mouse 鼠标增强
+
+
+- [BetterTouchTool](http://www.bettertouchtool.net/) - 触控板、Magic mouse 鼠标增强工具。比如，这个工具可以让Magic mouse实现「轻点代替点按」。【荐】。[#](https://mp.weixin.qq.com/s/A_LP4uQKSVkSNZR5EKEaxA)、[#](https://mp.weixin.qq.com/s/DxvLJRF8nhIJ1z_7E5CuIA)、[#](https://mp.weixin.qq.com/s/DxvLJRF8nhIJ1z_7E5CuIA)
+
+
 ### 其他实用工具
 
 - [f.lux](https://justgetflux.com/) - 降低屏幕的色温，减弱蓝光，保护眼睛。【荐】
@@ -176,7 +183,6 @@
 * [Caffeine](http://lightheadsw.com/caffeine/) - 实用工具，菜单栏按钮，点击休眠。
 * [HTML5 Player](http://zythum.sinaapp.com/youkuhtml5playerbookmark/) - Chrome插件解决中国视频网站播放视频电脑发热的情况。
 * [Monity](http://www.monityapp.com/) - 帮助用户实时监控系统的一款非常漂亮的软件。
-* [BetterTouchTool](http://www.bettertouchtool.net/) - 代替默认的系统操作方式（组合键、修饰键、手势等）。
 * [iStats](https://github.com/Chris911/iStats) - iStats 是一个可以让你快速查看电脑 CPU 温度，磁盘转速和电池等信息的命令行工具。[[开源]](https://github.com/Chris911/iStats)
 * [InsomniaX](https://www.macupdate.com/app/mac/22211/insomniax) - 合上盖子不眠不休，继续听歌下载。
 * [NoSleep](https://www.macupdate.com/app/mac/37991/nosleep) - 合上盖子不休眠，可根据是否连接电源单独设置。
