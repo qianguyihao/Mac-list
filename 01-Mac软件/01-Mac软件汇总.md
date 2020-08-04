@@ -81,6 +81,8 @@
 
 - [ENFI下载器](http://enfi.cloud/) - 使用P2P下载技术，支持HTTP，BT，磁力链等各种协议，高速下载让你摆脱限速的困扰，从此告别低速。
 
+- [Motrix](https://motrix.app/zh-CN/) - 开源免费,一款全能的下载工具(不支持ed2k),支持下载 HTTP、FTP、BT、磁力链接等资源。
+
 
 ### NTFS移动硬盘读写
 
@@ -217,11 +219,13 @@
 - [Mega](https://mega.nz) - 免费的云服务，提供50GB的免费存储空间。
 - [亿方云](https://www.fangcloud.com/) - 硅谷团队打造，个人免费。
 - [Seafile](https://www.seafile.com/) - 是由国内团队开发的国际化的开源云存储软件项目。
+- [OneDrive](https://apps.apple.com/cn/app/onedrive/id823766827?mt=12) - 微软Office系列云存储，免费5GB空间,Windows用户同步文件很方便。
 
 ### 思维导图软件
 
 - [XMind](http://www.xmind.net) - 思维导图软件。[荐]
 - [MindNode](https://mindnode.com/) -
+- [MindMaster](https://www.edrawsoft.cn/download/mindmaster/) - 基本功能免费，高级功能需付费升级，免费版基本上够一般人使用了。
 
 ## 三、图像处理&设计
 
@@ -334,6 +338,7 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 - [GTX加速器](http://www.jsqgtx.cc/DownLoad) - 每天签到领取500M流量。
 - [GreenVPN](http://applewoods.org/article/) - 注册激活送免费VPN加速流量。
 - [v2ss](https://en.v2ss.info/) -
+- [Brook](https://github.com/txthinking/brook#what-is-brook) - 简单易用无需过多配置却不为人知的隧道代理(需要自己搭建服务)。
 
 
 ## FTP客户端
@@ -479,6 +484,7 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 - [Teambition](https://www.teambition.com) - 团队协作。提供管理任务、安排日程、查找文件、即时讨论等团队所需要的一切协作功能。
 - [日事清](https://www.rishiqing.com) - 个人日程管理，团队协作工具。日程安排，计划分配，笔记总结等。
 - [Coding.net](https://coding.net) - 代码托管，项目管理，WebIDE，演示部署，开启云端开发模式，让开发更简单。
+- [worktile](https://worktile.com/zh-cn/client) - Worktile 是一站式敏捷研发与DevOps平台，提升研发效能，助力企业更好更快地发布产品。
 
 ### Email
 
@@ -526,6 +532,7 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 - [Hub](https://hub.github.com/) - 将GitHub接口和git命令进行包装，[开源](https://github.com/github/hub)。
 - [Versions](http://www.versionsapp.com/) - Mac上最好的SVN管理工具。
 - [Cornerstone](http://www.zennaware.com/cornerstone/) - Mac上最佳的SVN管理工具。
+- [GitKraken](https://www.gitkraken.com/git-client) - UI界面很漂亮的Git客户端，学生、开源项目开发者可免费使用。
 
 ### 版本控制系统
 
@@ -594,6 +601,10 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 - [MJML](https://mjmlio.github.io/mjml-app/) - 简化设计回应电子邮件的方式。[开源](https://github.com/mjmlio/mjml)。
 - [TeXstudio](http://www.texstudio.org) - 集成创建LaTeX文档的写作环境。 [开源](https://sourceforge.net/projects/texstudio/)。
 - [Vagrant](https://www.vagrantup.com) - 用来构建虚拟开发环境的工具。 [开源](https://github.com/mitchellh/vagrant)。[荐]
+- [微信开发者工具](https://developers.weixin.qq.com/miniprogram/dev/devtools/stable.html) - 不多解释,微信小程序、公众号开发工具。
+- [QQ小程序开发工具](https://q.qq.com/wiki/tools/devtool/) - 不多解释，QQ小程序开发必备。
+- [HBuilder X](https://www.dcloud.io/hbuilderx.html) - HBuilder是当前最快的HTML开发工具，强大的代码助手帮你快速完成开发，支持uni-app小程序的开发。
+
 
 
 ### 代码比对
@@ -707,6 +718,7 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 
 - [TeamViewer](https://www.teamviewer.com) - 远程协助及在线协作和会议功能的软件，商业软件个人使用免费。[荐]
 - [RealVNC](https://www.realvnc.com) 是一款免费的远程控制跨多平台的程序。
+- [向日葵](https://sunlogin.oray.com/download/) - 向日葵远程控制软件是一款免费的集远程控制电脑手机、远程桌面连接、远程开机、远程管理的一体化远程控制管理工具软件。
 
 
 
