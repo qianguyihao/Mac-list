@@ -105,15 +105,18 @@ Bartender是一款实用的菜单栏管理工具，可以将大量的菜单有�
 
 官网下载地址：<https://pilotmoon.com/scrollreverser/>。
 
-### 让普通鼠标的滚轮更流畅：Smooth Scroll
+### 让普通鼠标的滚轮更流畅：Mos
 
-付费软件。
+普通鼠标滚轮一格一格的滚动效果总是没有触摸板来的顺滑，这款 Mos 可以让平滑滚动应用到系统的每个角落，让鼠标滚轮用起来也有触摸板的感觉。
 
-普通鼠标滚轮一格一格的滚动效果总是没有触摸板来的顺滑，这款 Smooth Scroll 可以让平滑滚动应用到系统的每个角落，让鼠标滚轮用起来也有触摸板的感觉。
+开源免费的软件。GitHub下载地址：<https://github.com/Caldis/Mos>
 
-Smooth Scroll 提供了一些晦涩难懂的数值型设置选项，我认为默认的设定已经可以满足需求，并没有调节的必要。但一定不要忘记开启「Bounce back from edges」选项，打开之后就有橡皮筋回弹的效果啦。另外，需要注意的是：「Standard wheel direction」选项与 Scroll Reverser 一起使用会有「负负得正」的效果，所以建议把「Standard wheel direction」这个选项的勾去掉。
 
-参考链接：[少数派 | 8 款 App 全面提升你的 Mac 鼠标体验](http://sspai.com/32832)
+其他同类软件：
+
+- Smooth Scroll
+
+付费软件。Smooth Scroll 提供了一些晦涩难懂的数值型设置选项，我认为默认的设定已经可以满足需求，并没有调节的必要。但一定不要忘记开启「Bounce back from edges」选项，打开之后就有橡皮筋回弹的效果啦。另外，需要注意的是：「Standard wheel direction」选项与 Scroll Reverser 一起使用会有「负负得正」的效果，所以建议把「Standard wheel direction」这个选项的勾去掉。[#](http://sspai.com/32832)
 
 
 ### Magic Mouse 鼠标功能增强软件：BetterTouchTool
