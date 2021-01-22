@@ -57,6 +57,17 @@ F1是截图，F3是贴图。记得用好这个超级无敌的小技巧。
 
 想要实现科学上网，需要「工具+服务」，缺一不可。ShadowsocksX-NG-R8 只是工具，你需要另外单独购买科学上网的服务。
 
+**使用ShadowSocks后，让dropbox、Telegram 等软件具备代理功能**：
+
+使用ShadowSocks进行代理后，dropbox、Telegram等软件默认是无法翻墙的，此时需要对dropbox进行设置。设置如下：
+
+在 Dropbox 的代理首选项中选择 SOCKS5，服务器填 127.0.0.1:1080 即可。
+
+在 Telegram 的网络配置选项中选择“使用自定义代理”(use custom proxy)，然后选择 SOCKS5，服务器填 127.0.0.1，端口号填 1080 即可。
+
+参考链接：[配置Telegram 的SS代理](https://vpsgongyi.com/p/2330/)
+
+
 ### 日历软件：Itsycal
 
 免费软件。官网下载链接：https://www.mowglii.com/itsycal/
