@@ -135,7 +135,7 @@
 * [eudic](http://www.eudic.net/eudic/mac_dictionary.aspx) - 欧路词典。
 
 * [iTranslate](http://www.itranslate.com/) - 支持全世界超过 80 种语言发音和输出。
-
+* [Bob](https://github.com/ripperhe/Bob) - Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。
 
 ### Magic mouse 鼠标增强
 
