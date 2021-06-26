@@ -126,6 +126,29 @@
 
 - [Fenetre]()- 窗口置顶工具。（我试了下，并不是那么好用）
 
+
+
+
+
+### 浏览器
+
+- [Safari](http://www.apple.com/cn/safari/) - Mac预装自带浏览器。
+- [Chrome](http://www.google.cn/chrome/browser/) - Chrome浏览器谷歌出品。
+- [Firefox](http://www.firefox.com.cn/) - 火狐浏览器。
+- [Opera](http://www.opera.com/zh-cn) - Opera 浏览器。
+- [QQ浏览器](http://browser.qq.com/mac/) - QQ浏览器－腾讯出品。
+- [傲游云浏览器](http://www.maxthon.cn/mac/) - 傲游云浏览器。
+- [Vivaldi](https://vivaldi.com/) - Opera开发商出品新的浏览器。
+- [Ōryōki](http://oryoki.io/) - 小的web浏览器。这是一个试验性的项目，目前正在开发中。
+
+
+
+
+
+
+
+
+
 ### 翻译工具
 
 * [有道翻译](http://cidian.youdao.com/multi.html) - 有道词典桌面版。
@@ -194,7 +217,87 @@
     * [XtraFinder](https://www.trankynam.com/xtrafinder/) - 给Finder添加有用的新特性。
 
 
-## 二、办公软件
+
+
+
+
+
+## 二、小工具
+
+### Mac系统清理、内存管理
+
+- [DaisyDisk](https://daisydiskapp.com/) - 磁盘分析工具。了解磁盘使用状况，并进行准确的分析。DaisyDisk 的视觉系属性大大超过了功能性。 [#](https://www.twblogs.net/a/5baad01e2b7177781a0e94d6/zh-cn)
+- [MacBooster](http://www.carrotchou.blog/5245.html) - 磁盘、内存清理工具。【荐】
+
+
+
+### 上网
+
+- [Shadowsocks](http://shadowsocks.org/) - 一个快速的隧道代理，可以帮助你绕过防火墙。[荐]
+- [Surge](http://nssurge.com/) - 科学上网。[荐]
+- [佛跳墙](http://www.godusevpn.cc/) - 科学上网。[荐]
+- [AgentWho](https://agentwho.network) - 网速很快，但有点贵。[荐]
+- [云梯](https://www.ytpub.com/) - 在圈内小有名气的VPN服务提供商。
+- [SpechtLite](https://github.com/zhuhaow/SpechtLite) - 支持 Shadowsocks 及规则管理的高效率代理。
+- [ShadowsocksX-NG](https://github.com/qiuyuzhou/ShadowsocksX-NG) - 一款ShadowsocksX客户端软件。
+- [Lantern](https://getlantern.org) - 科学上网。
+- [鱼摆摆](https://ybb1024.com/) - 科学上网。
+- [Tunnelblick](https://tunnelblick.net/downloads.html) - OpenVPN的免费软件。
+- [GoAgentX](https://github.com/OldFrank/GoAgentX) - 科学上网。
+- [二师兄VPN](http://www.2-vpn4.cc/home.action) - 提供无限流量、无限续期免费VPN账号。
+- [GTX加速器](http://www.jsqgtx.cc/DownLoad) - 每天签到领取500M流量。
+- [GreenVPN](http://applewoods.org/article/) - 注册激活送免费VPN加速流量。
+- [v2ss](https://en.v2ss.info/) -
+
+
+
+
+
+
+
+
+
+### 数据恢复
+
+- [DiskWarrior](http://www.alsoft.com/DiskWarrior/) - 恢复文件系统损坏时，磁盘工具进行选择。
+- [Data Rescue](https://www.prosofteng.com/datarescue-mac-data-recovery/) - 多种情况下的全面和专业的数据恢复。
+- [Stellar Phoenix Mac Data Recovery](http://www.stellarinfo.com/data-recovery-mac.php) - 一个功能强大的恢复文件面向Mac的工具。
+- [R-Studio for Mac](http://www.r-studio.com/data_recovery_macintosh/) - 可恢复分区被格式化、损坏或被删除的文件。
+
+
+
+### 文件传输
+
+- [Android File Transfer](https://www.android.com/filetransfer/) - Google 官方推出的，让Android设备连接电脑，进行文件管理。
+- [handshaker](http://www.smartisan.com/apps/handshaker) - 锤子科技推出的，以前名叫SmartFinder.  [#](http://www.ifanr.com/app/612734)
+
+
+
+### 远程协助
+
+- [TeamViewer](https://www.teamviewer.com) - 远程协助及在线协作和会议功能的软件，商业软件个人使用免费。[荐]
+- [RealVNC](https://www.realvnc.com) 是一款免费的远程控制跨多平台的程序。
+
+
+
+
+
+
+
+### 虚拟机
+
+- [Parallels Desktop](http://www.parallels.com/) - 虽然好用但是收费机制，更新花钱、花钱、花钱。[hot]
+- [Virtual Box](http://www.virtualbox.org) - 免费、免费、免费，带NTFS读写，不用买ParagonNTFS，省100块。
+- [VMWare Fusion](http://www.vmware.com/) - 强大的虚拟机，商业软件。
+- [Veertu](https://veertu.com) - Mac上最轻便的虚拟机，只有跑Windows才会收费。比较新，很多功能不支持。
+
+
+
+
+
+
+
+## 三、办公软件
 
 ### 笔记软件 & 知识管理
 
@@ -223,7 +326,139 @@
 - [XMind](http://www.xmind.net) - 思维导图软件。[荐]
 - [MindNode](https://mindnode.com/) -
 
-## 三、图像处理&设计
+
+
+
+
+### 即时通信
+
+- [Franz](http://meetfranz.com/) - 一个使用 [Electron](http://electron.atom.io/)开发的，可以同时登录23个平台的即时通讯软件。[hot]
+- [QQ](http://im.qq.com/macqq/index.shtml) - QQ for Mac App。![Freeware][Freeware Icon]
+- [WeChat](http://weixin.qq.com/cgi-bin/readtemplate?t=mac&platform=wx&lang=zh_CN) - 微信 for Mac App。
+- [Telegram](https://desktop.telegram.org) - 通讯新时代。[荐]
+- [weweChat](https://github.com/trazyn/weweChat) - 不比官方差的微信第三方客户端。[荐]。[#](https://www.waerfa.com/wewechat-review)
+- [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat) - 调用微信接口，使用 [Electron](https://github.com/electron/electron) 开发的第三方漂亮[开源](https://github.com/geeeeeeeeek/electronic-wechat)微信应用。
+- [Skype](https://www.skype.com/) - Skype共享、跨平台的短信和电话。
+- [ChitChat](https://github.com/stonesam92/ChitChat) - WhatsApp非官方，[开源](https://github.com/stonesam92/ChitChat)。
+- [御飯](https://imach.me/gohanapp/) - 饭否第三方Mac应用。
+- [Messenger](https://fbmacmessenger.rsms.me/) - Facebook第三方的啊、[开源](https://github.com/rsms/fb-mac-messenger)聊天工具。
+- [Adium](https://adium.im/) - 这个是老的集成多个平台的聊天客户端。
+- [WeeChat](https://weechat.org/) - 一个命令行聊天客户端。
+
+### 社交
+
+- [WeiboX](http://weiboformac.sinaapp.com/) - 微博第三方Mac应用。
+
+### 团队协作
+
+- [Textual](https://www.codeux.com/textual) - 最受欢迎的世界与我们相关的KPI应用 for OS X。
+- [Gitter](https://gitter.im) - 关于GitHub的项目交流，支持 Markdown，对开发者极为友好。
+- [简聊](https://github.com/jianliaoim/talk-os) - 企业级即时沟通工具，已经下线了，可以自己搭建一套[系统](https://github.com/jianliaoim/talk-os)玩儿。
+- [钉钉](http://www.dingtalk.com/index-b.html#download_block) - 企业级办公通讯免费平台。
+- [Slack](https://slack.com/) - 团队协作，沟通工具。
+- [零信](https://pubu.im/apps/osx) - 随时随地工作，跨平台。
+- [今目标](http://www.jingoal.com/client/mac/mac.htm) - 一款面向中小企业的互联网工作平台。
+- [BearyChat](https://bearychat.com/) - 互联网团队协作，沟通工具。
+- [Bitpost](https://voluntary.net/bitpost/) - 私人分散消息，[开源](https://github.com/Voluntarynet/Bitpost)。它是一个p2p的去中心化和无须第三方提供信用担保协议。
+- [Teambition](https://www.teambition.com) - 团队协作。提供管理任务、安排日程、查找文件、即时讨论等团队所需要的一切协作功能。
+- [日事清](https://www.rishiqing.com) - 个人日程管理，团队协作工具。日程安排，计划分配，笔记总结等。
+- [Coding.net](https://coding.net) - 代码托管，项目管理，WebIDE，演示部署，开启云端开发模式，让开发更简单。
+
+### Email
+
+> 其实Mac自带的邮件客户端已经很好用了。
+
+- [网易邮箱大师]()。[荐]。[#](https://www.waerfa.com/neteasemailmaster-for-mac)
+
+* [Spark](https://sparkmailapp.com/) - 新推出的快速邮件客户端支持Mac和iPhone。[荐]
+* [Airmail](http://airmailapp.com) - 快速的邮件客户端支持Mac和iPhone。
+* [Foxmail](http://www.foxmail.com/mac/) - 快速的邮件客户端。
+* [MailTags](https://smallcubed.com/mt/) - 管理和组织邮件，日程和标签进行分类邮件。
+* [N1](https://www.nylas.com/n1) - 可以扩展的开源收费邮件客户端。
+* [Postbox](https://www.postbox-inc.com) - 这个貌似也非常强大哦，关键是简洁漂亮的收费邮件客户端。
+* [Polymail](https://polymail.io/) - 简单，功能强大，长得好看的新晋邮件客户端。
+* [CloudMagic Email](https://cloudmagic.com/) - 界面非常简洁的一个邮件客户端。
+* [ThunderBird](https://www.mozilla.org/zh-CN/thunderbird/) - Mozilla 公司出品的强大的Email客户端程序。
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 四、阅读与写作
+
+### 阅读相关
+
+- [WorkFlowy](https://workflowy.com/downloads/mac/) - 很可能是极简主义者梦想中的笔记应用。[荐]
+
+### Markdown 编辑器
+
+- [Ulysses](https://ulyssesapp.com/)- 专业文本编辑工具，支持 Markdown。[荐]
+- [Bear](https://bear.app/)
+- [MacDown](http://macdown.uranusjr.com/) - 一款开源的Markdown编辑器，深受[Mou](http://25.io/mou/)的影响。
+- [MWeb](http://zh.mweb.im/) - 专业的 Markdown 写作、记笔记、静态博客生成软件。[hot]
+- [Mou](http://25.io/mou/) - 免费 Markdown 编辑神器。
+- [Marp](https://yhatt.github.io/marp/) -  Markdown 制作幻灯片编辑器。
+- [TextNut](http://www.textnutwriter.com/) - Markdown编辑器，富文本之间自由切换。
+- [Typora](http://www.typora.io/) - 基于 Electron 的“读写一体” Markdown 编辑器。[hot]
+- [EME](https://github.com/egoist/eme) - 最近刚出的一款Markdown编辑器，界面很像Chrome浏览器的界面，很简约。
+- [LightPaper](http://lightpaper.42squares.in/) - 简单的Markdown文本编辑器。
+- [Cmd Markdown](https://www.zybuluo.com/) - Cmd Markdown 编辑阅读器，支持实时同步预览，区分写作和阅读模式，支持在线存储，分享文稿网址。
+
+### Markdown 图片上传
+
+- [PicGo](https://molunerfinn.com/PicGo/) - Markdown 图片上传工具。[荐]。[#](https://mp.weixin.qq.com/s/ZQtrlULJ5mNTd8jMCb5yEg)
+
+- [iPic](https://toolinbox.net/iPic/) - Markdown 图片上传工具。60元/年。
+
+### 电子书相关
+
+- [Kindle App](http://www.amazon.com/gp/help/customer/display.html?nodeId=201246110) - 亚马逊 Kindle App 电子书阅读器。
+- [Calibre](http://calibre-ebook.com/) - 丑陋的软件，但强大的软件电子书管理和转换。[开源](https://github.com/kovidgoyal/calibre) 。[荐]
+- [Sigil](https://sigil-ebook.com/) - [开源](https://github.com/Sigil-Ebook/Sigil)、多平台EPUB编辑器。[荐] 。EPub 电子书制作教程：[#](https://kindlefere.com/post/73.html) [#](https://kindlefere.com/post/71.html) [#](https://kindlefere.com/post/72.html)
+
+- [Knotes](http://knotesapp.com/cn) - 高效、优雅的 Kindle 标注管理器。
+
+### pdf阅读
+
+- [MarginNote](https://marginnote.com/) - 在阅读时做标注，记笔记，并可以利用思维导图(Mindmap)和大纲工具(Outline)对笔记进行组织。但就是比较贵。【荐】
+
+- [PDF Expert]() - 极致的 PDF 阅读标注工作体验。
+
+- [PDFelement](https://pdf.wondershare.cn/) - 采用类似word界面和工具条设计,无需改变工具操作习惯。国产良心软件。
+
+- [iAnnotate]() - 可以说是所有 PDF 标记类 app 中的No.1了。仅限 iOS 平台使用，没有Mac平台。
+
+### RSS
+
+- [Feeds 2](http://www.feedsapp.com/) - 监控任何RSS。
+- [ReadKit](http://readkitapp.com/) - 书签RSS管理客户端。
+- [Reeder 3](http://reederapp.com/mac/) - RSS 服务订阅。[hot]
+- [Leaf](http://www.rockysandstudio.com/) - RSS 客户端程序。[hot]
+- [Vienna](http://www.vienna-rss.org/) - [开源](https://github.com/ViennaRSS/vienna-rss)的RSS/Atom 新闻阅读客户端。
+
+### 其他
+
+- [OpenOffice](http://www.openoffice.org/zh-cn/download/index.html) - 是一套[开源](http://openoffice.apache.org/source.html)、跨平台的办公室软件套件。
+- [Spillo](https://bananafishsoftware.com/products/spillo/) - 功能强大，美观、快速网络书签网页阅读。
+- [iChm](http://www.robinlu.com/ichm) - 读chm文件的软件。
+- [Chmox](http://chmox.sourceforge.net/) - 读chm文件的软件。
+- [CHM Reader](http://www.hewbo.com/chm-reader.html) - 读chm文件的软件。
+
+
+
+
+
+
+
+## 五、图像处理&设计
 
 ### 设计工具
 
@@ -306,49 +541,17 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 
 
 
-
-## 系统工具
-
-
-### Mac系统清理、内存管理
-
-- [DaisyDisk](https://daisydiskapp.com/) - 磁盘分析工具。了解磁盘使用状况，并进行准确的分析。DaisyDisk 的视觉系属性大大超过了功能性。 [#](https://www.twblogs.net/a/5baad01e2b7177781a0e94d6/zh-cn)
-
-- [MacBooster](http://www.carrotchou.blog/5245.html) - 磁盘、内存清理工具。【荐】
+## 六、视频&音频
 
 
-## 上网
 
-- [Shadowsocks](http://shadowsocks.org/) - 一个快速的隧道代理，可以帮助你绕过防火墙。[荐]
-- [Surge](http://nssurge.com/) - 科学上网。[荐]
-- [佛跳墙](http://www.godusevpn.cc/) - 科学上网。[荐]
-- [AgentWho](https://agentwho.network) - 网速很快，但有点贵。[荐]
-- [云梯](https://www.ytpub.com/) - 在圈内小有名气的VPN服务提供商。
-- [SpechtLite](https://github.com/zhuhaow/SpechtLite) - 支持 Shadowsocks 及规则管理的高效率代理。
-- [ShadowsocksX-NG](https://github.com/qiuyuzhou/ShadowsocksX-NG) - 一款ShadowsocksX客户端软件。
-- [Lantern](https://getlantern.org) - 科学上网。
-- [鱼摆摆](https://ybb1024.com/) - 科学上网。
-- [Tunnelblick](https://tunnelblick.net/downloads.html) - OpenVPN的免费软件。
-- [GoAgentX](https://github.com/OldFrank/GoAgentX) - 科学上网。
-- [二师兄VPN](http://www.2-vpn4.cc/home.action) - 提供无限流量、无限续期免费VPN账号。
-- [GTX加速器](http://www.jsqgtx.cc/DownLoad) - 每天签到领取500M流量。
-- [GreenVPN](http://applewoods.org/article/) - 注册激活送免费VPN加速流量。
-- [v2ss](https://en.v2ss.info/) -
-
-
-## FTP客户端
-
-* [FileZilla](https://filezilla-project.org) - 跨平台的FTP，FTPS和SFTP客户端。[荐]
-* [Transmit](https://panic.com/transmit/) - 一个FTP客户端，支持FTP + SFTP + S3【荐】。
-* [Flow](http://fivedetails.com/flow/) - 支持简单的 FTP + SFTP 客户端。
-* [Yummy FTP](http://www.yummysoftware.com) - 专业快速，可靠的FTP客户端。
-* [Cyberduck](https://cyberduck.io) - 免费FTP，SFTP，S3和WebDAV客户端 & OpenStack Swift Client。
-
-## 视频播放器
+### 视频播放器
 
 - [IINA](https://iina.io/) - 目前为止，Mac 上最好用对的视频播放器，没有之一。风格很接近系统原生应用。【荐】
 
-## 音频和视频
+
+
+### 音频和视频
 
 - [Kodi](https://kodi.tv/) - 一款一流的免费开源媒体中心软件，可用于播放视频、音乐，查看图片，玩游戏等.[!开源](https://github.com/xbmc/xbmc)。
 - [MPV](https://mpv.io/) - 一个免费、开源和跨平台的媒体播放器。[开源](https://github.com/mpv-player/mpv)。
@@ -369,153 +572,24 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 - [ArcTime](http://www.arctime.org/) - 跨平台字幕制作软件。
 - [Perian](http://perian.org/#download) - 让QuickTime播放所有常见格式的免费插件。[开源](https://github.com/MaddTheSane/perian) 。[荐]
 
-## 阅读与写作
-
-### 阅读相关
-
-- [WorkFlowy](https://workflowy.com/downloads/mac/) - 很可能是极简主义者梦想中的笔记应用。[荐]
-
-### Markdown 编辑器
-
-- [Ulysses](https://ulyssesapp.com/)- 专业文本编辑工具，支持 Markdown。[荐]
-- [Bear](https://bear.app/)
-- [MacDown](http://macdown.uranusjr.com/) - 一款开源的Markdown编辑器，深受[Mou](http://25.io/mou/)的影响。
-- [MWeb](http://zh.mweb.im/) - 专业的 Markdown 写作、记笔记、静态博客生成软件。[hot]
-- [Mou](http://25.io/mou/) - 免费 Markdown 编辑神器。
-- [Marp](https://yhatt.github.io/marp/) -  Markdown 制作幻灯片编辑器。
-- [TextNut](http://www.textnutwriter.com/) - Markdown编辑器，富文本之间自由切换。
-- [Typora](http://www.typora.io/) - 基于 Electron 的“读写一体” Markdown 编辑器。[hot]
-- [EME](https://github.com/egoist/eme) - 最近刚出的一款Markdown编辑器，界面很像Chrome浏览器的界面，很简约。
-- [LightPaper](http://lightpaper.42squares.in/) - 简单的Markdown文本编辑器。
-- [Cmd Markdown](https://www.zybuluo.com/) - Cmd Markdown 编辑阅读器，支持实时同步预览，区分写作和阅读模式，支持在线存储，分享文稿网址。
-
-### Markdown 图片上传
-
-- [PicGo](https://molunerfinn.com/PicGo/) - Markdown 图片上传工具。[荐]。[#](https://mp.weixin.qq.com/s/ZQtrlULJ5mNTd8jMCb5yEg)
-
-- [iPic](https://toolinbox.net/iPic/) - Markdown 图片上传工具。60元/年。
-
-### 电子书相关
-
-- [Kindle App](http://www.amazon.com/gp/help/customer/display.html?nodeId=201246110) - 亚马逊 Kindle App 电子书阅读器。
-- [Calibre](http://calibre-ebook.com/) - 丑陋的软件，但强大的软件电子书管理和转换。[开源](https://github.com/kovidgoyal/calibre) 。[荐]
-- [Sigil](https://sigil-ebook.com/) - [开源](https://github.com/Sigil-Ebook/Sigil)、多平台EPUB编辑器。[荐] 。EPub 电子书制作教程：[#](https://kindlefere.com/post/73.html) [#](https://kindlefere.com/post/71.html) [#](https://kindlefere.com/post/72.html)
-
-- [Knotes](http://knotesapp.com/cn) - 高效、优雅的 Kindle 标注管理器。
-
-### pdf阅读
-
-- [MarginNote](https://marginnote.com/) - 在阅读时做标注，记笔记，并可以利用思维导图(Mindmap)和大纲工具(Outline)对笔记进行组织。但就是比较贵。【荐】
-
-- [PDF Expert]() - 极致的 PDF 阅读标注工作体验。
-
-- [PDFelement](https://pdf.wondershare.cn/) - 采用类似word界面和工具条设计,无需改变工具操作习惯。国产良心软件。
-
-- [iAnnotate]() - 可以说是所有 PDF 标记类 app 中的No.1了。仅限 iOS 平台使用，没有Mac平台。
-
-### RSS
-
-- [Feeds 2](http://www.feedsapp.com/) - 监控任何RSS。
-- [ReadKit](http://readkitapp.com/) - 书签RSS管理客户端。
-- [Reeder 3](http://reederapp.com/mac/) - RSS 服务订阅。[hot]
-- [Leaf](http://www.rockysandstudio.com/) - RSS 客户端程序。[hot]
-- [Vienna](http://www.vienna-rss.org/) - [开源](https://github.com/ViennaRSS/vienna-rss)的RSS/Atom 新闻阅读客户端。
-
-### 其他
-
-- [OpenOffice](http://www.openoffice.org/zh-cn/download/index.html) - 是一套[开源](http://openoffice.apache.org/source.html)、跨平台的办公室软件套件。
-- [Spillo](https://bananafishsoftware.com/products/spillo/) - 功能强大，美观、快速网络书签网页阅读。
-- [iChm](http://www.robinlu.com/ichm) - 读chm文件的软件。
-- [Chmox](http://chmox.sourceforge.net/) - 读chm文件的软件。
-- [CHM Reader](http://www.hewbo.com/chm-reader.html) - 读chm文件的软件。
 
 
-## 浏览器
-
-- [Safari](http://www.apple.com/cn/safari/) - Mac预装自带浏览器。
-- [Chrome](http://www.google.cn/chrome/browser/) - Chrome浏览器谷歌出品。
-- [Firefox](http://www.firefox.com.cn/) - 火狐浏览器。
-- [Opera](http://www.opera.com/zh-cn) - Opera 浏览器。
-- [QQ浏览器](http://browser.qq.com/mac/) - QQ浏览器－腾讯出品。
-- [傲游云浏览器](http://www.maxthon.cn/mac/) - 傲游云浏览器。
-- [Vivaldi](https://vivaldi.com/) - Opera开发商出品新的浏览器。
-- [Ōryōki](http://oryoki.io/) - 小的web浏览器。这是一个试验性的项目，目前正在开发中。
 
 
-## 通信
-
-> 推荐一些通信工具，沟通，团队协同。
-
-### 即时通信
-
-- [Franz](http://meetfranz.com/) - 一个使用 [Electron](http://electron.atom.io/)开发的，可以同时登录23个平台的即时通讯软件。[hot]
-- [QQ](http://im.qq.com/macqq/index.shtml) - QQ for Mac App。![Freeware][Freeware Icon]
-- [WeChat](http://weixin.qq.com/cgi-bin/readtemplate?t=mac&platform=wx&lang=zh_CN) - 微信 for Mac App。
-- [Telegram](https://desktop.telegram.org) - 通讯新时代。[荐]
-- [weweChat](https://github.com/trazyn/weweChat) - 不比官方差的微信第三方客户端。[荐]。[#](https://www.waerfa.com/wewechat-review)
-- [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat) - 调用微信接口，使用 [Electron](https://github.com/electron/electron) 开发的第三方漂亮[开源](https://github.com/geeeeeeeeek/electronic-wechat)微信应用。
-- [Skype](https://www.skype.com/) - Skype共享、跨平台的短信和电话。
-- [ChitChat](https://github.com/stonesam92/ChitChat) - WhatsApp非官方，[开源](https://github.com/stonesam92/ChitChat)。
-- [御飯](https://imach.me/gohanapp/) - 饭否第三方Mac应用。
-- [Messenger](https://fbmacmessenger.rsms.me/) - Facebook第三方的啊、[开源](https://github.com/rsms/fb-mac-messenger)聊天工具。
-- [Adium](https://adium.im/) - 这个是老的集成多个平台的聊天客户端。
-- [WeeChat](https://weechat.org/) - 一个命令行聊天客户端。
-
-### 社交
-
-- [WeiboX](http://weiboformac.sinaapp.com/) - 微博第三方Mac应用。
-
-### 团队协作
-
-- [Textual](https://www.codeux.com/textual) - 最受欢迎的世界与我们相关的KPI应用 for OS X。
-- [Gitter](https://gitter.im) - 关于GitHub的项目交流，支持 Markdown，对开发者极为友好。
-- [简聊](https://github.com/jianliaoim/talk-os) - 企业级即时沟通工具，已经下线了，可以自己搭建一套[系统](https://github.com/jianliaoim/talk-os)玩儿。
-- [钉钉](http://www.dingtalk.com/index-b.html#download_block) - 企业级办公通讯免费平台。
-- [Slack](https://slack.com/) - 团队协作，沟通工具。
-- [零信](https://pubu.im/apps/osx) - 随时随地工作，跨平台。
-- [今目标](http://www.jingoal.com/client/mac/mac.htm) - 一款面向中小企业的互联网工作平台。
-- [BearyChat](https://bearychat.com/) - 互联网团队协作，沟通工具。
-- [Bitpost](https://voluntary.net/bitpost/) - 私人分散消息，[开源](https://github.com/Voluntarynet/Bitpost)。它是一个p2p的去中心化和无须第三方提供信用担保协议。
-- [Teambition](https://www.teambition.com) - 团队协作。提供管理任务、安排日程、查找文件、即时讨论等团队所需要的一切协作功能。
-- [日事清](https://www.rishiqing.com) - 个人日程管理，团队协作工具。日程安排，计划分配，笔记总结等。
-- [Coding.net](https://coding.net) - 代码托管，项目管理，WebIDE，演示部署，开启云端开发模式，让开发更简单。
-
-### Email
-
-> 其实Mac自带的邮件客户端已经很好用了。
-
-- [网易邮箱大师]()。[荐]。[#](https://www.waerfa.com/neteasemailmaster-for-mac)
-* [Spark](https://sparkmailapp.com/) - 新推出的快速邮件客户端支持Mac和iPhone。[荐]
-* [Airmail](http://airmailapp.com) - 快速的邮件客户端支持Mac和iPhone。
-* [Foxmail](http://www.foxmail.com/mac/) - 快速的邮件客户端。
-* [MailTags](https://smallcubed.com/mt/) - 管理和组织邮件，日程和标签进行分类邮件。
-* [N1](https://www.nylas.com/n1) - 可以扩展的开源收费邮件客户端。
-* [Postbox](https://www.postbox-inc.com) - 这个貌似也非常强大哦，关键是简洁漂亮的收费邮件客户端。
-* [Polymail](https://polymail.io/) - 简单，功能强大，长得好看的新晋邮件客户端。
-* [CloudMagic Email](https://cloudmagic.com/) - 界面非常简洁的一个邮件客户端。
-* [ThunderBird](https://www.mozilla.org/zh-CN/thunderbird/) - Mozilla 公司出品的强大的Email客户端程序。
-
-## 数据恢复
-
-- [DiskWarrior](http://www.alsoft.com/DiskWarrior/) - 恢复文件系统损坏时，磁盘工具进行选择。
-- [Data Rescue](https://www.prosofteng.com/datarescue-mac-data-recovery/) - 多种情况下的全面和专业的数据恢复。
-- [Stellar Phoenix Mac Data Recovery](http://www.stellarinfo.com/data-recovery-mac.php) - 一个功能强大的恢复文件面向Mac的工具。
-- [R-Studio for Mac](http://www.r-studio.com/data_recovery_macintosh/) - 可恢复分区被格式化、损坏或被删除的文件。
-
-## 虚拟机
-
-- [Parallels Desktop](http://www.parallels.com/) - 虽然好用但是收费机制，更新花钱、花钱、花钱。[hot]
-- [Virtual Box](http://www.virtualbox.org) - 免费、免费、免费，带NTFS读写，不用买ParagonNTFS，省100块。
-- [VMWare Fusion](http://www.vmware.com/) - 强大的虚拟机，商业软件。
-- [Veertu](https://veertu.com) - Mac上最轻便的虚拟机，只有跑Windows才会收费。比较新，很多功能不支持。
+## 七、开发工具
 
 
-## 版本控制
+
+
+
+
+
+### 版本控制分类
 
 - [Git](https://git-scm.com/) - 版本控制工具，官网提供[数十种GUI客户端](https://git-scm.com/download/gui/mac) for Mac。
 - [SVN](http://subversion.apache.org/) - 版本控制工具。
 
-### GUI
+### 版本控制-GUI
 
 - [SourceTree](https://www.sourcetreeapp.com/) - 强大的Git跨平台客户端。[荐]
 - [Tower2](https://www.git-tower.com/) - 最强大的Git客户端。[荐]
@@ -537,7 +611,25 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 * [Gerrit](https://gerrit.rockbox.org) Gerrit 是一个免费、开放源代码的代码审查软件，使用网页界面。
 * [Gitblit](http://www.gitblit.com/) Java版本Git代码托管，项目管理。
 
-## 编辑器
+
+
+### FTP客户端
+
+* [FileZilla](https://filezilla-project.org) - 跨平台的FTP，FTPS和SFTP客户端。[荐]
+* [Transmit](https://panic.com/transmit/) - 一个FTP客户端，支持FTP + SFTP + S3【荐】。
+* [Flow](http://fivedetails.com/flow/) - 支持简单的 FTP + SFTP 客户端。
+* [Yummy FTP](http://www.yummysoftware.com) - 专业快速，可靠的FTP客户端。
+* [Cyberduck](https://cyberduck.io) - 免费FTP，SFTP，S3和WebDAV客户端 & OpenStack Swift Client。
+
+
+
+
+
+
+
+
+
+### 编辑器
 
 - [Visual Studio Code](http://code.visualstudio.com) - 微软推出的免费/开源编辑器，TypeScript支持杠杠的。[荐](https://github.com/Microsoft/vscode)
 - [Sublime Text](http://www.sublimetext.com/3) - 一个比较简洁大方带插件管理系统的流行编辑器，[Sublime常用插件](editor-plugin.md#sublime-text-plugin)。[荐]
@@ -549,30 +641,33 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 - [BBEdit](http://www.barebones.com/products/bbedit/) - 强大的文件编辑器，用于编辑文件，文本文件及程序源代码。
 - [Coda2](https://panic.com/coda) - 编写Web应用长得漂亮的编辑器。
 - [Vim](http://www.vim.org/) - Vim古老命令行中使用的编辑器。
-    - [Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vim插件管理工具。[开源](https://github.com/VundleVim/Vundle.vim)
-    - [vim-plug](https://github.com/junegunn/vim-plug) - 一个简约的vim插件管理器。[开源](https://github.com/junegunn/vim-plug)
-    - [WebVim](https://github.com/krampstudio/webvim) - 倾向于开发JavaScript和Web的vim。
-    - [vim-web](https://github.com/jaywcjlove/vim-web) - 一个前端开发工程师的vim。[开源](https://github.com/jaywcjlove/vim-web)
-    - [Neovim](https://neovim.io/) -  提高Vim可扩张灵活性。[开源](https://github.com/neovim/neovim)
-    - [Spacevim](https://github.com/ctjhoa/spacevim) -  模仿Spacemacs的使用方式。
-    - [Spf13](http://vim.spf13.com/) - 一套全方位的配置项目。
+  - [Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vim插件管理工具。[开源](https://github.com/VundleVim/Vundle.vim)
+  - [vim-plug](https://github.com/junegunn/vim-plug) - 一个简约的vim插件管理器。[开源](https://github.com/junegunn/vim-plug)
+  - [WebVim](https://github.com/krampstudio/webvim) - 倾向于开发JavaScript和Web的vim。
+  - [vim-web](https://github.com/jaywcjlove/vim-web) - 一个前端开发工程师的vim。[开源](https://github.com/jaywcjlove/vim-web)
+  - [Neovim](https://neovim.io/) -  提高Vim可扩张灵活性。[开源](https://github.com/neovim/neovim)
+  - [Spacevim](https://github.com/ctjhoa/spacevim) -  模仿Spacemacs的使用方式。
+  - [Spf13](http://vim.spf13.com/) - 一套全方位的配置项目。
 - [Vimr](http://vimr.org/) - Vim客户端，升级Vim体验。[开源](https://github.com/qvacua/vimr/)
 - [HBuilder](http://www.dcloud.io/) - HBuilder是DCloud（数字天堂）推出的一款支持HTML5的Web开发IDE。
 - [Tincta](https://mr-fridge.de/software/tincta/index.php) - 一个免费的文本编辑器。
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/) - 一款Java开发集成环境。(**学生**免费)[荐]
 - [Webstorm](http://www.jetbrains.com/webstorm/) - 是jetbrains公司旗下一款JavaScript开发工具。
-    - **学生**免费，[点击这里](https://www.jetbrains.com/student/) 查看更多。
-    - 一些很好的插件
-        - [NodeJS](https://plugins.jetbrains.com/plugin/6098?pr=webStorm) - 集成`Node.js`，你肯定需要它，很多功能需要它。
-        - [EditorConfig](https://plugins.jetbrains.com/plugin/7294?pr=webStorm) - 帮助开发者在不同的编辑器和IDE之间定义和维护一致的代码风格。
-        - [Material Theme UI](https://plugins.jetbrains.com/plugin/8006?pr=webStorm) - Google为React开发的主题。
+  - **学生**免费，[点击这里](https://www.jetbrains.com/student/) 查看更多。
+  - 一些很好的插件
+    - [NodeJS](https://plugins.jetbrains.com/plugin/6098?pr=webStorm) - 集成`Node.js`，你肯定需要它，很多功能需要它。
+    - [EditorConfig](https://plugins.jetbrains.com/plugin/7294?pr=webStorm) - 帮助开发者在不同的编辑器和IDE之间定义和维护一致的代码风格。
+    - [Material Theme UI](https://plugins.jetbrains.com/plugin/8006?pr=webStorm) - Google为React开发的主题。
 - [Deco IDE](https://www.decosoftware.com/) - React Native IDE 支持控件拖拽界面实时变更。[开源](https://github.com/decosoftware/deco-ide)
 - [Xamarin Studio](https://www.xamarin.com/studio) - 免费的跨平台的C# IDE。支持iOS、Android和.net开发。[开源](https://github.com/mono/monodevelop) ![Freeware][Freeware Icon]
 - [NetBeans IDE](https://netbeans.org/) - 免费、开源的IDE，主要用于java开发，可支持多种语言和框架。[开源](https://netbeans.org/community/sources/) ![Freeware][Freeware Icon]
 - [Eclipse](https://www.eclipse.org) - 流行的开源IDE，主要用于Java，但为多种语言和平台的插件支持。
 
 
-## 开发者工具
+
+
+
+### 开发者工具
 
 - [WeFlow](https://weflow.io/) - 一个基于 [tmt-workflow](https://github.com/weixin/tmt-workflow) 前端工作流的开发工具。[开源](https://github.com/weixin/WeFlow)。
 - [Koala](http://koala-app.com) - 预处理器语言图形编译工具，支持Less、Sass、CoffeeScript、Compass framework 的即时编译。[开源](https://github.com/oklai/koala/)。
@@ -664,10 +759,11 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 * [MacGap](http://macgapproject.github.io/) - 桌面WebKit打包HTML、CSS、JS应用。[开源](https://github.com/MacGapProject)
 * [ionic](http://ionicframework.com/) - 一个用来开发混合手机应用的，开源的，免费的代码库。 [开源](https://github.com/driftyco/ionic)
 
-
-### 命令行工具
+### 命令行工具/终端/SSH 远程连接
 
 - [iTerm2](http://www.iterm2.com) - 免费的终端工具，直接替代自带的Terminal，有非常多惊人的特性。[开源](https://github.com/gnachman/iTerm2) 。[荐]
+- [SecureCRT](https://www.vandyke.com/products/securecrt/) - 一款支持SSH、Telnet等多种协议的终端仿真程序。[荐]
+- [Royal TSX](https://royalapps.com/ts/mac) - 全平台终端软件。[#](https://guozh.net/macos-shell-royal-tsx-item2-ssh-ftp/)。[荐]
 - [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - 怀旧的命令行终端。[开源](https://github.com/Swordfish90/cool-retro-term)。
 - [Oh my zsh](http://ohmyz.sh) - 拥有大量的有用的功能，助手，插件，主题，等特性的命令行工具插件。[开源](https://github.com/robbyrussell/oh-my-zsh)。
 - [Glances](https://github.com/nicolargo/glances) - 在命令行中查看你系统运行状态的工具。[开源](https://github.com/nicolargo/glances)。
@@ -684,33 +780,13 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 - [LNav](http://lnav.org) - 日志文件阅读器. [开源](https://github.com/tstack/lnav)。
 - [tmux](https://github.com/tmux/tmux) 终端登录远程主机的命令行工具。[开源](https://github.com/tmux/tmux)
 - [mas](https://github.com/mas-cli/mas) - 一个简单的命令行界面的苹果应用商店。 [开源](https://github.com/mas-cli/mas)。
-
-
-### ssh 远程连接
-
-- [SecureCRT](https://www.vandyke.com/products/securecrt/) - 一款支持SSH、Telnet等多种协议的终端仿真程序。
-
 - [ShellCraft](http://www.shellcraftapp.com) - 强大的SSH/Telnet客户端。
 
 
 
-## 其他软件
-
-### 文件传输
-
-- [Android File Transfer](https://www.android.com/filetransfer/) - Google 官方推出的，让Android设备连接电脑，进行文件管理。
--  [handshaker](http://www.smartisan.com/apps/handshaker) - 锤子科技推出的，以前名叫SmartFinder.  [#](http://www.ifanr.com/app/612734)
 
 
-
-## 远程协助
-
-- [TeamViewer](https://www.teamviewer.com) - 远程协助及在线协作和会议功能的软件，商业软件个人使用免费。[荐]
-- [RealVNC](https://www.realvnc.com) 是一款免费的远程控制跨多平台的程序。
-
-
-
-## 网站推荐
+## 八、网站推荐
 
 > 这里主要是推荐一些软件下载的网站，还有一些MacOS软件分享网站。
 
@@ -772,7 +848,6 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 - 腾牛网：<http://www.qqtn.com/mac/r_17_1.html>
 
 **[⬆ 返回顶部](#目录)**
-
 
 
 
