@@ -237,33 +237,19 @@ Dozer 操作方法很简单，Dozer运行后在菜单栏会出现一个「‧」
 - [DaisyDisk](https://daisydiskapp.com/) - 磁盘分析工具。了解磁盘使用状况，并进行准确的分析。DaisyDisk 的视觉系属性大大超过了功能性。 [#](https://www.twblogs.net/a/5baad01e2b7177781a0e94d6/zh-cn)
 - [MacBooster](http://www.carrotchou.blog/5245.html) - 磁盘、内存清理工具。【荐】
 
+### 科学上网（代理工具）
 
+科学包括两步：代理工具+服务，缺一不可。（1）先安装工具；（2）然后购买服务，或者自行搭建服务。
 
-### 上网
-
-- [Shadowsocks](http://shadowsocks.org/) - 一个快速的隧道代理，可以帮助你绕过防火墙。[荐]
-- [Surge](http://nssurge.com/) - 科学上网。[荐]
-- [佛跳墙](http://www.godusevpn.cc/) - 科学上网。[荐]
-- [AgentWho](https://agentwho.network) - 网速很快，但有点贵。[荐]
-- [云梯](https://www.ytpub.com/) - 在圈内小有名气的VPN服务提供商。
-- [SpechtLite](https://github.com/zhuhaow/SpechtLite) - 支持 Shadowsocks 及规则管理的高效率代理。
+- [clash](https://github.com/yichengchen/clashX/releases) - ClashX 旨在提供一个简单轻量化的代理客户端。【荐】
+- [Shadowsocks](http://shadowsocks.org/) - 一个快速的隧道代理，可以帮助你绕过防火墙。
 - [ShadowsocksX-NG](https://github.com/qiuyuzhou/ShadowsocksX-NG) - 一款ShadowsocksX客户端软件。
-- [Lantern](https://getlantern.org) - 科学上网。
-- [鱼摆摆](https://ybb1024.com/) - 科学上网。
-- [Tunnelblick](https://tunnelblick.net/downloads.html) - OpenVPN的免费软件。
-- [GoAgentX](https://github.com/OldFrank/GoAgentX) - 科学上网。
-- [二师兄VPN](http://www.2-vpn4.cc/home.action) - 提供无限流量、无限续期免费VPN账号。
-- [GTX加速器](http://www.jsqgtx.cc/DownLoad) - 每天签到领取500M流量。
-- [GreenVPN](http://applewoods.org/article/) - 注册激活送免费VPN加速流量。
-- [v2ss](https://en.v2ss.info/) -
+- [Surge](http://nssurge.com/) - 科学上网。
 
+### 科学上网（服务）
 
-
-
-
-
-
-
+- [AgentNEO](https://agneo.co/?rc=ut50176c) - 网速很快，很稳定。支持支付宝付款。【荐】
+- [Lantern](https://getlantern.org) - 蓝灯。
 
 ### 数据恢复
 
@@ -280,17 +266,10 @@ Dozer 操作方法很简单，Dozer运行后在菜单栏会出现一个「‧」
 - [handshaker](http://www.smartisan.com/apps/handshaker) - 锤子科技推出的，以前名叫SmartFinder.  [#](http://www.ifanr.com/app/612734)
 
 
-
 ### 远程协助
 
 - [TeamViewer](https://www.teamviewer.com) - 远程协助及在线协作和会议功能的软件，商业软件个人使用免费。[荐]
 - [RealVNC](https://www.realvnc.com) 是一款免费的远程控制跨多平台的程序。
-
-
-
-
-
-
 
 ### 虚拟机
 
@@ -301,32 +280,38 @@ Dozer 操作方法很简单，Dozer运行后在菜单栏会出现一个「‧」
 
 
 
-
-
-
-
 ## 三、办公软件
-
-
 
 ### 网盘
 
+- icloud - 苹果自带的 icloud ，管理和同步相册，非常方便。
+
 - [Dropbox](http://www.dropboxchina.com/Download/dropbox-for-mac.html) - 非常好用的网络文件同步工具，提供在线存储服务。[荐]
-- [百度网盘](http://pan.baidu.com/download?from=header#pan) - 百度云客户端。
-- [坚果云](https://www.jianguoyun.com/s/downloads) - 坚果云客户端。
-- [腾讯微云](https://www.weiyun.com/) - 腾讯云客户端。
-- [owncloud](https://owncloud.org) - 私有云网盘。
+
+- Google Drive - 谷歌推出的网盘。
+
+- Microsoft OneDrive - 微软推出的网盘。
+
+- [坚果云](https://www.jianguoyun.com/s/downloads) - 如果你不想用国外的网盘，那么，坚果云最适合作为私人网盘、同步盘。[荐]
+
+- [阿里云盘](https://www.aliyundrive.com/) - 百度网盘的替代品。
+
 - [Mega](https://mega.nz) - 免费的云服务，提供50GB的免费存储空间。
+
+- [百度网盘](http://pan.baidu.com/download?from=header#pan)
+
+- [腾讯微云](https://www.weiyun.com/)
+
 - [亿方云](https://www.fangcloud.com/) - 硅谷团队打造，个人免费。
+
+- [owncloud](https://owncloud.org) - 私有云网盘。
+
 - [Seafile](https://www.seafile.com/) - 是由国内团队开发的国际化的开源云存储软件项目。
 
 ### 思维导图软件
 
 - [XMind](http://www.xmind.net) - 思维导图软件。[荐]
-- [MindNode](https://mindnode.com/) -
-
-
-
+- [MindNode](https://mindnode.com/)
 
 
 ### 即时通信
@@ -367,9 +352,10 @@ Dozer 操作方法很简单，Dozer运行后在菜单栏会出现一个「‧」
 
 > 其实Mac自带的邮件客户端已经很好用了。
 
-- [网易邮箱大师]()。[荐]。[#](https://www.waerfa.com/neteasemailmaster-for-mac)
+- [Spark](https://sparkmailapp.com/) - 新推出的快速邮件客户端支持Mac和iPhone。[荐]
 
-* [Spark](https://sparkmailapp.com/) - 新推出的快速邮件客户端支持Mac和iPhone。[荐]
+- [网易邮箱大师](http://mail.163.com/dashi/dlpro.html)。[#](https://www.waerfa.com/neteasemailmaster-for-mac)
+
 * [Airmail](http://airmailapp.com) - 快速的邮件客户端支持Mac和iPhone。
 * [Foxmail](http://www.foxmail.com/mac/) - 快速的邮件客户端。
 * [MailTags](https://smallcubed.com/mt/) - 管理和组织邮件，日程和标签进行分类邮件。
