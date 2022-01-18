@@ -380,11 +380,8 @@ Dozer 操作方法很简单，Dozer运行后在菜单栏会出现一个「‧」
 * [ThunderBird](https://www.mozilla.org/zh-CN/thunderbird/) - Mozilla 公司出品的强大的Email客户端程序。
 
 
-## 四、阅读与写作
+## 四、笔记、阅读、写作
 
-### 阅读相关
-
-- [cubox](https://cubox.pro/) - 一站式信息收集、阅读、管理和回顾；善用网络碎片构建个人知识库。在信息碎片中重获专注。【荐】
 
 ### 笔记软件 & 知识管理
 
@@ -401,6 +398,11 @@ Dozer 操作方法很简单，Dozer运行后在菜单栏会出现一个「‧」
 - [leanote](http://app.leanote.com) - 蚂蚁笔记，支持Markdown的一款[开源](https://github.com/leanote/leanote)笔记软件，支持直接成为个人博客。
 - [Inkdrop](https://www.inkdrop.info/) - Markdown爱好者的笔记本应用程序。
 
+
+
+### 网络文章阅读
+
+- [cubox](https://cubox.pro/) - 一站式信息收集、阅读、管理和回顾；善用网络碎片构建个人知识库。在信息碎片中重获专注。【荐】
 
 ### Markdown 编辑器
 
@@ -430,7 +432,7 @@ Dozer 操作方法很简单，Dozer运行后在菜单栏会出现一个「‧」
 
 - [Knotes](http://knotesapp.com/cn) - 高效、优雅的 Kindle 标注管理器。
 
-### pdf阅读
+### pdf 阅读
 
 - [MarginNote](https://marginnote.com/) - 在阅读时做标注，记笔记，并可以利用思维导图(Mindmap)和大纲工具(Outline)对笔记进行组织。但就是比较贵。【荐】
 
@@ -440,11 +442,12 @@ Dozer 操作方法很简单，Dozer运行后在菜单栏会出现一个「‧」
 
 - [iAnnotate]() - 可以说是所有 PDF 标记类 app 中的No.1了。仅限 iOS 平台使用，没有Mac平台。
 
-### RSS
+### RSS订阅
 
+- [(inoreader](https://www.inoreader.com/) - 重新掌控你的新闻订阅源。[荐]
 - [Feeds 2](http://www.feedsapp.com/) - 监控任何RSS。
-- [ReadKit](http://readkitapp.com/) - 书签RSS管理客户端。
 - [Reeder 3](http://reederapp.com/mac/) - RSS 服务订阅。[hot]
+- [ReadKit](http://readkitapp.com/) - 书签RSS管理客户端。
 - [Leaf](http://www.rockysandstudio.com/) - RSS 客户端程序。[hot]
 - [Vienna](http://www.vienna-rss.org/) - [开源](https://github.com/ViennaRSS/vienna-rss)的RSS/Atom 新闻阅读客户端。
 
@@ -455,11 +458,6 @@ Dozer 操作方法很简单，Dozer运行后在菜单栏会出现一个「‧」
 - [iChm](http://www.robinlu.com/ichm) - 读chm文件的软件。
 - [Chmox](http://chmox.sourceforge.net/) - 读chm文件的软件。
 - [CHM Reader](http://www.hewbo.com/chm-reader.html) - 读chm文件的软件。
-
-
-
-
-
 
 
 ## 五、图像处理&设计
