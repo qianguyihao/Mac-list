@@ -5,7 +5,7 @@
 
 ## 一、常用软件
 
-### 效率工具
+### 启动工具
 
 - [Alfred](https://www.alfredapp.com/) - Mac 上应该安装的第一个效率神器。
 
@@ -15,6 +15,8 @@
 - [snipaste](https://zh.snipaste.com/) - 新生代截图工具。【荐】。
 
 - [Xnip](https://zh.xnipapp.com)- Mac上方便好用的截图工具，支持滚动截图；最大的优点是，**截图可以自带阴影，效果不错**。[#](https://sspai.com/post/42654)。【荐】
+
+- [Picsee](http://picsee.chitaner.com/) - 看图 & 截图。
 
 - [Annotate](https://itunes.apple.com/cn/app/annotate-capture-and-share/id918207447?mt=12) - 款非常强大的图片注释软件，可对屏幕截图或者现有图片进行批注。同时，在基础的图片注释功能上还增加了“局部高亮”、“Emoji 表情”、 ”GIF 动图录制与注释“、“与 Dropbox/CloudApp 同步数据“等功能，虽然没有 Skitch 的图片管理功能，也没有 Napkin 的图片拼贴功能，但从注释操作的需求上看，它的确算是 No.1。[#](https://sspai.com/post/30486)
 
@@ -145,10 +147,6 @@
 
 
 
-
-
-
-
 ### 翻译工具
 
 * [有道翻译](http://cidian.youdao.com/multi.html) - 有道词典桌面版。
@@ -217,12 +215,22 @@
     * [XtraFinder](https://www.trankynam.com/xtrafinder/) - 给Finder添加有用的新特性。
 
 
-
-
-
-
-
 ## 二、小工具
+
+### 菜单栏管理
+
+对于崇尚简洁的Mac用户来说，菜单栏管理软件是很有必要的。
+
+- [Bartender](https://www.macbartender.com/)：付费软件。能够创建一个二级的菜单栏，让我们把不需要直接显示的菜单栏的应用图标放在这个二级菜单栏中，或者直接隐藏。【荐】
+
+- [Vanilla](https://matthewpalmer.net/vanilla/) - 隐藏 Mac 菜单栏图标。基础功能免费，扩展功能付费。
+
+- [Hidden Bar](https://apps.apple.com/cn/app/hidden-bar/id1452453066?mt=12)：用最精简的功能，实现了在菜单栏隐藏应用图标这个小需求。[开源免费](https://github.com/dwarvesf/hidden)。
+
+- [Dozer](https://github.com/Mortennn/Dozer/releases)：一款隐藏macOS菜单栏图标的应用，开源免费，操作简单。
+
+Dozer 操作方法很简单，Dozer运行后在菜单栏会出现一个「‧」，点击它，然后会在左侧出现另外一个「‧」，按住 command 键拖曳软件图标到最左侧即可。然后点击右侧的「‧」，软件图标就会被隐藏。
+
 
 ### Mac系统清理、内存管理
 
@@ -299,15 +307,6 @@
 
 ## 三、办公软件
 
-### 笔记软件 & 知识管理
-
-- [印象笔记](https://www.yinxiang.com/) - 记录一切。[荐]
-- [为知笔记](http://www.wiz.cn/download.html) - 支持Markdown，搜集整理图片链接导入文档。[荐]
-- [Notion](https://www.notion.so/) - 新生代笔记软件。
-- [有道云笔记](http://note.youdao.com/) - 支持多目录，Markdown，iWork/Office预览。
-- [Quiver](http://happenapps.com/#quiver) - 程序猿的笔记本。
-- [leanote](http://app.leanote.com) - 蚂蚁笔记，支持Markdown的一款[开源](https://github.com/leanote/leanote)笔记软件，支持直接成为个人博客。
-- [Inkdrop](https://www.inkdrop.info/) - Markdown爱好者的笔记本应用程序。
 
 
 ### 网盘
@@ -381,22 +380,27 @@
 * [ThunderBird](https://www.mozilla.org/zh-CN/thunderbird/) - Mozilla 公司出品的强大的Email客户端程序。
 
 
-
-
-
-
-
-
-
-
-
-
-
 ## 四、阅读与写作
 
 ### 阅读相关
 
-- [WorkFlowy](https://workflowy.com/downloads/mac/) - 很可能是极简主义者梦想中的笔记应用。[荐]
+- [cubox](https://cubox.pro/) - 一站式信息收集、阅读、管理和回顾；善用网络碎片构建个人知识库。在信息碎片中重获专注。【荐】
+
+### 笔记软件 & 知识管理
+
+- [Notion](https://www.notion.so/) - 新生代笔记软件。【荐】
+- [flomo](https://flomoapp.com/) - 碎片化记录。重要的不是记录，而是更好地思考。【荐】
+- [obsidian](https://obsidian.md/) - 第二大脑。
+- [Roam Research](https://roamresearch.com/) - A note-taking tool for networked thought
+- [WorkFlowy](https://workflowy.com/downloads/mac/) - 很可能是极简主义者梦想中的笔记应用。
+- [AppFlowy](https://www.appflowy.io/) - 类似于 Notion 的[开源](https://github.com/AppFlowy-IO/appflowy)版本。
+- [为知笔记](http://www.wiz.cn/download.html) - 支持Markdown，搜集整理图片链接导入文档。
+- [印象笔记](https://www.yinxiang.com/) - 记录一切。
+- [有道云笔记](http://note.youdao.com/) - 支持多目录，Markdown，iWork/Office预览。
+- [Quiver](http://happenapps.com/#quiver) - 程序猿的笔记本。
+- [leanote](http://app.leanote.com) - 蚂蚁笔记，支持Markdown的一款[开源](https://github.com/leanote/leanote)笔记软件，支持直接成为个人博客。
+- [Inkdrop](https://www.inkdrop.info/) - Markdown爱好者的笔记本应用程序。
+
 
 ### Markdown 编辑器
 
@@ -824,6 +828,10 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 > 拒绝盗版从我做起，下面的网站提供大量破解软件下载，欢迎大家监督它们。
 
 - Mac精品软件：<http://xclient.info/>【荐】
+
+- MacWk：<https://macwk.com/> 【荐】
+
+只收录精品Mac应用。
 
 - 马可菠萝：<https://www.macbl.com/>
 
