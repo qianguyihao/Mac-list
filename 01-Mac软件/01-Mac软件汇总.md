@@ -219,7 +219,7 @@
 
 ### 菜单栏管理
 
-对于崇尚简洁的Mac用户来说，菜单栏管理软件是很有必要的。
+> 对于崇尚简洁的Mac用户来说，菜单栏管理软件是很有必要的。
 
 - [Bartender](https://www.macbartender.com/)：付费软件。能够创建一个二级的菜单栏，让我们把不需要直接显示的菜单栏的应用图标放在这个二级菜单栏中，或者直接隐藏。【荐】
 
@@ -239,7 +239,7 @@ Dozer 操作方法很简单，Dozer运行后在菜单栏会出现一个「‧」
 
 ### 科学上网（代理工具）
 
-科学包括两步：代理工具+服务，缺一不可。（1）先安装工具；（2）然后购买服务，或者自行搭建服务。
+科学上网包括两步：代理工具+服务，缺一不可。（1）先安装工具；（2）然后购买服务，或者自行搭建服务。
 
 - [clash](https://github.com/yichengchen/clashX/releases) - ClashX 旨在提供一个简单轻量化的代理客户端。【荐】
 - [Shadowsocks](http://shadowsocks.org/) - 一个快速的隧道代理，可以帮助你绕过防火墙。
@@ -314,20 +314,15 @@ Dozer 操作方法很简单，Dozer运行后在菜单栏会出现一个「‧」
 - [MindNode](https://mindnode.com/)
 
 
-### 即时通信
+### 即时通信 IM
 
-- [Franz](http://meetfranz.com/) - 一个使用 [Electron](http://electron.atom.io/)开发的，可以同时登录23个平台的即时通讯软件。[hot]
-- [QQ](http://im.qq.com/macqq/index.shtml) - QQ for Mac App。![Freeware][Freeware Icon]
-- [WeChat](http://weixin.qq.com/cgi-bin/readtemplate?t=mac&platform=wx&lang=zh_CN) - 微信 for Mac App。
-- [Telegram](https://desktop.telegram.org) - 通讯新时代。[荐]
-- [weweChat](https://github.com/trazyn/weweChat) - 不比官方差的微信第三方客户端。[荐]。[#](https://www.waerfa.com/wewechat-review)
-- [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat) - 调用微信接口，使用 [Electron](https://github.com/electron/electron) 开发的第三方漂亮[开源](https://github.com/geeeeeeeeek/electronic-wechat)微信应用。
-- [Skype](https://www.skype.com/) - Skype共享、跨平台的短信和电话。
-- [ChitChat](https://github.com/stonesam92/ChitChat) - WhatsApp非官方，[开源](https://github.com/stonesam92/ChitChat)。
-- [御飯](https://imach.me/gohanapp/) - 饭否第三方Mac应用。
-- [Messenger](https://fbmacmessenger.rsms.me/) - Facebook第三方的啊、[开源](https://github.com/rsms/fb-mac-messenger)聊天工具。
-- [Adium](https://adium.im/) - 这个是老的集成多个平台的聊天客户端。
+- [Discord](https://discord.com/) - 有组织、有结构地讨论；产品细节体验Max；中文支持友好；全平台同步聊天记录；全局搜索功能很好用。比 slack 更酷。
+- [Telegram](https://desktop.telegram.org) - 最安全的聊天软件，也可以作为新闻资讯的频道。推荐链接：https://cn.tgstat.com/
+- 
+- [微信](https://mac.weixin.qq.com/)
+- [QQ](http://im.qq.com/macqq/index.shtml)
 - [WeeChat](https://weechat.org/) - 一个命令行聊天客户端。
+- [御飯](https://imach.me/gohanapp/) - 饭否第三方Mac应用。
 
 ### 社交
 
