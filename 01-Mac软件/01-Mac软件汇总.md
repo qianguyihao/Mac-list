@@ -39,7 +39,7 @@
 ### 压缩／解压
 
 - [BetterZip 3](https://macitbetter.com/) - 压缩解压缩工具。支持格式 ZIP、TAR、TGZ、TBZ、TXZ (new)、7-ZIP、RAR。[荐]
-- [The Unarchiver]() - 压缩／解压工具。
+- The Unarchiver - 压缩／解压工具。
 
 ### 输入法
 
@@ -114,7 +114,7 @@
 
 ### 窗口管理
 
-- [Magnet]() - 窗口分屏工具。【荐】
+- [Magnet](https://magnet.crowdcafe.com/) - 窗口分屏工具。【荐】
 
 * [ShiftIt](https://github.com/fikovnik/ShiftIt) - 窗口位置和大小管理软件。 [[开源]](https://github.com/fikovnik/ShiftIt)[荐]
 
@@ -125,12 +125,6 @@
 * [Amethyst](http://ianyh.com/amethyst/) - 窗口管理器（自动保持窗口大小的窗口）。[开源](https://github.com/ianyh/Amethyst)
 
 * [Spectacle](https://www.spectacleapp.com) - 简单的移动和调整大小的窗口，和可定制的键盘快捷键。
-
-- [Fenetre]()- 窗口置顶工具。（我试了下，并不是那么好用）
-
-
-
-
 
 ### 浏览器
 
@@ -316,9 +310,8 @@ Dozer 操作方法很简单，Dozer运行后在菜单栏会出现一个「‧」
 
 ### 即时通信 IM
 
-- [Discord](https://discord.com/) - 有组织、有结构地讨论；产品细节体验Max；中文支持友好；全平台同步聊天记录；全局搜索功能很好用。比 slack 更酷。
+- [Discord](https://discord.com/) - 有组织、有结构地讨论；产品细节体验Max；中文支持友好；全平台同步聊天记录；全局搜索功能很好用。比 slack 更酷。【荐】
 - [Telegram](https://desktop.telegram.org) - 最安全的聊天软件，也可以作为新闻资讯的频道。推荐链接：https://cn.tgstat.com/
-- 
 - [微信](https://mac.weixin.qq.com/)
 - [QQ](http://im.qq.com/macqq/index.shtml)
 - [WeeChat](https://weechat.org/) - 一个命令行聊天客户端。
@@ -330,11 +323,12 @@ Dozer 操作方法很简单，Dozer运行后在菜单栏会出现一个「‧」
 
 ### 团队协作
 
+- [Slack](https://slack.com/) - 团队协作，沟通工具。
+- [飞书](https://www.feishu.cn/) - 先进团队，先用飞书。
+- [钉钉](http://www.dingtalk.com/index-b.html#download_block) - 企业级办公通讯免费平台。
 - [Textual](https://www.codeux.com/textual) - 最受欢迎的世界与我们相关的KPI应用 for OS X。
 - [Gitter](https://gitter.im) - 关于GitHub的项目交流，支持 Markdown，对开发者极为友好。
 - [简聊](https://github.com/jianliaoim/talk-os) - 企业级即时沟通工具，已经下线了，可以自己搭建一套[系统](https://github.com/jianliaoim/talk-os)玩儿。
-- [钉钉](http://www.dingtalk.com/index-b.html#download_block) - 企业级办公通讯免费平台。
-- [Slack](https://slack.com/) - 团队协作，沟通工具。
 - [零信](https://pubu.im/apps/osx) - 随时随地工作，跨平台。
 - [今目标](http://www.jingoal.com/client/mac/mac.htm) - 一款面向中小企业的互联网工作平台。
 - [BearyChat](https://bearychat.com/) - 互联网团队协作，沟通工具。
@@ -345,12 +339,10 @@ Dozer 操作方法很简单，Dozer运行后在菜单栏会出现一个「‧」
 
 ### Email
 
-> 其实Mac自带的邮件客户端已经很好用了。
+> 其实 Mac 自带的邮件客户端已经很好用了。
 
 - [Spark](https://sparkmailapp.com/) - 新推出的快速邮件客户端支持Mac和iPhone。[荐]
-
 - [网易邮箱大师](http://mail.163.com/dashi/dlpro.html)。[#](https://www.waerfa.com/neteasemailmaster-for-mac)
-
 * [Airmail](http://airmailapp.com) - 快速的邮件客户端支持Mac和iPhone。
 * [Foxmail](http://www.foxmail.com/mac/) - 快速的邮件客户端。
 * [MailTags](https://smallcubed.com/mt/) - 管理和组织邮件，日程和标签进行分类邮件。
@@ -380,21 +372,20 @@ Dozer 操作方法很简单，Dozer运行后在菜单栏会出现一个「‧」
 - [Inkdrop](https://www.inkdrop.info/) - Markdown爱好者的笔记本应用程序。
 
 
-
 ### 网络文章阅读
 
 - [cubox](https://cubox.pro/) - 一站式信息收集、阅读、管理和回顾；善用网络碎片构建个人知识库。在信息碎片中重获专注。【荐】
 
 ### Markdown 编辑器
 
+- [Typora](http://www.typora.io/) - 基于 Electron 的“读写一体” Markdown 编辑器。【荐】
 - [Ulysses](https://ulyssesapp.com/)- 专业文本编辑工具，支持 Markdown。[荐]
 - [Bear](https://bear.app/)
-- [MacDown](http://macdown.uranusjr.com/) - 一款开源的Markdown编辑器，深受[Mou](http://25.io/mou/)的影响。
 - [MWeb](http://zh.mweb.im/) - 专业的 Markdown 写作、记笔记、静态博客生成软件。[hot]
+- [MacDown](http://macdown.uranusjr.com/) - 一款开源的Markdown编辑器，深受[Mou](http://25.io/mou/)的影响。
 - [Mou](http://25.io/mou/) - 免费 Markdown 编辑神器。
 - [Marp](https://yhatt.github.io/marp/) -  Markdown 制作幻灯片编辑器。
 - [TextNut](http://www.textnutwriter.com/) - Markdown编辑器，富文本之间自由切换。
-- [Typora](http://www.typora.io/) - 基于 Electron 的“读写一体” Markdown 编辑器。[hot]
 - [EME](https://github.com/egoist/eme) - 最近刚出的一款Markdown编辑器，界面很像Chrome浏览器的界面，很简约。
 - [LightPaper](http://lightpaper.42squares.in/) - 简单的Markdown文本编辑器。
 - [Cmd Markdown](https://www.zybuluo.com/) - Cmd Markdown 编辑阅读器，支持实时同步预览，区分写作和阅读模式，支持在线存储，分享文稿网址。
@@ -410,18 +401,17 @@ Dozer 操作方法很简单，Dozer运行后在菜单栏会出现一个「‧」
 - [Kindle App](http://www.amazon.com/gp/help/customer/display.html?nodeId=201246110) - 亚马逊 Kindle App 电子书阅读器。
 - [Calibre](http://calibre-ebook.com/) - 丑陋的软件，但强大的软件电子书管理和转换。[开源](https://github.com/kovidgoyal/calibre) 。[荐]
 - [Sigil](https://sigil-ebook.com/) - [开源](https://github.com/Sigil-Ebook/Sigil)、多平台EPUB编辑器。[荐] 。EPub 电子书制作教程：[#](https://kindlefere.com/post/73.html) [#](https://kindlefere.com/post/71.html) [#](https://kindlefere.com/post/72.html)
-
 - [Knotes](http://knotesapp.com/cn) - 高效、优雅的 Kindle 标注管理器。
 
 ### pdf 阅读
 
 - [MarginNote](https://marginnote.com/) - 在阅读时做标注，记笔记，并可以利用思维导图(Mindmap)和大纲工具(Outline)对笔记进行组织。但就是比较贵。【荐】
 
-- [PDF Expert]() - 极致的 PDF 阅读标注工作体验。
+- PDF Expert - 极致的 PDF 阅读标注工作体验。
 
 - [PDFelement](https://pdf.wondershare.cn/) - 采用类似word界面和工具条设计,无需改变工具操作习惯。国产良心软件。
 
-- [iAnnotate]() - 可以说是所有 PDF 标记类 app 中的No.1了。仅限 iOS 平台使用，没有Mac平台。
+- iAnnotate - 可以说是所有 PDF 标记类 app 中的No.1了。仅限 iOS 平台使用，没有Mac平台。
 
 ### RSS订阅
 
@@ -496,7 +486,7 @@ Dozer 操作方法很简单，Dozer运行后在菜单栏会出现一个「‧」
 - [Balsamiq Mockups](https://balsamiq.com/products/mockups/) - 一个快速的网页设计原型工具，帮助你更快、更聪明的工作。
 - [Marvel](https://marvelapp.com/) - 简单设计，原型设计和协作。
 - [MindNode](http://mindnode.com/) - 简洁的风格与人性化的操作，绘制思维脑图。[荐]
-- [iThoughtX]() - 进阶用户喜欢用它画脑图。[荐]。[#](https://sspai.com/post/31516)
+- iThoughtX - 进阶用户喜欢用它画脑图。[荐]。[#](https://sspai.com/post/31516)
 
 ### 其它工具
 
@@ -614,7 +604,7 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 
 ### 编辑器
 
-- [Visual Studio Code](http://code.visualstudio.com) - 微软推出的免费/开源编辑器，TypeScript支持杠杠的。[荐](https://github.com/Microsoft/vscode)
+- [Visual Studio Code](http://code.visualstudio.com) - 微软推出的免费、[开源]((https://github.com/Microsoft/vscode))编辑器，TypeScript支持杠杠的。【荐】
 - [Sublime Text](http://www.sublimetext.com/3) - 一个比较简洁大方带插件管理系统的流行编辑器，[Sublime常用插件](editor-plugin.md#sublime-text-plugin)。[荐]
 - [Atom](https://atom.io) - GitHub推出的[开源](https://github.com/atom/atom)编辑器。
 - [Brackets](http://brackets.io) - Adobe推出的Brackets免费/开源编辑器。[开源](https://github.com/adobe/brackets/)
