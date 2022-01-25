@@ -14,6 +14,9 @@
 
 - [snipaste](https://zh.snipaste.com/) - 新生代截图工具。【荐】。
 
+
+- [shottr](https://shottr.cc/) - 面向像素的屏幕截图工具，支持智能测距、滚动截图、元素智能删除、打码或隐藏、OCR 文本识别、距离标注等功能。他是为像素级专业人士（设计师、前端开发人员等）服务的，它的强项是精确度和速度，其杀手特征是变焦。【荐】。
+
 - [Xnip](https://zh.xnipapp.com)- Mac上方便好用的截图工具，支持滚动截图；最大的优点是，**截图可以自带阴影，效果不错**。[#](https://sspai.com/post/42654)。【荐】
 
 - [Picsee](http://picsee.chitaner.com/) - 看图 & 截图。
