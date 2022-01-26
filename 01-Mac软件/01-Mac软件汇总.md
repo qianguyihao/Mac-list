@@ -99,6 +99,9 @@
 
 ### 日历工具
 
+- [Itsycal](https://www.mowglii.com/itsycal/) - 一款简洁实用的开源日历工具。可以直接在 menubar 上展示今天是几号；点击后，还自动框选出了本月的时间范围。好处是，可以在最短的时间内查看日历，基本可以替代原生的时间了。[开源](https://github.com/sfsam/itsycal)。【荐】
+
+
 - [Fantastical](https://flexibits.com/fantastical) - 日历应用程序，你将管理好生活。[荐]。
 
 ### GTD 时间管理
@@ -154,18 +157,15 @@
 
 * [iTranslate](http://www.itranslate.com/) - 支持全世界超过 80 种语言发音和输出。
 
-
 ### Magic mouse 鼠标增强
 
 
 - [BetterTouchTool](http://www.bettertouchtool.net/) - 触控板、Magic mouse 鼠标增强工具。比如，这个工具可以让Magic mouse实现「轻点代替点按」。【荐】。[#](https://mp.weixin.qq.com/s/A_LP4uQKSVkSNZR5EKEaxA)、[#](https://mp.weixin.qq.com/s/DxvLJRF8nhIJ1z_7E5CuIA)、[#](https://mp.weixin.qq.com/s/DxvLJRF8nhIJ1z_7E5CuIA)
 
 
-### 其他实用工具
+### 实用工具
 
 - [f.lux](https://justgetflux.com/) - 降低屏幕的色温，减弱蓝光，保护眼睛。【荐】
-
-- [Itsycal](https://www.mowglii.com/itsycal/) - 一款简洁实用的开源日历工具。可以直接在 menubar 上展示今天是几号；点击后，还自动框选出了本月的时间范围。好处是，可以在最短的时间内查看日历，基本可以替代原生的时间了。[开源](https://github.com/sfsam/itsycal)。【荐】
 
 ### 其他工具
 
@@ -212,27 +212,7 @@
     * [XtraFinder](https://www.trankynam.com/xtrafinder/) - 给Finder添加有用的新特性。
 
 
-## 二、小工具
-
-### 菜单栏管理
-
-> 对于崇尚简洁的Mac用户来说，菜单栏管理软件是很有必要的。
-
-- [Bartender](https://www.macbartender.com/)：付费软件。能够创建一个二级的菜单栏，让我们把不需要直接显示的菜单栏的应用图标放在这个二级菜单栏中，或者直接隐藏。【荐】
-
-- [Vanilla](https://matthewpalmer.net/vanilla/) - 隐藏 Mac 菜单栏图标。基础功能免费，扩展功能付费。
-
-- [Hidden Bar](https://apps.apple.com/cn/app/hidden-bar/id1452453066?mt=12)：用最精简的功能，实现了在菜单栏隐藏应用图标这个小需求。[开源免费](https://github.com/dwarvesf/hidden)。
-
-- [Dozer](https://github.com/Mortennn/Dozer/releases)：一款隐藏macOS菜单栏图标的应用，开源免费，操作简单。
-
-Dozer 操作方法很简单，Dozer运行后在菜单栏会出现一个「‧」，点击它，然后会在左侧出现另外一个「‧」，按住 command 键拖曳软件图标到最左侧即可。然后点击右侧的「‧」，软件图标就会被隐藏。
-
-
-### Mac系统清理、内存管理
-
-- [DaisyDisk](https://daisydiskapp.com/) - 磁盘分析工具。了解磁盘使用状况，并进行准确的分析。DaisyDisk 的视觉系属性大大超过了功能性。 [#](https://www.twblogs.net/a/5baad01e2b7177781a0e94d6/zh-cn)
-- [MacBooster](http://www.carrotchou.blog/5245.html) - 磁盘、内存清理工具。【荐】
+## 二、进阶软件
 
 ### 科学上网（代理工具）
 
@@ -248,13 +228,36 @@ Dozer 操作方法很简单，Dozer运行后在菜单栏会出现一个「‧」
 - [AgentNEO](https://agneo.co/?rc=ut50176c) - 网速很快，很稳定。支持支付宝付款。【荐】
 - [Lantern](https://getlantern.org) - 蓝灯。
 
+### 菜单栏管理
+
+> 对于崇尚简洁的Mac用户来说，菜单栏管理软件是很有必要的。
+
+- [Bartender](https://www.macbartender.com/)：付费软件。能够创建一个二级的菜单栏，让我们把不需要直接显示的菜单栏的应用图标放在这个二级菜单栏中，或者直接隐藏。
+
+- [Vanilla](https://matthewpalmer.net/vanilla/) - 隐藏 Mac 菜单栏图标。基础功能免费，扩展功能付费。
+
+- [Hidden Bar](https://apps.apple.com/cn/app/hidden-bar/id1452453066?mt=12)：用最精简的功能，实现了在菜单栏隐藏应用图标这个小需求。[开源免费](https://github.com/dwarvesf/hidden)。
+
+- [Dozer](https://github.com/Mortennn/Dozer/releases)：一款隐藏macOS菜单栏图标的应用，开源免费，操作简单。
+
+Dozer 操作方法很简单，Dozer运行后在菜单栏会出现一个「‧」，点击它，然后会在左侧出现另外一个「‧」，按住 command 键拖曳软件图标到最左侧即可。然后点击右侧的「‧」，软件图标就会被隐藏。
+
+
+### Mac系统管理、内存管理
+
+- [Caffeinated](https://caffeinated.app/) - 防止系统进入休眠状态。
+
+- [DaisyDisk](https://daisydiskapp.com/) - 磁盘分析工具。了解磁盘使用状况，并进行准确的分析。DaisyDisk 的视觉系属性大大超过了功能性。 [#](https://www.twblogs.net/a/5baad01e2b7177781a0e94d6/zh-cn)
+
+- [MacBooster](http://www.carrotchou.blog/5245.html) - 磁盘、内存清理工具。【荐】
+
+
 ### 数据恢复
 
 - [DiskWarrior](http://www.alsoft.com/DiskWarrior/) - 恢复文件系统损坏时，磁盘工具进行选择。
 - [Data Rescue](https://www.prosofteng.com/datarescue-mac-data-recovery/) - 多种情况下的全面和专业的数据恢复。
 - [Stellar Phoenix Mac Data Recovery](http://www.stellarinfo.com/data-recovery-mac.php) - 一个功能强大的恢复文件面向Mac的工具。
 - [R-Studio for Mac](http://www.r-studio.com/data_recovery_macintosh/) - 可恢复分区被格式化、损坏或被删除的文件。
-
 
 
 ### 文件传输
@@ -274,7 +277,6 @@ Dozer 操作方法很简单，Dozer运行后在菜单栏会出现一个「‧」
 - [Virtual Box](http://www.virtualbox.org) - 免费、免费、免费，带NTFS读写，不用买ParagonNTFS，省100块。
 - [VMWare Fusion](http://www.vmware.com/) - 强大的虚拟机，商业软件。
 - [Veertu](https://veertu.com) - Mac上最轻便的虚拟机，只有跑Windows才会收费。比较新，很多功能不支持。
-
 
 
 ## 三、办公软件

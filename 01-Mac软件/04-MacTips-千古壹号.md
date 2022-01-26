@@ -319,4 +319,8 @@ killall Dock
 参考链接：[Mac “永久” 隐藏Dock](https://www.jianshu.com/p/47cbd4f5e4c3)
 
 
+### 使用命令行来批量添加文件扩展名
 
+参考链接：
+
+- [Mac下如何使用命令行来批量添加文件扩展名](http://www.sdifen.com/mac-rename.html)
