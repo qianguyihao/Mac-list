@@ -7,6 +7,8 @@
 
 ### 启动工具
 
+- [Raycast](https://www.raycast.com/) - Raycast 的竞品。[#](https://se7en.hedwig.pub/i/zui-jin-fei-chang-xi-huan-de-app-raycast-yi-ji-ta-de-cha-jian-xi-tong)【荐】
+
 - [Alfred](https://www.alfredapp.com/) - Mac 上应该安装的第一个效率神器。
 
 
