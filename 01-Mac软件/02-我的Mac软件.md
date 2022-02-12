@@ -41,11 +41,15 @@ F1是截图，F3是贴图。记得用好这个超级无敌的小技巧。
 
 免费的解压／压缩软件，可以在 MAS 下载。
 
-### 科学上网：ShadowsocksX-NG-R8
+### 科学上网：clash
 
-想要实现科学上网，需要「工具+服务」，缺一不可。ShadowsocksX-NG-R8 只是工具，你需要另外单独购买科学上网的服务。
+想要实现科学上网，需要「工具+服务」，缺一不可。clash 只是工具，你需要另外单独购买科学上网的服务。
 
-**使用ShadowSocks后，让dropbox、Telegram 等软件具备代理功能**：
+其他同类软件：
+
+- ShadowsocksX-NG-R8
+
+**使用 ShadowSocks 后，让dropbox、Telegram 等软件具备代理功能**：
 
 使用ShadowSocks进行代理后，dropbox、Telegram等软件默认是无法翻墙的，此时需要对dropbox进行设置。设置如下：
 
@@ -170,7 +174,6 @@ Magic Mouse 的体验很酷，但是有一个缺点，那就是：鼠标的点�
 
 ### Office
 
-下载链接：<https://mp.weixin.qq.com/s/mVxJYiGrfselJx1b9XdvYw>
 
 ### 印象笔记
 
@@ -212,13 +215,41 @@ Dropbox 官网下载链接：<https://db.tt/F9KWEMRt>
 
 ## 三、图像处理&设计
 
-### Photoshop
+### Photoshop 2020
 
-安装包：<https://mp.weixin.qq.com/s/N0eUSdWjogALx_LFn8-84w>
 
 其他同类软件：
 
 - Pixelmator Pro：适合普通大众的专业图像编辑软件。付费软件。
+
+### Photoshop 2017
+
+> PS 2017中，分享下载的所有dmg、zip 打开密码均为 xclient.info。
+
+**软件下载链接：**
+
+Adobe Photoshop CC 2017_18.0.0（附中文语言包）：
+
+- 下载链接：<http://xclient.info/s/adobe-photoshop-cc.html>
+- 百度网盘链接：<https://pan.baidu.com/s/1slSwXwL>，密码：6g4v。
+
+Adobe CC 2017 通用激活：
+
+- 下载链接：<http://xclient.info/a/620a06ef-0013-a719-81f9-de029e27b9ae.html>
+- 百度网盘链接：<https://pan.baidu.com/s/1c2eI18W>，密码：q72q。
+
+中文包：
+
+- 百度网盘链接：<https://pan.baidu.com/s/1jHCfU4m>，密码：i9ud。
+
+**激活步骤：**
+
+（1）断网；
+（2）安装程序：解压后，将/build/instll.pkg双击，即可安装。
+（3）运行激活工具激活：打开里的 Adobe Zii.app  点击PATCH OR DRAG。
+（4）安装[中文语言包](https://www.yunrui.co/37779.html)：将解压好的语言包文件夹复制到 应用程序/Adobe Photoshop CC 2017/Locales 目录下。
+打开 photoshop，点击左上角 Photoshop CC/Preferences/Interface... 在弹出的界面中间部分修改UI Language的值 为Simplified Chinese 点击右上角 OK按钮。重启 photoshop 即可。
+
 
 ### Sketch
 
@@ -249,6 +280,10 @@ Sketch 软件的菜单栏也会显示「插件 -- Sketch Measure」这个选项�
 ### 图片管理软件：Eagle
 
 付费软件，价格：199元买断。我是在官网购买的正版软件。能买 Eagle 软件的人，都是有追求的互联网从业者。
+
+### iPhone 照片导出工具：iMazing
+
+我是在数码荔枝购买的正版软件。iMazing 是一款 iPhone 管理工具，可以导出 iPhone 上的照片、文件等。同类软件是免费版的「爱思助手」，但我觉得 iMazing 比爱思助手更好用，导出照片的速度也更快。
 
 ## 四、视频处理&视频编辑
 
