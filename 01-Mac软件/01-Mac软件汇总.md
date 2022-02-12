@@ -385,16 +385,28 @@ Dozer 操作方法很简单，Dozer运行后在菜单栏会出现一个「‧」
 
 ### Markdown 编辑器
 
-- [Typora](http://www.typora.io/) - 基于 Electron 的“读写一体” Markdown 编辑器。【荐】
-- [Ulysses](https://ulyssesapp.com/)- 专业文本编辑工具，支持 Markdown。[荐]
+- [Typora](http://www.typora.io/) - 基于 Electron 的“读写一体” Markdown 编辑器。付费软件。【荐】
+
+- [MarkText](https://marktext.app/) - Typora 的免费替代品。[开源软件](https://github.com/marktext/marktext)。
+
+- [Ulysses](https://ulyssesapp.com/)- 专业文本编辑工具，支持 Markdown。
+
 - [Bear](https://bear.app/)
+
 - [MWeb](http://zh.mweb.im/) - 专业的 Markdown 写作、记笔记、静态博客生成软件。[hot]
+
 - [MacDown](http://macdown.uranusjr.com/) - 一款开源的Markdown编辑器，深受[Mou](http://25.io/mou/)的影响。
+
 - [Mou](http://25.io/mou/) - 免费 Markdown 编辑神器。
+
 - [Marp](https://yhatt.github.io/marp/) -  Markdown 制作幻灯片编辑器。
+
 - [TextNut](http://www.textnutwriter.com/) - Markdown编辑器，富文本之间自由切换。
+
 - [EME](https://github.com/egoist/eme) - 最近刚出的一款Markdown编辑器，界面很像Chrome浏览器的界面，很简约。
+
 - [LightPaper](http://lightpaper.42squares.in/) - 简单的Markdown文本编辑器。
+
 - [Cmd Markdown](https://www.zybuluo.com/) - Cmd Markdown 编辑阅读器，支持实时同步预览，区分写作和阅读模式，支持在线存储，分享文稿网址。
 
 ### Markdown 图片上传
@@ -595,11 +607,15 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 
 ### FTP客户端
 
-* [FileZilla](https://filezilla-project.org) - 跨平台的FTP，FTPS和SFTP客户端。[荐]
-* [Transmit](https://panic.com/transmit/) - 一个FTP客户端，支持FTP + SFTP + S3【荐】。
-* [Flow](http://fivedetails.com/flow/) - 支持简单的 FTP + SFTP 客户端。
-* [Yummy FTP](http://www.yummysoftware.com) - 专业快速，可靠的FTP客户端。
-* [Cyberduck](https://cyberduck.io) - 免费FTP，SFTP，S3和WebDAV客户端 & OpenStack Swift Client。
+-  [FileZilla](https://filezilla-project.org) - 跨平台的FTP，FTPS和SFTP客户端。[荐]
+
+-  [Transmit](https://panic.com/transmit/) - 一个FTP客户端，支持FTP + SFTP + S3【荐】。
+
+- [Flow](http://fivedetails.com/flow/) - 支持简单的 FTP + SFTP 客户端。
+
+- [Yummy FTP](http://www.yummysoftware.com) - 专业快速，可靠的FTP客户端。
+
+-0 [Cyberduck](https://cyberduck.io) - 免费FTP，SFTP，S3和WebDAV客户端 & OpenStack Swift Client。
 
 
 
