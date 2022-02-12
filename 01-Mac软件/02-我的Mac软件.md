@@ -1,18 +1,6 @@
 
 > 我的Mac电脑上，安装了下面这些软件。
 
-## 在哪里下载「非免费的」 Mac 安装包？
-
-- 1、Xclient：<https://xclient.info/>
-
-下载大多数「非免费的」的 Mac 软件。
-
-- 2、公众号「Mac软件管家」
-
-下载 PS、Office等大型软件。比如这篇：[软件目录](https://mp.weixin.qq.com/s/mVxJYiGrfselJx1b9XdvYw)。也可翻看公众号的历史文章，或者回复关键词。
-
-备注：请勿大范围传播。猫鼠游戏，知道的人越多，被feng的概率越大。
-
 ## 一、常用软件&实用工具
 
 ### Alfred

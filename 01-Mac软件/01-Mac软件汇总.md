@@ -742,8 +742,14 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 ### 命令行工具/终端/SSH 远程连接
 
 - [iTerm2](http://www.iterm2.com) - 免费的终端工具，直接替代自带的Terminal，有非常多惊人的特性。[开源](https://github.com/gnachman/iTerm2) 。[荐]
+
 - [SecureCRT](https://www.vandyke.com/products/securecrt/) - 一款支持SSH、Telnet等多种协议的终端仿真程序。[荐]
+
 - [Royal TSX](https://royalapps.com/ts/mac) - 全平台终端软件。[#](https://guozh.net/macos-shell-royal-tsx-item2-ssh-ftp/)。[荐]
+
+- [termius](https://termius.com/) - Mac 最好用的SSH连接客户端。
+
+
 - [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - 怀旧的命令行终端。[开源](https://github.com/Swordfish90/cool-retro-term)。
 - [Oh my zsh](http://ohmyz.sh) - 拥有大量的有用的功能，助手，插件，主题，等特性的命令行工具插件。[开源](https://github.com/robbyrussell/oh-my-zsh)。
 - [Glances](https://github.com/nicolargo/glances) - 在命令行中查看你系统运行状态的工具。[开源](https://github.com/nicolargo/glances)。
@@ -803,11 +809,20 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 
 > 拒绝盗版从我做起，下面的网站提供大量破解软件下载，欢迎大家监督它们。
 
-- Mac精品软件：<http://xclient.info/>【荐】
-
 - MacWk：<https://macwk.com/> 【荐】
 
+下载前，会有注意事项的提醒。
+
+- 潘多拉盒子：<https://www.inpandora.com/>
+
+
+- Mac精品软件：<http://xclient.info/>【荐】
+
 只收录精品Mac应用。
+
+- 公众号「Mac软件管家」
+
+下载 PS、Office等大型软件。也可翻看公众号的历史文章，或者回复关键词。
 
 - 马可菠萝：<https://www.macbl.com/>
 
