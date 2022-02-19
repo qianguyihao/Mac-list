@@ -34,11 +34,15 @@
 - [snappy](https://itunes.apple.com/cn/app/snappy-snapshots-the-smart-way/id512617038?mt=12) - 官网地址：<http://snappy-app.com/>。新出来的一款截图工具，截图之后可生成悬浮窗。[#](http://www.ifanr.com/app/891044)[#](https://sspai.com/post/36375)
 
 
-### gif录制
+### gif图生成
 
 - [Licecap](http://www.cockos.com/licecap/) - 是一款屏幕录制工具输出GIF，录制过程中可以随意改变录屏范围，录制的文件也非常小。支持 Mac 和 Windows 平台。[开源](https://github.com/justinfrankel/licecap) 【荐】。录制结束后，如果觉得文件过大，可以在这个网站<https://ezgif.com/optimize>上进行压缩。
 
+- [Gifski](https://sindresorhus.com/gifski) - 一款视频转 GIF 的工具，只需拖入即可完整转换。可选择缩放比例、帧率、质量，还能实时看到对应体积，简单易用。
+
+
 - [Kap](https://getkap.co/) - 轻量 GIF 录屏小工具。[开源](https://github.com/wulkano/kap)。
+
 
 
 ### 压缩／解压
