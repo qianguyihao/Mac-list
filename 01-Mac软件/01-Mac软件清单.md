@@ -543,11 +543,11 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 
 ### 视频播放器
 
-- [IINA](https://iina.io/) - 目前为止，Mac 上最好用对的视频播放器，没有之一。风格很接近系统原生应用。【荐】
+- [IINA](https://iina.io/) - 目前为止，Mac 上最好用对的视频播放器之一。风格很接近系统原生应用。【荐】
 
 
 
-### 音频和视频
+### 其他：音频和视频
 
 - [Kodi](https://kodi.tv/) - 一款一流的免费开源媒体中心软件，可用于播放视频、音乐，查看图片，玩游戏等.[!开源](https://github.com/xbmc/xbmc)。
 - [MPV](https://mpv.io/) - 一个免费、开源和跨平台的媒体播放器。[开源](https://github.com/mpv-player/mpv)。
