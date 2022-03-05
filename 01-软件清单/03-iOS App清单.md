@@ -33,6 +33,28 @@
 
 - nPlayer - 付费版的流媒体视频播放器。还可以把其他地方的视频地址，拷贝到 nPlayer 上播放。
 
+### 泛用型播客客户端
+
+现在主流的泛用型播客平台是这三个：Pocket Casts、Overcast 以及Castro：
+
+- [Castro](https://castro.fm/)
+
+- [Overcast](https://overcast.fm/)
+
+- [Pocket Casts](https://www.pocketcasts.com/) 有 iOS 和 Android客户端。
+
+
+
+
+
+### 平台型播客客户端
+
+- [Apple Podcast](https://apps.apple.com/cn/app/apple-podcasts/id525463029)
+
+- [小宇宙](https://www.xiaoyuzhoufm.com/)
+
+- [Spotify](https://www.spotify.com/)
+
 
 ## 七、生活
 
