@@ -7,7 +7,7 @@
 
 ### 启动工具
 
-- [Alfred](https://www.alfredapp.com/) - Mac 上应该安装的第一个效率神器。[#](https://mp.weixin.qq.com/s/DdT98goc5nR73RfK-ISGiQ)
+- [Alfred](https://www.alfredapp.com/) - Mac 上应该安装的第一个效率神器。【荐】[《程序员的macOS系列：高效Alfred进阶》](https://juejin.cn/post/6844904062484217863) [《Mac神器Alfred之自定义一个多应用快速切换的workflow》](https://mp.weixin.qq.com/s/DdT98goc5nR73RfK-ISGiQ)
 
 - [Raycast](https://www.raycast.com/) - Alfred 的竞品。[#](https://se7en.hedwig.pub/i/zui-jin-fei-chang-xi-huan-de-app-raycast-yi-ji-ta-de-cha-jian-xi-tong)【荐】
 
