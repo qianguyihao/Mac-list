@@ -381,6 +381,8 @@ Dozer 操作方法很简单，Dozer运行后在菜单栏会出现一个「‧」
 - [Quiver](http://happenapps.com/#quiver) - 程序猿的笔记本。
 - [leanote](http://app.leanote.com) - 蚂蚁笔记，支持Markdown的一款[开源](https://github.com/leanote/leanote)笔记软件，支持直接成为个人博客。
 - [Inkdrop](https://www.inkdrop.info/) - Markdown爱好者的笔记本应用程序。
+- [Notes](http://www.get-notes.com/) - 简洁的笔记应用。 [开源](https://github.com/nuttyartist/notes)
+
 
 
 ### 网络文章阅读
@@ -424,7 +426,7 @@ Dozer 操作方法很简单，Dozer运行后在菜单栏会出现一个「‧」
 - [Kindle App](http://www.amazon.com/gp/help/customer/display.html?nodeId=201246110) - 亚马逊 Kindle App 电子书阅读器。
 - [Calibre](http://calibre-ebook.com/) - 丑陋的软件，但强大的软件电子书管理和转换。[开源](https://github.com/kovidgoyal/calibre) 。[荐]
 - [Sigil](https://sigil-ebook.com/) - [开源](https://github.com/Sigil-Ebook/Sigil)、多平台EPUB编辑器。[荐] 。EPub 电子书制作教程：[#](https://kindlefere.com/post/73.html) [#](https://kindlefere.com/post/71.html) [#](https://kindlefere.com/post/72.html)
-- [Knotes](http://knotesapp.com/cn) - 高效、优雅的 Kindle 标注管理器。
+- [Knotes](http://knotesapp.com/cn) - 高效、优雅的读书笔记管理。
 
 ### pdf 阅读
 
@@ -456,17 +458,53 @@ Dozer 操作方法很简单，Dozer运行后在菜单栏会出现一个「‧」
 
 ## 五、图像处理&设计
 
-### 设计工具
 
-- Photoshop - 最强大的位图处理软件。
+### 图片编辑
 
-- [Pixelmator Pro](https://www.pixelmator.com/pro/) - 强大的图像处理软件，可能替代PS的最佳选择。
+
+- Photoshop - 最强大的位图处理软件。[荐]
+
+- [Affinity Photo](https://affinity.serif.com/en-us/photo/) - 光栅图像设计工具，可以替代Adobe PS图象处理软件。[荐]
+
+- [Affinity Designer](https://affinity.serif.com/en-us/designer/) - 矢量图像设计工具，对标 Adobe Illustrator。
+
+- [Pixelmator Pro](https://www.pixelmator.com/pro/) - 强大的图像处理软件，对标 PS。
 
 - [Acorn](https://secure.flyingmeat.com/acorn/) - 一个像PS，全面的功能集的图像编辑器。
 
-- [Affinity Designer](https://affinity.serif.com/en-us/designer/) - 矢量图像设计工具，可能的Adobe Illustrator的替代。
+### 原型设计、交互设计
 
-- [Affinity Photo](https://affinity.serif.com/en-us/photo/) - 光栅图像设计工具，可以替代Adobe PS图象处理软件。
+- [Sketch](http://www.sketchapp.com/) - 混合矢量/位图布局应用，特别适用于用户界面，Web和移动设计。[荐]
+
+- [Axure RP 8](http://www.axure.com) - 画原型图工具，团队协作SVN方便好用。[荐]
+
+- [Justinmind](http://www.justinmind.com) - 功能更丰富团队协作方便。
+
+- [MockFlow](https://www.mockflow.com) - 用于网页设计和可用性测试的在线原型设计套件。
+
+- [Mockplus](http://www.mockplus.com) - 更快更简单的原型设计工具。
+
+- [OmniGraffle](https://www.omnigroup.com/omnigraffle) - 可用来绘制图表、流程图、组织结构图、思维导图以及插图或原型。
+
+- [Scapple](http://www.literatureandlatte.com/scapple.php) - 一款实用的思维导图软件。
+
+- [Framer](http://framerjs.com/) - 做交互原型的工具。![hot][hot Icon] [star 5]
+
+- [Balsamiq Mockups](https://balsamiq.com/products/mockups/) - 一个快速的网页设计原型工具，帮助你更快、更聪明的工作。
+
+- [Marvel](https://marvelapp.com/) - 简单设计，原型设计和协作。
+
+- [MindNode](http://mindnode.com/) - 简洁的风格与人性化的操作，绘制思维脑图。[荐]
+
+- iThoughtX - 进阶用户喜欢用它画脑图。[荐]。[#](https://sspai.com/post/31516)
+
+### 图片管理
+
+- [Eagle](https://cn.eagle.cool/) - 图片管理必备工具。30天试用期。
+
+Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整理、查找」的各种场景，支持 Mac 与 Windows 系统。号称图片管理中的印象笔记。
+
+### 其它工具
 
 - [Blender](https://www.blender.org/) - 全功能可扩展的跨平台3D内容套件。[开源](https://developer.blender.org/)
 
@@ -494,27 +532,7 @@ Dozer 操作方法很简单，Dozer运行后在菜单栏会出现一个「‧」
 
 - [ScreenToLayers](http://jeremyvizzini.com/screentolayers/) - 轻松导出桌面分层文件PSD文件。[开源](https://github.com/jeremyvizzini/ScreenToLayers)
 
-### 原型设计
 
-- [Sketch](http://www.sketchapp.com/) - 混合矢量/位图布局应用，特别适用于用户界面，Web和移动设计。[荐]
-
-- [Axure RP 8](http://www.axure.com) - 画原型图工具，团队协作SVN方便好用。[荐]
-
-- [Justinmind](http://www.justinmind.com) - 功能更丰富团队协作方便。
-- [MockFlow](https://www.mockflow.com) - 用于网页设计和可用性测试的在线原型设计套件。
-- [Mockplus](http://www.mockplus.com) - 更快更简单的原型设计工具。
-- [OmniGraffle](https://www.omnigroup.com/omnigraffle) - 可用来绘制图表、流程图、组织结构图、思维导图以及插图或原型。
-- [Scapple](http://www.literatureandlatte.com/scapple.php) - 一款实用的思维导图软件。
-- [Framer](http://framerjs.com/) - 做交互原型的工具。![hot][hot Icon] [star 5]
-- [Balsamiq Mockups](https://balsamiq.com/products/mockups/) - 一个快速的网页设计原型工具，帮助你更快、更聪明的工作。
-- [Marvel](https://marvelapp.com/) - 简单设计，原型设计和协作。
-- [MindNode](http://mindnode.com/) - 简洁的风格与人性化的操作，绘制思维脑图。[荐]
-- iThoughtX - 进阶用户喜欢用它画脑图。[荐]。[#](https://sspai.com/post/31516)
-
-### 其它工具
-
-
-- [Notes](http://www.get-notes.com/) - 简洁的笔记应用。 [开源](https://github.com/nuttyartist/notes)
 - [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) - 图片压缩专用开源工具。[开源](https://github.com/kyleduo/TinyPNG4Mac)
 - [Image2icon](http://www.img2icnsapp.com) - 将你的图片转换成图标。
 - [ImageAlpha](https://pngmini.com/) - 压缩PNG图片，去掉无效的透明。[开源](https://github.com/pornel/ImageAlpha)
@@ -527,13 +545,6 @@ Dozer 操作方法很简单，Dozer运行后在菜单栏会出现一个「‧」
 - [Iconjar](http://geticonjar.com/) - 图标管理软件，带组织和搜索功能。[star 5]
 - [RightFont](http://rightfontapp.com/) - 字体管理工具。[star 4]
 - [Solarized](http://ethanschoonover.com/solarized) - 干净清爽的颜色主题，支持iTerm、Intellij IDEA、Vim等。
-
-
-### 图片管理
-
-- [Eagle](https://cn.eagle.cool/) - 图片管理必备工具。30天试用期。
-
-Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整理、查找」的各种场景，支持 Mac 与 Windows 系统。号称图片管理中的印象笔记。
 
 
 
@@ -585,10 +596,11 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 - [Git](https://git-scm.com/) - 版本控制工具，官网提供[数十种GUI客户端](https://git-scm.com/download/gui/mac) for Mac。
 - [SVN](http://subversion.apache.org/) - 版本控制工具。
 
-### 版本控制-GUI
+### 版本控制-GUI软件
 
-- [SourceTree](https://www.sourcetreeapp.com/) - 强大的Git跨平台客户端。[荐]
 - [Tower2](https://www.git-tower.com/) - 最强大的Git客户端。[荐]
+- [SourceTree](https://www.sourcetreeapp.com/) - 强大的Git跨平台客户端。[荐]
+
 - [GitHub Desktop](https://desktop.github.com/) - 使用GitHub的GUI应用。
 - [Gitbar](https://github.com/Shikkic/gitbar) - 开源，在你的菜单栏上显示GitHub贡献统计。
 - [Oh My Star](http://www.ohmystarapp.com/) - GitHub的star功能弱，比如分类，本地组织你的GitHub star!
@@ -599,8 +611,8 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 
 ### 版本控制系统
 
-* [GitLab](http://gitlab.com/) - 一个用于仓库管理系统的开源项目。
 * [GitHub](https://github.com) GitHub代码托管，项目管理，演示部署，瞧，您现在就访问GitHub。
+* [GitLab](http://gitlab.com/) - 一个用于仓库管理系统的开源项目。
 * [Coding.net](https://coding.net) - 代码托管，项目管理，WebIDE，演示部署，开启云端开发模式，让开发更简单。
 * [phabricator](https://phabricator.com) phabricator支持Git、SVN、HG 基于 PHP + Mysql 的开放源代码软件开发平台。
 * [Gogs](https://gogs.io) - 一款极易搭建的自助 Git 服务Golang版本。
@@ -623,13 +635,7 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 
 
 
-
-
-
-
-
-
-### 编辑器
+### 代码编辑器
 
 - [Visual Studio Code](http://code.visualstudio.com) - 微软推出的免费、[开源]((https://github.com/Microsoft/vscode))编辑器，TypeScript支持杠杠的。【荐】
 - [Sublime Text](http://www.sublimetext.com/3) - 一个比较简洁大方带插件管理系统的流行编辑器，[Sublime常用插件](editor-plugin.md#sublime-text-plugin)。[荐]
@@ -833,12 +839,11 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 
 下载前，会有注意事项的提醒。
 
-- 潘多拉盒子：<https://www.inpandora.com/>
-
-
 - Mac精品软件：<http://xclient.info/>【荐】
 
 只收录精品Mac应用。
+
+- 潘多拉盒子：<https://www.inpandora.com/>
 
 - 公众号「Mac软件管家」
 
