@@ -546,50 +546,27 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 - [RightFont](http://rightfontapp.com/) - 字体管理工具。[star 4]
 - [Solarized](http://ethanschoonover.com/solarized) - 干净清爽的颜色主题，支持iTerm、Intellij IDEA、Vim等。
 
-
-
 ## 六、视频&音频
-
-
 
 ### 视频播放器
 
 - [IINA](https://iina.io/) - 目前为止，Mac 上最好用对的视频播放器之一。风格很接近系统原生应用。【荐】
 
-
-
-### 其他：音频和视频
-
-- [Kodi](https://kodi.tv/) - 一款一流的免费开源媒体中心软件，可用于播放视频、音乐，查看图片，玩游戏等.[!开源](https://github.com/xbmc/xbmc)。
-- [MPV](https://mpv.io/) - 一个免费、开源和跨平台的媒体播放器。[开源](https://github.com/mpv-player/mpv)。
-- [VOX Player](https://coppertino.com/vox/mac) - 免费全能音乐播放器，撸码之余听听歌是一种享受。[荐]。
-- [Radiant Player](http://radiant-player.github.io/radiant-player-mac/) - Google Play音乐播放器。[开源](https://github.com/radiant-player/radiant-player-mac)。
-- [Sonora](https://github.com/sonoramac/Sonora) -  一个很小的音乐播放器。[开源](https://github.com/sonoramac/Sonora)。
-- [Audacity](http://www.audacityteam.org/) - 免费开源的编辑音频的软件。[开源](https://github.com/audacity/audacity)。
-- [Audio Hijack](http://www.rogueamoeba.com/audiohijack/) - 一个记录任何应用程序的音频，包括网络电话Skype，网络流从Safari，以及更多。
-- [Stringed 2](https://itunes.apple.com/us/app/stringed/id698710517?mt=12) - 音频编辑处理工具。
-- [Mixxx](http://mixxx.org/) - 免费的DJ软件，给你一切你需要的表演组合，名副其实的替代Traktor。[开源](https://github.com/mixxxdj/mixxx)。
-- [Cog](http://cogx.org/) - 一个免费的开源音频播放器。[![开源][OSS Icon]](https://bitbucket.org/mamburu/cog/)
 - [VLC](http://www.videolan.org/) - 开源的跨平台多媒体播放器及框架，可播放大多数多媒体文件。[开源](https://github.com/videolan/vlc)。
-- [XLD](http://tmkk.undo.jp/xld/index_e.html) - 解码/解码/转换/播放各种“无损”音频文件。[开源](https://code.google.com/archive/p/xld/source)。
-- [HandBrake](https://handbrake.fr/) - 高性能的视频编码和转换工具，具有很好的图形用户界面。[开源](https://github.com/HandBrake/HandBrake)。
-- [MPlayerX](http://mplayerx.org) - 媒体播放器。[![开源][OSS Icon]](https://github.com/niltsh/MPlayerX) 。
-- [Shotcut](https://www.shotcut.org) - 免费开源视频编辑器。 [开源](https://github.com/mltframework/shotcut)。
+
+### 音乐播放器
+
+- [TIDAL](https://offer.tidal.com/) - A streaming service for all music fans.
+
+- [spotify](https://www.spotify.com/) - Spotify is all the music you'll ever need.
+
+### 屏幕录制
+
 - [ScreenFlow](http://www.telestream.net/screenflow/) - 屏幕和视频编辑软件。
-- [ArcTime](http://www.arctime.org/) - 跨平台字幕制作软件。
-- [Perian](http://perian.org/#download) - 让QuickTime播放所有常见格式的免费插件。[开源](https://github.com/MaddTheSane/perian) 。[荐]
 
-
-
-
+- [OBS Studio](https://obsproject.com/zh-cn) - 免费且开源的用于视频录制以及直播串流的软件。
 
 ## 七、开发工具
-
-
-
-
-
-
 
 ### 版本控制分类
 
@@ -682,7 +659,6 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 - [iHosts](http://toolinbox.net/iHosts/) - 唯一上架 [Mac App Store](https://itunes.apple.com/cn/app/id1102004240) 的 /etc/hosts 编辑神器。
 - [SwitchHosts](https://oldj.github.io/SwitchHosts/) - 一个管理、切换多个 hosts 方案的工具。[开源](https://github.com/oldj/SwitchHosts) 。
 - [Gas Mask](https://github.com/2ndalpha/gasmask) - 编辑 hosts 文件的工具，更简单方便。[开源](https://github.com/2ndalpha/gasmask)。
-- [Kaleidoscope](http://www.kaleidoscopeapp.com/) - 一款很强大的文本文件和图像比较工具，同时和 git、svn 等版本控制工具能够完美的结合。
 - [Fanvas](https://github.com/TencentOpen/Fanvas) - 把swf转为HTML5 canvas动画的系统。[开源](https://github.com/oklai/koala/)。
 - [EnvPane](https://github.com/hschmidt/EnvPane) - 图形终端查看环境变量的应用工具。[开源](https://github.com/hschmidt/EnvPane)。
 - [Dash](https://kapeli.com/dash) - 强大到你无法想象的API离线文档软件。[荐]。
