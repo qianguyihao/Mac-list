@@ -25,7 +25,11 @@
 
 ### gif图生成
 
-- [Licecap](http://www.cockos.com/licecap/) - 是一款屏幕录制工具输出GIF，录制过程中可以随意改变录屏范围，录制的文件也非常小。支持 Mac 和 Windows 平台。[开源](https://github.com/justinfrankel/licecap) 【荐】。录制结束后，如果觉得文件过大，可以在这个网站<https://ezgif.com/optimize>上进行压缩。
+- [Licecap](http://www.cockos.com/licecap/) - 是一款屏幕录制工具输出GIF，录制过程中可以随意改变录屏范围，录制的文件也非常小。支持 Mac 和 Windows 平台。[开源](https://github.com/justinfrankel/licecap) 【荐】。
+
+录制结束后，如果觉得文件过大，可以在这个网站<https://ezgif.com/optimize>上进行压缩。
+
+- [Gifox](https://gifox.io/) - 专业的高颜值GIF 录制应用。
 
 - [Gifski](https://sindresorhus.com/gifski) - 一款视频转 GIF 的工具，只需拖入即可完整转换。可选择缩放比例、帧率、质量，还能实时看到对应体积，简单易用。
 
@@ -42,7 +46,7 @@
 ### 输入法
 
 * [搜狗输入法](http://pinyin.sogou.com/mac/) - 搜狗输入法。【荐】
-* [RIME](http://rime.im/) - 中州韻輸入法引擎。[开源](https://github.com/rime)。
+* [RIME](http://rime.im/) - 中州韻輸入法引擎。[开源](https://github.com/rime)。在Mac平台的名字叫「鼠须管」。 【荐】
 * [百度输入法](https://srf.baidu.com/input/mac.html) - 支持拼音五笔输入。
 * [清歌五笔输入法](https://qingg.im/index.html) - 为 iOS 和 Mac 专门打造的五笔输入法。
 * [WBIM](http://www.pawpawsoft.com) - 五笔输入法。
@@ -132,10 +136,12 @@
 
 ### 翻译工具
 
-* [有道翻译](http://cidian.youdao.com/multi.html) - 有道词典桌面版。
-* [eudic](http://www.eudic.net/eudic/mac_dictionary.aspx) - 欧路词典。
-* [辞海词典](http://cidian.dict.cn/mac.html) - 学单词、背单词、辞海词典。
-* [iTranslate](http://www.itranslate.com/) - 支持全世界超过 80 种语言发音和输出。
+- [欧路词典](http://www.eudic.net/eudic/mac_dictionary.aspx) - 欧路词典。
+- [有道翻译](http://cidian.youdao.com/multi.html) - 有道词典桌面版。
+- [Bob](https://ripperhe.gitee.io/bob/#/) - 截图翻译软件。
+- [iTranslate](http://www.itranslate.com/) - 支持全世界超过 80 种语言发音和输出。
+
+
 
 ### Magic mouse 鼠标增强
 
@@ -285,7 +291,9 @@ Dozer 操作方法很简单，Dozer运行后在菜单栏会出现一个「‧」
 ### 思维导图软件
 
 - [XMind](http://www.xmind.net) - 思维导图软件。[荐]
-- [MindNode](https://mindnode.com/)
+- [MindNode](http://mindnode.com/) - 简洁的风格与人性化的操作，绘制思维脑图。[荐]
+- iThoughtX - 进阶用户喜欢用它画脑图。[荐]。[#](https://sspai.com/post/31516)
+
 
 
 ### 即时通信 IM
@@ -424,25 +432,26 @@ Dozer 操作方法很简单，Dozer运行后在菜单栏会出现一个「‧」
 
 ### 原型设计、交互设计
 
-- [Sketch](http://www.sketchapp.com/) - 混合矢量/位图布局应用，特别适用于用户界面，Web和移动设计。[荐]
+- [Sketch](http://www.sketchapp.com/) - 特别适用于用户界面，Web和移动设计。[荐]
 
-- [Axure RP 8](http://www.axure.com) - 画原型图工具，团队协作SVN方便好用。[荐]
+- [Figma](https://www.figma.com/) - 新一代原型设计工具。[荐]
 
+- [Axure RP 8](http://www.axure.com) - 画原型图工具。
 
 - [OmniGraffle](https://www.omnigroup.com/omnigraffle) - 可用来绘制图表、流程图、组织结构图、思维导图以及插图或原型。
 
-
 - [Balsamiq Mockups](https://balsamiq.com/products/mockups/) - 一个快速的网页设计原型工具，帮助你更快、更聪明的工作。
 
-- [MindNode](http://mindnode.com/) - 简洁的风格与人性化的操作，绘制思维脑图。[荐]
-
-- iThoughtX - 进阶用户喜欢用它画脑图。[荐]。[#](https://sspai.com/post/31516)
 
 ### 图片管理
 
 - [Eagle](https://cn.eagle.cool/) - 图片管理必备工具。30天试用期。
 
 Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整理、查找」的各种场景，支持 Mac 与 Windows 系统。号称图片管理中的印象笔记。
+
+### 3D设计软件
+
+- [Blender](https://www.blender.org/) - 三维图像设计软件。
 
 ## 六、视频&音频
 
@@ -590,32 +599,11 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 
 > 这里主要是推荐一些软件下载的网站，还有一些MacOS软件分享网站。
 
-
 ### Mac工具介绍
 
 * 少数派：[http://sspai.com/tag/Mac](http://sspai.com/tag/Mac)
 * Mac玩儿法：[http://www.waerfa.com](http://www.waerfa.com)
 - [OurMacs](https://ourmacs.com) - 优秀的mac应用。
-
-
-### 正版Mac软件下载
-
-*这里只提供正版软件购买下载的应用商店。*
-
-- [HackStore](http://hack-store.com/) - 一个类似于cydia的第三方Mac应用市场，平台拒绝盗版。
-- [homebrew-cask](http://caskroom.io) - 体验通过命令行安装Mac软件的工具。
-- MacUpdate：[https://www.macupdate.com/](https://www.macupdate.com/) - 管理/更新/下载App，跟踪优惠信息。
-- App Shopper：[http://appshopper.com/](http://appshopper.com/)
-- 类似于iOS上Cydia一样的第三方软件商店：[http://hack-store.com](http://hack-store.com)
-
-### 应用商店黑名单
-
-> 第三方应用市场APP黑名单，存在盗版软件传播和下载，拒绝盗版从我做起，欢迎大家监督它们。
-
-- [腾讯电脑管家](http://mac.guanjia.qq.com/) - 电脑管家for Mac 带应用市场。
-- [迅雷Thunder Store](http://mac.xunlei.com/app/) - 迅雷Thunder for Mac 带应用市场。
-- [Mac软件宝箱](http://box.macx.cn/) - Macx推出软件宝箱。
-- [MacHunter](http://www.machunter.net/) - Mac应用市场。
 
 
 ### 盗版Mac软件下载网站黑名单
@@ -640,23 +628,11 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 
 - mac毒：<https://www.macdu.org/>
 
-- 玩转苹果：<http://www.ifunmac.com>
-
-- Mac软件下载站：<http://www.pshezi.com>
-
-- MacPeers：<http://www.macpeers.com>
-
-- Mac志：<http://www.isofts.org>
-
-- Mac软件分享：<http://www.waitsun.com>
 
 - AppKed：<http://www.macbed.com>
 
-- 苹果软件园：<http://www.maczapp.com>
-
 - Macx：<http://www.macx.cn/>
 
-- 腾牛网：<http://www.qqtn.com/mac/r_17_1.html>
 
 **[⬆ 返回顶部](#目录)**
 
