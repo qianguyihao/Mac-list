@@ -18,20 +18,9 @@
 
 
 - [shottr](https://shottr.cc/) - 面向像素的屏幕截图工具，支持智能测距、滚动截图、元素智能删除、打码或隐藏、OCR 文本识别、距离标注等功能。他是为像素级专业人士（设计师、前端开发人员等）服务的，它的强项是精确度和速度，其杀手特征是变焦。【荐】。
-
 - [Xnip](https://zh.xnipapp.com)- Mac上方便好用的截图工具，支持滚动截图；最大的优点是，**截图可以自带阴影，效果不错**。[#](https://sspai.com/post/42654)。【荐】
-
 - [Picsee](http://picsee.chitaner.com/) - 看图 & 截图。
-
-- [Annotate](https://itunes.apple.com/cn/app/annotate-capture-and-share/id918207447?mt=12) - 款非常强大的图片注释软件，可对屏幕截图或者现有图片进行批注。同时，在基础的图片注释功能上还增加了“局部高亮”、“Emoji 表情”、 ”GIF 动图录制与注释“、“与 Dropbox/CloudApp 同步数据“等功能，虽然没有 Skitch 的图片管理功能，也没有 Napkin 的图片拼贴功能，但从注释操作的需求上看，它的确算是 No.1。[#](https://sspai.com/post/30486)
-
-- [截图(Jietu)](http://jietu.qq.com/) - 截图附带强大的标注功能，腾讯作品。支持截图生成二维码。支持视频录制，可以录制成gif、mp4、mov等格式。 [#](https://www.v2ex.com/t/280552) [#](http://sspai.com/33021)
-
-- [Skitch](https://evernote.com/intl/zh-cn/skitch/) - 截图附带强大的标注功能。
-
-- [Snip](http://snip.qq.com/) - 高效的截图工具，支持滚动截屏，腾讯作品。
-
-- [snappy](https://itunes.apple.com/cn/app/snappy-snapshots-the-smart-way/id512617038?mt=12) - 官网地址：<http://snappy-app.com/>。新出来的一款截图工具，截图之后可生成悬浮窗。[#](http://www.ifanr.com/app/891044)[#](https://sspai.com/post/36375)
+- [Annotate](https://itunes.apple.com/cn/app/annotate-capture-and-share/id918207447?mt=12) - 可对屏幕截图或者现有图片进行批注。同时，在基础的图片注释功能上还增加了“局部高亮”、“Emoji 表情”、 ”GIF 动图录制与注释“、“与 Dropbox/CloudApp 同步数据“等功能。[#](https://sspai.com/post/30486)
 
 
 ### gif图生成
@@ -53,22 +42,13 @@
 ### 输入法
 
 * [搜狗输入法](http://pinyin.sogou.com/mac/) - 搜狗输入法。【荐】
-
-* [百度输入法](https://srf.baidu.com/input/mac.html) - 支持拼音五笔输入。
-
-* [清歌五笔输入法](https://qingg.im/index.html) - 为 iOS 和 Mac 专门打造的五笔输入法。
-
-* [WBIM](http://www.pawpawsoft.com) - 五笔输入法。
-
-* [Rocket](http://matthewpalmer.net/rocket/) - Emoji标签输入。
-
-* [颜文字](https://itunes.apple.com/cn/app/yan-wen-zi/id914708191?mt=12) - 颜文字输入。
-
 * [RIME](http://rime.im/) - 中州韻輸入法引擎。[开源](https://github.com/rime)。
-
+* [百度输入法](https://srf.baidu.com/input/mac.html) - 支持拼音五笔输入。
+* [清歌五笔输入法](https://qingg.im/index.html) - 为 iOS 和 Mac 专门打造的五笔输入法。
+* [WBIM](http://www.pawpawsoft.com) - 五笔输入法。
+* [Rocket](http://matthewpalmer.net/rocket/) - Emoji标签输入。
+* [颜文字](https://itunes.apple.com/cn/app/yan-wen-zi/id914708191?mt=12) - 颜文字输入。
 * [哈利路亚英文输入法](https://github.com/dongyuwei/hallelujahIM) - 智能英文输入法，具备自动补全，自动纠错功能。
-
-* ~~[QQ输入法](http://qq.pinyin.cn/) - 腾讯出品的输入法。~~
 
 
 ### 下载工具
@@ -141,26 +121,20 @@
 ### 浏览器
 
 - [Safari](http://www.apple.com/cn/safari/) - Mac预装自带浏览器。
+
 - [Chrome](http://www.google.cn/chrome/browser/) - Chrome浏览器谷歌出品。
+
 - [Firefox](http://www.firefox.com.cn/) - 火狐浏览器。
+
 - [Opera](http://www.opera.com/zh-cn) - Opera 浏览器。
-- [QQ浏览器](http://browser.qq.com/mac/) - QQ浏览器－腾讯出品。
-- [傲游云浏览器](http://www.maxthon.cn/mac/) - 傲游云浏览器。
-- [Vivaldi](https://vivaldi.com/) - Opera开发商出品新的浏览器。
-- [Ōryōki](http://oryoki.io/) - 小的web浏览器。这是一个试验性的项目，目前正在开发中。
-
-
 
 
 
 ### 翻译工具
 
 * [有道翻译](http://cidian.youdao.com/multi.html) - 有道词典桌面版。
-
-* [辞海词典](http://cidian.dict.cn/mac.html) - 学单词、背单词、辞海词典。
-
 * [eudic](http://www.eudic.net/eudic/mac_dictionary.aspx) - 欧路词典。
-
+* [辞海词典](http://cidian.dict.cn/mac.html) - 学单词、背单词、辞海词典。
 * [iTranslate](http://www.itranslate.com/) - 支持全世界超过 80 种语言发音和输出。
 
 ### Magic mouse 鼠标增强
@@ -187,13 +161,10 @@
 * [Karabiner](https://pqrs.org/osx/karabiner/) - 一个强大的和稳定的OS X的键盘定制。[[开源](https://github.com/tekezo/Karabiner)
 * [Keytty](http://keytty.com) - 让你通过键盘使用鼠标。
 * [AppCleaner](http://freemacsoft.net/appcleaner/) - 一个小应用程序，让你彻底卸载不需要的应用程序。
-* [BetterZip 3](https://macitbetter.com/) - 压缩解压缩工具支持格式 ZIP、TAR、TGZ、TBZ、TXZ (new)、7-ZIP、RAR。[荐]
 * [Numi](http://numi.io/) - 漂亮的计算器应用。
 * [Day-O 2](http://www.shauninman.com/archive/2016/10/20/day_o_2_mac_menu_bar_clock) - 菜单日历更换内置日历。
 * [OnyX](http://www.titanium.free.fr/) - 多功能实用工具来验证磁盘和文件，运行清洁和系统维护任务，配置隐藏选项等。
 * [SSH Tunnel](https://codinn.com/products/ssh-tunnel/) - 管理你的SSH。
-* [Mounty](http://enjoygineering.com/mounty/) - NTFS 分区读写组件。
-* [Paragon NTFS](https://www.paragon-software.com/home/ntfs-mac/) - 在Mac OS X中完全读写、修改、访问Windows NTFS硬盘、U盘等外接设备的文件。
 * [Tuxera NTFS](http://www.tuxera.com/products/tuxera-ntfs-for-mac/) - Mac上的NTFS文件系统驱动。
 * [gfxCardStatus](https://gfx.io/) - 控制Mac独立显卡与集成显卡之间的切换。
 * [openEmu](http://openemu.org/) - 模拟器，可以玩魂斗罗之类，放松回到小时候。[[开源]](https://github.com/OpenEmu/OpenEmu)
@@ -210,7 +181,6 @@
 * [iStats](https://github.com/Chris911/iStats) - iStats 是一个可以让你快速查看电脑 CPU 温度，磁盘转速和电池等信息的命令行工具。[[开源]](https://github.com/Chris911/iStats)
 * [InsomniaX](https://www.macupdate.com/app/mac/22211/insomniax) - 合上盖子不眠不休，继续听歌下载。
 * [NoSleep](https://www.macupdate.com/app/mac/37991/nosleep) - 合上盖子不休眠，可根据是否连接电源单独设置。
-
 * Finder
     * [Quicklook-Plugins](https://github.com/sindresorhus/quick-look-plugins) - Finder快速预览文件插件。
     * [Path Finder](http://www.cocoatech.com/pathfinder/) - 强大的Finder替代者，拥有很多特性。
@@ -248,14 +218,14 @@
 
 Dozer 操作方法很简单，Dozer运行后在菜单栏会出现一个「‧」，点击它，然后会在左侧出现另外一个「‧」，按住 command 键拖曳软件图标到最左侧即可。然后点击右侧的「‧」，软件图标就会被隐藏。
 
+### Mac系统管理、磁盘清理
 
-### Mac系统管理、内存管理
-
+- [腾讯柠檬清理](https://lemon.qq.com/) - 匠心打磨清理体验，一键释放磁盘空间。[荐]
+- [OmniDiskSweeper](https://www.omnigroup.com/more/) - 最简单易操作、免费的、强大的Macbook内存清理软件。它可以深度清掉Mac里那些犄角旮旯里的缓存数据，也就是那些占了很多内存但是你并找不到在哪里的「其他」。[#](https://web.okjike.com/originalPost/61fbdd4d0256da0010792d62)
+- [CleanMyMac X](https://cleanmymac.com/) - 删除系统垃圾、不需要的应用程序和恶意软件，并调整你的 Mac 以获得最大速度。
 - [Caffeinated](https://caffeinated.app/) - 防止系统进入休眠状态。
-
 - [DaisyDisk](https://daisydiskapp.com/) - 磁盘分析工具。了解磁盘使用状况，并进行准确的分析。DaisyDisk 的视觉系属性大大超过了功能性。 [#](https://www.twblogs.net/a/5baad01e2b7177781a0e94d6/zh-cn)
-
-- [MacBooster](http://www.carrotchou.blog/5245.html) - 磁盘、内存清理工具。【荐】
+- [MacBooster](http://www.carrotchou.blog/5245.html) - 磁盘、内存清理工具。[荐]
 
 
 ### 数据恢复
@@ -282,7 +252,6 @@ Dozer 操作方法很简单，Dozer运行后在菜单栏会出现一个「‧」
 - [Parallels Desktop](http://www.parallels.com/) - 虽然好用但是收费机制，更新花钱、花钱、花钱。[hot]
 - [Virtual Box](http://www.virtualbox.org) - 免费、免费、免费，带NTFS读写，不用买ParagonNTFS，省100块。
 - [VMWare Fusion](http://www.vmware.com/) - 强大的虚拟机，商业软件。
-- [Veertu](https://veertu.com) - Mac上最轻便的虚拟机，只有跑Windows才会收费。比较新，很多功能不支持。
 
 
 ## 三、办公软件
@@ -321,12 +290,11 @@ Dozer 操作方法很简单，Dozer运行后在菜单栏会出现一个「‧」
 
 ### 即时通信 IM
 
+- [Telegram](https://desktop.telegram.org) - 最安全的聊天软件，也可以作为新闻资讯的频道【荐】。推荐链接：https://cn.tgstat.com/
 - [Discord](https://discord.com/) - 有组织、有结构地讨论；产品细节体验Max；中文支持友好；全平台同步聊天记录；全局搜索功能很好用。比 slack 更酷。【荐】
-- [Telegram](https://desktop.telegram.org) - 最安全的聊天软件，也可以作为新闻资讯的频道。推荐链接：https://cn.tgstat.com/
 - [微信](https://mac.weixin.qq.com/)
 - [QQ](http://im.qq.com/macqq/index.shtml)
 - [WeeChat](https://weechat.org/) - 一个命令行聊天客户端。
-- [御飯](https://imach.me/gohanapp/) - 饭否第三方Mac应用。
 
 ### 社交
 
@@ -340,12 +308,7 @@ Dozer 操作方法很简单，Dozer运行后在菜单栏会出现一个「‧」
 - [Textual](https://www.codeux.com/textual) - 最受欢迎的世界与我们相关的KPI应用 for OS X。
 - [Gitter](https://gitter.im) - 关于GitHub的项目交流，支持 Markdown，对开发者极为友好。
 - [简聊](https://github.com/jianliaoim/talk-os) - 企业级即时沟通工具，已经下线了，可以自己搭建一套[系统](https://github.com/jianliaoim/talk-os)玩儿。
-- [零信](https://pubu.im/apps/osx) - 随时随地工作，跨平台。
-- [今目标](http://www.jingoal.com/client/mac/mac.htm) - 一款面向中小企业的互联网工作平台。
-- [BearyChat](https://bearychat.com/) - 互联网团队协作，沟通工具。
 - [Bitpost](https://voluntary.net/bitpost/) - 私人分散消息，[开源](https://github.com/Voluntarynet/Bitpost)。它是一个p2p的去中心化和无须第三方提供信用担保协议。
-- [Teambition](https://www.teambition.com) - 团队协作。提供管理任务、安排日程、查找文件、即时讨论等团队所需要的一切协作功能。
-- [日事清](https://www.rishiqing.com) - 个人日程管理，团队协作工具。日程安排，计划分配，笔记总结等。
 - [Coding.net](https://coding.net) - 代码托管，项目管理，WebIDE，演示部署，开启云端开发模式，让开发更简单。
 
 ### Email
@@ -353,36 +316,25 @@ Dozer 操作方法很简单，Dozer运行后在菜单栏会出现一个「‧」
 > 其实 Mac 自带的邮件客户端已经很好用了。
 
 - [Spark](https://sparkmailapp.com/) - 新推出的快速邮件客户端支持Mac和iPhone。[荐]
+- [Foxmail](http://www.foxmail.com/mac/) - 快速的邮件客户端。
 - [网易邮箱大师](http://mail.163.com/dashi/dlpro.html)。[#](https://www.waerfa.com/neteasemailmaster-for-mac)
-* [Airmail](http://airmailapp.com) - 快速的邮件客户端支持Mac和iPhone。
-* [Foxmail](http://www.foxmail.com/mac/) - 快速的邮件客户端。
-* [MailTags](https://smallcubed.com/mt/) - 管理和组织邮件，日程和标签进行分类邮件。
-* [N1](https://www.nylas.com/n1) - 可以扩展的开源收费邮件客户端。
-* [Postbox](https://www.postbox-inc.com) - 这个貌似也非常强大哦，关键是简洁漂亮的收费邮件客户端。
-* [Polymail](https://polymail.io/) - 简单，功能强大，长得好看的新晋邮件客户端。
-* [CloudMagic Email](https://cloudmagic.com/) - 界面非常简洁的一个邮件客户端。
-* [ThunderBird](https://www.mozilla.org/zh-CN/thunderbird/) - Mozilla 公司出品的强大的Email客户端程序。
 
 
 ## 四、笔记、阅读、写作
 
-
 ### 笔记软件 & 知识管理
 
 - [Notion](https://www.notion.so/) - 新生代笔记软件。【荐】
+- [AppFlowy](https://www.appflowy.io/) - 类似于 Notion 的[开源](https://github.com/AppFlowy-IO/appflowy)版本。
 - [flomo](https://flomoapp.com/) - 碎片化记录。重要的不是记录，而是更好地思考。【荐】
 - [obsidian](https://obsidian.md/) - 第二大脑。
 - [Roam Research](https://roamresearch.com/) - A note-taking tool for networked thought
 - [WorkFlowy](https://workflowy.com/downloads/mac/) - 很可能是极简主义者梦想中的笔记应用。
-- [AppFlowy](https://www.appflowy.io/) - 类似于 Notion 的[开源](https://github.com/AppFlowy-IO/appflowy)版本。
 - [为知笔记](http://www.wiz.cn/download.html) - 支持Markdown，搜集整理图片链接导入文档。
 - [印象笔记](https://www.yinxiang.com/) - 记录一切。
 - [有道云笔记](http://note.youdao.com/) - 支持多目录，Markdown，iWork/Office预览。
 - [Quiver](http://happenapps.com/#quiver) - 程序猿的笔记本。
 - [leanote](http://app.leanote.com) - 蚂蚁笔记，支持Markdown的一款[开源](https://github.com/leanote/leanote)笔记软件，支持直接成为个人博客。
-- [Inkdrop](https://www.inkdrop.info/) - Markdown爱好者的笔记本应用程序。
-- [Notes](http://www.get-notes.com/) - 简洁的笔记应用。 [开源](https://github.com/nuttyartist/notes)
-
 
 
 ### 网络文章阅读
@@ -440,7 +392,7 @@ Dozer 操作方法很简单，Dozer运行后在菜单栏会出现一个「‧」
 
 ### RSS订阅
 
-- [(inoreader](https://www.inoreader.com/) - 重新掌控你的新闻订阅源。[荐]
+- [inoreader](https://www.inoreader.com/) - 重新掌控你的新闻订阅源。[荐]
 - [Feeds 2](http://www.feedsapp.com/) - 监控任何RSS。
 - [Reeder 3](http://reederapp.com/mac/) - RSS 服务订阅。[hot]
 - [ReadKit](http://readkitapp.com/) - 书签RSS管理客户端。
@@ -458,9 +410,7 @@ Dozer 操作方法很简单，Dozer运行后在菜单栏会出现一个「‧」
 
 ## 五、图像处理&设计
 
-
 ### 图片编辑
-
 
 - Photoshop - 最强大的位图处理软件。[荐]
 
@@ -478,21 +428,11 @@ Dozer 操作方法很简单，Dozer运行后在菜单栏会出现一个「‧」
 
 - [Axure RP 8](http://www.axure.com) - 画原型图工具，团队协作SVN方便好用。[荐]
 
-- [Justinmind](http://www.justinmind.com) - 功能更丰富团队协作方便。
-
-- [MockFlow](https://www.mockflow.com) - 用于网页设计和可用性测试的在线原型设计套件。
-
-- [Mockplus](http://www.mockplus.com) - 更快更简单的原型设计工具。
 
 - [OmniGraffle](https://www.omnigroup.com/omnigraffle) - 可用来绘制图表、流程图、组织结构图、思维导图以及插图或原型。
 
-- [Scapple](http://www.literatureandlatte.com/scapple.php) - 一款实用的思维导图软件。
-
-- [Framer](http://framerjs.com/) - 做交互原型的工具。![hot][hot Icon] [star 5]
 
 - [Balsamiq Mockups](https://balsamiq.com/products/mockups/) - 一个快速的网页设计原型工具，帮助你更快、更聪明的工作。
-
-- [Marvel](https://marvelapp.com/) - 简单设计，原型设计和协作。
 
 - [MindNode](http://mindnode.com/) - 简洁的风格与人性化的操作，绘制思维脑图。[荐]
 
@@ -503,48 +443,6 @@ Dozer 操作方法很简单，Dozer运行后在菜单栏会出现一个「‧」
 - [Eagle](https://cn.eagle.cool/) - 图片管理必备工具。30天试用期。
 
 Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整理、查找」的各种场景，支持 Mac 与 Windows 系统。号称图片管理中的印象笔记。
-
-### 其它工具
-
-- [Blender](https://www.blender.org/) - 全功能可扩展的跨平台3D内容套件。[开源](https://developer.blender.org/)
-
-- [Sketch Toolbox](http://sketchtoolbox.com/) - 一个超级简单的Sketch插件管理器。[开源](https://github.com/buzzfeed/Sketch-Toolbox)
-
-- [inklet](https://tenonedesign.com/inklet.php) - 将Mac上的触摸板变成绘图板。
-
-- [Monodraw](http://helftone.com/) - 一款文本图像编辑器。
-
-- [SketchBook](https://www.sketchbook.com/?locale=cn) - 出众的绘图软件。
-
-- [Tayasui Sketches](http://www.tayasui.com/sketches/) - 专业的绘图软件。
-
-- [Nik Collection](https://www.google.com/nikcollection/) - 专业照片后期制作工具Google收购后免费。
-
-- [Paintbrush](http://paintbrush.sourceforge.net/) - 位图图像编辑器。[开源](https://sourceforge.net/projects/paintbrush/files/)
-
-- [Krita](https://krita.org/) - 一个开源的位图形编辑软件，包含一个绘画程式和照片编辑器。 [开源](http://download.kde.org/stable/krita/3.0/krita-3.0.tgz.mirrorlist)
-
-- [Vectr](https://vectr.com/) - 免费图形编辑器。这是一个简单而强大的Web和桌面跨平台工具，把你的设计变成现实。
-
-- [Principle](http://principleformac.com/) -  使用它很容易设计动画和交互式用户界面。[star 5]
-
-- [MagicaVoxel](https://ephtracy.github.io/) - 轻量级的8位像素编辑和交互路径追踪渲染器。
-
-- [ScreenToLayers](http://jeremyvizzini.com/screentolayers/) - 轻松导出桌面分层文件PSD文件。[开源](https://github.com/jeremyvizzini/ScreenToLayers)
-
-
-- [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) - 图片压缩专用开源工具。[开源](https://github.com/kyleduo/TinyPNG4Mac)
-- [Image2icon](http://www.img2icnsapp.com) - 将你的图片转换成图标。
-- [ImageAlpha](https://pngmini.com/) - 压缩PNG图片，去掉无效的透明。[开源](https://github.com/pornel/ImageAlpha)
-- [ImageOptim](https://imageoptim.com/mac) - 压缩图片，删除EXIF信息。[开源](https://github.com/ImageOptim/ImageOptim)
-- [Sip](http://theolabrothers.com/) - 收集，整理和分享你的颜色拾色器。
-- [Frank DeLoupe](http://jumpzero.com/frank/) - 支持 Retina 的屏幕拾色器。
-- [ColorSchemer](http://www.colorschemer.com/) - 专业的配色、调色软件。
-- [IconKit](https://itunes.apple.com/cn/app/iconkit-icon-resizer-for-app/id507135296?mt=12) - App图标自动生成器。
-- [GIPHY Capture](https://itunes.apple.com/us/app/giphy-capture.-the-gif-maker/id668208984) - 免费软件的捕捉和分享图片在桌面上。
-- [Iconjar](http://geticonjar.com/) - 图标管理软件，带组织和搜索功能。[star 5]
-- [RightFont](http://rightfontapp.com/) - 字体管理工具。[star 4]
-- [Solarized](http://ethanschoonover.com/solarized) - 干净清爽的颜色主题，支持iTerm、Intellij IDEA、Vim等。
 
 ## 六、视频&音频
 
@@ -575,8 +473,10 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 
 ### 版本控制-GUI软件
 
-- [Tower2](https://www.git-tower.com/) - 最强大的Git客户端。[荐]
+- [Tower](https://www.git-tower.com/) - 强大的Git客户端。[荐]
 - [SourceTree](https://www.sourcetreeapp.com/) - 强大的Git跨平台客户端。[荐]
+- [GitKraken](https://www.gitkraken.com/) - 强大的Git客户端。[荐]
+
 
 - [GitHub Desktop](https://desktop.github.com/) - 使用GitHub的GUI应用。
 - [Gitbar](https://github.com/Shikkic/gitbar) - 开源，在你的菜单栏上显示GitHub贡献统计。
@@ -596,8 +496,6 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 * [Gerrit](https://gerrit.rockbox.org) Gerrit 是一个免费、开放源代码的代码审查软件，使用网页界面。
 * [Gitblit](http://www.gitblit.com/) Java版本Git代码托管，项目管理。
 
-
-
 ### FTP客户端
 
 -  [FileZilla](https://filezilla-project.org) - 跨平台的FTP，FTPS和SFTP客户端。[荐]
@@ -608,8 +506,7 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 
 - [Yummy FTP](http://www.yummysoftware.com) - 专业快速，可靠的FTP客户端。
 
--0 [Cyberduck](https://cyberduck.io) - 免费FTP，SFTP，S3和WebDAV客户端 & OpenStack Swift Client。
-
+- [Cyberduck](https://cyberduck.io) - 免费FTP，SFTP，S3和WebDAV客户端 & OpenStack Swift Client。
 
 
 ### 代码编辑器
@@ -617,12 +514,6 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 - [Visual Studio Code](http://code.visualstudio.com) - 微软推出的免费、[开源]((https://github.com/Microsoft/vscode))编辑器，TypeScript支持杠杠的。【荐】
 - [Sublime Text](http://www.sublimetext.com/3) - 一个比较简洁大方带插件管理系统的流行编辑器，[Sublime常用插件](editor-plugin.md#sublime-text-plugin)。[荐]
 - [Atom](https://atom.io) - GitHub推出的[开源](https://github.com/atom/atom)编辑器。
-- [Brackets](http://brackets.io) - Adobe推出的Brackets免费/开源编辑器。[开源](https://github.com/adobe/brackets/)
-- [Emacs](https://www.emacswiki.org/emacs/EmacsForMacOS) - Emacs是基于控制台的编辑器和高度可定制的。
-- [LightTable](https://www.lighttable.com) - 下一代代码编辑器。[开源](https://github.com/LightTable/LightTable)
-- [TextMate](https://macromates.com) - 文本编辑器软件，与BBedit一起并称苹果机上的emacs和vim，这是以前。
-- [BBEdit](http://www.barebones.com/products/bbedit/) - 强大的文件编辑器，用于编辑文件，文本文件及程序源代码。
-- [Coda2](https://panic.com/coda) - 编写Web应用长得漂亮的编辑器。
 - [Vim](http://www.vim.org/) - Vim古老命令行中使用的编辑器。
   - [Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vim插件管理工具。[开源](https://github.com/VundleVim/Vundle.vim)
   - [vim-plug](https://github.com/junegunn/vim-plug) - 一个简约的vim插件管理器。[开源](https://github.com/junegunn/vim-plug)
@@ -632,8 +523,6 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
   - [Spacevim](https://github.com/ctjhoa/spacevim) -  模仿Spacemacs的使用方式。
   - [Spf13](http://vim.spf13.com/) - 一套全方位的配置项目。
 - [Vimr](http://vimr.org/) - Vim客户端，升级Vim体验。[开源](https://github.com/qvacua/vimr/)
-- [HBuilder](http://www.dcloud.io/) - HBuilder是DCloud（数字天堂）推出的一款支持HTML5的Web开发IDE。
-- [Tincta](https://mr-fridge.de/software/tincta/index.php) - 一个免费的文本编辑器。
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/) - 一款Java开发集成环境。(**学生**免费)[荐]
 - [Webstorm](http://www.jetbrains.com/webstorm/) - 是jetbrains公司旗下一款JavaScript开发工具。
   - **学生**免费，[点击这里](https://www.jetbrains.com/student/) 查看更多。
@@ -641,45 +530,24 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
     - [NodeJS](https://plugins.jetbrains.com/plugin/6098?pr=webStorm) - 集成`Node.js`，你肯定需要它，很多功能需要它。
     - [EditorConfig](https://plugins.jetbrains.com/plugin/7294?pr=webStorm) - 帮助开发者在不同的编辑器和IDE之间定义和维护一致的代码风格。
     - [Material Theme UI](https://plugins.jetbrains.com/plugin/8006?pr=webStorm) - Google为React开发的主题。
-- [Deco IDE](https://www.decosoftware.com/) - React Native IDE 支持控件拖拽界面实时变更。[开源](https://github.com/decosoftware/deco-ide)
-- [Xamarin Studio](https://www.xamarin.com/studio) - 免费的跨平台的C# IDE。支持iOS、Android和.net开发。[开源](https://github.com/mono/monodevelop) ![Freeware][Freeware Icon]
-- [NetBeans IDE](https://netbeans.org/) - 免费、开源的IDE，主要用于java开发，可支持多种语言和框架。[开源](https://netbeans.org/community/sources/) ![Freeware][Freeware Icon]
 - [Eclipse](https://www.eclipse.org) - 流行的开源IDE，主要用于Java，但为多种语言和平台的插件支持。
 
 
 
+### host修改工具
 
 
-### 开发者工具
-
-- [WeFlow](https://weflow.io/) - 一个基于 [tmt-workflow](https://github.com/weixin/tmt-workflow) 前端工作流的开发工具。[开源](https://github.com/weixin/WeFlow)。
-- [Koala](http://koala-app.com) - 预处理器语言图形编译工具，支持Less、Sass、CoffeeScript、Compass framework 的即时编译。[开源](https://github.com/oklai/koala/)。
-- [CodeKit](https://incident57.com/codekit/) - 自动编译Less、Sass、Stylus、CoffeeScript、Jade & Haml等文件。
-- [Hosts.prefpane](https://github.com/specialunderwear/Hosts.prefpane) - 编辑 hosts 文件的工具。[开源](https://github.com/specialunderwear/Hosts.prefpane)。
-- [iHosts](http://toolinbox.net/iHosts/) - 唯一上架 [Mac App Store](https://itunes.apple.com/cn/app/id1102004240) 的 /etc/hosts 编辑神器。
-- [SwitchHosts](https://oldj.github.io/SwitchHosts/) - 一个管理、切换多个 hosts 方案的工具。[开源](https://github.com/oldj/SwitchHosts) 。
-- [Gas Mask](https://github.com/2ndalpha/gasmask) - 编辑 hosts 文件的工具，更简单方便。[开源](https://github.com/2ndalpha/gasmask)。
-- [Fanvas](https://github.com/TencentOpen/Fanvas) - 把swf转为HTML5 canvas动画的系统。[开源](https://github.com/oklai/koala/)。
-- [EnvPane](https://github.com/hschmidt/EnvPane) - 图形终端查看环境变量的应用工具。[开源](https://github.com/hschmidt/EnvPane)。
-- [Dash](https://kapeli.com/dash) - 强大到你无法想象的API离线文档软件。[荐]。
-- [Dlite](https://github.com/nlf/dlite) - 简单的使用Docker的一个软件。[开源](https://github.com/nlf/dlite)
-- [SnippetsLab](https://www.renfei.org/snippets-lab/) - 管理和组织你的代码片段。
-- [StarUML](http://staruml.io) - 强大的软件建模软件。
-- [Vagrant Manager](http://vagrantmanager.com) - 管理你本地服务。[开源](https://github.com/lanayotech/vagrant-manager/)。
-- [zeplin](https://www.zeplin.io/) - 前端与设计协同工作专用工具。
-- [Go2Shell](http://zipzapmac.com/Go2Shell) - 从Finder打开命令行。
-- [MJML](https://mjmlio.github.io/mjml-app/) - 简化设计回应电子邮件的方式。[开源](https://github.com/mjmlio/mjml)。
-- [TeXstudio](http://www.texstudio.org) - 集成创建LaTeX文档的写作环境。 [开源](https://sourceforge.net/projects/texstudio/)。
-- [Vagrant](https://www.vagrantup.com) - 用来构建虚拟开发环境的工具。 [开源](https://github.com/mitchellh/vagrant)。[荐]
+- [SwitchHosts](https://oldj.github.io/SwitchHosts/) - 一个管理、切换多个 hosts 方案的工具。[开源](https://github.com/oldj/SwitchHosts) 。[荐]
+- [iHosts](http://toolinbox.net/iHosts/) - 唯一上架 [Mac App Store](https://itunes.apple.com/cn/app/id1102004240) 的 /etc/hosts 编辑神器，使用分组管理 Hosts，灵活组合、一键切换。
 
 
 ### 代码比对
 
+- [Kaleidoscope](https://www.kaleidoscopeapp.com/) - Kaleidoscope 是一款很强大的文件和图像比较工具，支持任何文本文件和 jpeg、tiff、png、psd 等格式的图像文件，同时和 git、svn 等版本控制工具能够完美的结合。[荐]。
+
 - [DiffMerge](http://sourcegear.com/diffmerge/) - 可视化的文件比较（也可进行目录比较）与合并工具。
 
 - [Beyond Compare](http://www.scootersoftware.com/download.php) - 对比两个文件夹或者文件，并将差异以颜色标示。无限期试用。license连接：[#](https://gist.github.com/huqi/35f2a0792aef830898ca)
-
-- [Kaleidoscope](https://www.kaleidoscopeapp.com/) - Kaleidoscope 是一款很强大的文件和图像比较工具，支持任何文本文件和 jpeg、tiff、png、psd 等格式的图像文件，同时和 git、svn 等版本控制工具能够完美的结合。[荐]。
 
 
 ### 正则编辑器
@@ -693,53 +561,14 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 
 ### 数据库
 
-- [Sequel Pro](http://www.sequelpro.com/) - 一个MySQL数据库管理软件。[开源](https://github.com/sequelpro/sequelpro)
-- [MySQL Workbench](http://dev.mysql.com/downloads/workbench/) - MySQL数据库官方管理软件。
-- [Postico](https://eggerapps.at/postico/) - 现代PostgreSQL客户端，漂亮功能多。
-- [ElectroCRUD](http://garrylachman.github.io/ElectroCRUD/) - MySQL数据库CRUD应用程序。[开源](https://github.com/garrylachman/ElectroCRUD)
-- [Base 2](http://menial.co.uk/base/) - 一个用于管理SQLite数据库的软件。
-- [Postgres.app](http://postgresapp.com/) - Mac上最简单的方法的使用PostgreSQL关系型数据库管理系统。[!开源](https://github.com/PostgresApp/PostgresApp)
-- [PSequel](http://www.psequel.com/) - PostgreSQL数据库GUI软件。
-- [Robomongo](https://robomongo.org/) - 基于Shell的MongoDB图形化客户端管理软件。[开源](https://github.com/paralect/robomongo)。
-- [MongoBooster](http://www.mongobooster.com/) - MongoDB图形化管理软件，内嵌MongoShell，ES6语法，流畅查询及智能感知。
-- [Mongo Management Studio](http://www.litixsoft.de/english/mms/) - MongoDB图形化客户端管理软件。
-- [MongoChef](http://3t.io/mongochef) - MongoDB图形化客户端管理软件。
-- [Chrome MySQL Admin](https://www.eisbahn.jp/chrome_mysql_admin) - 一个Chrome插件，是MySQL开发的跨平台、可视化数据库工具。[开源](https://github.com/yoichiro/chrome_mysql_admin)。
-- [JackDB](https://www.jackdb.com/) - 直接的SQL访问你所有的数据，无论在哪里。[![开源][OSS Icon]](https://github.com/yoichiro/chrome_mysql_admin) ![Freeware][Freeware Icon]
-- [medis](http://getmedis.com) - 漂亮的Redis管理软件。[开源](https://github.com/luin/medis)。
-- [RedisDesktopManager](http://redisdesktop.com) - Redis跨平台的GUI管理工具。[开源](https://github.com/uglide/RedisDesktopManager) 。
-- [MDB Explorer](http://www.macexplorer.co/en/mdb-explorer.php) - Mac上查看编辑Access数据库的工具。
-- [Datum - SQLite](http://datumapps.com/datum.html) - Sqlite3数据库管理软件。
-- [mongoDB.app](https://gcollazo.github.io/mongodbapp/) - 在Mac 上最简单的使用MongoDB [开源](https://github.com/gcollazo/mongodbapp)。
-- [DataGrip](http://www.jetbrains.com/datagrip/) - 是jetbrains公司旗下一款数据库管理工具。[点击这里](https://www.jetbrains.com/student/) **学生**免费。
-- [Tableau Public](https://public.tableau.com/s/) - 数据可视化工具。
-
+- [Navicat Premium](https://www.navicat.com/en/products/navicat-premium) - 一款连接多种类型数据库进行管理的工具，比如同时连接到MySQL，Oracle，SQL Server，SQLite和PostgreSQL数据库。【荐】
 
 
 ### 测试工具
 
 - [Charles](https://www.charlesproxy.com/) - 一个代理工具，允许你查看所有的HTTP和HTTPS流量。
-- [Insomnia 3.0](http://insomnia.rest/) - 漂亮的HTTP请求测试工具。
-- [Cocoa Rest Client](https://mmattozzi.github.io/cocoa-rest-client/) - 比Postman看起来漂亮的客户端，测试HTTP/REST endpoints。[开源](https://github.com/mmattozzi/cocoa-rest-client)
-- [Paw](https://luckymarmot.com/paw) - 先进的 HTTP 客户端。
-- [Cellist](http://cellist.patr0n.us/index.html) - HTTP调试客户端。
-- [Integrity](http://peacockmedia.software/mac/integrity/free.html) - 轻松找到无效链接。
 - [Postman](https://www.getpostman.com) - Postman 帮助我们快速测试API。[荐]
 
-
-### 软件打包工具
-
-* [Finicky](https://johnste.github.io/finicky/) - Web应用程序转化为苹果的应用程序。[开源](https://github.com/johnste/finicky)
-* [nw.js](http://nwjs.io) - 使用HTML和JavaScript来制作桌面应用。[开源](https://github.com/nwjs/nw.js)
-* [Electron](http://electron.atom.io) - 前身是 AtomShell，使用 JS、HTML 和CSS 构建跨平台的桌面应用程序。[开源](https://github.com/electron/electron)
-* [react-desktop](http://reactdesktop.js.org) - 为 macOS Sierra带来React UI组件。[开源](https://github.com/gabrielbull/react-desktop)
-* [React Native Desktop for Mac](https://github.com/ptmt/react-native-desktop) - 用 React Native 技术构建 OS X 下的桌面应用程序。[开源](https://github.com/ptmt/react-native-desktop)
-* [React Native Desktop for Ubuntu](https://github.com/CanonicalLtd/react-native) - 用 React Native 技术构建 Ubuntu 下的桌面应用程序。[开源](https://github.com/CanonicalLtd/react-native)
-* [AppJS](http://appjs.com/) - 使用 JS、HTML 和CSS 构建跨平台的桌面应用程序。[开源](https://github.com/appjs/appjs)
-* [HEX](http://hex.youdao.com/zh-cn/index.html) - 使用 JS、HTML 和CSS 构建跨平台的桌面应用程序，有道出品。[开源](https://github.com/netease-youdao/hex)
-* [AlloyDesktop](https://github.com/AlloyTeam/webtop) - 同上，腾讯出品，给个差评。[开源](https://github.com/AlloyTeam/webtop)
-* [MacGap](http://macgapproject.github.io/) - 桌面WebKit打包HTML、CSS、JS应用。[开源](https://github.com/MacGapProject)
-* [ionic](http://ionicframework.com/) - 一个用来开发混合手机应用的，开源的，免费的代码库。 [开源](https://github.com/driftyco/ionic)
 
 ### 命令行工具/终端/SSH 远程连接
 
@@ -752,26 +581,9 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 - [termius](https://termius.com/) - Mac 最好用的SSH连接客户端。
 
 
-- [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - 怀旧的命令行终端。[开源](https://github.com/Swordfish90/cool-retro-term)。
 - [Oh my zsh](http://ohmyz.sh) - 拥有大量的有用的功能，助手，插件，主题，等特性的命令行工具插件。[开源](https://github.com/robbyrussell/oh-my-zsh)。
-- [Glances](https://github.com/nicolargo/glances) - 在命令行中查看你系统运行状态的工具。[开源](https://github.com/nicolargo/glances)。
-- [Cakebrew](http://www.cakebrew.com) - [Homebrew](http://brew.sh) 的客户端软件。摆脱命令方便安装、查看、卸载软件。[开源](https://github.com/brunophilipe/Cakebrew/)。
-- [ndm](https://720kb.github.io/ndm) - 查看本地[NPM](http://npmjs.org/)安装的包客户端软件。摆脱命令方便安装、查看、卸载软件。[开源](https://github.com/720kb/ndm) 。
-- [Black Screen](https://github.com/shockone/black-screen) - 来自 21 世纪的强大终端。[开源](https://github.com/shockone/black-screen)。
-- [Fish Shell](https://fishshell.com/) - 智能且用户友好的命令行终端。
+
 - [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - 和**Oh my zsh**相似，建立在Fish Shell框架上。
-- [bash-it](https://github.com/Bash-it/bash-it) - 一个社区的bash的框架。
-- [color-retro-term](https://swordfishslabs.wordpress.com/2014/09/03/cool-old-term-is-dead-long-live-cool-retro-term/) - 一款复古风格的终端，非常酷炫。
-- [HyperTerm](https://hyperterm.org/) - 一款基于Node开发的终端软件，逼格很高。[开源](https://github.com/zeit/hyperterm)。
-- [itunes-remote](https://github.com/mischah/itunes-remote) - 通过终端控制您的iTunes。[开源](https://github.com/mischah/itunes-remote)。
-- [mycli](https://github.com/dbcli/mycli) - 为MySQL命令行客户端，提供语法高亮和提示功能的工具！ [开源](https://github.com/dbcli/mycli)。
-- [LNav](http://lnav.org) - 日志文件阅读器. [开源](https://github.com/tstack/lnav)。
-- [tmux](https://github.com/tmux/tmux) 终端登录远程主机的命令行工具。[开源](https://github.com/tmux/tmux)
-- [mas](https://github.com/mas-cli/mas) - 一个简单的命令行界面的苹果应用商店。 [开源](https://github.com/mas-cli/mas)。
-- [ShellCraft](http://www.shellcraftapp.com) - 强大的SSH/Telnet客户端。
-
-
-
 
 
 ## 八、网站推荐
@@ -795,7 +607,6 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 - MacUpdate：[https://www.macupdate.com/](https://www.macupdate.com/) - 管理/更新/下载App，跟踪优惠信息。
 - App Shopper：[http://appshopper.com/](http://appshopper.com/)
 - 类似于iOS上Cydia一样的第三方软件商店：[http://hack-store.com](http://hack-store.com)
-
 
 ### 应用商店黑名单
 
