@@ -107,7 +107,7 @@ PS：网上都是这个答案，但是我自己试了一下，还是不行。
 点击 Finder，在顶部菜单栏选择“前往”－“前往文件夹”，粘入 `/private/etc/` 这个路径（不带引号），找到`hosts`文件。
 
 
-### Pad上取消爱奇艺会员的续费
+### iPad上取消爱奇艺会员的续费
 
 ![](http://img.smyhvae.com/20180426_2338.png)
 
@@ -115,7 +115,7 @@ PS：网上都是这个答案，但是我自己试了一下，还是不行。
 ### Android手机连接Mac
 
 
-### 009 将 iMac 作为 MacBook pro 的外接显示器
+### 将 iMac 作为 MacBook pro 的外接显示器
 
 首先一定要看官方文档：[通过目标显示器模式将 iMac 用作显示器](https://support.apple.com/zh-cn/ht204592)
 
@@ -162,12 +162,13 @@ PS：网上都是这个答案，但是我自己试了一下，还是不行。
 
 方法2：安装软件[KeyRemap4MacBook](https://pqrs.org/osx/karabiner/)，将`F2`键重新映射为`display_brightness_increment`。如下：
 
-![](http://img.smyhvae.com/20180621_1310.png)
+![](https://img.smyhvae.com/20180621_1310.png)
 
 **方法2亲测有效**。我是看了[小试 iMac TDM 模式](http://blog.lanvige.com/2014/02/13/try-imac-tdm-mode/)这篇文章才知道的。也是从这篇文章得知，iMac作为外接显示器，这种模式叫做 **TDM（Target Display Mode）模式**。
 
 另外，还有一篇文章比较有意思，可以看看：[使用第三方键盘激活iMac TDM？没门儿！](https://www.yilan.io/article/56963cbdc609c2a7142a91d4)
 
+(呵呵，上面两个连接都失效了)
 
 ### mac下的局域网共享
 
