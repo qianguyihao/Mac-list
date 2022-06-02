@@ -115,9 +115,17 @@ PS：网上都是这个答案，但是我自己试了一下，还是不行。
 ### Android手机连接Mac
 
 
-### 将 iMac 作为 MacBook pro 的外接显示器
+### 将 iMac 作为 MacBook pro 的外接显示器（扩展显示器）
 
-首先一定要看官方文档：[通过目标显示器模式将 iMac 用作显示器](https://support.apple.com/zh-cn/ht204592)
+首先一定要看官方文档：
+
+- [通过目标显示器模式将 iMac 用作显示器](https://support.apple.com/zh-cn/ht204592)
+
+- [MacBook pro 2016 使用 iMac2013末 21寸作为外接显示器](https://discussionschinese.apple.com/thread/140129694)
+
+绿联网站也有详细的文档：
+
+- [苹果iMac如何用作显示器，成为MacBook扩展屏](https://www.lulian.cn/news/149-cn.html)
 
 
 我的MacBook pro是最新款的，接口全是type c的。如下：
@@ -125,7 +133,7 @@ PS：网上都是这个答案，但是我自己试了一下，还是不行。
 ![](http://img.smyhvae.com/20180621_1300.png)
 
 
-我的 iMac 是2013年款的，接口是Thunderbolt 2。如下：
+我的 iMac 是2013年款的，接口是 Thunderbolt 2。如下：
 
 ![](http://img.smyhvae.com/20180621_1305.png)
 
@@ -137,10 +145,10 @@ PS：网上都是这个答案，但是我自己试了一下，还是不行。
 
 - [Thunderbolt 2连接线 (2.0 米) | 285元](https://www.apple.com/cn/shop/product/MD861FE/A)
 
-注意，Thunderbolt 2和 Mini DisplayPort是有区别的，虽然二者的接口外形是相同的，但前者比后者更高端。
+注意，Thunderbolt 2 和 Mini DisplayPort是有区别的，虽然二者的接口外形是相同的，但前者比后者更高端，二选一即可。
 
 
-转接线买回来之后，就按照官方文档提供的步骤来操作吧。步骤如下。
+转接线买回来之后，就按照[官方文档](https://support.apple.com/zh-cn/ht204592)的步骤来操作吧。步骤如下。
 
 请按照以下步骤操作，以开始将 iMac 用作显示器：
 
