@@ -1,11 +1,43 @@
 
 
 
-> 积累千古壹号平时遇到的MacTips。
+> 积累千古壹号平时遇到的 MacTips。第一次使用 Mac 时，很有用。
+
+### Mac M1 芯片的电脑，安装 Git
+
+不需要安装 Xcode，这个太大了，好几个G。直接安装 [Command Line Tools for Xcode](https://developer.apple.com/download/all/?q=command) 即可，安装完成后 Git 就有了。
+
+参考链接：
+
+- [macos m1 安装git，终端运行git命令提示安装 Xcode](https://blog.csdn.net/A_Brave/article/details/120844682)
 
 
 
-### 001 Mac到底要不要关机
+### git clone 时，提示错误：Failed to connect to github.com port 443: Connection refused
+
+解决办法：
+
+```bash
+# 这行命令可以不需要
+git config --global http.sslVerify "false"   
+
+# 重点是下面这两行命令，把端口号 7890 换成你自己的代理软件的端口号
+git config --global https.proxy http://127.0.0.1:7890
+git config --global http.proxy http://127.0.0.1:7890
+```
+
+参考链接：
+
+- [Failed to connect to github.com port 443: Operation timed out - 烟霞志](https://simplestark.com/archives/%E7%BB%8F%E9%AA%8C%E5%AE%9D%E5%AE%9Dfailedtoconnecttogithubcomport443operationtimedout)
+
+
+- [解决 Failed to connect to github.com port 443:connection timed out_fK0pS的博客-CSDN博客](https://blog.csdn.net/Hodors/article/details/103226958)
+
+
+### 
+
+
+### Mac到底要不要关机
 
 对于关机，我的观点是：
 
@@ -17,7 +49,7 @@
 
 
 
-### 002 重置 SMC
+### 重置 SMC
 
 如果发现 Macbook Pro 的某一个 Type-C 失效了，能充电，但是 HDMI 和 USB 网络都不行，此时可以重置 SMC。
 
@@ -31,7 +63,7 @@
 
 
 
-### 003 卸载软件后，清除残留
+### 卸载软件后，清除残留
 
 虽然程序已经被删除了，但硬盘上可能会有残留文件。这些文件占内存小，如果你之后重新安装该应用程序的话，它们是会保留的。但如果以后再也不用的话，可以选择彻底删除。
 
@@ -53,7 +85,7 @@
 
 
 
-### 004 Mac 备份微信聊天记录的问题（20180218）
+### Mac 备份微信聊天记录的问题（20180218）
 
 问题描述：MAC版微信可以备份手机聊天记录到电脑了，但是手机和电脑明明是在同一个网络了，却说不在。手机显示的是网络名称，电脑的网络显示的是***的macbook。
 
@@ -62,20 +94,20 @@
 PS：网上都是这个答案，但是我自己试了一下，还是不行。
 
 
-### 005 电脑锁屏（20180220）
+### 电脑锁屏（20180220）
 
 问题描述：把电脑合上以后（或者按 Touch Bar上的锁定键后），再立即打开电脑，发现电脑并没有锁屏。原因是需要设置锁屏的时间。
 
 解决：「系统偏好设置 -->安全与隐私 --> 通用 --> 进入睡眠或开始屏幕保护程序 --> 选择“立即”」。
 
 
-### 006 修改host文件
+### 修改host文件
 
 
 点击 Finder，在顶部菜单栏选择“前往”－“前往文件夹”，粘入 `/private/etc/` 这个路径（不带引号），找到`hosts`文件。
 
 
-### 007 iPad上取消爱奇艺会员的续费
+### Pad上取消爱奇艺会员的续费
 
 ![](http://img.smyhvae.com/20180426_2338.png)
 
@@ -137,12 +169,12 @@ PS：网上都是这个答案，但是我自己试了一下，还是不行。
 另外，还有一篇文章比较有意思，可以看看：[使用第三方键盘激活iMac TDM？没门儿！](https://www.yilan.io/article/56963cbdc609c2a7142a91d4)
 
 
-### 010 mac下的局域网共享
+### mac下的局域网共享
 
 参考链接：<https://zhidao.baidu.com/question/368299591.html>
 
 
-### 011 Mac日历设置生日提醒
+### Mac日历设置生日提醒
 
 1、iCloud 开启同步日历。
 
@@ -153,7 +185,7 @@ PS：网上都是这个答案，但是我自己试了一下，还是不行。
 20180725_1918.png
 
 
-### 012 Mac版微信备份时，提示“请将手机和电脑连接至同一网络后”
+### Mac版微信备份时，提示“请将手机和电脑连接至同一网络后”
 
 问题描述：我的Mac和手机，已经在同一网络下了，但在备份聊天记录时，依然提示“请将手机和电脑连接至同一网络后”。
 
@@ -161,7 +193,7 @@ PS：网上都是这个答案，但是我自己试了一下，还是不行。
 
 把电脑里**“设置-共享”**里面的名称改为Wi-Fi的名称，就可以备份了。
 
-### 013 放大/缩小 Mac 微信的分辨率
+### 放大/缩小 Mac 微信的分辨率
 
 快捷键：Cmd + +/-
 
@@ -181,7 +213,7 @@ PS：网上都是这个答案，但是我自己试了一下，还是不行。
 参考链接：<https://support.apple.com/zh-cn/HT204247>
 
 
-### 015 Mac 版印象笔记，美化 Markdown 样式
+### Mac 版印象笔记，美化 Markdown 样式
 
 参考链接：
 
