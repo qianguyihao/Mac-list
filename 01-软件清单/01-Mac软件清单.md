@@ -449,6 +449,10 @@ Dozer 操作方法很简单，Dozer运行后在菜单栏会出现一个「‧」
 
 Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整理、查找」的各种场景，支持 Mac 与 Windows 系统。号称图片管理中的印象笔记。
 
+### PPT模板
+
+- iSlide：<https://www.islide.cc/>
+
 ### 3D设计软件
 
 - [Blender](https://www.blender.org/) - 三维图像设计软件。

@@ -72,6 +72,8 @@
 
 ### 网络抓包
 
+- thor - ios平台的抓包调试Http或Https协议的工具。相关文章：《[Thor三件套的详细讲解 - 知乎](https://zhuanlan.zhihu.com/p/91775490)》
+
 - Stream - iOS网络抓包的工具。
 
 - HttpCanary - Android网络抓包工具。
