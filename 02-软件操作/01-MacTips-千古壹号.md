@@ -12,7 +12,6 @@
 - [macos m1 安装git，终端运行git命令提示安装 Xcode](https://blog.csdn.net/A_Brave/article/details/120844682)
 
 
-
 ### git clone 时，提示错误：Failed to connect to github.com port 443: Connection refused
 
 解决办法：
@@ -34,7 +33,15 @@ git config --global http.proxy http://127.0.0.1:7890
 - [解决 Failed to connect to github.com port 443:connection timed out_fK0pS的博客-CSDN博客](https://blog.csdn.net/Hodors/article/details/103226958)
 
 
-### 
+
+### Alfred的自动粘贴功能 Auto-Paste on return 失效，如何解决
+
+解决办法：
+
+1、打开 Alfred Preferences 偏好设置，找到 Features — Clipboard History — Advanced，确保开启了Auto-Paste on return（回车时自动粘贴）功能。
+
+2、打开系统偏好设置 — 安全性与隐私 — 隐私 - 辅助功能，将 Alfred 勾选上。
+
 
 
 ### Mac到底要不要关机

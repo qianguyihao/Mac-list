@@ -7,7 +7,9 @@
 
 ### 启动工具
 
-- [Alfred](https://www.alfredapp.com/) - Mac 上应该安装的第一个效率神器。【荐】[《程序员的macOS系列：高效Alfred进阶》](https://juejin.cn/post/6844904062484217863) [《Mac神器Alfred之自定义一个多应用快速切换的workflow》](https://mp.weixin.qq.com/s/DdT98goc5nR73RfK-ISGiQ)
+- [Alfred](https://www.alfredapp.com/) - Mac 上应该安装的第一个效率神器。【荐】
+
+相关文章：[《程序员的macOS系列：高效Alfred进阶》](https://juejin.cn/post/6844904062484217863) [《Mac神器Alfred之自定义一个多应用快速切换的workflow》](https://mp.weixin.qq.com/s/DdT98goc5nR73RfK-ISGiQ)
 
 - [Raycast](https://www.raycast.com/) - Alfred 的竞品。[#](https://se7en.hedwig.pub/i/zui-jin-fei-chang-xi-huan-de-app-raycast-yi-ji-ta-de-cha-jian-xi-tong)【荐】
 
@@ -16,10 +18,12 @@
 
 - [snipaste](https://zh.snipaste.com/) - 新生代截图工具。【荐】。
 
-
 - [shottr](https://shottr.cc/) - 面向像素的屏幕截图工具，支持智能测距、滚动截图、元素智能删除、打码或隐藏、OCR 文本识别、距离标注等功能。他是为像素级专业人士（设计师、前端开发人员等）服务的，它的强项是精确度和速度，其杀手特征是变焦。【荐】。
+
 - [Xnip](https://zh.xnipapp.com)- Mac上方便好用的截图工具，支持滚动截图；最大的优点是，**截图可以自带阴影，效果不错**。[#](https://sspai.com/post/42654)。【荐】
+
 - [Picsee](http://picsee.chitaner.com/) - 看图 & 截图。
+
 - [Annotate](https://itunes.apple.com/cn/app/annotate-capture-and-share/id918207447?mt=12) - 可对屏幕截图或者现有图片进行批注。同时，在基础的图片注释功能上还增加了“局部高亮”、“Emoji 表情”、 ”GIF 动图录制与注释“、“与 Dropbox/CloudApp 同步数据“等功能。[#](https://sspai.com/post/30486)
 
 
@@ -124,9 +128,9 @@
 
 ### 浏览器
 
-- [Safari](http://www.apple.com/cn/safari/) - Mac预装自带浏览器。
+- [Safari](http://www.apple.com/cn/safari/) - Mac预装的自带浏览器。[荐]
 
-- [Chrome](http://www.google.cn/chrome/browser/) - Chrome浏览器谷歌出品。
+- [Chrome](http://www.google.cn/chrome/browser/) - Chrome浏览器，谷歌出品。[荐]
 
 - [Firefox](http://www.firefox.com.cn/) - 火狐浏览器。
 
@@ -383,9 +387,13 @@ Dozer 操作方法很简单，Dozer运行后在菜单栏会出现一个「‧」
 
 ### 电子书相关
 
+- [Calibre](http://calibre-ebook.com/) - 丑陋的软件，但强大的软件电子书管理、电子书格式转换。[开源](https://github.com/kovidgoyal/calibre) 。[荐]
+
+
 - [Kindle App](http://www.amazon.com/gp/help/customer/display.html?nodeId=201246110) - 亚马逊 Kindle App 电子书阅读器。
-- [Calibre](http://calibre-ebook.com/) - 丑陋的软件，但强大的软件电子书管理和转换。[开源](https://github.com/kovidgoyal/calibre) 。[荐]
+
 - [Sigil](https://sigil-ebook.com/) - [开源](https://github.com/Sigil-Ebook/Sigil)、多平台EPUB编辑器。[荐] 。EPub 电子书制作教程：[#](https://kindlefere.com/post/73.html) [#](https://kindlefere.com/post/71.html) [#](https://kindlefere.com/post/72.html)
+
 - [Knotes](http://knotesapp.com/cn) - 高效、优雅的读书笔记管理。
 
 ### pdf 阅读
@@ -481,12 +489,18 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 
 ### 版本控制分类
 
-- [Git](https://git-scm.com/) - 版本控制工具，官网提供[数十种GUI客户端](https://git-scm.com/download/gui/mac) for Mac。
+- [Git](https://git-scm.com/) - 版本控制工具，官网顺带推荐了[数十种GUI客户端](https://git-scm.com/download/gui/mac) for Mac。【荐】
+
+Mac电脑上，可以直接安装 [Command Line Tools for Xcode](https://developer.apple.com/download/all/?q=command) 即可，安装完成后 Git 就有了。
+
 - [SVN](http://subversion.apache.org/) - 版本控制工具。
 
 ### 版本控制-GUI软件
 
 - [Tower](https://www.git-tower.com/) - 强大的Git客户端。[荐]
+
+安装破解版时，dock 栏看看有没有一个橙色钥匙，那个就是注册机。
+
 - [SourceTree](https://www.sourcetreeapp.com/) - 强大的Git跨平台客户端。[荐]
 - [GitKraken](https://www.gitkraken.com/) - 强大的Git客户端。[荐]
 
@@ -593,8 +607,7 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 
 - [termius](https://termius.com/) - Mac 最好用的SSH连接客户端。
 
-
-- [Oh my zsh](http://ohmyz.sh) - 拥有大量的有用的功能，助手，插件，主题，等特性的命令行工具插件。[开源](https://github.com/robbyrussell/oh-my-zsh)。
+- [Oh my zsh](http://ohmyz.sh) - 拥有大量的有用的功能，助手，插件，主题，等特性的命令行工具插件。[开源](https://github.com/robbyrussell/oh-my-zsh)。[荐]
 
 - [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - 和**Oh my zsh**相似，建立在Fish Shell框架上。
 
