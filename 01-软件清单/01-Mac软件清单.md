@@ -13,7 +13,6 @@
 
 - [Raycast](https://www.raycast.com/) - Alfred 的竞品。[#](https://se7en.hedwig.pub/i/zui-jin-fei-chang-xi-huan-de-app-raycast-yi-ji-ta-de-cha-jian-xi-tong)【荐】
 
-
 ### 截图
 
 - [snipaste](https://zh.snipaste.com/) - 新生代截图工具。【荐】。
@@ -26,26 +25,19 @@
 
 - [Annotate](https://itunes.apple.com/cn/app/annotate-capture-and-share/id918207447?mt=12) - 可对屏幕截图或者现有图片进行批注。同时，在基础的图片注释功能上还增加了“局部高亮”、“Emoji 表情”、 ”GIF 动图录制与注释“、“与 Dropbox/CloudApp 同步数据“等功能。[#](https://sspai.com/post/30486)
 
+### 浏览器
 
-### gif图生成
+- [Safari](http://www.apple.com/cn/safari/) - Mac预装的自带浏览器。[荐]
 
-- [Licecap](http://www.cockos.com/licecap/) - 是一款屏幕录制工具输出GIF，录制过程中可以随意改变录屏范围，录制的文件也非常小。支持 Mac 和 Windows 平台。[开源](https://github.com/justinfrankel/licecap) 【荐】。
+- [Chrome](http://www.google.cn/chrome/browser/) - Chrome浏览器，谷歌出品。[荐]
 
-录制结束后，如果觉得文件过大，可以在这个网站<https://ezgif.com/optimize>上进行压缩。
+- [Firefox](http://www.firefox.com.cn/) - 火狐浏览器。
 
-- [Gifox](https://gifox.io/) - 专业的高颜值GIF 录制应用。
+- [Opera](http://www.opera.com/zh-cn) - Opera 浏览器。
 
-- [Gifski](https://sindresorhus.com/gifski) - 一款视频转 GIF 的工具，只需拖入即可完整转换。可选择缩放比例、帧率、质量，还能实时看到对应体积，简单易用。
+### 护眼工具
 
-
-- [Kap](https://getkap.co/) - 轻量 GIF 录屏小工具。[开源](https://github.com/wulkano/kap)。
-
-
-
-### 压缩／解压
-
-- [BetterZip 3](https://macitbetter.com/) - 压缩解压缩工具。支持格式 ZIP、TAR、TGZ、TBZ、TXZ (new)、7-ZIP、RAR。[荐]
-- The Unarchiver - 压缩／解压工具。
+- [f.lux](https://justgetflux.com/) - 降低屏幕的色温，减弱蓝光，保护眼睛。【荐】
 
 ### 输入法
 
@@ -58,13 +50,36 @@
 * [颜文字](https://itunes.apple.com/cn/app/yan-wen-zi/id914708191?mt=12) - 颜文字输入。
 * [哈利路亚英文输入法](https://github.com/dongyuwei/hallelujahIM) - 智能英文输入法，具备自动补全，自动纠错功能。
 
+### 菜单栏管理
+
+> 对于崇尚简洁的Mac用户来说，菜单栏管理软件是很有必要的。
+
+- [Hidden Bar](https://apps.apple.com/cn/app/hidden-bar/id1452453066?mt=12)：用最精简的功能，实现了在菜单栏隐藏应用图标这个小需求。[开源免费](https://github.com/dwarvesf/hidden)。【荐】
+
+- [Vanilla](https://matthewpalmer.net/vanilla/) - 隐藏 Mac 菜单栏图标。基础功能免费，扩展功能付费。[荐]
+
+- [Dozer](https://github.com/Mortennn/Dozer/releases)：一款隐藏macOS菜单栏图标的应用，开源免费，操作简单。
+
+Dozer 操作方法很简单，Dozer运行后在菜单栏会出现一个「‧」，点击它，然后会在左侧出现另外一个「‧」，按住 command 键拖曳软件图标到最左侧即可。然后点击右侧的「‧」，软件图标就会被隐藏。
+
+- [Bartender](https://www.macbartender.com/)：付费软件。能够创建一个二级的菜单栏，让我们把不需要直接显示的菜单栏的应用图标放在这个二级菜单栏中，或者直接隐藏。
+
+- [MenubarX](https://menubarx.app/) - 一款强大的 Mac 菜单栏浏览器，可以在菜单栏固定任何网页，就像原生 App 一样使用。[荐]
+
+### 日历工具
+
+- [Itsycal](https://www.mowglii.com/itsycal/) - 一款简洁实用的开源日历工具。可以直接在 menubar 上展示今天是几号；点击后，还自动框选出了本月的时间范围。好处是，可以在最短的时间内查看日历，基本可以替代原生的时间了。[开源](https://github.com/sfsam/itsycal)。【荐】
+
+- [Fantastical](https://flexibits.com/fantastical) - 日历应用程序，你将管理好生活。[荐]。
+
+
+
 
 ### 下载工具
 
-> 至今为止，我还没找到一个靠谱、好用的下载工具。
+- [Motrix](https://motrix.app/) - 基于Aria2实现，支持磁力链、种子和迅雷链接，开源免费。【荐】
 
 - [迅雷](https://www.xunlei.com/) - 限速严重，没有会员基本没法儿用。
-
 
 - [Transmission](https://www.transmissionbt.com/) - 免费的BitTorrent客户端 [开源](https://github.com/Sigil-Ebook/Sigil)。
 
@@ -80,82 +95,10 @@
 
 - [ENFI下载器](http://enfi.cloud/) - 使用P2P下载技术，支持HTTP，BT，磁力链等各种协议，高速下载让你摆脱限速的困扰，从此告别低速。
 
+### 压缩／解压
 
-### NTFS移动硬盘读写
-
-> 其实，macOS 系统本身是已经原生支持 NTFS 磁盘格式的读与写的，只不过 NTFS 毕竟是老对手 微软 Windows 产品下的技术，碍于版权和商业上的原因，苹果只好把 NTFS 的“写入”功能给屏蔽掉，变成系统的隐藏特性。
-
-- [Paragon NTFS for Mac](https://china.paragon-software.com/home-mac/ntfs-for-mac/) - NTFS移动硬盘读写工具。[荐]
-
-- [NTFS for Mac 助手](https://www.ntfsformac.com/) - 轻松实现 Mac 电脑读写 NTFS 磁盘。[荐]。
-
-- [Mounty](http://enjoygineering.com/mounty/) - 免费让 Mac 原生支持移动硬盘/U盘 NTFS 读写的驱动应用。团长把这个软件试用了一段时间，发现容易导致文件丢失，所以，请慎用。[#](http://www.iplaysoft.com/mounty-for-ntfs.html)
-
-### 日历工具
-
-- [Itsycal](https://www.mowglii.com/itsycal/) - 一款简洁实用的开源日历工具。可以直接在 menubar 上展示今天是几号；点击后，还自动框选出了本月的时间范围。好处是，可以在最短的时间内查看日历，基本可以替代原生的时间了。[开源](https://github.com/sfsam/itsycal)。【荐】
-
-
-- [Fantastical](https://flexibits.com/fantastical) - 日历应用程序，你将管理好生活。[荐]。
-
-### GTD 时间管理
-
-- [OmniFocus](https://www.omnigroup.com/omnifocus) - 著名 GTD，上手之后秒杀同类。79.99美元。[#](http://www.asianefficiency.com/technology/omnifocus-mac-review/)
-
-### 密码管理
-
-- [1password](https://1password.com/) - 全平台的帐号密码管理软件。[荐]
-
-- [LastPass](https://lastpass.com/) - 密码管理器和安全的数字笔记。
-
-- [KeePassX](https://www.keepassx.org) - 一个免费的，[开源](https://github.com/keepassx/keepassx)的，体积小的密码管理器。
-
-- [MacPass](http://mstarke.github.io/MacPass/) - [开源](https://github.com/mstarke/MacPass)的密码管理器。
-
-### 窗口管理
-
-- [Magnet](https://magnet.crowdcafe.com/) - 窗口分屏工具。【荐】
-
-* [ShiftIt](https://github.com/fikovnik/ShiftIt) - 窗口位置和大小管理软件。 [[开源]](https://github.com/fikovnik/ShiftIt)[荐]
-
-* [Moom](http://manytricks.com/moom/) - 多任务多窗口的软件。
-
-* [Slate](https://github.com/jigish/slate) - 窗口管理器，可用JavaScript写配置。[[开源]](https://github.com/jigish/slate)
-
-* [Amethyst](http://ianyh.com/amethyst/) - 窗口管理器（自动保持窗口大小的窗口）。[开源](https://github.com/ianyh/Amethyst)
-
-* [Spectacle](https://www.spectacleapp.com) - 简单的移动和调整大小的窗口，和可定制的键盘快捷键。
-
-### 浏览器
-
-- [Safari](http://www.apple.com/cn/safari/) - Mac预装的自带浏览器。[荐]
-
-- [Chrome](http://www.google.cn/chrome/browser/) - Chrome浏览器，谷歌出品。[荐]
-
-- [Firefox](http://www.firefox.com.cn/) - 火狐浏览器。
-
-- [Opera](http://www.opera.com/zh-cn) - Opera 浏览器。
-
-
-
-### 翻译工具
-
-- [欧路词典](http://www.eudic.net/eudic/mac_dictionary.aspx) - 欧路词典。
-- [有道翻译](http://cidian.youdao.com/multi.html) - 有道词典桌面版。
-- [Bob](https://ripperhe.gitee.io/bob/#/) - 截图翻译软件。
-- [iTranslate](http://www.itranslate.com/) - 支持全世界超过 80 种语言发音和输出。
-
-
-
-### Magic mouse 鼠标增强
-
-
-- [BetterTouchTool](http://www.bettertouchtool.net/) - 触控板、Magic mouse 鼠标增强工具。比如，这个工具可以让Magic mouse实现「轻点代替点按」。【荐】。[#](https://mp.weixin.qq.com/s/A_LP4uQKSVkSNZR5EKEaxA)、[#](https://mp.weixin.qq.com/s/DxvLJRF8nhIJ1z_7E5CuIA)、[#](https://mp.weixin.qq.com/s/DxvLJRF8nhIJ1z_7E5CuIA)
-
-
-### 实用工具
-
-- [f.lux](https://justgetflux.com/) - 降低屏幕的色温，减弱蓝光，保护眼睛。【荐】
+- [BetterZip 3](https://macitbetter.com/) - 压缩解压缩工具。支持格式 ZIP、TAR、TGZ、TBZ、TXZ (new)、7-ZIP、RAR。[荐]
+- The Unarchiver - 压缩／解压工具。
 
 ### 其他工具
 
@@ -214,28 +157,93 @@
 - [AgentNEO](https://agneo.co/?rc=ut50176c) - 网速很快，很稳定。支持支付宝付款。【荐】
 - [Lantern](https://getlantern.org) - 蓝灯。
 
-### 菜单栏管理
+### 密码管理
 
-> 对于崇尚简洁的Mac用户来说，菜单栏管理软件是很有必要的。
+- [1password](https://1password.com/) - 全平台的帐号密码管理软件。[荐]
 
-- [Bartender](https://www.macbartender.com/)：付费软件。能够创建一个二级的菜单栏，让我们把不需要直接显示的菜单栏的应用图标放在这个二级菜单栏中，或者直接隐藏。
+- [LastPass](https://lastpass.com/) - 密码管理器和安全的数字笔记。
 
-- [Vanilla](https://matthewpalmer.net/vanilla/) - 隐藏 Mac 菜单栏图标。基础功能免费，扩展功能付费。
+- [KeePassX](https://www.keepassx.org) - 一个免费的，[开源](https://github.com/keepassx/keepassx)的，体积小的密码管理器。
 
-- [Hidden Bar](https://apps.apple.com/cn/app/hidden-bar/id1452453066?mt=12)：用最精简的功能，实现了在菜单栏隐藏应用图标这个小需求。[开源免费](https://github.com/dwarvesf/hidden)。
+- [MacPass](http://mstarke.github.io/MacPass/) - [开源](https://github.com/mstarke/MacPass)的密码管理器。
 
-- [Dozer](https://github.com/Mortennn/Dozer/releases)：一款隐藏macOS菜单栏图标的应用，开源免费，操作简单。
+### 鼠标增强
 
-Dozer 操作方法很简单，Dozer运行后在菜单栏会出现一个「‧」，点击它，然后会在左侧出现另外一个「‧」，按住 command 键拖曳软件图标到最左侧即可。然后点击右侧的「‧」，软件图标就会被隐藏。
+- [Mos](https://mos.caldis.me/) - 普通鼠标的滚轮更流畅。且可以设置鼠标的滚动方向。[开源]()【荐】
+
+普通鼠标滚轮一格一格的滚动效果总是没有触摸板来的顺滑，这款 Mos 可以让平滑滚动应用到系统的每个角落，让鼠标滚轮用起来也有触摸板的感觉。
+
+- [Scroll Reverser](https://pilotmoon.com/scrollreverser/) - 免费软件，可以分别设置鼠标和触控板的滚动方向。[荐]
+
+- [BetterTouchTool](http://www.bettertouchtool.net/) - 触控板、Magic mouse 鼠标增强工具。比如，这个工具可以让Magic mouse实现「轻点代替点按」。[#](https://mp.weixin.qq.com/s/A_LP4uQKSVkSNZR5EKEaxA)、[#](https://mp.weixin.qq.com/s/DxvLJRF8nhIJ1z_7E5CuIA)、[#](https://mp.weixin.qq.com/s/DxvLJRF8nhIJ1z_7E5CuIA)
+
+- Smooth Scroll - 付费软件，让鼠标的滚轮更流畅。
+
+Smooth Scroll 提供了一些晦涩难懂的数值型设置选项，我认为默认的设定已经可以满足需求，并没有调节的必要。但一定不要忘记开启「Bounce back from edges」选项，打开之后就有橡皮筋回弹的效果啦。另外，需要注意的是：「Standard wheel direction」选项与 Scroll Reverser 一起使用会有「负负得正」的效果，所以建议把「Standard wheel direction」这个选项的勾去掉。[#](http://sspai.com/32832)
+
+### gif图生成
+
+- [Licecap](http://www.cockos.com/licecap/) - 是一款屏幕录制工具输出GIF，录制过程中可以随意改变录屏范围，录制的文件也非常小。支持 Mac 和 Windows 平台。[开源](https://github.com/justinfrankel/licecap) 【荐】。
+
+录制结束后，如果觉得文件过大，可以在这个网站<https://ezgif.com/optimize>上进行压缩。
+
+- [Gifox](https://gifox.io/) - 专业的高颜值GIF 录制应用。
+
+- [Gifski](https://sindresorhus.com/gifski) - 一款视频转 GIF 的工具，只需拖入即可完整转换。可选择缩放比例、帧率、质量，还能实时看到对应体积，简单易用。
+
+- [Kap](https://getkap.co/) - 轻量 GIF 录屏小工具。[开源](https://github.com/wulkano/kap)。
+
+
+
+### 窗口管理
+
+- [Magnet](https://magnet.crowdcafe.com/) - 窗口分屏工具。【荐】
+
+- [ShiftIt](https://github.com/fikovnik/ShiftIt) - 窗口位置和大小管理软件。 [[开源]][https://github.com/fikovnik/ShiftIt](荐)
+
+- [Moom](http://manytricks.com/moom/) - 多任务多窗口的软件。
+
+- [Slate](https://github.com/jigish/slate) - 窗口管理器，可用JavaScript写配置。[[开源]](https://github.com/jigish/slate)
+
+- [Amethyst](http://ianyh.com/amethyst/) - 窗口管理器（自动保持窗口大小的窗口）。[开源](https://github.com/ianyh/Amethyst)
+
+- [Spectacle](https://www.spectacleapp.com) - 简单的移动和调整大小的窗口，和可定制的键盘快捷键。
+
+
+
+
+### 翻译工具
+
+- [欧路词典](http://www.eudic.net/eudic/mac_dictionary.aspx) - 欧路词典。
+- [有道翻译](http://cidian.youdao.com/multi.html) - 有道词典桌面版。
+- [Bob](https://ripperhe.gitee.io/bob/#/) - 截图翻译软件。
+- [iTranslate](http://www.itranslate.com/) - 支持全世界超过 80 种语言发音和输出。
+
 
 ### Mac系统管理、磁盘清理
 
 - [腾讯柠檬清理](https://lemon.qq.com/) - 匠心打磨清理体验，一键释放磁盘空间。[荐]
 - [OmniDiskSweeper](https://www.omnigroup.com/more/) - 最简单易操作、免费的、强大的Macbook内存清理软件。它可以深度清掉Mac里那些犄角旮旯里的缓存数据，也就是那些占了很多内存但是你并找不到在哪里的「其他」。[#](https://web.okjike.com/originalPost/61fbdd4d0256da0010792d62)
 - [CleanMyMac X](https://cleanmymac.com/) - 删除系统垃圾、不需要的应用程序和恶意软件，并调整你的 Mac 以获得最大速度。
-- [Caffeinated](https://caffeinated.app/) - 防止系统进入休眠状态。
+- [MacBooster](https://www.macbooster.cn/) - 磁盘、内存清理工具。
 - [DaisyDisk](https://daisydiskapp.com/) - 磁盘分析工具。了解磁盘使用状况，并进行准确的分析。DaisyDisk 的视觉系属性大大超过了功能性。 [#](https://www.twblogs.net/a/5baad01e2b7177781a0e94d6/zh-cn)
-- [MacBooster](http://www.carrotchou.blog/5245.html) - 磁盘、内存清理工具。[荐]
+
+### 锁屏、休眠相关
+
+- [Caffeinated](https://caffeinated.app/) - 防止系统进入休眠状态。
+
+
+
+### NTFS移动硬盘读写
+
+> 其实，macOS 系统本身是已经原生支持 NTFS 磁盘格式的读与写的，只不过 NTFS 毕竟是老对手 微软 Windows 产品下的技术，碍于版权和商业上的原因，苹果只好把 NTFS 的“写入”功能给屏蔽掉，变成系统的隐藏特性。
+
+- [Paragon NTFS for Mac](https://china.paragon-software.com/home-mac/ntfs-for-mac/) - NTFS移动硬盘读写工具。[荐]
+
+- [NTFS for Mac 助手](https://www.ntfsformac.com/) - 轻松实现 Mac 电脑读写 NTFS 磁盘。[荐]。
+
+- [Mounty](http://enjoygineering.com/mounty/) - 免费让 Mac 原生支持移动硬盘/U盘 NTFS 读写的驱动应用。团长把这个软件试用了一段时间，发现容易导致文件丢失，所以，请慎用。[#](http://www.iplaysoft.com/mounty-for-ntfs.html)
+
 
 
 ### 数据恢复
@@ -264,11 +272,28 @@ Dozer 操作方法很简单，Dozer运行后在菜单栏会出现一个「‧」
 - [VMWare Fusion](http://www.vmware.com/) - 强大的虚拟机，商业软件。
 
 
-## 三、办公软件
+## 三、效率办公
+
+### 即时通信 IM
+
+- [Telegram](https://desktop.telegram.org) - 最安全的聊天软件，也可以作为新闻资讯的频道【荐】。推荐链接：<https://cn.tgstat.com/>
+- [Discord](https://discord.com/) - 有组织、有结构地讨论；产品细节体验Max；中文支持友好；全平台同步聊天记录；全局搜索功能很好用。比 slack 更酷。【荐】
+- [微信](https://mac.weixin.qq.com/)
+- [QQ](http://im.qq.com/macqq/index.shtml)
+- [WeeChat](https://weechat.org/) - 一个命令行聊天客户端。
+
+### Email 邮件客户端
+
+> 其实 Mac 自带的邮件客户端已经很好用了。
+
+- [Spark](https://sparkmailapp.com/) - 新推出的快速邮件客户端支持Mac和iPhone。[荐]
+- [Foxmail](http://www.foxmail.com/mac/) - 快速的邮件客户端。
+- [网易邮箱大师](http://mail.163.com/dashi/dlpro.html)。[#](https://www.waerfa.com/neteasemailmaster-for-mac)
+
 
 ### 网盘
 
-- icloud - 苹果自带的 icloud ，管理和同步相册，非常方便。
+- icloud - 苹果自带的 icloud ，管理和同步相册，非常方便。【荐】
 
 - [Dropbox](http://www.dropboxchina.com/Download/dropbox-for-mac.html) - 非常好用的网络文件同步工具，提供在线存储服务。[荐]
 
@@ -299,23 +324,19 @@ Dozer 操作方法很简单，Dozer运行后在菜单栏会出现一个「‧」
 - iThoughtX - 进阶用户喜欢用它画脑图。[荐]。[#](https://sspai.com/post/31516)
 
 
-
-### 即时通信 IM
-
-- [Telegram](https://desktop.telegram.org) - 最安全的聊天软件，也可以作为新闻资讯的频道【荐】。推荐链接：https://cn.tgstat.com/
-- [Discord](https://discord.com/) - 有组织、有结构地讨论；产品细节体验Max；中文支持友好；全平台同步聊天记录；全局搜索功能很好用。比 slack 更酷。【荐】
-- [微信](https://mac.weixin.qq.com/)
-- [QQ](http://im.qq.com/macqq/index.shtml)
-- [WeeChat](https://weechat.org/) - 一个命令行聊天客户端。
-
 ### 社交
 
 - [WeiboX](http://weiboformac.sinaapp.com/) - 微博第三方Mac应用。
 
+### GTD 时间管理
+
+- [OmniFocus](https://www.omnigroup.com/omnifocus) - 著名 GTD，上手之后秒杀同类。79.99美元。[#](http://www.asianefficiency.com/technology/omnifocus-mac-review/)
+
+
 ### 团队协作
 
-- [Slack](https://slack.com/) - 团队协作，沟通工具。
 - [飞书](https://www.feishu.cn/) - 先进团队，先用飞书。
+- [Slack](https://slack.com/) - 团队协作，沟通工具。
 - [钉钉](http://www.dingtalk.com/index-b.html#download_block) - 企业级办公通讯免费平台。
 - [Textual](https://www.codeux.com/textual) - 最受欢迎的世界与我们相关的KPI应用 for OS X。
 - [Gitter](https://gitter.im) - 关于GitHub的项目交流，支持 Markdown，对开发者极为友好。
@@ -323,13 +344,6 @@ Dozer 操作方法很简单，Dozer运行后在菜单栏会出现一个「‧」
 - [Bitpost](https://voluntary.net/bitpost/) - 私人分散消息，[开源](https://github.com/Voluntarynet/Bitpost)。它是一个p2p的去中心化和无须第三方提供信用担保协议。
 - [Coding.net](https://coding.net) - 代码托管，项目管理，WebIDE，演示部署，开启云端开发模式，让开发更简单。
 
-### Email
-
-> 其实 Mac 自带的邮件客户端已经很好用了。
-
-- [Spark](https://sparkmailapp.com/) - 新推出的快速邮件客户端支持Mac和iPhone。[荐]
-- [Foxmail](http://www.foxmail.com/mac/) - 快速的邮件客户端。
-- [网易邮箱大师](http://mail.163.com/dashi/dlpro.html)。[#](https://www.waerfa.com/neteasemailmaster-for-mac)
 
 
 ## 四、笔记、阅读、写作
@@ -616,12 +630,6 @@ Mac电脑上，可以直接安装 [Command Line Tools for Xcode](https://develop
 
 > 这里主要是推荐一些软件下载的网站，还有一些MacOS软件分享网站。
 
-### Mac工具介绍
-
-* 少数派：[http://sspai.com/tag/Mac](http://sspai.com/tag/Mac)
-* Mac玩儿法：[http://www.waerfa.com](http://www.waerfa.com)
-- [OurMacs](https://ourmacs.com) - 优秀的mac应用。
-
 
 ### 盗版Mac软件下载网站黑名单
 
@@ -649,6 +657,18 @@ Mac电脑上，可以直接安装 [Command Line Tools for Xcode](https://develop
 - AppKed：<http://www.macbed.com>
 
 - Macx：<http://www.macx.cn/>
+
+### Mac工具介绍
+
+- 少数派：[http://sspai.com/tag/Mac](http://sspai.com/tag/Mac)
+- Mac玩儿法：[http://www.waerfa.com](http://www.waerfa.com)
+
+- [OurMacs](https://ourmacs.com) - 优秀的mac应用。
+
+
+#### GitHub项目
+
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md)
 
 
 **[⬆ 返回顶部](#目录)**

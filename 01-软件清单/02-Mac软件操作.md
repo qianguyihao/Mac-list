@@ -1,5 +1,5 @@
 
-> 我的Mac电脑上，安装了下面这些软件。
+> 我的Mac软件的一些操作和配置。
 
 ## 一、常用软件&实用工具
 
@@ -68,7 +68,7 @@ F1是截图，F3是贴图。记得用好这个超级无敌的小技巧。
 
 好处：可以在最短的时间内，查看和讨论项目排期。
 
-![](http://img.smyhvae.com/20200307_1210.png)
+![](https://img.smyhvae.com/20200307_1210.png)
 
 如上图所示，采用 `YYYY年MM月dd日 E H:mm` 这个配置，可以替换掉系统自带的时间。
 
@@ -106,24 +106,7 @@ Bartender是一款实用的菜单栏管理工具，可以将大量的菜单有�
 
 官网链接：<https://agilebits.com/downloads>
 
-### 分别设置Mac的鼠标和触控板的滚动方向：Scroll Reverser
 
-免费软件 Scroll Reverser，可以实现鼠标和触控板的分别设置。
-
-官网下载地址：<https://pilotmoon.com/scrollreverser/>。
-
-### 让普通鼠标的滚轮更流畅：Mos
-
-普通鼠标滚轮一格一格的滚动效果总是没有触摸板来的顺滑，这款 Mos 可以让平滑滚动应用到系统的每个角落，让鼠标滚轮用起来也有触摸板的感觉。
-
-开源免费的软件。GitHub下载地址：<https://github.com/Caldis/Mos>
-
-
-其他同类软件：
-
-- Smooth Scroll
-
-付费软件。Smooth Scroll 提供了一些晦涩难懂的数值型设置选项，我认为默认的设定已经可以满足需求，并没有调节的必要。但一定不要忘记开启「Bounce back from edges」选项，打开之后就有橡皮筋回弹的效果啦。另外，需要注意的是：「Standard wheel direction」选项与 Scroll Reverser 一起使用会有「负负得正」的效果，所以建议把「Standard wheel direction」这个选项的勾去掉。[#](http://sspai.com/32832)
 
 
 ### Magic Mouse 鼠标功能增强软件：BetterTouchTool
