@@ -134,15 +134,20 @@ PS：网上都是这个答案，但是我自己试了一下，还是不行。
 
 - [苹果iMac如何用作显示器，成为MacBook扩展屏](https://www.lulian.cn/news/149-cn.html)
 
+设备需要满足以下条件，才能让 iMac作为 MacBook 的扩展显示屏：（这个是我咨询苹果官方客服后，得到的答案）
 
-我的MacBook pro是最新款的，接口全是type c的。如下：
+- iMac必须是老款的；且系统版本必须是 10.13.6 或更低版本。
 
-![](http://img.smyhvae.com/20180621_1300.png)
+- MacBook必须是2019年款或更老的版本；且系统版本必须是 10.15 或更低版本。
+
+我的MacBook pro是 2016年款（带了 touch bar），接口全是 type c 的。如下：
+
+![](https://img.smyhvae.com/20180621_1300.png)
 
 
 我的 iMac 是2013年款的，接口是 Thunderbolt 2。如下：
 
-![](http://img.smyhvae.com/20180621_1305.png)
+![](https://img.smyhvae.com/20180621_1305.png)
 
 
 
