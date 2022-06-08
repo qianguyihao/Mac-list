@@ -41,14 +41,25 @@
 
 ### 输入法
 
-* [搜狗输入法](http://pinyin.sogou.com/mac/) - 搜狗输入法。【荐】
-* [RIME](http://rime.im/) - 中州韻輸入法引擎。[开源](https://github.com/rime)。在Mac平台的名字叫「鼠须管」。 【荐】
-* [百度输入法](https://srf.baidu.com/input/mac.html) - 支持拼音五笔输入。
-* [清歌五笔输入法](https://qingg.im/index.html) - 为 iOS 和 Mac 专门打造的五笔输入法。
-* [WBIM](http://www.pawpawsoft.com) - 五笔输入法。
-* [Rocket](http://matthewpalmer.net/rocket/) - Emoji标签输入。
-* [颜文字](https://itunes.apple.com/cn/app/yan-wen-zi/id914708191?mt=12) - 颜文字输入。
-* [哈利路亚英文输入法](https://github.com/dongyuwei/hallelujahIM) - 智能英文输入法，具备自动补全，自动纠错功能。
+- [搜狗输入法](http://pinyin.sogou.com/mac/) - 搜狗输入法。【荐】
+
+- [RIME](http://rime.im/) - 中州韻輸入法引擎。[开源](https://github.com/rime)。在Mac平台的名字叫「鼠须管」。 【荐】
+
+- [Input Source Pro](https://inputsource.pro/) - 一款在不同应用之间自动切换输入法的小工具。通过简洁的提示方式，配合输入法自动切换功能，让每一次输入都信心十足。[荐]
+
+开发者@[Runjuu](https://web.okjike.com/u/211AC08F-8546-4CAE-8274-5C371574332A)
+
+- [百度输入法](https://srf.baidu.com/input/mac.html) - 支持拼音五笔输入。
+
+- [清歌五笔输入法](https://qingg.im/index.html) - 为 iOS 和 Mac 专门打造的五笔输入法。
+
+- [WBIM](http://www.pawpawsoft.com) - 五笔输入法。
+
+- [Rocket](http://matthewpalmer.net/rocket/) - Emoji标签输入。
+
+- [颜文字](https://itunes.apple.com/cn/app/yan-wen-zi/id914708191?mt=12) - 颜文字输入。
+
+- [哈利路亚英文输入法](https://github.com/dongyuwei/hallelujahIM) - 智能英文输入法，具备自动补全，自动纠错功能。
 
 ### 菜单栏管理
 
@@ -102,43 +113,43 @@ Dozer 操作方法很简单，Dozer运行后在菜单栏会出现一个「‧」
 
 ### 其他工具
 
-* [12306ForMac](https://github.com/fancymax/12306ForMac) - Mac版12306 订票/捡票 助手。[开源](https://github.com/fancymax/12306ForMac)
-* [AirServer](http://www.airserver.com/Download) - 将手机投影到电脑上。
-* [CheatSheet](https://www.mediaatelier.com/CheatSheet/) - CheatSheet 是一款Mac上的非常实用的快捷键快速提醒工具。
-* [WWDC](https://github.com/insidegui/WWDC) - Mac OS的非官方的WWDC APP。[[开源]](https://github.com/insidegui/WWDC)
-* [xScope](http://xscopeapp.com/) - 测量、检查和测试屏幕上的图形和布局的工具。搜索你的苹果和网络，快速打开应用程序。
-* [Todoist](https://todoist.com/mac) - 跨平台的任务管理器与移动应用程序。
-* [TaskPaper](https://www.taskpaper.com/) - 漂亮的纯文本任务列表。
-* [Wunderlist](https://todoist.com/mac) - 奇妙清单跨平台的任务管理器与移动应用程序。
-* [Ukelele](http://scripts.sil.org/ukelele) - Unicode键盘布局编辑器。
-* [Karabiner](https://pqrs.org/osx/karabiner/) - 一个强大的和稳定的OS X的键盘定制。[[开源](https://github.com/tekezo/Karabiner)
-* [Keytty](http://keytty.com) - 让你通过键盘使用鼠标。
-* [AppCleaner](http://freemacsoft.net/appcleaner/) - 一个小应用程序，让你彻底卸载不需要的应用程序。
-* [Numi](http://numi.io/) - 漂亮的计算器应用。
-* [Day-O 2](http://www.shauninman.com/archive/2016/10/20/day_o_2_mac_menu_bar_clock) - 菜单日历更换内置日历。
-* [OnyX](http://www.titanium.free.fr/) - 多功能实用工具来验证磁盘和文件，运行清洁和系统维护任务，配置隐藏选项等。
-* [SSH Tunnel](https://codinn.com/products/ssh-tunnel/) - 管理你的SSH。
-* [Tuxera NTFS](http://www.tuxera.com/products/tuxera-ntfs-for-mac/) - Mac上的NTFS文件系统驱动。
-* [gfxCardStatus](https://gfx.io/) - 控制Mac独立显卡与集成显卡之间的切换。
-* [openEmu](http://openemu.org/) - 模拟器，可以玩魂斗罗之类，放松回到小时候。[[开源]](https://github.com/OpenEmu/OpenEmu)
-* [Hammerspoon](http://www.hammerspoon.org/) - 功能强大的自动化工具，Lua 脚本驱动，支持窗口管理。[[开源]](https://github.com/Hammerspoon/hammerspoon)
-* [DaisyDisk](https://daisydiskapp.com/) - 磁盘空间使用扫描工具。
-* [iStat pro](https://bjango.com/mac/istatmenus/) - 免费的Mac OS电脑硬件信息检测软件。
-* [BitBar](https://getbitbar.com/) - 支持使用各种语言将信息展示到Mac OS的菜单栏。[开源](https://github.com/matryer/bitbar)
-* [ClipMenu](http://www.clipmenu.com) - 一个剪贴板操作的管理器。
-* [Paste](http://pasteapp.me) - 智能剪贴板历史片段管理。
-* [ControlPlane](http://www.controlplaneapp.com/) - 自定义Mac情景模式。某些场景让Mac自动静音或是自动打开Mail客户端等等。[开源](https://github.com/dustinrue/ControlPlane)
-* [Caffeine](http://lightheadsw.com/caffeine/) - 实用工具，菜单栏按钮，点击休眠。
-* [HTML5 Player](http://zythum.sinaapp.com/youkuhtml5playerbookmark/) - Chrome插件解决中国视频网站播放视频电脑发热的情况。
-* [Monity](http://www.monityapp.com/) - 帮助用户实时监控系统的一款非常漂亮的软件。
-* [iStats](https://github.com/Chris911/iStats) - iStats 是一个可以让你快速查看电脑 CPU 温度，磁盘转速和电池等信息的命令行工具。[[开源]](https://github.com/Chris911/iStats)
-* [InsomniaX](https://www.macupdate.com/app/mac/22211/insomniax) - 合上盖子不眠不休，继续听歌下载。
-* [NoSleep](https://www.macupdate.com/app/mac/37991/nosleep) - 合上盖子不休眠，可根据是否连接电源单独设置。
-* Finder
-    * [Quicklook-Plugins](https://github.com/sindresorhus/quick-look-plugins) - Finder快速预览文件插件。
-    * [Path Finder](http://www.cocoatech.com/pathfinder/) - 强大的Finder替代者，拥有很多特性。
-    * [TotalFinder](http://totalfinder.binaryage.com/) - 强大的Finder替代者，界面风格像Chrome。【荐】
-    * [XtraFinder](https://www.trankynam.com/xtrafinder/) - 给Finder添加有用的新特性。
+- [12306ForMac](https://github.com/fancymax/12306ForMac) - Mac版12306 订票/捡票 助手。[开源](https://github.com/fancymax/12306ForMac)
+- [AirServer](http://www.airserver.com/Download) - 将手机投影到电脑上。
+- [CheatSheet](https://www.mediaatelier.com/CheatSheet/) - CheatSheet 是一款Mac上的非常实用的快捷键快速提醒工具。
+- [WWDC](https://github.com/insidegui/WWDC) - Mac OS的非官方的WWDC APP。[[开源]](https://github.com/insidegui/WWDC)
+- [xScope](http://xscopeapp.com/) - 测量、检查和测试屏幕上的图形和布局的工具。搜索你的苹果和网络，快速打开应用程序。
+- [Todoist](https://todoist.com/mac) - 跨平台的任务管理器与移动应用程序。
+- [TaskPaper](https://www.taskpaper.com/) - 漂亮的纯文本任务列表。
+- [Wunderlist](https://todoist.com/mac) - 奇妙清单跨平台的任务管理器与移动应用程序。
+- [Ukelele](http://scripts.sil.org/ukelele) - Unicode键盘布局编辑器。
+- [Karabiner](https://pqrs.org/osx/karabiner/) - 一个强大的和稳定的OS X的键盘定制。[[开源](https://github.com/tekezo/Karabiner)
+- [Keytty](http://keytty.com) - 让你通过键盘使用鼠标。
+- [AppCleaner](http://freemacsoft.net/appcleaner/) - 一个小应用程序，让你彻底卸载不需要的应用程序。
+- [Numi](http://numi.io/) - 漂亮的计算器应用。
+- [Day-O 2](http://www.shauninman.com/archive/2016/10/20/day_o_2_mac_menu_bar_clock) - 菜单日历更换内置日历。
+- [OnyX](http://www.titanium.free.fr/) - 多功能实用工具来验证磁盘和文件，运行清洁和系统维护任务，配置隐藏选项等。
+- [SSH Tunnel](https://codinn.com/products/ssh-tunnel/) - 管理你的SSH。
+- [Tuxera NTFS](http://www.tuxera.com/products/tuxera-ntfs-for-mac/) - Mac上的NTFS文件系统驱动。
+- [gfxCardStatus](https://gfx.io/) - 控制Mac独立显卡与集成显卡之间的切换。
+- [openEmu](http://openemu.org/) - 模拟器，可以玩魂斗罗之类，放松回到小时候。[[开源]](https://github.com/OpenEmu/OpenEmu)
+- [Hammerspoon](http://www.hammerspoon.org/) - 功能强大的自动化工具，Lua 脚本驱动，支持窗口管理。[[开源]](https://github.com/Hammerspoon/hammerspoon)
+- [DaisyDisk](https://daisydiskapp.com/) - 磁盘空间使用扫描工具。
+- [iStat pro](https://bjango.com/mac/istatmenus/) - 免费的Mac OS电脑硬件信息检测软件。
+- [BitBar](https://getbitbar.com/) - 支持使用各种语言将信息展示到Mac OS的菜单栏。[开源](https://github.com/matryer/bitbar)
+- [ClipMenu](http://www.clipmenu.com) - 一个剪贴板操作的管理器。
+- [Paste](http://pasteapp.me) - 智能剪贴板历史片段管理。
+- [ControlPlane](http://www.controlplaneapp.com/) - 自定义Mac情景模式。某些场景让Mac自动静音或是自动打开Mail客户端等等。[开源](https://github.com/dustinrue/ControlPlane)
+- [Caffeine](http://lightheadsw.com/caffeine/) - 实用工具，菜单栏按钮，点击休眠。
+- [HTML5 Player](http://zythum.sinaapp.com/youkuhtml5playerbookmark/) - Chrome插件解决中国视频网站播放视频电脑发热的情况。
+- [Monity](http://www.monityapp.com/) - 帮助用户实时监控系统的一款非常漂亮的软件。
+- [iStats](https://github.com/Chris911/iStats) - iStats 是一个可以让你快速查看电脑 CPU 温度，磁盘转速和电池等信息的命令行工具。[[开源]](https://github.com/Chris911/iStats)
+- [InsomniaX](https://www.macupdate.com/app/mac/22211/insomniax) - 合上盖子不眠不休，继续听歌下载。
+- [NoSleep](https://www.macupdate.com/app/mac/37991/nosleep) - 合上盖子不休眠，可根据是否连接电源单独设置。
+- Finder
+    - [Quicklook-Plugins](https://github.com/sindresorhus/quick-look-plugins) - Finder快速预览文件插件。
+    - [Path Finder](http://www.cocoatech.com/pathfinder/) - 强大的Finder替代者，拥有很多特性。
+    - [TotalFinder](http://totalfinder.binaryage.com/) - 强大的Finder替代者，界面风格像Chrome。【荐】
+    - [XtraFinder](https://www.trankynam.com/xtrafinder/) - 给Finder添加有用的新特性。
 
 
 ## 二、进阶软件
@@ -529,13 +540,13 @@ Mac电脑上，可以直接安装 [Command Line Tools for Xcode](https://develop
 
 ### 版本控制系统
 
-* [GitHub](https://github.com) GitHub代码托管，项目管理，演示部署，瞧，您现在就访问GitHub。
-* [GitLab](http://gitlab.com/) - 一个用于仓库管理系统的开源项目。
-* [Coding.net](https://coding.net) - 代码托管，项目管理，WebIDE，演示部署，开启云端开发模式，让开发更简单。
-* [phabricator](https://phabricator.com) phabricator支持Git、SVN、HG 基于 PHP + Mysql 的开放源代码软件开发平台。
-* [Gogs](https://gogs.io) - 一款极易搭建的自助 Git 服务Golang版本。
-* [Gerrit](https://gerrit.rockbox.org) Gerrit 是一个免费、开放源代码的代码审查软件，使用网页界面。
-* [Gitblit](http://www.gitblit.com/) Java版本Git代码托管，项目管理。
+- [GitHub](https://github.com) GitHub代码托管，项目管理，演示部署，瞧，您现在就访问GitHub。
+- [GitLab](http://gitlab.com/) - 一个用于仓库管理系统的开源项目。
+- [Coding.net](https://coding.net) - 代码托管，项目管理，WebIDE，演示部署，开启云端开发模式，让开发更简单。
+- [phabricator](https://phabricator.com) phabricator支持Git、SVN、HG 基于 PHP + Mysql 的开放源代码软件开发平台。
+- [Gogs](https://gogs.io) - 一款极易搭建的自助 Git 服务Golang版本。
+- [Gerrit](https://gerrit.rockbox.org) Gerrit 是一个免费、开放源代码的代码审查软件，使用网页界面。
+- [Gitblit](http://www.gitblit.com/) Java版本Git代码托管，项目管理。
 
 ### FTP客户端
 
