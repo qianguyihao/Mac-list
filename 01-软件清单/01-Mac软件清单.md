@@ -564,8 +564,13 @@ Mac电脑上，可以直接安装 [Command Line Tools for Xcode](https://develop
 ### 代码编辑器
 
 - [Visual Studio Code](http://code.visualstudio.com) - 微软推出的免费、[开源]((https://github.com/Microsoft/vscode))编辑器，TypeScript支持杠杠的。【荐】
-- [Sublime Text](http://www.sublimetext.com/3) - 一个比较简洁大方带插件管理系统的流行编辑器，[Sublime常用插件](editor-plugin.md#sublime-text-plugin)。[荐]
+
+- [Sublime Text](http://www.sublimetext.com/3) - 一个简洁大方带插件管理系统的流行编辑器，可永久免费试用。[Sublime常用插件](editor-plugin.md#sublime-text-plugin)。[荐]
+
+- [TextMate](https://macromates.com/) - 一个强大的21世纪编辑器，能被坚持使用10年以上。[开源](https://github.com/textmate/textmate)免费。[荐]
+
 - [Atom](https://atom.io) - GitHub推出的[开源](https://github.com/atom/atom)编辑器。
+
 - [Vim](http://www.vim.org/) - Vim古老命令行中使用的编辑器。
   - [Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vim插件管理工具。[开源](https://github.com/VundleVim/Vundle.vim)
   - [vim-plug](https://github.com/junegunn/vim-plug) - 一个简约的vim插件管理器。[开源](https://github.com/junegunn/vim-plug)
@@ -575,13 +580,17 @@ Mac电脑上，可以直接安装 [Command Line Tools for Xcode](https://develop
   - [Spacevim](https://github.com/ctjhoa/spacevim) -  模仿Spacemacs的使用方式。
   - [Spf13](http://vim.spf13.com/) - 一套全方位的配置项目。
 - [Vimr](http://vimr.org/) - Vim客户端，升级Vim体验。[开源](https://github.com/qvacua/vimr/)
-- [IntelliJ IDEA](https://www.jetbrains.com/idea/) - 一款Java开发集成环境。(**学生**免费)[荐]
+
+- [IntelliJ IDEA](https://www.jetbrains.com/idea/) - 一款Java开发集成环境。(学生免费)
+
 - [Webstorm](http://www.jetbrains.com/webstorm/) - 是jetbrains公司旗下一款JavaScript开发工具。
   - **学生**免费，[点击这里](https://www.jetbrains.com/student/) 查看更多。
   - 一些很好的插件
     - [NodeJS](https://plugins.jetbrains.com/plugin/6098?pr=webStorm) - 集成`Node.js`，你肯定需要它，很多功能需要它。
     - [EditorConfig](https://plugins.jetbrains.com/plugin/7294?pr=webStorm) - 帮助开发者在不同的编辑器和IDE之间定义和维护一致的代码风格。
     - [Material Theme UI](https://plugins.jetbrains.com/plugin/8006?pr=webStorm) - Google为React开发的主题。
+
+
 - [Eclipse](https://www.eclipse.org) - 流行的开源IDE，主要用于Java，但为多种语言和平台的插件支持。
 
 
