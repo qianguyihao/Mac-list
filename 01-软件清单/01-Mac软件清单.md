@@ -186,6 +186,8 @@ Dozer 操作方法很简单，Dozer运行后在菜单栏会出现一个「‧」
 
 - [Scroll Reverser](https://pilotmoon.com/scrollreverser/) - 免费软件，可以分别设置鼠标和触控板的滚动方向。[荐]
 
+- [Smooze Pro](https://smooze.co/) - Mac 鼠标平滑滚动神器。付费软件。[荐]
+
 - [BetterTouchTool](http://www.bettertouchtool.net/) - 触控板、Magic mouse 鼠标增强工具。比如，这个工具可以让Magic mouse实现「轻点代替点按」。[#](https://mp.weixin.qq.com/s/A_LP4uQKSVkSNZR5EKEaxA)、[#](https://mp.weixin.qq.com/s/DxvLJRF8nhIJ1z_7E5CuIA)、[#](https://mp.weixin.qq.com/s/DxvLJRF8nhIJ1z_7E5CuIA)
 
 - Smooth Scroll - 付费软件，让鼠标的滚轮更流畅。
@@ -238,6 +240,10 @@ Smooth Scroll 提供了一些晦涩难懂的数值型设置选项，我认为默
 - [CleanMyMac X](https://cleanmymac.com/) - 删除系统垃圾、不需要的应用程序和恶意软件，并调整你的 Mac 以获得最大速度。
 - [MacBooster](https://www.macbooster.cn/) - 磁盘、内存清理工具。
 - [DaisyDisk](https://daisydiskapp.com/) - 磁盘分析工具。了解磁盘使用状况，并进行准确的分析。DaisyDisk 的视觉系属性大大超过了功能性。 [#](https://www.twblogs.net/a/5baad01e2b7177781a0e94d6/zh-cn)
+
+### iPhone 照片管理、文件管理工具
+
+- [iMazing](https://imazing.com/) - 能够将照片、音乐、文件、消息和应用等数据从iPhone、iPad 或iPod 传输到Mac 或 PC 上。轻松管理和备份 iOS 设备，无需使用iTunes。付费软件。【荐】
 
 ### 锁屏、休眠相关
 
