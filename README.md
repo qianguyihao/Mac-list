@@ -1,6 +1,4 @@
 
-> 收集好用的Mac软件。
-
 ## 项目介绍
 
 Mac软件清单、Mac使用技巧。正在不断完善中，努力做到最全，欢迎star。
@@ -248,7 +246,7 @@ Smooth Scroll 提供了一些晦涩难懂的数值型设置选项，我认为默
 
 ### iPhone 照片管理、文件管理工具
 
-- [iMazing](https://imazing.com/) - 能够将照片、音乐、文件、消息和应用等数据从iPhone、iPad 或iPod 传输到Mac 或 PC 上。轻松管理和备份 iOS 设备，无需使用iTunes。付费软件。【荐】
+- [iMazing](https://imazing.com/zh) - 能够将照片、音乐、文件、消息和应用等数据从iPhone、iPad 或iPod 传输到Mac 或 PC 上。轻松管理和备份 iOS 设备，无需使用iTunes。付费软件。【荐】
 
 ### 锁屏、休眠相关
 

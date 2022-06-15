@@ -19,7 +19,7 @@
 ```bash
 # 这行命令可以不需要
 git config --global http.sslVerify "false"   
-
+image.png
 # 重点是下面这两行命令，把端口号 7890 换成你自己的代理软件的端口号
 git config --global https.proxy http://127.0.0.1:7890
 git config --global http.proxy http://127.0.0.1:7890
@@ -43,6 +43,11 @@ git config --global http.proxy http://127.0.0.1:7890
 2、打开系统偏好设置 — 安全性与隐私 — 隐私 - 辅助功能，将 Alfred 勾选上。
 
 
+### 外接键盘的键位，映射修改
+
+将 cmd 改为 option，将 option 改为 cmd。
+
+![](https://img.smyhvae.com/20220615_1905.png)
 
 ### Mac到底要不要关机
 
