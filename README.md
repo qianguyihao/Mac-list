@@ -413,11 +413,21 @@ Smooth Scroll 提供了一些晦涩难懂的数值型设置选项，我认为默
 
 - [Cmd Markdown](https://www.zybuluo.com/) - Cmd Markdown 编辑阅读器，支持实时同步预览，区分写作和阅读模式，支持在线存储，分享文稿网址。
 
-### Markdown 图片上传
+### Markdown 图床工具
 
-- [PicGo](https://molunerfinn.com/PicGo/) - Markdown 图片上传工具。[荐]。[#](https://mp.weixin.qq.com/s/ZQtrlULJ5mNTd8jMCb5yEg)
+工具介绍：可将图片、各种文件上传到配置好的指定提供商的对象存储中，然后快速生成并获取可供互联网访问的文件 URL。链接格式可以是普通 URL、HTML 或者 Markdown 格式（Markdown 格式用得最多），任由你掌控。
+
+工具特点：无论是本地文件、或者屏幕截图都可自动上传，菜单栏显示实时上传进度。上传完成后文件链接自动复制到剪切板，让你无论在写博客时能快速插入图片。
+
+常见工具如下：
+
+- [PicGo](https://molunerfinn.com/PicGo/) - Markdown 图片上传工具。开源免费。[荐]。[#](https://mp.weixin.qq.com/s/ZQtrlULJ5mNTd8jMCb5yEg)
+
+- [Picsee](https://picsee.chitaner.com/) - 图片整理、截图、Markdown 图片上传。
 
 - [iPic](https://toolinbox.net/iPic/) - Markdown 图片上传工具。60元/年。
+
+- [uPic](https://github.com/gee1k/uPic) - 简洁的 Mac 图床客户端。
 
 ### 电子书相关
 
