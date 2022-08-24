@@ -302,9 +302,23 @@ Smooth Scroll 提供了一些晦涩难懂的数值型设置选项，我认为默
 - [QQ](http://im.qq.com/macqq/index.shtml)
 - [WeeChat](https://weechat.org/) - 一个命令行聊天客户端。
 
+### 协同办公
+
+- [飞书](https://www.feishu.cn/) - 先进团队，先用飞书。
+- [企业微信](https://work.weixin.qq.com/) - 连接创造价值。
+- [钉钉](http://www.dingtalk.com/index-b.html#download_block) - 企业级办公通讯免费平台。
+
+### 远程会议
+
+- [腾讯会议](https://meeting.tencent.com/) -基于腾讯20多年音视频通讯经验，腾讯会议提供一站式音视频会议解决方案，让您能随时随地体验高清流畅的会议以及会议协作。【荐】
+
+- 飞书
+
+- [zoom](https://zoom.us/)
+
 ### Email 邮件客户端
 
-> 其实 Mac 自带的邮件客户端已经很好用了。
+> Mac 自带的邮件客户端已经很好用了。
 
 - [Spark](https://sparkmailapp.com/) - 新推出的快速邮件客户端支持Mac和iPhone。[荐]
 - [Foxmail](http://www.foxmail.com/mac/) - 快速的邮件客户端。
@@ -323,11 +337,11 @@ Smooth Scroll 提供了一些晦涩难懂的数值型设置选项，我认为默
 
 - [坚果云](https://www.jianguoyun.com/s/downloads) - 如果你不想用国外的网盘，那么，坚果云最适合作为私人网盘、同步盘。[荐]
 
+- [百度网盘](http://pan.baidu.com/download?from=header#pan)
+
 - [阿里云盘](https://www.aliyundrive.com/) - 百度网盘的替代品。
 
 - [Mega](https://mega.nz) - 免费的云服务，提供50GB的免费存储空间。
-
-- [百度网盘](http://pan.baidu.com/download?from=header#pan)
 
 - [腾讯微云](https://www.weiyun.com/)
 
@@ -353,11 +367,10 @@ Smooth Scroll 提供了一些晦涩难懂的数值型设置选项，我认为默
 - [OmniFocus](https://www.omnigroup.com/omnifocus) - 著名 GTD，上手之后秒杀同类。79.99美元。[#](http://www.asianefficiency.com/technology/omnifocus-mac-review/)
 
 
-### 团队协作
 
-- [飞书](https://www.feishu.cn/) - 先进团队，先用飞书。
+### 其他办公软件
+
 - [Slack](https://slack.com/) - 团队协作，沟通工具。
-- [钉钉](http://www.dingtalk.com/index-b.html#download_block) - 企业级办公通讯免费平台。
 - [Textual](https://www.codeux.com/textual) - 最受欢迎的世界与我们相关的KPI应用 for OS X。
 - [Gitter](https://gitter.im) - 关于GitHub的项目交流，支持 Markdown，对开发者极为友好。
 - [简聊](https://github.com/jianliaoim/talk-os) - 企业级即时沟通工具，已经下线了，可以自己搭建一套[系统](https://github.com/jianliaoim/talk-os)玩儿。
