@@ -30,9 +30,9 @@ Mac软件清单、Mac使用技巧。正在不断完善中，努力做到最全�
 
 ### 浏览器
 
-- [Safari](http://www.apple.com/cn/safari/) - Mac预装的自带浏览器。[荐]
+- [Safari](http://www.apple.com/cn/safari/) - Mac预装的自带浏览器。【荐】
 
-- [Chrome](http://www.google.cn/chrome/browser/) - Chrome浏览器，谷歌出品。[荐]
+- [Chrome](http://www.google.cn/chrome/browser/) - Chrome浏览器，谷歌出品。【荐】
 
 - [Firefox](http://www.firefox.com.cn/) - 火狐浏览器。
 
@@ -48,7 +48,7 @@ Mac软件清单、Mac使用技巧。正在不断完善中，努力做到最全�
 
 - [RIME](http://rime.im/) - 中州韻輸入法引擎。[开源](https://github.com/rime)。在Mac平台的名字叫「鼠须管」。 【荐】
 
-- [Input Source Pro](https://inputsource.pro/) - 一款在不同应用之间自动切换输入法的小工具。通过简洁的提示方式，配合输入法自动切换功能，让每一次输入都信心十足。[荐]
+- [Input Source Pro](https://inputsource.pro/) - 一款在不同应用之间自动切换输入法的小工具。通过简洁的提示方式，配合输入法自动切换功能，让每一次输入都信心十足。【荐】
 
 开发者@[Runjuu](https://web.okjike.com/u/211AC08F-8546-4CAE-8274-5C371574332A)
 
@@ -70,7 +70,7 @@ Mac软件清单、Mac使用技巧。正在不断完善中，努力做到最全�
 
 - [Hidden Bar](https://apps.apple.com/cn/app/hidden-bar/id1452453066?mt=12)：用最精简的功能，实现了在菜单栏隐藏应用图标这个小需求。[开源免费](https://github.com/dwarvesf/hidden)。【荐】
 
-- [Vanilla](https://matthewpalmer.net/vanilla/) - 隐藏 Mac 菜单栏图标。基础功能免费，扩展功能付费。[荐]
+- [Vanilla](https://matthewpalmer.net/vanilla/) - 隐藏 Mac 菜单栏图标。基础功能免费，扩展功能付费。【荐】
 
 - [Dozer](https://github.com/Mortennn/Dozer/releases)：一款隐藏macOS菜单栏图标的应用，开源免费，操作简单。
 
@@ -78,13 +78,13 @@ Dozer 操作方法很简单，Dozer运行后在菜单栏会出现一个「‧」
 
 - [Bartender](https://www.macbartender.com/)：付费软件。能够创建一个二级的菜单栏，让我们把不需要直接显示的菜单栏的应用图标放在这个二级菜单栏中，或者直接隐藏。
 
-- [MenubarX](https://menubarx.app/) - 一款强大的 Mac 菜单栏浏览器，可以在菜单栏固定任何网页，就像原生 App 一样使用。[荐]
+- [MenubarX](https://menubarx.app/) - 一款强大的 Mac 菜单栏浏览器，可以在菜单栏固定任何网页，就像原生 App 一样使用。【荐】
 
 ### 日历工具
 
 - [Itsycal](https://www.mowglii.com/itsycal/) - 一款简洁实用的开源日历工具。可以直接在 menubar 上展示今天是几号；点击后，还自动框选出了本月的时间范围。好处是，可以在最短的时间内查看日历，基本可以替代原生的时间了。[开源](https://github.com/sfsam/itsycal)。【荐】
 
-- [Fantastical](https://flexibits.com/fantastical) - 日历应用程序，你将管理好生活。[荐]。
+- [Fantastical](https://flexibits.com/fantastical) - 日历应用程序，你将管理好生活。【荐】。
 
 
 
@@ -111,7 +111,7 @@ Dozer 操作方法很简单，Dozer运行后在菜单栏会出现一个「‧」
 
 ### 压缩／解压
 
-- [BetterZip 3](https://macitbetter.com/) - 压缩解压缩工具。支持格式 ZIP、TAR、TGZ、TBZ、TXZ (new)、7-ZIP、RAR。[荐]
+- [BetterZip 3](https://macitbetter.com/) - 压缩解压缩工具。支持格式 ZIP、TAR、TGZ、TBZ、TXZ (new)、7-ZIP、RAR。【荐】
 - The Unarchiver - 压缩／解压工具。
 
 ### 其他工具
@@ -173,7 +173,7 @@ Dozer 操作方法很简单，Dozer运行后在菜单栏会出现一个「‧」
 
 ### 密码管理
 
-- [1password](https://1password.com/) - 全平台的帐号密码管理软件。[荐]
+- [1password](https://1password.com/) - 全平台的帐号密码管理软件。【荐】
 
 - [LastPass](https://lastpass.com/) - 密码管理器和安全的数字笔记。
 
@@ -187,9 +187,9 @@ Dozer 操作方法很简单，Dozer运行后在菜单栏会出现一个「‧」
 
 普通鼠标滚轮一格一格的滚动效果总是没有触摸板来的顺滑，这款 Mos 可以让平滑滚动应用到系统的每个角落，让鼠标滚轮用起来也有触摸板的感觉。
 
-- [Scroll Reverser](https://pilotmoon.com/scrollreverser/) - 免费软件，可以分别设置鼠标和触控板的滚动方向。[荐]
+- [Scroll Reverser](https://pilotmoon.com/scrollreverser/) - 免费软件，可以分别设置鼠标和触控板的滚动方向。【荐】
 
-- [Smooze Pro](https://smooze.co/) - Mac 鼠标平滑滚动神器。付费软件。[荐]
+- [Smooze Pro](https://smooze.co/) - Mac 鼠标平滑滚动神器。付费软件。【荐】
 
 - [BetterTouchTool](http://www.bettertouchtool.net/) - 触控板、Magic mouse 鼠标增强工具。比如，这个工具可以让Magic mouse实现「轻点代替点按」。[#](https://mp.weixin.qq.com/s/A_LP4uQKSVkSNZR5EKEaxA)、[#](https://mp.weixin.qq.com/s/DxvLJRF8nhIJ1z_7E5CuIA)、[#](https://mp.weixin.qq.com/s/DxvLJRF8nhIJ1z_7E5CuIA)
 
@@ -238,7 +238,7 @@ Smooth Scroll 提供了一些晦涩难懂的数值型设置选项，我认为默
 
 ### Mac系统管理、磁盘清理
 
-- [腾讯柠檬清理](https://lemon.qq.com/) - 匠心打磨清理体验，一键释放磁盘空间。[荐]
+- [腾讯柠檬清理](https://lemon.qq.com/) - 匠心打磨清理体验，一键释放磁盘空间。【荐】
 - [OmniDiskSweeper](https://www.omnigroup.com/more/) - 最简单易操作、免费的、强大的Macbook内存清理软件。它可以深度清掉Mac里那些犄角旮旯里的缓存数据，也就是那些占了很多内存但是你并找不到在哪里的「其他」。[#](https://web.okjike.com/originalPost/61fbdd4d0256da0010792d62)
 - [CleanMyMac X](https://cleanmymac.com/) - 删除系统垃圾、不需要的应用程序和恶意软件，并调整你的 Mac 以获得最大速度。
 - [MacBooster](https://www.macbooster.cn/) - 磁盘、内存清理工具。
@@ -258,9 +258,9 @@ Smooth Scroll 提供了一些晦涩难懂的数值型设置选项，我认为默
 
 > 其实，macOS 系统本身是已经原生支持 NTFS 磁盘格式的读与写的，只不过 NTFS 毕竟是老对手 微软 Windows 产品下的技术，碍于版权和商业上的原因，苹果只好把 NTFS 的“写入”功能给屏蔽掉，变成系统的隐藏特性。
 
-- [Paragon NTFS for Mac](https://china.paragon-software.com/home-mac/ntfs-for-mac/) - NTFS移动硬盘读写工具。[荐]
+- [Paragon NTFS for Mac](https://china.paragon-software.com/home-mac/ntfs-for-mac/) - NTFS移动硬盘读写工具。【荐】
 
-- [NTFS for Mac 助手](https://www.ntfsformac.com/) - 轻松实现 Mac 电脑读写 NTFS 磁盘。[荐]。
+- [NTFS for Mac 助手](https://www.ntfsformac.com/) - 轻松实现 Mac 电脑读写 NTFS 磁盘。【荐】。
 
 - [Mounty](http://enjoygineering.com/mounty/) - 免费让 Mac 原生支持移动硬盘/U盘 NTFS 读写的驱动应用。团长把这个软件试用了一段时间，发现容易导致文件丢失，所以，请慎用。[#](http://www.iplaysoft.com/mounty-for-ntfs.html)
 
@@ -282,7 +282,7 @@ Smooth Scroll 提供了一些晦涩难懂的数值型设置选项，我认为默
 
 ### 远程协助
 
-- [TeamViewer](https://www.teamviewer.com) - 远程协助及在线协作和会议功能的软件，商业软件个人使用免费。[荐]
+- [TeamViewer](https://www.teamviewer.com) - 远程协助及在线协作和会议功能的软件，商业软件个人使用免费。【荐】
 - [RealVNC](https://www.realvnc.com) 是一款免费的远程控制跨多平台的程序。
 
 ### 虚拟机
@@ -320,7 +320,7 @@ Smooth Scroll 提供了一些晦涩难懂的数值型设置选项，我认为默
 
 > Mac 自带的邮件客户端已经很好用了。
 
-- [Spark](https://sparkmailapp.com/) - 新推出的快速邮件客户端支持Mac和iPhone。[荐]
+- [Spark](https://sparkmailapp.com/) - 新推出的快速邮件客户端支持Mac和iPhone。【荐】
 - [Foxmail](http://www.foxmail.com/mac/) - 快速的邮件客户端。
 - [网易邮箱大师](http://mail.163.com/dashi/dlpro.html)。[#](https://www.waerfa.com/neteasemailmaster-for-mac)
 
@@ -329,13 +329,13 @@ Smooth Scroll 提供了一些晦涩难懂的数值型设置选项，我认为默
 
 - icloud - 苹果自带的 icloud ，管理和同步相册，非常方便。【荐】
 
-- [Dropbox](http://www.dropboxchina.com/Download/dropbox-for-mac.html) - 非常好用的网络文件同步工具，提供在线存储服务。[荐]
+- [Dropbox](http://www.dropboxchina.com/Download/dropbox-for-mac.html) - 非常好用的网络文件同步工具，提供在线存储服务。【荐】
 
 - Google Drive - 谷歌推出的网盘。
 
 - Microsoft OneDrive - 微软推出的网盘。
 
-- [坚果云](https://www.jianguoyun.com/s/downloads) - 如果你不想用国外的网盘，那么，坚果云最适合作为私人网盘、同步盘。[荐]
+- [坚果云](https://www.jianguoyun.com/s/downloads) - 如果你不想用国外的网盘，那么，坚果云最适合作为私人网盘、同步盘。【荐】
 
 - [百度网盘](http://pan.baidu.com/download?from=header#pan)
 
@@ -353,9 +353,9 @@ Smooth Scroll 提供了一些晦涩难懂的数值型设置选项，我认为默
 
 ### 思维导图软件
 
-- [XMind](http://www.xmind.net) - 思维导图软件。[荐]
-- [MindNode](http://mindnode.com/) - 简洁的风格与人性化的操作，绘制思维脑图。[荐]
-- iThoughtX - 进阶用户喜欢用它画脑图。[荐]。[#](https://sspai.com/post/31516)
+- [XMind](http://www.xmind.net) - 思维导图软件。【荐】
+- [MindNode](http://mindnode.com/) - 简洁的风格与人性化的操作，绘制思维脑图。【荐】
+- iThoughtX - 进阶用户喜欢用它画脑图。【荐】。[#](https://sspai.com/post/31516)
 
 
 ### 社交
@@ -434,7 +434,7 @@ Smooth Scroll 提供了一些晦涩难懂的数值型设置选项，我认为默
 
 常见工具如下：
 
-- [PicGo](https://molunerfinn.com/PicGo/) - Markdown 图片上传工具。开源免费。[荐]。[#](https://mp.weixin.qq.com/s/ZQtrlULJ5mNTd8jMCb5yEg)
+- [PicGo](https://molunerfinn.com/PicGo/) - Markdown 图片上传工具。开源免费。【荐】。[#](https://mp.weixin.qq.com/s/ZQtrlULJ5mNTd8jMCb5yEg)
 
 - [Picsee](https://picsee.chitaner.com/) - 图片整理、截图、Markdown 图片上传。
 
@@ -444,12 +444,12 @@ Smooth Scroll 提供了一些晦涩难懂的数值型设置选项，我认为默
 
 ### 电子书相关
 
-- [Calibre](http://calibre-ebook.com/) - 丑陋的软件，但强大的软件电子书管理、电子书格式转换。[开源](https://github.com/kovidgoyal/calibre) 。[荐]
+- [Calibre](http://calibre-ebook.com/) - 丑陋的软件，但强大的软件电子书管理、电子书格式转换。[开源](https://github.com/kovidgoyal/calibre) 。【荐】
 
 
 - [Kindle App](http://www.amazon.com/gp/help/customer/display.html?nodeId=201246110) - 亚马逊 Kindle App 电子书阅读器。
 
-- [Sigil](https://sigil-ebook.com/) - [开源](https://github.com/Sigil-Ebook/Sigil)、多平台EPUB编辑器。[荐] 。EPub 电子书制作教程：[#](https://kindlefere.com/post/73.html) [#](https://kindlefere.com/post/71.html) [#](https://kindlefere.com/post/72.html)
+- [Sigil](https://sigil-ebook.com/) - [开源](https://github.com/Sigil-Ebook/Sigil)、多平台EPUB编辑器。【荐】 。EPub 电子书制作教程：[#](https://kindlefere.com/post/73.html) [#](https://kindlefere.com/post/71.html) [#](https://kindlefere.com/post/72.html)
 
 - [Knotes](http://knotesapp.com/cn) - 高效、优雅的读书笔记管理。
 
@@ -465,7 +465,7 @@ Smooth Scroll 提供了一些晦涩难懂的数值型设置选项，我认为默
 
 ### RSS订阅
 
-- [inoreader](https://www.inoreader.com/) - 重新掌控你的新闻订阅源。[荐]
+- [inoreader](https://www.inoreader.com/) - 重新掌控你的新闻订阅源。【荐】
 - [Feeds 2](http://www.feedsapp.com/) - 监控任何RSS。
 - [Reeder 3](http://reederapp.com/mac/) - RSS 服务订阅。[hot]
 - [ReadKit](http://readkitapp.com/) - 书签RSS管理客户端。
@@ -485,9 +485,9 @@ Smooth Scroll 提供了一些晦涩难懂的数值型设置选项，我认为默
 
 ### 图片编辑
 
-- Photoshop - 最强大的位图处理软件。[荐]
+- Photoshop - 最强大的位图处理软件。【荐】
 
-- [Affinity Photo](https://affinity.serif.com/en-us/photo/) - 光栅图像设计工具，可以替代Adobe PS图象处理软件。[荐]
+- [Affinity Photo](https://affinity.serif.com/en-us/photo/) - 光栅图像设计工具，可以替代Adobe PS图象处理软件。【荐】
 
 - [Affinity Designer](https://affinity.serif.com/en-us/designer/) - 矢量图像设计工具，对标 Adobe Illustrator。
 
@@ -497,9 +497,9 @@ Smooth Scroll 提供了一些晦涩难懂的数值型设置选项，我认为默
 
 ### 原型设计、交互设计
 
-- [Sketch](http://www.sketchapp.com/) - 特别适用于用户界面，Web和移动设计。[荐]
+- [Sketch](http://www.sketchapp.com/) - 特别适用于用户界面，Web和移动设计。【荐】
 
-- [Figma](https://www.figma.com/) - 新一代原型设计工具。[荐]
+- [Figma](https://www.figma.com/) - 新一代原型设计工具。【荐】
 
 - [Axure RP 8](http://www.axure.com) - 画原型图工具。
 
@@ -554,12 +554,12 @@ Mac电脑上，可以直接安装 [Command Line Tools for Xcode](https://develop
 
 ### 版本控制-GUI软件
 
-- [Tower](https://www.git-tower.com/) - 强大的Git客户端。[荐]
+- [Tower](https://www.git-tower.com/) - 强大的Git客户端。【荐】
 
 安装破解版时，dock 栏看看有没有一个橙色钥匙，那个就是注册机。
 
-- [SourceTree](https://www.sourcetreeapp.com/) - 强大的Git跨平台客户端。[荐]
-- [GitKraken](https://www.gitkraken.com/) - 强大的Git客户端。[荐]
+- [SourceTree](https://www.sourcetreeapp.com/) - 强大的Git跨平台客户端。【荐】
+- [GitKraken](https://www.gitkraken.com/) - 强大的Git客户端。【荐】
 
 
 - [GitHub Desktop](https://desktop.github.com/) - 使用GitHub的GUI应用。
@@ -582,7 +582,7 @@ Mac电脑上，可以直接安装 [Command Line Tools for Xcode](https://develop
 
 ### FTP客户端
 
--  [FileZilla](https://filezilla-project.org) - 跨平台的FTP，FTPS和SFTP客户端。[荐]
+-  [FileZilla](https://filezilla-project.org) - 跨平台的FTP，FTPS和SFTP客户端。【荐】
 
 -  [Transmit](https://panic.com/transmit/) - 一个FTP客户端，支持FTP + SFTP + S3【荐】。
 
@@ -597,9 +597,9 @@ Mac电脑上，可以直接安装 [Command Line Tools for Xcode](https://develop
 
 - [Visual Studio Code](http://code.visualstudio.com) - 微软推出的免费、[开源]((https://github.com/Microsoft/vscode))编辑器，TypeScript支持杠杠的。【荐】
 
-- [Sublime Text](http://www.sublimetext.com/3) - 一个简洁大方带插件管理系统的流行编辑器，可永久免费试用。[Sublime常用插件](editor-plugin.md#sublime-text-plugin)。[荐]
+- [Sublime Text](http://www.sublimetext.com/3) - 一个简洁大方带插件管理系统的流行编辑器，可永久免费试用。[Sublime常用插件](editor-plugin.md#sublime-text-plugin)。【荐】
 
-- [TextMate](https://macromates.com/) - 一个强大的21世纪编辑器，能被坚持使用10年以上。[开源](https://github.com/textmate/textmate)免费。[荐]
+- [TextMate](https://macromates.com/) - 一个强大的21世纪编辑器，能被坚持使用10年以上。[开源](https://github.com/textmate/textmate)免费。【荐】
 
 - [Atom](https://atom.io) - GitHub推出的[开源](https://github.com/atom/atom)编辑器。
 
@@ -630,13 +630,13 @@ Mac电脑上，可以直接安装 [Command Line Tools for Xcode](https://develop
 ### host修改工具
 
 
-- [SwitchHosts](https://oldj.github.io/SwitchHosts/) - 一个管理、切换多个 hosts 方案的工具。[开源](https://github.com/oldj/SwitchHosts) 。[荐]
+- [SwitchHosts](https://oldj.github.io/SwitchHosts/) - 一个管理、切换多个 hosts 方案的工具。[开源](https://github.com/oldj/SwitchHosts) 。【荐】
 - [iHosts](http://toolinbox.net/iHosts/) - 唯一上架 [Mac App Store](https://itunes.apple.com/cn/app/id1102004240) 的 /etc/hosts 编辑神器，使用分组管理 Hosts，灵活组合、一键切换。
 
 
 ### 代码比对
 
-- [Kaleidoscope](https://www.kaleidoscopeapp.com/) - Kaleidoscope 是一款很强大的文件和图像比较工具，支持任何文本文件和 jpeg、tiff、png、psd 等格式的图像文件，同时和 git、svn 等版本控制工具能够完美的结合。[荐]。
+- [Kaleidoscope](https://www.kaleidoscopeapp.com/) - Kaleidoscope 是一款很强大的文件和图像比较工具，支持任何文本文件和 jpeg、tiff、png、psd 等格式的图像文件，同时和 git、svn 等版本控制工具能够完美的结合。【荐】。
 
 - [DiffMerge](http://sourcegear.com/diffmerge/) - 可视化的文件比较（也可进行目录比较）与合并工具。
 
@@ -660,20 +660,20 @@ Mac电脑上，可以直接安装 [Command Line Tools for Xcode](https://develop
 ### 测试工具
 
 - [Charles](https://www.charlesproxy.com/) - 一个代理工具，允许你查看所有的HTTP和HTTPS流量。
-- [Postman](https://www.getpostman.com) - Postman 帮助我们快速测试API。[荐]
+- [Postman](https://www.getpostman.com) - Postman 帮助我们快速测试API。【荐】
 
 
 ### 命令行工具/终端/SSH 远程连接
 
-- [iTerm2](http://www.iterm2.com) - 免费的终端工具，直接替代自带的Terminal，有非常多惊人的特性。[开源](https://github.com/gnachman/iTerm2) 。[荐]
+- [iTerm2](http://www.iterm2.com) - 免费的终端工具，直接替代自带的Terminal，有非常多惊人的特性。[开源](https://github.com/gnachman/iTerm2) 。【荐】
 
-- [SecureCRT](https://www.vandyke.com/products/securecrt/) - 一款支持SSH、Telnet等多种协议的终端仿真程序。[荐]
+- [SecureCRT](https://www.vandyke.com/products/securecrt/) - 一款支持SSH、Telnet等多种协议的终端仿真程序。【荐】
 
-- [Royal TSX](https://royalapps.com/ts/mac) - 全平台终端软件。[#](https://guozh.net/macos-shell-royal-tsx-item2-ssh-ftp/)。[荐]
+- [Royal TSX](https://royalapps.com/ts/mac) - 全平台终端软件。[#](https://guozh.net/macos-shell-royal-tsx-item2-ssh-ftp/)。【荐】
 
 - [termius](https://termius.com/) - Mac 最好用的SSH连接客户端。
 
-- [Oh my zsh](http://ohmyz.sh) - 拥有大量的有用的功能，助手，插件，主题，等特性的命令行工具插件。[开源](https://github.com/robbyrussell/oh-my-zsh)。[荐]
+- [Oh my zsh](http://ohmyz.sh) - 拥有大量的有用的功能，助手，插件，主题，等特性的命令行工具插件。[开源](https://github.com/robbyrussell/oh-my-zsh)。【荐】
 
 - [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - 和**Oh my zsh**相似，建立在Fish Shell框架上。
 
