@@ -213,7 +213,7 @@ Smooth Scroll 提供了一些晦涩难懂的数值型设置选项，我认为默
 
 ### 窗口管理
 
-- [Magnet](https://magnet.crowdcafe.com/) - 窗口分屏工具。【荐】
+- [Magnet](https://magnet.crowdcafe.com/) - 窗口分屏工具，付费软件。【荐】
 
 - [ShiftIt](https://github.com/fikovnik/ShiftIt) - 窗口位置和大小管理软件。 [[开源]][https://github.com/fikovnik/ShiftIt](荐)
 
@@ -284,6 +284,7 @@ Smooth Scroll 提供了一些晦涩难懂的数值型设置选项，我认为默
 
 - [TeamViewer](https://www.teamviewer.com) - 远程协助及在线协作和会议功能的软件，商业软件个人使用免费。【荐】
 - [RealVNC](https://www.realvnc.com) 是一款免费的远程控制跨多平台的程序。
+- [Rustdesk](https://rustdesk.com/zh/) - 功能丰富且强大的跨平台远程桌面软件，开箱即用，可自定义中继服务。
 
 ### 虚拟机
 
@@ -331,9 +332,9 @@ Smooth Scroll 提供了一些晦涩难懂的数值型设置选项，我认为默
 
 - [Dropbox](http://www.dropboxchina.com/Download/dropbox-for-mac.html) - 非常好用的网络文件同步工具，提供在线存储服务。【荐】
 
-- Google Drive - 谷歌推出的网盘。
+- [Google Drive](https://www.google.com/drive/download/) - 谷歌推出的网盘。
 
-- Microsoft OneDrive - 微软推出的网盘。
+- [Microsoft OneDrive](https://www.microsoft.com/en-us/microsoft-365/onedrive/download) - 微软推出的网盘。
 
 - [坚果云](https://www.jianguoyun.com/s/downloads) - 如果你不想用国外的网盘，那么，坚果云最适合作为私人网盘、同步盘。【荐】
 
