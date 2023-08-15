@@ -723,7 +723,7 @@ Mac电脑上，可以直接安装 [Command Line Tools for Xcode](https://develop
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md)
 
 
-**[⬆ 返回顶部](#目录)**
+**[⬆ 返回顶部](#项目介绍)**
 
 
 
