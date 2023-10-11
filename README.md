@@ -10,11 +10,12 @@ Mac软件清单、Mac使用技巧。正在不断完善中，努力做到最全�
 
 ### 启动工具
 
+- [Raycast](https://www.raycast.com/) - Alfred 的竞品。[#](https://se7en.hedwig.pub/i/zui-jin-fei-chang-xi-huan-de-app-raycast-yi-ji-ta-de-cha-jian-xi-tong)【荐】
+
 - [Alfred](https://www.alfredapp.com/) - Mac 上应该安装的第一个效率神器。【荐】
 
 相关文章：[《程序员的macOS系列：高效Alfred进阶》](https://juejin.cn/post/6844904062484217863) [《Mac神器Alfred之自定义一个多应用快速切换的workflow》](https://mp.weixin.qq.com/s/DdT98goc5nR73RfK-ISGiQ)
 
-- [Raycast](https://www.raycast.com/) - Alfred 的竞品。[#](https://se7en.hedwig.pub/i/zui-jin-fei-chang-xi-huan-de-app-raycast-yi-ji-ta-de-cha-jian-xi-tong)【荐】
 
 ### 截图
 
@@ -33,6 +34,8 @@ Mac软件清单、Mac使用技巧。正在不断完善中，努力做到最全�
 - [Safari](http://www.apple.com/cn/safari/) - Mac预装的自带浏览器。【荐】
 
 - [Chrome](http://www.google.cn/chrome/browser/) - Chrome浏览器，谷歌出品。【荐】
+
+- [Arc](https://arc.net/)- 新一代浏览器；优点是交互新颖，缺点是占内存。【荐】
 
 - [Firefox](http://www.firefox.com.cn/) - 火狐浏览器。
 
@@ -110,6 +113,10 @@ Dozer 操作方法很简单，Dozer运行后在菜单栏会出现一个「‧」
 - [ENFI下载器](http://enfi.cloud/) - 使用P2P下载技术，支持HTTP，BT，磁力链等各种协议，高速下载让你摆脱限速的困扰，从此告别低速。
 
 ### 压缩／解压
+
+- [MacZip](https://ezip.awehunt.com/)  - 由国人开发的免费Mac解压缩软件，而且支持解压带密码的压缩包。
+
+- [Keka](https://www.keka.io/)
 
 - [BetterZip 3](https://macitbetter.com/) - 压缩解压缩工具。支持格式 ZIP、TAR、TGZ、TBZ、TXZ (new)、7-ZIP、RAR。【荐】
 - The Unarchiver - 压缩／解压工具。
@@ -354,8 +361,8 @@ Smooth Scroll 提供了一些晦涩难懂的数值型设置选项，我认为默
 ### 思维导图软件
 
 - [XMind](http://www.xmind.net) - 思维导图软件。【荐】
-- [MindNode](http://mindnode.com/) - 简洁的风格与人性化的操作，绘制思维脑图。【荐】
-- iThoughtX - 进阶用户喜欢用它画脑图。【荐】。[#](https://sspai.com/post/31516)
+- [MindNode](http://mindnode.com/) - 简洁的风格与人性化的操作，绘制思维脑图。
+- iThoughtX - 进阶用户喜欢用它画脑图。[#](https://sspai.com/post/31516)
 
 
 ### 社交
@@ -466,6 +473,7 @@ Smooth Scroll 提供了一些晦涩难懂的数值型设置选项，我认为默
 ### RSS订阅
 
 - [inoreader](https://www.inoreader.com/) - 重新掌控你的新闻订阅源。【荐】
+- [NetNewsWire](https://netnewswire.com/) - 开源免费。【荐】
 - [Feeds 2](http://www.feedsapp.com/) - 监控任何RSS。
 - [Reeder 3](http://reederapp.com/mac/) - RSS 服务订阅。[hot]
 - [ReadKit](http://readkitapp.com/) - 书签RSS管理客户端。
@@ -665,7 +673,7 @@ Mac电脑上，可以直接安装 [Command Line Tools for Xcode](https://develop
 
 ### 命令行工具/终端/SSH 远程连接
 
-- [iTerm2](http://www.iterm2.com) - 免费的终端工具，直接替代自带的Terminal，有非常多惊人的特性。[开源](https://github.com/gnachman/iTerm2) 。【荐】
+- [iTerm2](http://www.iterm2.com) - 免费的终端工具，直接替代自带的Terminal，有非常多惊人的特性。[开源](https://github.com/gnachman/iTerm2) 。、[#](https://github.com/sirius1024/iterm2-with-oh-my-zsh)【荐】
 
 - [SecureCRT](https://www.vandyke.com/products/securecrt/) - 一款支持SSH、Telnet等多种协议的终端仿真程序。【荐】
 
@@ -687,13 +695,16 @@ Mac电脑上，可以直接安装 [Command Line Tools for Xcode](https://develop
 
 > 拒绝盗版从我做起，下面的网站提供大量破解软件下载，欢迎大家监督它们。
 
-- MacWk：<https://macwk.com/> 【荐】
-
-下载前，会有注意事项的提醒。
 
 - Mac精品软件：<http://xclient.info/>【荐】
 
 只收录精品Mac应用。
+
+- https://appstorrent.ru/
+
+- MacWk：<https://macwk.com/>
+
+下载前，会有注意事项的提醒。该网站已停止维护。
 
 - 潘多拉盒子：<https://www.inpandora.com/>
 

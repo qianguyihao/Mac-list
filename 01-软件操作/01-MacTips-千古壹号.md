@@ -3,6 +3,14 @@
 
 > 积累千古壹号平时遇到的 MacTips。第一次使用 Mac 时，很有用。
 
+### 无法打开 xxx 软件，因为Apple无法检查其是否包含恶意软件
+
+解决办法：打开设置中的“隐私与安全性-->安全性设置”，点击“仍要打开”按钮，即可打开被阻止的 App。此按钮在你尝试打开该 App 后一小时内可用。
+
+
+参考链接：[Apple 无法检查 App 是否包含恶意软件](https://support.apple.com/zh-cn/guide/mac-help/mchleab3a043/mac)
+
+
 ### Mac M1 芯片的电脑，安装 Git
 
 不需要安装 Xcode，这个太大了，好几个G。直接安装 [Command Line Tools for Xcode](https://developer.apple.com/download/all/?q=command) 即可，安装完成后 Git 就有了。
