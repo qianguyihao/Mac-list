@@ -87,6 +87,8 @@ Dozer 操作方法很简单，Dozer运行后在菜单栏会出现一个「‧」
 
 - [Itsycal](https://www.mowglii.com/itsycal/) - 一款简洁实用的开源日历工具。可以直接在 menubar 上展示今天是几号；点击后，还自动框选出了本月的时间范围。好处是，可以在最短的时间内查看日历，基本可以替代原生的时间了。[开源](https://github.com/sfsam/itsycal)。【荐】
 
+日期格式举例：`y/M/d H:m E`,对应的显示效果为`2023/10/18 20:38 周三`。
+
 - [Fantastical](https://flexibits.com/fantastical) - 日历应用程序，你将管理好生活。【荐】。
 
 
