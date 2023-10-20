@@ -87,7 +87,7 @@ Dozer 操作方法很简单，Dozer运行后在菜单栏会出现一个「‧」
 
 - [Itsycal](https://www.mowglii.com/itsycal/) - 一款简洁实用的开源日历工具。可以直接在 menubar 上展示今天是几号；点击后，还自动框选出了本月的时间范围。好处是，可以在最短的时间内查看日历，基本可以替代原生的时间了。[开源](https://github.com/sfsam/itsycal)。【荐】
 
-日期格式举例：`y/M/d H:m E`,对应的显示效果为`2023/10/18 20:38 周三`。
+日期格式举例：`yyyy/MM/dd HH:mm E`,对应的显示效果为`2023/10/18 20:08 周三`。
 
 - [Fantastical](https://flexibits.com/fantastical) - 日历应用程序，你将管理好生活。【荐】。
 
@@ -675,7 +675,9 @@ Mac电脑上，可以直接安装 [Command Line Tools for Xcode](https://develop
 
 ### 命令行工具/终端/SSH 远程连接
 
-- [iTerm2](http://www.iterm2.com) - 免费的终端工具，直接替代自带的Terminal，有非常多惊人的特性。[开源](https://github.com/gnachman/iTerm2) 。、[#](https://github.com/sirius1024/iterm2-with-oh-my-zsh)【荐】
+- [iTerm2](http://www.iterm2.com) - 免费的终端工具，直接替代自带的Terminal，有非常多惊人的特性。[开源](https://github.com/gnachman/iTerm2) 。[#](https://github.com/sirius1024/iterm2-with-oh-my-zsh)【荐】
+
+搭配 [wd 插件](https://16bh.github.io/2016/07/12/oh-my-zsh-plugin-wd/)食用，效果更加，可快速 cd 到指定目录。
 
 - [SecureCRT](https://www.vandyke.com/products/securecrt/) - 一款支持SSH、Telnet等多种协议的终端仿真程序。【荐】
 
