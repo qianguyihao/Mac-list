@@ -689,6 +689,8 @@ Mac电脑上，可以直接安装 [Command Line Tools for Xcode](https://develop
 
 - [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - 和**Oh my zsh**相似，建立在Fish Shell框架上。
 
+- [ZOC Terminal](https://www.emtec.com/zoc/index.html) - 终端仿真器，提供 SSH、Telnet、串行控制台以及多种仿真和文件传输协议。
+
 
 ## 八、网站推荐
 
