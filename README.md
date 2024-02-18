@@ -590,17 +590,7 @@ Mac电脑上，可以直接安装 [Command Line Tools for Xcode](https://develop
 - [Gerrit](https://gerrit.rockbox.org) Gerrit 是一个免费、开放源代码的代码审查软件，使用网页界面。
 - [Gitblit](http://www.gitblit.com/) Java版本Git代码托管，项目管理。
 
-### FTP客户端
 
--  [FileZilla](https://filezilla-project.org) - 跨平台的FTP，FTPS和SFTP客户端。【荐】
-
--  [Transmit](https://panic.com/transmit/) - 一个FTP客户端，支持FTP + SFTP + S3【荐】。
-
-- [Flow](http://fivedetails.com/flow/) - 支持简单的 FTP + SFTP 客户端。
-
-- [Yummy FTP](http://www.yummysoftware.com) - 专业快速，可靠的FTP客户端。
-
-- [Cyberduck](https://cyberduck.io) - 免费FTP，SFTP，S3和WebDAV客户端 & OpenStack Swift Client。
 
 
 ### 代码编辑器
@@ -688,6 +678,18 @@ Mac电脑上，可以直接安装 [Command Line Tools for Xcode](https://develop
 - [Oh my zsh](http://ohmyz.sh) - 拥有大量的有用的功能，助手，插件，主题，等特性的命令行工具插件。[开源](https://github.com/robbyrussell/oh-my-zsh)。【荐】
 
 - [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - 和**Oh my zsh**相似，建立在Fish Shell框架上。
+
+### FTP客户端
+
+-  [FileZilla](https://filezilla-project.org) - 跨平台的FTP，FTPS和SFTP客户端。【荐】
+
+-  [Transmit](https://panic.com/transmit/) - 一个FTP客户端，支持FTP + SFTP + S3【荐】。
+
+- [Flow](http://fivedetails.com/flow/) - 支持简单的 FTP + SFTP 客户端。
+
+- [Yummy FTP](http://www.yummysoftware.com) - 专业快速，可靠的FTP客户端。
+
+- [Cyberduck](https://cyberduck.io) - 免费FTP，SFTP，S3和WebDAV客户端 & OpenStack Swift Client。
 
 
 ## 八、网站推荐
