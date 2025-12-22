@@ -170,7 +170,7 @@ Dozer 操作方法很简单，Dozer运行后在菜单栏会出现一个「‧」
 
 科学上网包括两步：代理工具+服务，缺一不可。（1）先安装工具；（2）然后购买服务，或者自行搭建服务。
 
-- [clash](https://github.com/yichengchen/clashX/releases) - ClashX 旨在提供一个简单轻量化的代理客户端。【荐】
+- [clash](https://github.com/yichengchen/clashX/releases) - ClashX 旨在提供一个简单轻量化的代理客户端。【荐】(中文教程/排错：https://clashx.tech/tutorial)
 - [Shadowsocks](http://shadowsocks.org/) - 一个快速的隧道代理，可以帮助你绕过防火墙。
 - [ShadowsocksX-NG](https://github.com/qiuyuzhou/ShadowsocksX-NG) - 一款ShadowsocksX客户端软件。
 - [Surge](http://nssurge.com/) - 科学上网。
