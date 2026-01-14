@@ -146,7 +146,7 @@ Dozer 操作方法很简单，Dozer运行后在菜单栏会出现一个「‧」
 - [openEmu](http://openemu.org/) - 模拟器，可以玩魂斗罗之类，放松回到小时候。[[开源]](https://github.com/OpenEmu/OpenEmu)
 - [Hammerspoon](http://www.hammerspoon.org/) - 功能强大的自动化工具，Lua 脚本驱动，支持窗口管理。[[开源]](https://github.com/Hammerspoon/hammerspoon)
 - [DaisyDisk](https://daisydiskapp.com/) - 磁盘空间使用扫描工具。
-- [iStat pro](https://bjango.com/mac/istatmenus/) - 免费的Mac OS电脑硬件信息检测软件。
+- [iStat Menus](https://bjango.com/mac/istatmenus/) - 可以让CPU、GPU等硬件和软件信息显示到菜单栏（付费）。
 - [BitBar](https://getbitbar.com/) - 支持使用各种语言将信息展示到Mac OS的菜单栏。[开源](https://github.com/matryer/bitbar)
 - [ClipMenu](http://www.clipmenu.com) - 一个剪贴板操作的管理器。
 - [Paste](http://pasteapp.me) - 智能剪贴板历史片段管理。
