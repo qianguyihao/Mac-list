@@ -673,6 +673,8 @@ Mac电脑上，可以直接安装 [Command Line Tools for Xcode](https://develop
 
 - [Royal TSX](https://royalapps.com/ts/mac) - 全平台终端软件。[#](https://guozh.net/macos-shell-royal-tsx-item2-ssh-ftp/)。【荐】
 
+- [Nexus Shell](https://nexusshell.app/) - 原生 macOS SSH 客户端，集成多标签终端、SFTP、密钥管理、Docker 工具与只读服务器监控。
+
 - [termius](https://termius.com/) - Mac 最好用的SSH连接客户端。
 
 - [Oh my zsh](http://ohmyz.sh) - 拥有大量的有用的功能，助手，插件，主题，等特性的命令行工具插件。[开源](https://github.com/robbyrussell/oh-my-zsh)。【荐】
@@ -741,7 +743,6 @@ Mac电脑上，可以直接安装 [Command Line Tools for Xcode](https://develop
 
 
 **[⬆ 返回顶部](#目录)**
-
 
 
 
