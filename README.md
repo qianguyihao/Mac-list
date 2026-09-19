@@ -157,6 +157,7 @@ Dozer 操作方法很简单，Dozer运行后在菜单栏会出现一个「‧」
 - [iStats](https://github.com/Chris911/iStats) - iStats 是一个可以让你快速查看电脑 CPU 温度，磁盘转速和电池等信息的命令行工具。[[开源]](https://github.com/Chris911/iStats)
 - [InsomniaX](https://www.macupdate.com/app/mac/22211/insomniax) - 合上盖子不眠不休，继续听歌下载。
 - [NoSleep](https://www.macupdate.com/app/mac/37991/nosleep) - 合上盖子不休眠，可根据是否连接电源单独设置。
+- [ApolloShell](https://github.com/Silvertree2010/ApolloShell) - macOS 26 桌面外壳：侧边栏自带程序坞，另有启动器、仪表盘和控制中心。[开源](https://github.com/Silvertree2010/ApolloShell)
 - Finder
     - [Quicklook-Plugins](https://github.com/sindresorhus/quick-look-plugins) - Finder快速预览文件插件。
     - [Path Finder](http://www.cocoatech.com/pathfinder/) - 强大的Finder替代者，拥有很多特性。
