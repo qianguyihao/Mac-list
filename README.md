@@ -434,6 +434,7 @@ Smooth Scroll 提供了一些晦涩难懂的数值型设置选项，我认为默
 - [LightPaper](http://lightpaper.42squares.in/) - 简单的Markdown文本编辑器。
 
 - [Cmd Markdown](https://www.zybuluo.com/) - Cmd Markdown 编辑阅读器，支持实时同步预览，区分写作和阅读模式，支持在线存储，分享文稿网址。
+- [Glim](https://github.com/NeoPanic/Glim) - 免费开源的 Mac 多格式文件查看器，支持 Markdown 图表与公式、PDF、图片、JSON、CSV 和源码查看，以及基础文本编辑。
 
 ### Markdown 图床工具
 
