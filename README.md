@@ -137,6 +137,7 @@ Dozer 操作方法很简单，Dozer运行后在菜单栏会出现一个「‧」
 - [Karabiner](https://pqrs.org/osx/karabiner/) - 一个强大的和稳定的OS X的键盘定制。[[开源](https://github.com/tekezo/Karabiner)
 - [Keytty](http://keytty.com) - 让你通过键盘使用鼠标。
 - [AppCleaner](http://freemacsoft.net/appcleaner/) - 一个小应用程序，让你彻底卸载不需要的应用程序。
+- [MacClean](https://thulem.com/) - Mac 磁盘清理：微信缓存、Xcode DerivedData、存储垃圾；清理前可预览。免费扫描，Pro ¥98。Thulem 出品。
 - [Numi](http://numi.io/) - 漂亮的计算器应用。
 - [Day-O 2](http://www.shauninman.com/archive/2016/10/20/day_o_2_mac_menu_bar_clock) - 菜单日历更换内置日历。
 - [OnyX](http://www.titanium.free.fr/) - 多功能实用工具来验证磁盘和文件，运行清洁和系统维护任务，配置隐藏选项等。
