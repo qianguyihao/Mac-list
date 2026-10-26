@@ -661,6 +661,7 @@ Mac电脑上，可以直接安装 [Command Line Tools for Xcode](https://develop
 
 - [Charles](https://www.charlesproxy.com/) - 一个代理工具，允许你查看所有的HTTP和HTTPS流量。
 - [Postman](https://www.getpostman.com) - Postman 帮助我们快速测试API。【荐】
+- [agent-qa](https://vostride.com) - 自然语言驱动的 Web、Android 和 iOS 应用测试工具，支持持久记忆、验证后的自我改进及 CLI/MCP 集成。
 
 
 ### 命令行工具/终端/SSH 远程连接
