@@ -234,6 +234,8 @@ Smooth Scroll 提供了一些晦涩难懂的数值型设置选项，我认为默
 
 - [Spectacle](https://www.spectacleapp.com) - 简单的移动和调整大小的窗口，和可定制的键盘快捷键。
 
+- [LayoutKeeper](https://github.com/tumingke0/LayoutKeeper) - 按外接显示器记住每个窗口的位置、大小和所在桌面（Space），重新插上显示器时自动归位，支持按机身接口自动切换显示器排列与息屏不休眠。[开源](https://github.com/tumingke0/LayoutKeeper)
+
 
 
 
